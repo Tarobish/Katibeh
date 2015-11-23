@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hehgoal-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -15880,7 +15883,7 @@ unicode = 06C1;
 },
 {
 glyphname = "hehgoal-ar.fina";
-lastChange = "2015-11-17 00:52:16 +0000";
+lastChange = "2015-11-23 17:30:17 +0000";
 layers = (
 {
 anchors = (

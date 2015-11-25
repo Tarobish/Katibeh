@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hehgoal-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -16057,13 +16054,13 @@ unicode = FBA9;
 },
 {
 glyphname = "hehgoal-ar.init";
-lastChange = "2015-11-25 21:09:09 +0000";
+lastChange = "2015-11-25 21:12:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{11, -225}";
+position = "{22, -211}";
 },
 {
 name = top;
@@ -16076,22 +16073,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"113 -34 LINE",
-"59 -41 OFFCURVE",
-"-7 -67 OFFCURVE",
-"-25 -137 CURVE SMOOTH",
-"-34 -173 OFFCURVE",
-"-12 -205 OFFCURVE",
-"19 -205 CURVE SMOOTH",
-"52 -205 OFFCURVE",
-"64 -186 OFFCURVE",
-"67 -171 CURVE",
-"35 -174 OFFCURVE",
-"15 -159 OFFCURVE",
-"25 -125 CURVE SMOOTH",
-"33 -99 OFFCURVE",
-"52 -77 OFFCURVE",
-"113 -55 CURVE"
+"103 -34 LINE",
+"39 -34 OFFCURVE",
+"-22 -78 OFFCURVE",
+"-22 -137 CURVE SMOOTH",
+"-22 -171 OFFCURVE",
+"-4 -191 OFFCURVE",
+"22 -191 CURVE SMOOTH",
+"43 -191 OFFCURVE",
+"57 -180 OFFCURVE",
+"62 -156 CURVE",
+"34 -158 OFFCURVE",
+"19 -144 OFFCURVE",
+"19 -120 CURVE SMOOTH",
+"19 -86 OFFCURVE",
+"59 -56 OFFCURVE",
+"103 -53 CURVE"
 );
 },
 {
@@ -38989,7 +38986,7 @@ unicode = FBBC;
 {
 color = 0;
 glyphname = uniFEFE;
-lastChange = "2015-11-16 08:36:30 +0000";
+lastChange = "2015-11-25 21:13:07 +0000";
 layers = (
 {
 components = (
@@ -38998,7 +38995,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 50, -172}";
+transform = "{1, 0, 0, 1, 144, -91}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -39011,7 +39008,7 @@ unicode = FEFE;
 {
 color = 0;
 glyphname = uniFEFD;
-lastChange = "2015-11-16 08:36:30 +0000";
+lastChange = "2015-11-25 21:13:17 +0000";
 layers = (
 {
 components = (
@@ -39020,7 +39017,7 @@ name = "lam_alef-ar";
 },
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, -10, -179}";
+transform = "{1, 0, 0, 1, 89, -31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/opendammatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -38338,7 +38335,7 @@ unicode = 08F0;
 {
 color = 9;
 glyphname = "opendammatan-ar";
-lastChange = "2015-11-25 22:00:12 +0000";
+lastChange = "2015-11-25 22:00:34 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -38348,9 +38345,9 @@ paths = (
 closed = 1;
 nodes = (
 "81 773 OFFCURVE",
-"80 790 OFFCURVE",
+"80 789 OFFCURVE",
 "68 795 CURVE SMOOTH",
-"59 801 OFFCURVE",
+"58 800 OFFCURVE",
 "48 795 OFFCURVE",
 "44 791 CURVE",
 "34 774 LINE",
@@ -38378,9 +38375,9 @@ nodes = (
 "44 777 OFFCURVE",
 "44 777 CURVE SMOOTH",
 "44 777 OFFCURVE",
-"51 782 OFFCURVE",
+"52 784 OFFCURVE",
 "60 780 CURVE SMOOTH",
-"67 775 OFFCURVE",
+"68 776 OFFCURVE",
 "66 763 OFFCURVE",
 "66 758 CURVE",
 "49 768 LINE SMOOTH"
@@ -38390,9 +38387,9 @@ nodes = (
 closed = 1;
 nodes = (
 "-1 773 OFFCURVE",
-"-3 790 OFFCURVE",
+"-2 789 OFFCURVE",
 "-14 795 CURVE SMOOTH",
-"-23 801 OFFCURVE",
+"-24 800 OFFCURVE",
 "-34 795 OFFCURVE",
 "-38 791 CURVE",
 "-48 774 LINE",
@@ -38420,9 +38417,9 @@ nodes = (
 "-38 777 OFFCURVE",
 "-38 777 CURVE SMOOTH",
 "-38 777 OFFCURVE",
-"-31 782 OFFCURVE",
+"-30 784 OFFCURVE",
 "-22 780 CURVE SMOOTH",
-"-14 775 OFFCURVE",
+"-14 776 OFFCURVE",
 "-16 763 OFFCURVE",
 "-16 758 CURVE",
 "-33 768 LINE SMOOTH"

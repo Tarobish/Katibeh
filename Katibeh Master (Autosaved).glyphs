@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/kasra-ar",
-"/hamzaabove_fathatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -35085,13 +35081,13 @@ width = 0;
 },
 {
 glyphname = "fathatan-ar";
-lastChange = "2015-11-17 07:35:06 +0000";
+lastChange = "2015-11-25 18:09:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-2, 700}";
+position = "{-2, 670}";
 },
 {
 name = top;
@@ -35104,11 +35100,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-81 700 LINE",
-"59 755 LINE",
-"85 804 LINE",
-"-60 747 LINE",
-"-88 705 LINE"
+"-81 690 LINE",
+"59 745 LINE",
+"85 794 LINE",
+"-60 737 LINE",
+"-88 695 LINE"
 );
 },
 {
@@ -35212,17 +35208,17 @@ unicode = 064C;
 },
 {
 glyphname = "kasratan-ar";
-lastChange = "2015-11-17 07:22:41 +0000";
+lastChange = "2015-11-25 18:06:51 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{-2, -66}";
+position = "{-2, -84}";
 },
 {
 name = bottom;
-position = "{-2, -288}";
+position = "{-2, -290}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35231,21 +35227,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-97 -288 LINE",
-"71 -222 LINE",
-"102 -163 LINE",
-"-72 -231 LINE",
-"-105 -282 LINE"
+"-81 -290 LINE",
+"59 -235 LINE",
+"85 -185 LINE",
+"-60 -242 LINE",
+"-88 -285 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-97 -211 LINE",
-"71 -145 LINE",
-"102 -86 LINE",
-"-72 -154 LINE",
-"-105 -205 LINE"
+"-81 -209 LINE",
+"59 -154 LINE",
+"85 -104 LINE",
+"-60 -161 LINE",
+"-88 -204 LINE"
 );
 }
 );
@@ -35390,17 +35386,17 @@ unicode = 0650;
 },
 {
 glyphname = "shadda-ar";
-lastChange = "2015-11-17 07:15:40 +0000";
+lastChange = "2015-11-25 18:07:08 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-3, 681}";
+position = "{-3, 695}";
 },
 {
 name = top;
-position = "{-3, 866}";
+position = "{-3, 852}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35409,51 +35405,51 @@ paths = (
 {
 closed = 1;
 nodes = (
-"99 835 OFFCURVE",
-"94 857 OFFCURVE",
-"84 866 CURVE",
-"58 831 LINE",
-"62 817 OFFCURVE",
-"67 800 OFFCURVE",
-"66 788 CURVE",
-"66 788 OFFCURVE",
-"40 785 OFFCURVE",
-"26 793 CURVE SMOOTH",
-"8 803 OFFCURVE",
-"6 815 OFFCURVE",
-"5 826 CURVE",
-"-9 819 LINE",
-"-9 819 OFFCURVE",
-"-7 798 OFFCURVE",
-"-15 780 CURVE SMOOTH",
-"-21 767 OFFCURVE",
-"-33 757 OFFCURVE",
-"-54 757 CURVE SMOOTH",
-"-83 757 OFFCURVE",
-"-83 782 OFFCURVE",
-"-77 799 CURVE",
-"-95 791 LINE",
-"-103 776 OFFCURVE",
-"-105 760 OFFCURVE",
-"-105 749 CURVE SMOOTH",
-"-105 718 OFFCURVE",
-"-83 701 OFFCURVE",
-"-62 701 CURVE SMOOTH",
-"-39 701 OFFCURVE",
-"-24 710 OFFCURVE",
-"-14 722 CURVE SMOOTH",
-"-4 734 OFFCURVE",
-"0 749 OFFCURVE",
-"1 761 CURVE",
-"7 747 OFFCURVE",
-"23 731 OFFCURVE",
-"57 731 CURVE SMOOTH",
-"71 731 OFFCURVE",
-"94 773 OFFCURVE",
-"96 780 CURVE SMOOTH",
-"98 790 OFFCURVE",
-"99 801 OFFCURVE",
-"99 813 CURVE SMOOTH"
+"82 826 OFFCURVE",
+"78 845 OFFCURVE",
+"70 852 CURVE",
+"48 823 LINE",
+"51 811 OFFCURVE",
+"55 797 OFFCURVE",
+"55 787 CURVE",
+"55 787 OFFCURVE",
+"33 785 OFFCURVE",
+"21 791 CURVE SMOOTH",
+"6 800 OFFCURVE",
+"5 810 OFFCURVE",
+"4 819 CURVE",
+"-8 813 LINE",
+"-8 813 OFFCURVE",
+"-6 796 OFFCURVE",
+"-13 781 CURVE SMOOTH",
+"-18 770 OFFCURVE",
+"-28 761 OFFCURVE",
+"-46 761 CURVE SMOOTH",
+"-70 761 OFFCURVE",
+"-70 782 OFFCURVE",
+"-65 796 CURVE",
+"-80 790 LINE",
+"-86 777 OFFCURVE",
+"-88 764 OFFCURVE",
+"-88 755 CURVE SMOOTH",
+"-88 729 OFFCURVE",
+"-70 715 OFFCURVE",
+"-52 715 CURVE SMOOTH",
+"-33 715 OFFCURVE",
+"-21 722 OFFCURVE",
+"-12 732 CURVE SMOOTH",
+"-4 742 OFFCURVE",
+"-1 755 OFFCURVE",
+"0 765 CURVE",
+"5 753 OFFCURVE",
+"19 740 OFFCURVE",
+"47 740 CURVE SMOOTH",
+"59 740 OFFCURVE",
+"78 775 OFFCURVE",
+"80 781 CURVE SMOOTH",
+"81 789 OFFCURVE",
+"82 798 OFFCURVE",
+"82 808 CURVE SMOOTH"
 );
 }
 );
@@ -35593,7 +35589,7 @@ unicode = 0653;
 },
 {
 glyphname = "shaddaAlefabove-ar";
-lastChange = "2015-11-17 07:31:28 +0000";
+lastChange = "2015-11-25 18:07:09 +0000";
 layers = (
 {
 components = (
@@ -35603,7 +35599,7 @@ transform = "{1, 0, 0, 1, 0, -29}";
 },
 {
 name = "alefabove-ar";
-transform = "{1, 0, 0, 1, 0, 127}";
+transform = "{1, 0, 0, 1, 0, 113}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35614,7 +35610,7 @@ width = 0;
 },
 {
 glyphname = "shaddaDamma-ar";
-lastChange = "2015-11-17 07:23:40 +0000";
+lastChange = "2015-11-25 18:09:37 +0000";
 layers = (
 {
 components = (
@@ -35625,7 +35621,7 @@ transform = "{1, 0, 0, 1, 0, 1}";
 {
 disableAlignment = 1;
 name = "damma-ar";
-transform = "{1, 0, 0, 1, -2, 126}";
+transform = "{1, 0, 0, 1, -2, 116}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35636,7 +35632,7 @@ width = 0;
 },
 {
 glyphname = "shaddaDammatan-ar";
-lastChange = "2015-11-17 07:23:51 +0000";
+lastChange = "2015-11-25 18:09:48 +0000";
 layers = (
 {
 components = (
@@ -35647,7 +35643,7 @@ transform = "{1, 0, 0, 1, 0, 2}";
 {
 disableAlignment = 1;
 name = "dammatan-ar";
-transform = "{1, 0, 0, 1, -1, 134}";
+transform = "{1, 0, 0, 1, -1, 119}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35658,7 +35654,7 @@ width = 0;
 },
 {
 glyphname = "shaddaFatha-ar";
-lastChange = "2015-11-17 07:23:59 +0000";
+lastChange = "2015-11-25 18:09:56 +0000";
 layers = (
 {
 components = (
@@ -35669,7 +35665,7 @@ transform = "{1, 0, 0, 1, 0, 2}";
 {
 disableAlignment = 1;
 name = "fatha-ar";
-transform = "{1, 0, 0, 1, -1, 123}";
+transform = "{1, 0, 0, 1, -1, 131}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35680,7 +35676,7 @@ width = 0;
 },
 {
 glyphname = "shaddaFathatan-ar";
-lastChange = "2015-11-17 07:22:13 +0000";
+lastChange = "2015-11-25 18:10:07 +0000";
 layers = (
 {
 components = (
@@ -35691,7 +35687,7 @@ transform = "{1, 0, 0, 1, 1, 1}";
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, -2, 121}";
+transform = "{1, 0, 0, 1, -2, 149}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35702,14 +35698,14 @@ width = 0;
 },
 {
 glyphname = "shaddaKasra-ar";
-lastChange = "2015-11-17 07:23:09 +0000";
+lastChange = "2015-11-25 18:10:16 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "fatha-ar";
-transform = "{1, 0, 0, 1, 0, 2}";
+transform = "{1, 0, 0, 1, 0, -1}";
 },
 {
 disableAlignment = 1;
@@ -35725,7 +35721,7 @@ width = 0;
 },
 {
 glyphname = "shaddaKasratan-ar";
-lastChange = "2015-11-17 07:23:26 +0000";
+lastChange = "2015-11-25 18:10:23 +0000";
 layers = (
 {
 components = (
@@ -35735,7 +35731,7 @@ transform = "{1, 0, 0, 1, 0, 242}";
 },
 {
 name = "kasratan-ar";
-transform = "{1, 0, 0, 1, -2, 1045}";
+transform = "{1, 0, 0, 1, -2, 1048}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

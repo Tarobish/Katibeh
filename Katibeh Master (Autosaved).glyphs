@@ -34996,7 +34996,7 @@ width = 0;
 },
 {
 glyphname = "hamzaaboveFathatan-ar";
-lastChange = "2015-11-17 07:25:14 +0000";
+lastChange = "2015-11-25 17:50:05 +0000";
 layers = (
 {
 components = (
@@ -35006,7 +35006,7 @@ name = "hamzaabove-ar";
 {
 disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 0, 189}";
+transform = "{1, 0, 0, 1, 0, 194}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

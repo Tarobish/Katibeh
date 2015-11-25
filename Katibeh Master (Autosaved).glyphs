@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/gafRing-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -12524,7 +12521,7 @@ width = 301;
 },
 {
 glyphname = "gafRing-ar.medi";
-lastChange = "2015-11-16 02:13:12 +0000";
+lastChange = "2015-11-25 20:28:37 +0000";
 layers = (
 {
 components = (
@@ -12533,7 +12530,7 @@ name = "gaf-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 156, 268}";
+transform = "{0.8, 0, 0, 0.8, 188, 298}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13042,7 +13039,7 @@ unicode = 06AB;
 },
 {
 glyphname = "kafRing-ar.fina";
-lastChange = "2015-11-16 02:09:25 +0000";
+lastChange = "2015-11-25 20:28:55 +0000";
 layers = (
 {
 components = (
@@ -13051,7 +13048,7 @@ name = "keheh-ar.fina";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 630, 262}";
+transform = "{0.8, 0, 0, 0.8, 717, 298}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13062,7 +13059,7 @@ width = 955;
 },
 {
 glyphname = "kafRing-ar.init";
-lastChange = "2015-11-16 02:09:25 +0000";
+lastChange = "2015-11-25 20:29:08 +0000";
 layers = (
 {
 components = (
@@ -13071,7 +13068,7 @@ name = "keheh-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 150, 270}";
+transform = "{0.8, 0, 0, 0.8, 167, 304}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13082,7 +13079,7 @@ width = 301;
 },
 {
 glyphname = "kafRing-ar.medi";
-lastChange = "2015-11-16 02:09:25 +0000";
+lastChange = "2015-11-25 20:29:22 +0000";
 layers = (
 {
 components = (
@@ -13091,7 +13088,7 @@ name = "keheh-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 157, 269}";
+transform = "{0.8, 0, 0, 0.8, 188, 298}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15347,7 +15344,7 @@ unicode = FBA1;
 },
 {
 glyphname = "noonRing-ar";
-lastChange = "2015-11-16 02:01:55 +0000";
+lastChange = "2015-11-25 20:30:37 +0000";
 layers = (
 {
 components = (
@@ -15356,7 +15353,7 @@ name = "noon-ar";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 282, -395}";
+transform = "{1, 0, 0, 1, 272, -441}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15368,7 +15365,7 @@ unicode = 06BC;
 },
 {
 glyphname = "noonRing-ar.fina";
-lastChange = "2015-11-17 02:57:28 +0000";
+lastChange = "2015-11-25 20:30:28 +0000";
 layers = (
 {
 components = (
@@ -15377,7 +15374,7 @@ name = "noon-ar.fina";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 282, -487}";
+transform = "{1, 0, 0, 1, 272, -441}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15388,7 +15385,7 @@ width = 615;
 },
 {
 glyphname = "noonRing-ar.init";
-lastChange = "2015-11-17 00:36:54 +0000";
+lastChange = "2015-11-25 20:30:08 +0000";
 layers = (
 {
 components = (
@@ -15397,7 +15394,7 @@ name = "noon-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 39, -199}";
+transform = "{1, 0, 0, 1, 27, -203}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15408,7 +15405,7 @@ width = 214;
 },
 {
 glyphname = "noonRing-ar.medi";
-lastChange = "2015-11-16 02:01:55 +0000";
+lastChange = "2015-11-25 20:29:57 +0000";
 layers = (
 {
 components = (
@@ -15417,7 +15414,7 @@ name = "noon-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 23, -200}";
+transform = "{1, 0, 0, 1, 38, -203}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18674,7 +18671,7 @@ width = 582;
 },
 {
 glyphname = "yehKashmiri-ar";
-lastChange = "2015-11-16 04:26:49 +0000";
+lastChange = "2015-11-25 20:32:07 +0000";
 layers = (
 {
 components = (
@@ -18683,7 +18680,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 290, -453}";
+transform = "{1, 0, 0, 1, 271, -456}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18695,7 +18692,7 @@ unicode = 0620;
 },
 {
 glyphname = "yehKashmiri-ar.fina";
-lastChange = "2015-11-16 04:26:49 +0000";
+lastChange = "2015-11-25 20:31:58 +0000";
 layers = (
 {
 components = (
@@ -18704,7 +18701,7 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 286, -534}";
+transform = "{1, 0, 0, 1, 270, -457}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18715,7 +18712,7 @@ width = 545;
 },
 {
 glyphname = "yehKashmiri-ar.init";
-lastChange = "2015-11-17 00:53:30 +0000";
+lastChange = "2015-11-25 20:31:49 +0000";
 layers = (
 {
 components = (
@@ -18724,7 +18721,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 16, -259}";
+transform = "{1, 0, 0, 1, 16, -290}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18735,7 +18732,7 @@ width = 214;
 },
 {
 glyphname = "yehKashmiri-ar.medi";
-lastChange = "2015-11-16 02:01:55 +0000";
+lastChange = "2015-11-25 20:31:36 +0000";
 layers = (
 {
 components = (
@@ -18744,7 +18741,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 14, -262}";
+transform = "{1, 0, 0, 1, 27, -289}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -19254,7 +19251,7 @@ width = 284;
 },
 {
 glyphname = "yehRohingya-ar.fina";
-lastChange = "2015-11-17 01:07:53 +0000";
+lastChange = "2015-11-25 20:32:38 +0000";
 layers = (
 {
 components = (
@@ -19263,7 +19260,7 @@ name = "yehRohingya-ar.pt.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 341, 31}";
+transform = "{1, 0, 0, 1, 331, 31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -19274,13 +19271,13 @@ width = 590;
 },
 {
 glyphname = "yehRohingya-ar.pt.fina";
-lastChange = "2015-11-17 01:07:51 +0000";
+lastChange = "2015-11-25 20:32:36 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{339, -34}";
+position = "{329, -34}";
 },
 {
 name = top;

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dotlessbeh-ar/teh-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -1310,7 +1313,7 @@ width = 209;
 },
 {
 glyphname = "dotlessbeh-ar";
-lastChange = "2015-11-16 19:25:16 +0000";
+lastChange = "2015-11-26 08:37:19 +0000";
 layers = (
 {
 anchors = (
@@ -1931,7 +1934,7 @@ unicode = FB5C;
 },
 {
 glyphname = "teh-ar";
-lastChange = "2015-11-16 19:20:48 +0000";
+lastChange = "2015-11-26 08:37:19 +0000";
 layers = (
 {
 components = (
@@ -2308,7 +2311,7 @@ unicode = FB69;
 },
 {
 glyphname = "tteh-ar.init";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (
@@ -2329,7 +2332,7 @@ unicode = FB68;
 },
 {
 glyphname = "tteheh-ar";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (
@@ -2350,7 +2353,7 @@ unicode = 067A;
 },
 {
 glyphname = "tteheh-ar.fina";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (
@@ -2371,7 +2374,7 @@ unicode = FB5F;
 },
 {
 glyphname = "tteheh-ar.medi";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (
@@ -2392,7 +2395,7 @@ unicode = FB61;
 },
 {
 glyphname = "tteheh-ar.init";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (
@@ -2413,7 +2416,7 @@ unicode = FB60;
 },
 {
 glyphname = "teheh-ar";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (
@@ -2434,7 +2437,7 @@ unicode = 067F;
 },
 {
 glyphname = "teheh-ar.fina";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (
@@ -2455,7 +2458,7 @@ unicode = FB63;
 },
 {
 glyphname = "teheh-ar.medi";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (
@@ -2476,7 +2479,7 @@ unicode = FB65;
 },
 {
 glyphname = "teheh-ar.init";
-lastChange = "2015-11-26 08:25:48 +0000";
+lastChange = "2015-11-26 08:36:47 +0000";
 layers = (
 {
 components = (

@@ -1,8 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/rehVbelow-ar",
-"/rehLoop-ar",
-"/rehLoop-ar.fina"
+"/reh-ar/rehVbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -6563,7 +6561,7 @@ unicode = FC5C;
 {
 color = 4;
 glyphname = "rehLoop-ar";
-lastChange = "2015-11-27 03:28:27 +0000";
+lastChange = "2015-11-27 03:28:29 +0000";
 layers = (
 {
 anchors = (
@@ -6573,7 +6571,7 @@ position = "{190, -237}";
 },
 {
 name = top;
-position = "{233, 227}";
+position = "{213, 257}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

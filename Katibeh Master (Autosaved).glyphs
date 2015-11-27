@@ -20633,7 +20633,7 @@ width = 234;
 },
 {
 glyphname = "noonVabove-ar.medi";
-lastChange = "2015-11-27 04:08:37 +0000";
+lastChange = "2015-11-27 04:09:42 +0000";
 layers = (
 {
 components = (
@@ -20642,7 +20642,7 @@ name = "noon-ar.medi";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 30, -352}";
+transform = "{1, 0, 0, 1, 28, -352}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

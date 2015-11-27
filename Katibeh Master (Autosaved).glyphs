@@ -30755,7 +30755,7 @@ unicode = 060E;
 },
 {
 glyphname = "misraComma-ar";
-lastChange = "2015-11-27 03:42:53 +0000";
+lastChange = "2015-11-27 03:43:05 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30764,7 +30764,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"284 -37 OFFCURVE",
+"290 -34 OFFCURVE",
 "237 -145 OFFCURVE",
 "222 -240 CURVE",
 "150 -222 OFFCURVE",
@@ -30833,8 +30833,8 @@ nodes = (
 "522 -227 OFFCURVE",
 "521 -172 CURVE SMOOTH",
 "519 -100 OFFCURVE",
-"476 -37 OFFCURVE",
-"393 -37 CURVE SMOOTH"
+"476 -34 OFFCURVE",
+"393 -34 CURVE SMOOTH"
 );
 },
 {

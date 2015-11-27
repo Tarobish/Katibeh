@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/reh-ar/yeh-farsi/alef-ar/lam-ar/rial"
+"/reh-ar/dotlessbeh-ar.init/yeh-ar.init/yeh-farsi/alef-ar/lam-ar/rial",
+/rial
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -5769,7 +5770,7 @@ width = 463;
 },
 {
 glyphname = "reh-ar";
-lastChange = "2015-11-17 00:39:02 +0000";
+lastChange = "2015-11-27 03:33:05 +0000";
 layers = (
 {
 anchors = (
@@ -31590,11 +31591,49 @@ unicode = 060B;
 },
 {
 glyphname = rial;
-lastChange = "2015-11-27 03:32:47 +0000";
+lastChange = "2015-11-27 03:33:09 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"174 -45 OFFCURVE",
+"182 1 OFFCURVE",
+"178 45 CURVE SMOOTH",
+"173 120 OFFCURVE",
+"135 190 OFFCURVE",
+"67 227 CURVE",
+"35 146 LINE SMOOTH",
+"29 132 OFFCURVE",
+"35 118 OFFCURVE",
+"47 109 CURVE SMOOTH",
+"74 89 OFFCURVE",
+"100 72 OFFCURVE",
+"123 46 CURVE",
+"116 -18 OFFCURVE",
+"87 -50 OFFCURVE",
+"51 -70 CURVE SMOOTH",
+"7 -96 OFFCURVE",
+"-67 -98 OFFCURVE",
+"-100 -99 CURVE",
+"-100 -204 LINE",
+"-55 -201 OFFCURVE",
+"-36 -235 OFFCURVE",
+"-29 -255 CURVE",
+"-26 -255 LINE",
+"-26 -198 LINE",
+"-11 -198 OFFCURVE",
+"52 -193 OFFCURVE",
+"92 -165 CURVE SMOOTH",
+"117 -148 OFFCURVE",
+"137 -124 OFFCURVE",
+"154 -87 CURVE SMOOTH"
+);
+}
+);
 width = 1160;
 }
 );

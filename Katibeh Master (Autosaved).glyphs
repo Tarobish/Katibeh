@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "/vabove-ar",
-"/noonVabove-ar.medi"
+"/noon-ar.medi/noon-ar.medi/noonVabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -35764,7 +35764,7 @@ unicode = 0659;
 },
 {
 glyphname = "vabove-ar";
-lastChange = "2015-11-27 04:10:05 +0000";
+lastChange = "2015-11-27 04:10:09 +0000";
 layers = (
 {
 anchors = (
@@ -35774,7 +35774,7 @@ position = "{0, 680}";
 },
 {
 name = top;
-position = "{0, 881}";
+position = "{0, 861}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

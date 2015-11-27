@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem-ar.fina"
+"/meemThreedotsabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -14647,13 +14647,13 @@ width = 598;
 },
 {
 glyphname = "meem-ar.fina";
-lastChange = "2015-11-27 04:33:55 +0000";
+lastChange = "2015-11-27 04:34:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{212, -431}";
+position = "{128, -481}";
 },
 {
 name = top;

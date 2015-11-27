@@ -6656,7 +6656,7 @@ unicode = 08AA;
 {
 color = 4;
 glyphname = "rehLoop-ar.fina";
-lastChange = "2015-11-27 03:27:06 +0000";
+lastChange = "2015-11-27 03:27:08 +0000";
 layers = (
 {
 anchors = (
@@ -6666,7 +6666,7 @@ position = "{190, -234}";
 },
 {
 name = top;
-position = "{281, 162}";
+position = "{241, 192}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

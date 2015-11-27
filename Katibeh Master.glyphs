@@ -31678,12 +31678,12 @@ unicode = FD3F;
 },
 {
 glyphname = space;
-lastChange = "2015-11-08 18:59:00 +0000";
+lastChange = "2015-11-27 04:32:14 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 400;
+width = 200;
 }
 );
 unicode = 0020;

@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "/rehLoop-ar.fina",
-"/reh-ar/rehVbelow-ar"
+"/reh-ar/rehVbelow-ar",
+"/reh-ar.fina/rehDotbelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -5830,7 +5831,7 @@ unicode = 0631;
 },
 {
 glyphname = "reh-ar.fina";
-lastChange = "2015-11-16 22:01:59 +0000";
+lastChange = "2015-11-27 03:26:32 +0000";
 layers = (
 {
 anchors = (
@@ -5840,7 +5841,7 @@ position = "{-38, -263}";
 },
 {
 name = top;
-position = "{13, 205}";
+position = "{53, 175}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -6080,7 +6081,7 @@ unicode = 0694;
 },
 {
 glyphname = "rehDotbelow-ar.fina";
-lastChange = "2015-11-16 22:00:01 +0000";
+lastChange = "2015-11-27 03:26:27 +0000";
 layers = (
 {
 components = (

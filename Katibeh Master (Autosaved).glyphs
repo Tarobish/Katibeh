@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/circumflex.below/behVinvertedbelow-ar.init",
+"/vbelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -32391,52 +32395,48 @@ width = 0;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2015-11-08 18:59:00 +0000";
+lastChange = "2015-11-27 04:18:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = "new anchor";
+position = "{-427, -150}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"-68 -347 OFFCURVE",
-"-64 -356 OFFCURVE",
-"-59 -365 CURVE",
-"-38 -339 OFFCURVE",
-"-26 -322 OFFCURVE",
-"-17 -303 CURVE SMOOTH",
-"-13 -294 OFFCURVE",
-"-10 -284 OFFCURVE",
-"-6 -273 CURVE SMOOTH",
-"-5 -265 OFFCURVE",
-"-3 -258 OFFCURVE",
-"-1 -248 CURVE SMOOTH",
-"-1 -249 OFFCURVE",
-"1 -257 OFFCURVE",
-"5 -271 CURVE SMOOTH",
-"7 -279 OFFCURVE",
-"10 -289 OFFCURVE",
-"16 -300 CURVE SMOOTH",
-"25 -319 OFFCURVE",
-"39 -341 OFFCURVE",
-"60 -365 CURVE",
-"64 -357 OFFCURVE",
-"68 -350 OFFCURVE",
-"70 -339 CURVE",
-"50 -316 OFFCURVE",
-"29 -282 OFFCURVE",
-"18 -251 CURVE SMOOTH",
-"11 -234 OFFCURVE",
-"8 -218 OFFCURVE",
-"8 -204 CURVE",
-"-7 -204 LINE",
-"-8 -218 OFFCURVE",
-"-12 -237 OFFCURVE",
-"-17 -253 CURVE SMOOTH",
-"-28 -280 OFFCURVE",
-"-43 -310 OFFCURVE",
-"-70 -339 CURVE"
+"71 -327 LINE",
+"58 -316 OFFCURVE",
+"45 -295 OFFCURVE",
+"34 -272 CURVE SMOOTH",
+"22 -248 OFFCURVE",
+"13 -221 OFFCURVE",
+"9 -202 CURVE",
+"-9 -202 LINE",
+"-12 -221 OFFCURVE",
+"-20 -244 OFFCURVE",
+"-30 -266 CURVE SMOOTH",
+"-42 -292 OFFCURVE",
+"-57 -315 OFFCURVE",
+"-71 -327 CURVE",
+"-56 -363 LINE",
+"-42 -352 OFFCURVE",
+"-31 -336 OFFCURVE",
+"-21 -317 CURVE SMOOTH",
+"-11 -297 OFFCURVE",
+"-4 -275 OFFCURVE",
+"0 -254 CURVE",
+"0 -269 OFFCURVE",
+"10 -296 OFFCURVE",
+"24 -320 CURVE SMOOTH",
+"34 -338 OFFCURVE",
+"46 -355 OFFCURVE",
+"56 -363 CURVE"
 );
 }
 );

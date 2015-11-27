@@ -30755,9 +30755,15 @@ unicode = 060E;
 },
 {
 glyphname = "misraComma-ar";
-lastChange = "2015-11-27 03:41:31 +0000";
+lastChange = "2015-11-27 03:41:46 +0000";
 layers = (
 {
+anchors = (
+{
+name = "new anchor";
+position = "{-159, 270}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -30770,7 +30776,7 @@ nodes = (
 "247 -170 OFFCURVE",
 "237 -205 OFFCURVE",
 "231 -244 CURVE",
-"156 -212 OFFCURVE",
+"156 -224 OFFCURVE",
 "129 -168 OFFCURVE",
 "129 -127 CURVE SMOOTH",
 "129 -63 OFFCURVE",

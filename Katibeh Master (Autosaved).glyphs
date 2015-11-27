@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dalVinvertedabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -5635,7 +5638,7 @@ width = 463;
 },
 {
 glyphname = "dalVinvertedabove-ar";
-lastChange = "2015-11-16 21:40:00 +0000";
+lastChange = "2015-11-27 04:14:49 +0000";
 layers = (
 {
 components = (
@@ -5644,7 +5647,7 @@ name = "dal-ar";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 157, -325}";
+transform = "{1, 0, 0, 1, 159, -319}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -5656,7 +5659,7 @@ unicode = 06EE;
 },
 {
 glyphname = "dalVinvertedabove-ar.fina";
-lastChange = "2015-11-16 21:43:53 +0000";
+lastChange = "2015-11-27 04:14:43 +0000";
 layers = (
 {
 components = (
@@ -5665,7 +5668,7 @@ name = "dal-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 223, -330}";
+transform = "{1, 0, 0, 1, 225, -324}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -6096,7 +6099,7 @@ width = 253;
 },
 {
 glyphname = "rehVbelow-ar";
-lastChange = "2015-11-17 00:40:39 +0000";
+lastChange = "2015-11-27 04:14:43 +0000";
 layers = (
 {
 components = (
@@ -6105,7 +6108,7 @@ name = "reh-ar";
 },
 {
 name = "vbelow-ar";
-transform = "{1, 0, 0, 1, -7, -81}";
+transform = "{1, 0, 0, 1, -6, -79}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -6117,7 +6120,7 @@ unicode = 0695;
 },
 {
 glyphname = "rehVbelow-ar.fina";
-lastChange = "2015-11-16 22:00:01 +0000";
+lastChange = "2015-11-27 04:14:43 +0000";
 layers = (
 {
 components = (
@@ -6126,7 +6129,7 @@ name = "reh-ar.fina";
 },
 {
 name = "vbelow-ar";
-transform = "{1, 0, 0, 1, -39, -83}";
+transform = "{1, 0, 0, 1, -38, -81}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -6319,7 +6322,7 @@ width = 253;
 },
 {
 glyphname = "rehVinvertedabove-ar";
-lastChange = "2015-11-17 00:40:39 +0000";
+lastChange = "2015-11-27 04:14:43 +0000";
 layers = (
 {
 components = (
@@ -6328,7 +6331,7 @@ name = "reh-ar";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 61, -430}";
+transform = "{1, 0, 0, 1, 63, -424}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -6340,7 +6343,7 @@ unicode = 06EF;
 },
 {
 glyphname = "rehVinvertedabove-ar.fina";
-lastChange = "2015-11-16 22:00:24 +0000";
+lastChange = "2015-11-27 04:14:43 +0000";
 layers = (
 {
 components = (
@@ -6349,7 +6352,7 @@ name = "reh-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 11, -481}";
+transform = "{1, 0, 0, 1, 13, -475}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

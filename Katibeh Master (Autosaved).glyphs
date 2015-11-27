@@ -31796,13 +31796,13 @@ unicode = 0608;
 },
 {
 glyphname = "afghani-ar";
-lastChange = "2015-11-17 02:44:23 +0000";
+lastChange = "2015-11-27 04:35:05 +0000";
 layers = (
 {
 components = (
 {
 name = "alefbelow-ar";
-transform = "{1.25, 0, 0, 1.25, 298, -19}";
+transform = "{1.25, 0, 0, 1.25, 262, 67}";
 },
 {
 name = "dotabove-ar";

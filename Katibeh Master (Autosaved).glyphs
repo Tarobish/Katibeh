@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/twodotshorizontalabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33451,7 +33454,7 @@ width = 0;
 },
 {
 glyphname = "twodotsverticalabove-ar";
-lastChange = "2015-11-16 17:27:55 +0000";
+lastChange = "2015-11-27 04:10:50 +0000";
 layers = (
 {
 anchors = (
@@ -33461,7 +33464,7 @@ position = "{-7, 680}";
 },
 {
 name = top;
-position = "{-7, 920}";
+position = "{-7, 940}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

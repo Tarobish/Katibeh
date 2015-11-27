@@ -17297,7 +17297,7 @@ unicode = FBDC;
 },
 {
 glyphname = "kirghizyu-ar";
-lastChange = "2015-11-17 00:55:03 +0000";
+lastChange = "2015-11-27 04:14:10 +0000";
 layers = (
 {
 components = (
@@ -17306,7 +17306,7 @@ name = "waw-ar";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 149, -402}";
+transform = "{1, 0, 0, 1, 151, -396}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -17318,7 +17318,7 @@ unicode = 06C9;
 },
 {
 glyphname = "kirghizyu-ar.fina";
-lastChange = "2015-11-17 00:58:58 +0000";
+lastChange = "2015-11-27 04:14:10 +0000";
 layers = (
 {
 components = (
@@ -17327,7 +17327,7 @@ name = "waw-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 129, -402}";
+transform = "{1, 0, 0, 1, 131, -396}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18035,7 +18035,7 @@ width = 276;
 },
 {
 glyphname = "yehVinverted-farsi";
-lastChange = "2015-11-17 01:01:03 +0000";
+lastChange = "2015-11-27 04:14:09 +0000";
 layers = (
 {
 components = (
@@ -18044,7 +18044,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 224, -481}";
+transform = "{1, 0, 0, 1, 226, -475}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18056,7 +18056,7 @@ unicode = 063D;
 },
 {
 glyphname = "yehVinverted-farsi.fina";
-lastChange = "2015-11-17 01:01:08 +0000";
+lastChange = "2015-11-27 04:14:15 +0000";
 layers = (
 {
 components = (
@@ -18065,7 +18065,7 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 276, -525}";
+transform = "{1, 0, 0, 1, 278, -519}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18076,7 +18076,7 @@ width = 545;
 },
 {
 glyphname = "yehVinverted-farsi.medi";
-lastChange = "2015-11-17 00:53:30 +0000";
+lastChange = "2015-11-27 04:14:09 +0000";
 layers = (
 {
 components = (
@@ -18085,7 +18085,7 @@ name = "yeh-ar.medi";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 26, -494}";
+transform = "{1, 0, 0, 1, 28, -488}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18096,7 +18096,7 @@ width = 276;
 },
 {
 glyphname = "yehVinverted-farsi.init";
-lastChange = "2015-11-25 21:42:12 +0000";
+lastChange = "2015-11-27 04:14:09 +0000";
 layers = (
 {
 components = (
@@ -18105,7 +18105,7 @@ name = "yeh-ar.init";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, -5, -386}";
+transform = "{1, 0, 0, 1, -3, -380}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

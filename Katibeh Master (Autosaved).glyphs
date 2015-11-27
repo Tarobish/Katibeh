@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehVbelow-ar.fina"
+"/rehDotbelowdotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -6122,7 +6122,7 @@ unicode = 0695;
 },
 {
 glyphname = "rehVbelow-ar.fina";
-lastChange = "2015-11-27 04:14:43 +0000";
+lastChange = "2015-11-27 04:15:21 +0000";
 layers = (
 {
 components = (
@@ -6130,8 +6130,9 @@ components = (
 name = "reh-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "vbelow-ar";
-transform = "{1, 0, 0, 1, -38, -81}";
+transform = "{1, 0, 0, 1, -38, -101}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

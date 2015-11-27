@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/vinvertedabove-ar"
+"/vbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -35880,21 +35880,55 @@ width = 0;
 },
 {
 glyphname = "vinvertedabove-ar";
-lastChange = "2015-11-27 04:13:14 +0000";
+lastChange = "2015-11-27 04:13:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{2, 686}";
+position = "{0, 680}";
 },
 {
 name = top;
-position = "{2, 852}";
+position = "{0, 861}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"71 736 LINE",
+"58 747 OFFCURVE",
+"45 768 OFFCURVE",
+"34 791 CURVE SMOOTH",
+"22 815 OFFCURVE",
+"13 842 OFFCURVE",
+"9 861 CURVE",
+"-9 861 LINE",
+"-12 842 OFFCURVE",
+"-20 819 OFFCURVE",
+"-30 797 CURVE SMOOTH",
+"-42 771 OFFCURVE",
+"-57 748 OFFCURVE",
+"-71 736 CURVE",
+"-56 700 LINE",
+"-42 711 OFFCURVE",
+"-31 727 OFFCURVE",
+"-21 746 CURVE SMOOTH",
+"-11 766 OFFCURVE",
+"-4 788 OFFCURVE",
+"0 809 CURVE",
+"0 794 OFFCURVE",
+"10 767 OFFCURVE",
+"24 743 CURVE SMOOTH",
+"34 725 OFFCURVE",
+"46 708 OFFCURVE",
+"56 700 CURVE"
+);
+}
+);
 width = 0;
 }
 );

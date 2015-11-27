@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/behVbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -3147,7 +3144,7 @@ width = 276;
 },
 {
 glyphname = "behVabove-ar";
-lastChange = "2015-11-27 04:11:57 +0000";
+lastChange = "2015-11-27 04:17:14 +0000";
 layers = (
 {
 components = (
@@ -3168,7 +3165,7 @@ unicode = 0756;
 },
 {
 glyphname = "behVbelow-ar";
-lastChange = "2015-11-27 04:16:34 +0000";
+lastChange = "2015-11-27 04:17:09 +0000";
 layers = (
 {
 components = (

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/oe-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -16472,7 +16475,7 @@ unicode = FBAC;
 },
 {
 glyphname = "hehVinvertedabove-ar";
-lastChange = "2015-11-17 00:50:12 +0000";
+lastChange = "2015-11-27 04:14:22 +0000";
 layers = (
 {
 components = (
@@ -16481,7 +16484,7 @@ name = "hehDoachashmee-ar";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 162, -263}";
+transform = "{1, 0, 0, 1, 164, -257}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16493,7 +16496,7 @@ unicode = 06FF;
 },
 {
 glyphname = "hehVinvertedabove-ar.fina";
-lastChange = "2015-11-17 00:53:54 +0000";
+lastChange = "2015-11-27 04:14:22 +0000";
 layers = (
 {
 components = (
@@ -16502,7 +16505,7 @@ name = "hehDoachashmee-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 276, -263}";
+transform = "{1, 0, 0, 1, 278, -257}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16513,7 +16516,7 @@ width = 613;
 },
 {
 glyphname = "hehVinvertedabove-ar.init";
-lastChange = "2015-11-17 00:50:12 +0000";
+lastChange = "2015-11-27 04:14:22 +0000";
 layers = (
 {
 components = (
@@ -16522,7 +16525,7 @@ name = "hehDoachashmee-ar.init";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 162, -263}";
+transform = "{1, 0, 0, 1, 164, -257}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16533,7 +16536,7 @@ width = 434;
 },
 {
 glyphname = "hehVinvertedabove-ar.medi";
-lastChange = "2015-11-17 00:54:36 +0000";
+lastChange = "2015-11-27 04:14:22 +0000";
 layers = (
 {
 components = (
@@ -16542,7 +16545,7 @@ name = "hehDoachashmee-ar.medi";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 162, -263}";
+transform = "{1, 0, 0, 1, 164, -257}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18035,7 +18038,7 @@ width = 276;
 },
 {
 glyphname = "yehVinverted-farsi";
-lastChange = "2015-11-27 04:14:09 +0000";
+lastChange = "2015-11-27 04:14:19 +0000";
 layers = (
 {
 components = (

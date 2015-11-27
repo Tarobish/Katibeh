@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/behVabove-ar.fina"
+"/behVabove-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -3269,7 +3269,7 @@ width = 893;
 },
 {
 glyphname = "behVabove-ar.init";
-lastChange = "2015-11-27 04:11:56 +0000";
+lastChange = "2015-11-27 04:16:43 +0000";
 layers = (
 {
 components = (

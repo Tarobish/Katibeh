@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/misraComma-ar",
 "/ainTwodotsverticalabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -30755,15 +30754,9 @@ unicode = 060E;
 },
 {
 glyphname = "misraComma-ar";
-lastChange = "2015-11-27 03:41:46 +0000";
+lastChange = "2015-11-27 03:41:53 +0000";
 layers = (
 {
-anchors = (
-{
-name = "new anchor";
-position = "{-159, 270}";
-}
-);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -30853,6 +30846,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"436 -83 OFFCURVE",
 "461 -116 OFFCURVE",
 "462 -154 CURVE SMOOTH",
 "464 -182 OFFCURVE",
@@ -30863,8 +30857,7 @@ nodes = (
 "273 -257 CURVE",
 "273 -257 OFFCURVE",
 "291 -83 OFFCURVE",
-"393 -83 CURVE SMOOTH",
-"436 -83 OFFCURVE"
+"393 -83 CURVE SMOOTH"
 );
 }
 );

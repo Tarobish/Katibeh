@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hamzaabove_sukun-ar",
+"/sukun-ar/hamzaabove_sukun-ar",
 "/sukunround-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -37022,7 +37022,7 @@ unicode = 06DC;
 },
 {
 glyphname = "sukunround-ar";
-lastChange = "2015-11-27 03:45:47 +0000";
+lastChange = "2015-11-27 03:46:02 +0000";
 layers = (
 {
 anchors = (
@@ -37076,6 +37076,54 @@ nodes = (
 "32 760 OFFCURVE",
 "17 753 OFFCURVE",
 "0 753 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-90 830 OFFCURVE",
+"-130 844 OFFCURVE",
+"-166 861 CURVE",
+"-166 818 LINE",
+"-182 813 OFFCURVE",
+"-190 797 OFFCURVE",
+"-190 780 CURVE SMOOTH",
+"-190 773 OFFCURVE",
+"-190 748 OFFCURVE",
+"-190 738 CURVE SMOOTH",
+"-190 725 OFFCURVE",
+"-186 714 OFFCURVE",
+"-172 708 CURVE SMOOTH",
+"-163 703 OFFCURVE",
+"-152 700 OFFCURVE",
+"-142 700 CURVE SMOOTH",
+"-132 700 OFFCURVE",
+"-121 703 OFFCURVE",
+"-112 707 CURVE SMOOTH",
+"-97 716 OFFCURVE",
+"-89 729 OFFCURVE",
+"-89 746 CURVE SMOOTH",
+"-89 755 OFFCURVE",
+"-90 778 OFFCURVE",
+"-90 790 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-171 778 OFFCURVE",
+"-159 782 OFFCURVE",
+"-149 783 CURVE",
+"-149 811 LINE",
+"-140 805 OFFCURVE",
+"-109 786 OFFCURVE",
+"-101 769 CURVE",
+"-110 756 OFFCURVE",
+"-125 750 OFFCURVE",
+"-141 750 CURVE SMOOTH",
+"-153 749 OFFCURVE",
+"-167 754 OFFCURVE",
+"-175 763 CURVE"
 );
 }
 );

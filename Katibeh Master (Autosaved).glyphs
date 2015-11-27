@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/takhallusabove-ar",
+"/yehabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -37691,7 +37695,7 @@ unicode = 06E4;
 },
 {
 glyphname = "yehabove-ar";
-lastChange = "2015-11-27 20:39:57 +0000";
+lastChange = "2015-11-27 21:22:01 +0000";
 layers = (
 {
 anchors = (

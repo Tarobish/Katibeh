@@ -3108,7 +3108,7 @@ width = 893;
 },
 {
 glyphname = "behVinvertedbelow-ar.init";
-lastChange = "2015-11-26 08:42:12 +0000";
+lastChange = "2015-11-27 04:18:43 +0000";
 layers = (
 {
 components = (
@@ -3117,7 +3117,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 73, 126}";
+transform = "{1, 0, 0, 1, 33, 146}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32395,13 +32395,13 @@ width = 0;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2015-11-27 04:18:08 +0000";
+lastChange = "2015-11-27 04:18:35 +0000";
 layers = (
 {
 anchors = (
 {
-name = top;
-position = "{-427, -150}";
+name = _bottom;
+position = "{0, -181}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dammatan-ar/shaddaDammatan-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -35311,7 +35308,7 @@ unicode = 064B;
 },
 {
 glyphname = "dammatan-ar";
-lastChange = "2015-11-27 04:31:29 +0000";
+lastChange = "2015-11-27 04:31:31 +0000";
 layers = (
 {
 anchors = (
@@ -35382,14 +35379,6 @@ nodes = (
 "49 860 OFFCURVE",
 "45 841 OFFCURVE",
 "44 832 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-50 720 LINE",
-"-71 715 LINE",
-"-71 733 LINE"
 );
 }
 );

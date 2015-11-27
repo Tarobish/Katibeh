@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/threedotsupbelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33374,7 +33377,7 @@ unicode = FBB2;
 },
 {
 glyphname = "dotbelow-ar";
-lastChange = "2015-11-16 17:25:56 +0000";
+lastChange = "2015-11-27 04:12:30 +0000";
 layers = (
 {
 anchors = (
@@ -33384,7 +33387,7 @@ position = "{0, -64}";
 },
 {
 name = bottom;
-position = "{0, -200}";
+position = "{0, -220}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33733,7 +33736,7 @@ unicode = FBB8;
 },
 {
 glyphname = "threedotsdownbelow-ar";
-lastChange = "2015-11-25 18:14:40 +0000";
+lastChange = "2015-11-27 04:12:26 +0000";
 layers = (
 {
 anchors = (
@@ -33743,7 +33746,7 @@ position = "{-2, -65}";
 },
 {
 name = bottom;
-position = "{-2, -308}";
+position = "{-2, -328}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

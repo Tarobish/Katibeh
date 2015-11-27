@@ -4947,18 +4947,17 @@ width = 609;
 },
 {
 glyphname = "hahFourbelow-ar.init";
-lastChange = "2015-11-16 02:01:54 +0000";
+lastChange = "2015-11-27 04:16:24 +0000";
 layers = (
 {
 components = (
 {
 name = "hah-ar.init";
-transform = "{1, 0, 0, 1, 50, -101}";
 },
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 48, -444}";
+transform = "{0.8, 0, 0, 0.8, 149, -597}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

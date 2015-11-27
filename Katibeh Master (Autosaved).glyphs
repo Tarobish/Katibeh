@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/dotlessbeh-ar.init/yeh-ar.init/yeh-farsi/alef-ar/lam-ar/rial",
+"/reh-ar/dotlessbeh-ar.init/twodotshorizontalbelow-ar/yeh-ar.init/yeh-farsi/alef-ar/lam-ar/rial",
 /rial
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -31591,7 +31591,7 @@ unicode = 060B;
 },
 {
 glyphname = rial;
-lastChange = "2015-11-27 03:33:09 +0000";
+lastChange = "2015-11-27 03:33:24 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31631,6 +31631,44 @@ nodes = (
 "117 -148 OFFCURVE",
 "137 -124 OFFCURVE",
 "154 -87 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-106 183 OFFCURVE",
+"-113 223 OFFCURVE",
+"-131 256 CURVE SMOOTH",
+"-145 281 OFFCURVE",
+"-165 303 OFFCURVE",
+"-191 321 CURVE",
+"-220 215 LINE",
+"-182 196 OFFCURVE",
+"-156 170 OFFCURVE",
+"-145 131 CURVE",
+"-150 127 OFFCURVE",
+"-154 124 OFFCURVE",
+"-165 119 CURVE SMOOTH",
+"-189 108 OFFCURVE",
+"-219 106 OFFCURVE",
+"-241 106 CURVE SMOOTH",
+"-297 106 LINE SMOOTH",
+"-326 106 OFFCURVE",
+"-350 83 OFFCURVE",
+"-350 53 CURVE SMOOTH",
+"-350 23 OFFCURVE",
+"-326 0 OFFCURVE",
+"-297 0 CURVE SMOOTH",
+"-233 0 LINE SMOOTH",
+"-209 0 OFFCURVE",
+"-165 15 OFFCURVE",
+"-140 39 CURVE SMOOTH",
+"-124 54 OFFCURVE",
+"-106 82 OFFCURVE",
+"-106 117 CURVE SMOOTH",
+"-106 135 OFFCURVE",
+"-106 134 OFFCURVE",
+"-106 148 CURVE SMOOTH"
 );
 }
 );

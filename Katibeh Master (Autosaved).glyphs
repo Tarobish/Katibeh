@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/fatha-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -35142,7 +35145,7 @@ unicode = 064D;
 },
 {
 glyphname = "fatha-ar";
-lastChange = "2015-11-25 20:48:25 +0000";
+lastChange = "2015-11-27 04:03:15 +0000";
 layers = (
 {
 anchors = (
@@ -35166,6 +35169,36 @@ nodes = (
 "59 765 LINE",
 "85 815 LINE",
 "-60 758 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"102 808 OFFCURVE",
+"62 823 OFFCURVE",
+"1 828 CURVE SMOOTH",
+"-23 829 OFFCURVE",
+"-51 829 OFFCURVE",
+"-80 826 CURVE",
+"-108 790 LINE",
+"-103 781 LINE",
+"-88 782 OFFCURVE",
+"-61 784 OFFCURVE",
+"-34 783 CURVE SMOOTH",
+"-6 781 OFFCURVE",
+"24 778 OFFCURVE",
+"46 770 CURVE",
+"-6 745 OFFCURVE",
+"-48 725 OFFCURVE",
+"-81 710 CURVE",
+"-74 700 LINE",
+"24 717 LINE",
+"49 724 OFFCURVE",
+"66 734 OFFCURVE",
+"77 746 CURVE SMOOTH",
+"97 766 OFFCURVE",
+"102 789 OFFCURVE",
+"102 808 CURVE"
 );
 }
 );

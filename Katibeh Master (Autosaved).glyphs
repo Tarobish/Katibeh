@@ -5831,7 +5831,7 @@ unicode = 0631;
 },
 {
 glyphname = "reh-ar.fina";
-lastChange = "2015-11-27 03:26:32 +0000";
+lastChange = "2015-11-27 03:26:41 +0000";
 layers = (
 {
 anchors = (
@@ -5841,7 +5841,7 @@ position = "{-38, -263}";
 },
 {
 name = top;
-position = "{53, 175}";
+position = "{13, 205}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

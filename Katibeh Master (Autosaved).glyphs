@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/vbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -32637,9 +32634,19 @@ unicode = 060A;
 },
 {
 glyphname = circumflex.arabic;
-lastChange = "2015-11-27 04:36:24 +0000";
+lastChange = "2015-11-27 04:37:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{0, 680}";
+},
+{
+name = top;
+position = "{0, 861}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

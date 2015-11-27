@@ -6654,10 +6654,14 @@ unicode = 08AA;
 {
 color = 4;
 glyphname = "rehLoop-ar.fina";
-lastChange = "2015-11-27 03:25:34 +0000";
+lastChange = "2015-11-27 03:25:40 +0000";
 layers = (
 {
 anchors = (
+{
+name = bottom;
+position = "{160, -316}";
+},
 {
 name = top;
 position = "{246, 193}";
@@ -6706,7 +6710,7 @@ nodes = (
 );
 }
 );
-width = 476;
+width = 253;
 }
 );
 },

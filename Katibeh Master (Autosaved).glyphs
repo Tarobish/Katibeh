@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
 "/vabove-ar",
-"/noonVabove-ar.init",
 "/noonVabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -35765,46 +35764,36 @@ unicode = 0659;
 },
 {
 glyphname = "vabove-ar";
-lastChange = "2015-11-27 04:08:36 +0000";
+lastChange = "2015-11-27 04:09:03 +0000";
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{-2, 680}";
-},
-{
-name = top;
-position = "{-2, 861}";
-}
-);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"44 850 OFFCURVE",
-"31 833 OFFCURVE",
-"20 812 CURVE SMOOTH",
-"12 794 OFFCURVE",
-"-2 750 OFFCURVE",
-"-2 749 CURVE",
-"-7 773 OFFCURVE",
-"-15 794 OFFCURVE",
-"-24 812 CURVE SMOOTH",
-"-36 833 OFFCURVE",
-"-47 850 OFFCURVE",
-"-61 861 CURVE",
-"-73 825 LINE",
-"-46 803 OFFCURVE",
-"-15 740 OFFCURVE",
-"-8 700 CURVE",
-"4 700 LINE",
-"12 738 OFFCURVE",
-"43 803 OFFCURVE",
-"69 825 CURVE",
-"57 861 LINE"
+"46 850 OFFCURVE",
+"33 833 OFFCURVE",
+"22 812 CURVE SMOOTH",
+"14 794 OFFCURVE",
+"0 750 OFFCURVE",
+"0 749 CURVE",
+"-5 773 OFFCURVE",
+"-13 794 OFFCURVE",
+"-22 812 CURVE SMOOTH",
+"-34 833 OFFCURVE",
+"-45 850 OFFCURVE",
+"-59 861 CURVE",
+"-71 825 LINE",
+"-44 803 OFFCURVE",
+"-14 740 OFFCURVE",
+"-7 700 CURVE",
+"9 700 LINE",
+"17 738 OFFCURVE",
+"45 803 OFFCURVE",
+"71 825 CURVE",
+"59 861 LINE"
 );
 }
 );

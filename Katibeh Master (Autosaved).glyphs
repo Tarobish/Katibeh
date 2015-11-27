@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hahabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -37148,9 +37145,19 @@ unicode = 06E0;
 },
 {
 glyphname = "hahabove-ar";
-lastChange = "2015-11-27 04:03:47 +0000";
+lastChange = "2015-11-27 04:03:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{-3, 680}";
+},
+{
+name = top;
+position = "{-3, 807}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/vbelow-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -35819,42 +35816,48 @@ unicode = 065A;
 },
 {
 glyphname = "vbelow-ar";
-lastChange = "2015-11-27 04:13:36 +0000";
+lastChange = "2015-11-27 04:13:41 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{0, -182}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"71 -248 LINE",
-"58 -237 OFFCURVE",
-"45 -216 OFFCURVE",
-"34 -193 CURVE SMOOTH",
-"22 -169 OFFCURVE",
-"13 -142 OFFCURVE",
-"9 -123 CURVE",
-"-9 -123 LINE",
-"-12 -142 OFFCURVE",
-"-20 -165 OFFCURVE",
-"-30 -187 CURVE SMOOTH",
-"-42 -213 OFFCURVE",
-"-57 -236 OFFCURVE",
-"-71 -248 CURVE",
-"-56 -284 LINE",
-"-42 -273 OFFCURVE",
-"-31 -257 OFFCURVE",
-"-21 -238 CURVE SMOOTH",
-"-11 -218 OFFCURVE",
-"-4 -196 OFFCURVE",
-"0 -175 CURVE",
-"0 -190 OFFCURVE",
-"10 -217 OFFCURVE",
-"24 -241 CURVE SMOOTH",
-"34 -259 OFFCURVE",
-"46 -276 OFFCURVE",
-"56 -284 CURVE"
+"71 -327 LINE",
+"58 -316 OFFCURVE",
+"45 -295 OFFCURVE",
+"34 -272 CURVE SMOOTH",
+"22 -248 OFFCURVE",
+"13 -221 OFFCURVE",
+"9 -202 CURVE",
+"-9 -202 LINE",
+"-12 -221 OFFCURVE",
+"-20 -244 OFFCURVE",
+"-30 -266 CURVE SMOOTH",
+"-42 -292 OFFCURVE",
+"-57 -315 OFFCURVE",
+"-71 -327 CURVE",
+"-56 -363 LINE",
+"-42 -352 OFFCURVE",
+"-31 -336 OFFCURVE",
+"-21 -317 CURVE SMOOTH",
+"-11 -297 OFFCURVE",
+"-4 -275 OFFCURVE",
+"0 -254 CURVE",
+"0 -269 OFFCURVE",
+"10 -296 OFFCURVE",
+"24 -320 CURVE SMOOTH",
+"34 -338 OFFCURVE",
+"46 -355 OFFCURVE",
+"56 -363 CURVE"
 );
 }
 );

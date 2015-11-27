@@ -21075,7 +21075,7 @@ width = 549;
 },
 {
 glyphname = "seenVinvertedabove-ar";
-lastChange = "2015-11-17 01:03:17 +0000";
+lastChange = "2015-11-27 04:13:51 +0000";
 layers = (
 {
 components = (
@@ -21084,7 +21084,7 @@ name = "seen-ar";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 607, -435}";
+transform = "{1, 0, 0, 1, 609, -429}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21096,7 +21096,7 @@ unicode = 077E;
 },
 {
 glyphname = "seenVinvertedabove-ar.fina";
-lastChange = "2015-11-17 01:03:55 +0000";
+lastChange = "2015-11-27 04:13:56 +0000";
 layers = (
 {
 components = (
@@ -21105,7 +21105,7 @@ name = "seen-ar.fina";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 606, -436}";
+transform = "{1, 0, 0, 1, 608, -430}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21116,7 +21116,7 @@ width = 912;
 },
 {
 glyphname = "seenVinvertedabove-ar.init";
-lastChange = "2015-11-17 01:03:55 +0000";
+lastChange = "2015-11-27 04:13:51 +0000";
 layers = (
 {
 components = (
@@ -21125,7 +21125,7 @@ name = "seen-ar.init";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 310, -435}";
+transform = "{1, 0, 0, 1, 312, -429}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21136,7 +21136,7 @@ width = 567;
 },
 {
 glyphname = "seenVinvertedabove-ar.medi";
-lastChange = "2015-11-17 01:03:55 +0000";
+lastChange = "2015-11-27 04:13:51 +0000";
 layers = (
 {
 components = (
@@ -21145,7 +21145,7 @@ name = "seen-ar.medi";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 307, -435}";
+transform = "{1, 0, 0, 1, 309, -429}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

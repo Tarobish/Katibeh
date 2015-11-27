@@ -33504,7 +33504,7 @@ unicode = FBBD;
 },
 {
 glyphname = "twodotsverticalbelow-ar";
-lastChange = "2015-11-16 17:28:02 +0000";
+lastChange = "2015-11-27 04:12:51 +0000";
 layers = (
 {
 anchors = (
@@ -33514,7 +33514,7 @@ position = "{5, -66}";
 },
 {
 name = bottom;
-position = "{5, -306}";
+position = "{5, -326}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33610,7 +33610,7 @@ unicode = FBB4;
 },
 {
 glyphname = "twodotshorizontalbelow-ar";
-lastChange = "2015-11-16 17:28:20 +0000";
+lastChange = "2015-11-27 04:12:46 +0000";
 layers = (
 {
 anchors = (
@@ -33620,7 +33620,7 @@ position = "{-2, -65}";
 },
 {
 name = bottom;
-position = "{-2, -201}";
+position = "{-2, -221}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

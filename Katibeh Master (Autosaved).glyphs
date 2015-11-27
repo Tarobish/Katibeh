@@ -32395,12 +32395,12 @@ width = 0;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2015-11-27 04:18:05 +0000";
+lastChange = "2015-11-27 04:18:08 +0000";
 layers = (
 {
 anchors = (
 {
-name = "new anchor";
+name = top;
 position = "{-427, -150}";
 }
 );

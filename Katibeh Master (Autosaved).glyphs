@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/oe-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -17195,7 +17192,7 @@ unicode = 06C6;
 },
 {
 glyphname = "oe-ar.fina";
-lastChange = "2015-11-27 04:11:45 +0000";
+lastChange = "2015-11-27 04:14:29 +0000";
 layers = (
 {
 components = (

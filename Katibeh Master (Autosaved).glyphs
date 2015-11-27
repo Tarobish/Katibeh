@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem-ar"
+"/meem-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -14647,13 +14647,13 @@ width = 598;
 },
 {
 glyphname = "meem-ar.fina";
-lastChange = "2015-11-17 07:47:31 +0000";
+lastChange = "2015-11-27 04:33:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{322, -88}";
+position = "{212, -431}";
 },
 {
 name = top;
@@ -14682,19 +14682,19 @@ nodes = (
 "75 -22 OFFCURVE",
 "75 -22 CURVE",
 "63 -99 OFFCURVE",
-"74 -164 OFFCURVE",
-"88 -227 CURVE SMOOTH",
-"104 -305 OFFCURVE",
-"126 -381 OFFCURVE",
-"118 -475 CURVE",
-"135 -467 LINE",
-"162 -413 OFFCURVE",
-"165 -379 OFFCURVE",
-"168 -351 CURVE SMOOTH",
-"175 -299 OFFCURVE",
-"164 -236 OFFCURVE",
-"152 -172 CURVE SMOOTH",
-"139 -103 OFFCURVE",
+"74 -144 OFFCURVE",
+"88 -207 CURVE SMOOTH",
+"104 -285 OFFCURVE",
+"126 -361 OFFCURVE",
+"118 -455 CURVE",
+"135 -447 LINE",
+"162 -393 OFFCURVE",
+"165 -359 OFFCURVE",
+"168 -331 CURVE SMOOTH",
+"175 -279 OFFCURVE",
+"164 -216 OFFCURVE",
+"152 -152 CURVE SMOOTH",
+"139 -83 OFFCURVE",
 "125 -34 OFFCURVE",
 "132 22 CURVE",
 "149 53 OFFCURVE",

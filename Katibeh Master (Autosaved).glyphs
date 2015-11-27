@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/rehDotbelowdotabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -6346,7 +6343,7 @@ unicode = 06EF;
 },
 {
 glyphname = "rehVinvertedabove-ar.fina";
-lastChange = "2015-11-27 04:14:43 +0000";
+lastChange = "2015-11-27 04:15:31 +0000";
 layers = (
 {
 components = (

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahFourbelow-ar.fina"
+"/hahFourbelow-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -4905,7 +4905,7 @@ unicode = 077C;
 },
 {
 glyphname = "hahFourbelow-ar.fina";
-lastChange = "2015-11-16 02:01:54 +0000";
+lastChange = "2015-11-27 04:15:58 +0000";
 layers = (
 {
 components = (
@@ -4915,7 +4915,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 219, -500}";
+transform = "{0.8, 0, 0, 0.8, 223, -494}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

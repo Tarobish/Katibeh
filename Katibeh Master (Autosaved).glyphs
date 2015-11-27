@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/dotlessbeh-ar.init/twodotshorizontalbelow-ar/yeh-ar.init/yeh-farsi/alef-ar/lam-ar/rial",
-/rial
+/uniFBBC
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -38705,7 +38704,7 @@ unicode = 0604;
 {
 color = 9;
 glyphname = uniFBBC;
-lastChange = "2015-11-08 18:59:00 +0000";
+lastChange = "2015-11-27 03:36:14 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -38739,6 +38738,44 @@ nodes = (
 "-33 -51 OFFCURVE",
 "-41 -54 OFFCURVE",
 "-46 -60 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"138 -216 LINE",
+"152 -179 OFFCURVE",
+"149 -149 OFFCURVE",
+"145 -134 CURVE SMOOTH",
+"141 -119 OFFCURVE",
+"134 -105 OFFCURVE",
+"124 -91 CURVE",
+"104 -125 LINE",
+"114 -137 OFFCURVE",
+"119 -151 OFFCURVE",
+"122 -164 CURVE SMOOTH",
+"128 -194 OFFCURVE",
+"123 -211 OFFCURVE",
+"121 -216 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"138 -216 LINE",
+"152 -179 OFFCURVE",
+"149 -149 OFFCURVE",
+"145 -134 CURVE SMOOTH",
+"141 -119 OFFCURVE",
+"134 -105 OFFCURVE",
+"124 -91 CURVE",
+"104 -125 LINE",
+"114 -137 OFFCURVE",
+"119 -151 OFFCURVE",
+"122 -164 CURVE SMOOTH",
+"128 -194 OFFCURVE",
+"123 -211 OFFCURVE",
+"121 -216 CURVE"
 );
 }
 );

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/twodotshorizontalabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
 fontMaster = (
@@ -33560,7 +33557,7 @@ unicode = FBBE;
 },
 {
 glyphname = "twodotshorizontalabove-ar";
-lastChange = "2015-11-26 08:40:57 +0000";
+lastChange = "2015-11-27 04:11:00 +0000";
 layers = (
 {
 anchors = (
@@ -33570,7 +33567,7 @@ position = "{-3, 680}";
 },
 {
 name = top;
-position = "{-3, 816}";
+position = "{-3, 836}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -33666,7 +33663,7 @@ unicode = FBB5;
 },
 {
 glyphname = "threedotsdownabove-ar";
-lastChange = "2015-11-25 18:14:34 +0000";
+lastChange = "2015-11-27 04:11:06 +0000";
 layers = (
 {
 anchors = (
@@ -33676,7 +33673,7 @@ position = "{-13, 680}";
 },
 {
 name = top;
-position = "{-13, 923}";
+position = "{-13, 943}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

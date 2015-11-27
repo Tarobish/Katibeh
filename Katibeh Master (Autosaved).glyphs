@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/ainTwodotsverticalabove-ar"
+"/ainTwodotsverticalabove-ar",
+"/misraComma-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "new Font";
@@ -30754,7 +30755,7 @@ unicode = 060E;
 },
 {
 glyphname = "misraComma-ar";
-lastChange = "2015-11-27 03:41:53 +0000";
+lastChange = "2015-11-27 03:42:17 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30763,13 +30764,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"333 -37 OFFCURVE",
-"288 -76 OFFCURVE",
-"260 -140 CURVE SMOOTH",
-"247 -170 OFFCURVE",
-"237 -205 OFFCURVE",
-"231 -244 CURVE",
-"156 -224 OFFCURVE",
+"284 -37 OFFCURVE",
+"237 -145 OFFCURVE",
+"222 -240 CURVE",
+"150 -222 OFFCURVE",
 "129 -168 OFFCURVE",
 "129 -127 CURVE SMOOTH",
 "129 -63 OFFCURVE",

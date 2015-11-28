@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefMaksura-ar/e-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -18002,7 +18005,7 @@ unicode = 08A9;
 },
 {
 glyphname = "yehTwodotsbelowDotabove-ar.fina";
-lastChange = "2015-11-17 01:00:57 +0000";
+lastChange = "2015-11-28 07:23:46 +0000";
 layers = (
 {
 components = (
@@ -18016,7 +18019,7 @@ transform = "{1, 0, 0, 1, 283, -519}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 545;
+width = 555;
 }
 );
 },

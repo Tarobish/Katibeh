@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/beh-ar/yehbarree-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -18951,7 +18954,7 @@ unicode = 06D2;
 },
 {
 glyphname = "yehbarree-ar.fina";
-lastChange = "2015-11-17 01:07:15 +0000";
+lastChange = "2015-11-28 01:11:12 +0000";
 layers = (
 {
 anchors = (
@@ -18973,8 +18976,8 @@ nodes = (
 "353 0 OFFCURVE",
 "365 0 OFFCURVE",
 "420 0 CURVE",
-"543 0 LINE",
-"543 106 LINE",
+"593 0 LINE",
+"593 106 LINE",
 "214 106 LINE",
 "168 106 OFFCURVE",
 "137 86 OFFCURVE",
@@ -19024,7 +19027,7 @@ nodes = (
 );
 }
 );
-width = 543;
+width = 583;
 }
 );
 unicode = FBAF;

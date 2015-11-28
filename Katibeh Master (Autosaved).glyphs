@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_noonghunna-ar"
+"/dotlessbeh_reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -22309,13 +22309,13 @@ width = 938;
 },
 {
 glyphname = "dotlessbeh_reh-ar";
-lastChange = "2015-11-28 06:56:30 +0000";
+lastChange = "2015-11-28 07:03:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{306, -55}";
+position = "{299, -55}";
 },
 {
 name = bottom_2;
@@ -22340,12 +22340,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"409 197 LINE",
-"407 187 OFFCURVE",
-"402 160 OFFCURVE",
-"382 140 CURVE SMOOTH",
-"363 120 OFFCURVE",
-"336 106 OFFCURVE",
+"379 197 LINE",
+"377 187 OFFCURVE",
+"372 160 OFFCURVE",
+"352 140 CURVE SMOOTH",
+"333 120 OFFCURVE",
+"306 106 OFFCURVE",
 "272 106 CURVE",
 "239 106 OFFCURVE",
 "213 111 OFFCURVE",
@@ -22381,16 +22381,16 @@ nodes = (
 "230 0 OFFCURVE",
 "249 0 OFFCURVE",
 "280 0 CURVE SMOOTH",
-"339 0 OFFCURVE",
-"381 22 OFFCURVE",
-"404 59 CURVE SMOOTH",
-"424 92 OFFCURVE",
-"431 136 OFFCURVE",
-"424 189 CURVE"
+"309 0 OFFCURVE",
+"351 22 OFFCURVE",
+"374 59 CURVE SMOOTH",
+"394 92 OFFCURVE",
+"401 136 OFFCURVE",
+"394 189 CURVE"
 );
 }
 );
-width = 487;
+width = 457;
 }
 );
 },

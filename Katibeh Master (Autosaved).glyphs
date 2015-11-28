@@ -16808,7 +16808,7 @@ unicode = FEEE;
 },
 {
 glyphname = "wawring-ar";
-lastChange = "2015-11-16 04:11:49 +0000";
+lastChange = "2015-11-28 00:53:26 +0000";
 layers = (
 {
 components = (
@@ -16817,7 +16817,7 @@ name = "waw-ar";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 124, -198}";
+transform = "{0.8, 0, 0, 0.8, 121, -135}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -16829,7 +16829,7 @@ unicode = 06C4;
 },
 {
 glyphname = "wawring-ar.fina";
-lastChange = "2015-11-28 00:48:25 +0000";
+lastChange = "2015-11-28 00:53:26 +0000";
 layers = (
 {
 components = (
@@ -16838,7 +16838,7 @@ name = "waw-ar.fina";
 },
 {
 name = "ring-ar";
-transform = "{0.8, 0, 0, 0.8, 118, -202}";
+transform = "{0.8, 0, 0, 0.8, 121, -134}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

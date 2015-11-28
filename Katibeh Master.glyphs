@@ -5914,42 +5914,46 @@ unicode = FEB0;
 },
 {
 glyphname = "rreh-ar";
-lastChange = "2015-11-28 01:16:56 +0000";
+lastChange = "2015-11-28 01:28:36 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "reh-ar";
+transform = "{1, 0, 0, 1, 40, 0}";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 98, -427}";
+transform = "{1, 0, 0, 1, 138, -427}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 269;
+width = 309;
 }
 );
 unicode = 0691;
 },
 {
 glyphname = "rreh-ar.fina";
-lastChange = "2015-11-28 01:16:24 +0000";
+lastChange = "2015-11-28 01:28:46 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "reh-ar.fina";
+transform = "{1, 0, 0, 1, 40, 0}";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 80, -478}";
+transform = "{1, 0, 0, 1, 120, -478}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 315;
+width = 355;
 }
 );
 unicode = FB8D;
@@ -5977,21 +5981,23 @@ unicode = 0692;
 },
 {
 glyphname = "rehv-ar.fina";
-lastChange = "2015-11-28 01:16:24 +0000";
+lastChange = "2015-11-28 01:29:08 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "reh-ar.fina";
+transform = "{1, 0, 0, 1, 40, 0}";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 75, -475}";
+transform = "{1, 0, 0, 1, 115, -475}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 315;
+width = 355;
 }
 );
 },
@@ -6317,42 +6323,46 @@ width = 355;
 },
 {
 glyphname = "rehVinvertedabove-ar";
-lastChange = "2015-11-28 01:16:56 +0000";
+lastChange = "2015-11-28 01:30:02 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "reh-ar";
+transform = "{1, 0, 0, 1, 40, 0}";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 93, -424}";
+transform = "{1, 0, 0, 1, 133, -424}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 269;
+width = 309;
 }
 );
 unicode = 06EF;
 },
 {
 glyphname = "rehVinvertedabove-ar.fina";
-lastChange = "2015-11-28 01:16:23 +0000";
+lastChange = "2015-11-28 01:27:23 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "reh-ar.fina";
+transform = "{1, 0, 0, 1, 40, 0}";
 },
 {
 name = "vinvertedabove-ar";
-transform = "{1, 0, 0, 1, 75, -475}";
+transform = "{1, 0, 0, 1, 115, -475}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 315;
+width = 355;
 }
 );
 },
@@ -6444,42 +6454,46 @@ width = 315;
 },
 {
 glyphname = "rehHamzaabove-ar";
-lastChange = "2015-11-28 01:16:56 +0000";
+lastChange = "2015-11-28 01:27:57 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "reh-ar";
+transform = "{1, 0, 0, 1, 40, 0}";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 95, -444}";
+transform = "{1, 0, 0, 1, 135, -444}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 269;
+width = 309;
 }
 );
 unicode = 076C;
 },
 {
 glyphname = "rehHamzaabove-ar.fina";
-lastChange = "2015-11-28 01:16:23 +0000";
+lastChange = "2015-11-28 01:27:42 +0000";
 layers = (
 {
 components = (
 {
+disableAlignment = 1;
 name = "reh-ar.fina";
+transform = "{1, 0, 0, 1, 40, 0}";
 },
 {
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 77, -495}";
+transform = "{1, 0, 0, 1, 117, -495}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 315;
+width = 355;
 }
 );
 },
@@ -16904,24 +16918,24 @@ unicode = 06CA;
 {
 color = 0;
 glyphname = "wawTwodots-ar.fina";
-lastChange = "2015-11-25 21:48:48 +0000";
+lastChange = "2015-11-28 01:30:45 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "waw-ar.fina";
-transform = "{1, 0, 0, 1, 16, 0}";
+transform = "{1, 0, 0, 1, 36, 0}";
 },
 {
 disableAlignment = 1;
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 127, -396}";
+transform = "{1, 0, 0, 1, 147, -396}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 388;
+width = 408;
 }
 );
 },
@@ -35524,7 +35538,7 @@ unicode = 064E;
 },
 {
 glyphname = "damma-ar";
-lastChange = "2015-11-25 18:04:17 +0000";
+lastChange = "2015-11-28 01:31:31 +0000";
 layers = (
 {
 anchors = (

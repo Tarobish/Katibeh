@@ -24148,7 +24148,7 @@ unicode = FD0F;
 },
 {
 glyphname = "sad_reh-ar.fina";
-lastChange = "2015-11-28 03:36:54 +0000";
+lastChange = "2015-11-28 03:37:04 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24219,7 +24219,7 @@ nodes = (
 "322 126 OFFCURVE",
 "318 138 OFFCURVE",
 "319 157 CURVE",
-"138 126 LINE",
+"154 126 LINE",
 "138 42 LINE",
 "138 -11 OFFCURVE",
 "117 -45 OFFCURVE",

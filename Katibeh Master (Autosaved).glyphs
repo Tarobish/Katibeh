@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_meem-ar.init/reh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -27860,7 +27857,7 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-11-30 20:45:36 +0000";
+lastChange = "2015-11-30 20:45:40 +0000";
 layers = (
 {
 anchors = (
@@ -27937,7 +27934,7 @@ nodes = (
 );
 }
 );
-width = 334;
+width = 344;
 }
 );
 unicode = FCCC;

@@ -2,7 +2,8 @@
 DisplayStrings = (
 "/hah-ar.init/hahTahabove-ar.init",
 "/hah-ar.medi/hahTahabove-ar.medi",
-"/hah_alefMaksura-ar.fina"
+"/hah_alefMaksura-ar.fina",
+"/hah_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -23296,7 +23297,7 @@ unicode = FCFF;
 },
 {
 glyphname = "hah_alefMaksura-ar.fina";
-lastChange = "2015-11-30 21:35:56 +0000";
+lastChange = "2015-11-30 21:36:06 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23306,9 +23307,8 @@ paths = (
 closed = 1;
 nodes = (
 "826 261 LINE",
-"784 267 LINE SMOOTH",
-"716 275 OFFCURVE",
-"670 286 OFFCURVE",
+"734 266 OFFCURVE",
+"677 283 OFFCURVE",
 "616 306 CURVE SMOOTH",
 "551 332 OFFCURVE",
 "520 353 OFFCURVE",

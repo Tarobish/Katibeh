@@ -14706,7 +14706,7 @@ unicode = FEE2;
 },
 {
 glyphname = "meem-ar.medi";
-lastChange = "2015-11-30 23:27:16 +0000";
+lastChange = "2015-11-30 23:27:20 +0000";
 layers = (
 {
 anchors = (
@@ -14716,7 +14716,7 @@ position = "{166, -34}";
 },
 {
 name = top;
-position = "{186, 267}";
+position = "{186, 297}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20562,7 +20562,7 @@ width = 355;
 },
 {
 glyphname = "meemDotabove-ar.medi";
-lastChange = "2015-11-30 23:27:16 +0000";
+lastChange = "2015-11-30 23:27:20 +0000";
 layers = (
 {
 components = (
@@ -20571,7 +20571,7 @@ name = "meem-ar.medi";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 191, -413}";
+transform = "{1, 0, 0, 1, 191, -383}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28786,7 +28786,7 @@ position = "{436, 0}";
 },
 {
 name = top_1;
-position = "{653, 500}";
+position = "{632, 243}";
 },
 {
 name = top_2;

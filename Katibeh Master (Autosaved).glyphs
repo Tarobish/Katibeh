@@ -2,7 +2,7 @@
 DisplayStrings = (
 "/hah-ar.init/hahTahabove-ar.init",
 "/hah-ar.medi/hahTahabove-ar.medi",
-"/theh-ar/theh-ar/hah_alefMaksura-ar.fina"
+"/theh-ar/theh-ar/peh-ar/hah_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -23298,13 +23298,13 @@ unicode = FCFF;
 },
 {
 glyphname = "hah_alefMaksura-ar.fina";
-lastChange = "2015-11-30 21:44:07 +0000";
+lastChange = "2015-11-30 21:44:25 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{683, 0}";
+position = "{677, -34}";
 },
 {
 name = bottom_2;

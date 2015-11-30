@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/ain_alefMaksura-ar"
+"/ain_alefMaksura-ar",
+"/ainTwodotshorizontalabove-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -25345,7 +25346,7 @@ unicode = FCBB;
 },
 {
 glyphname = "ain_alefMaksura-ar";
-lastChange = "2015-11-30 21:54:31 +0000";
+lastChange = "2015-11-30 21:58:54 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -25514,8 +25515,8 @@ nodes = (
 "473 136 OFFCURVE",
 "640 196 OFFCURVE",
 "711 208 CURVE",
-"748 310 LINE",
-"659 285 OFFCURVE",
+"744 306 LINE",
+"655 281 OFFCURVE",
 "639 278 OFFCURVE",
 "572 256 CURVE",
 "553 262 OFFCURVE",
@@ -25550,9 +25551,9 @@ nodes = (
 "415 345 OFFCURVE",
 "413 309 CURVE",
 "418.061 277.79 OFFCURVE",
-"436.64 231.64 OFFCURVE",
-"471.739 194.553 CURVE",
-"429 168 OFFCURVE",
+"438 234 OFFCURVE",
+"481 204 CURVE",
+"438 178 OFFCURVE",
 "398 143 OFFCURVE",
 "367 105 CURVE",
 "338 21 LINE",

@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/heh_alefMaksura-ar.fina"
+"/heh_alefMaksura-ar.fina",
+"/hehgoal-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28899,7 +28900,7 @@ unicode = FC53;
 },
 {
 glyphname = "heh_alefMaksura-ar.fina";
-lastChange = "2015-11-30 07:36:30 +0000";
+lastChange = "2015-11-30 07:43:00 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -29095,6 +29096,63 @@ nodes = (
 "-79 0 CURVE",
 "0 0 LINE",
 "0 106 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"87 106 OFFCURVE",
+"23 79 OFFCURVE",
+"-16 28 CURVE SMOOTH",
+"-43 -5 OFFCURVE",
+"-57 -60 OFFCURVE",
+"-53 -114 CURVE",
+"-69 -94 OFFCURVE",
+"-80 -67 OFFCURVE",
+"-83 -37 CURVE SMOOTH",
+"-86 -5 OFFCURVE",
+"-80 28 OFFCURVE",
+"-68 59 CURVE SMOOTH",
+"-59 83 OFFCURVE",
+"-46 105 OFFCURVE",
+"-30 125 CURVE",
+"-30 215 LINE",
+"-59 169 OFFCURVE",
+"-94 142 OFFCURVE",
+"-132 126 CURVE SMOOTH",
+"-171 110 OFFCURVE",
+"-214 107 OFFCURVE",
+"-256 106 CURVE SMOOTH",
+"-277 106 LINE SMOOTH",
+"-306 106 OFFCURVE",
+"-330 82 OFFCURVE",
+"-330 53 CURVE SMOOTH",
+"-330 24 OFFCURVE",
+"-306 0 OFFCURVE",
+"-277 0 CURVE SMOOTH",
+"-239 0 LINE SMOOTH",
+"-194 0 OFFCURVE",
+"-156 4 OFFCURVE",
+"-121 23 CURVE",
+"-132 -32 OFFCURVE",
+"-134 -106 OFFCURVE",
+"-100 -169 CURVE SMOOTH",
+"-80 -207 OFFCURVE",
+"-46 -241 OFFCURVE",
+"8 -264 CURVE",
+"8 -159 LINE",
+"-3 -152 OFFCURVE",
+"-14 -145 OFFCURVE",
+"-24 -138 CURVE",
+"-25 -109 OFFCURVE",
+"-17 -76 OFFCURVE",
+"8 -49 CURVE SMOOTH",
+"34 -21 OFFCURVE",
+"80 0 OFFCURVE",
+"154 0 CURVE SMOOTH",
+"223 0 LINE",
+"223 106 LINE",
+"163 106 LINE SMOOTH"
 );
 }
 );

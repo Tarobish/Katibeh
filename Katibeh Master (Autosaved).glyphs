@@ -25346,9 +25346,31 @@ unicode = FCBB;
 },
 {
 glyphname = "ain_alefMaksura-ar";
-lastChange = "2015-11-30 21:59:14 +0000";
+lastChange = "2015-11-30 21:59:32 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{604, 0}";
+},
+{
+name = bottom_2;
+position = "{201, 0}";
+},
+{
+name = caret_1;
+position = "{402.5, 0}";
+},
+{
+name = top_1;
+position = "{557, 510}";
+},
+{
+name = top_2;
+position = "{201, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -25447,7 +25469,7 @@ nodes = (
 );
 }
 );
-width = 879;
+width = 805;
 }
 );
 rightKerningGroup = "30";

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/ain-ar.medi/ghainDotbelow-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -9401,7 +9404,7 @@ unicode = FECA;
 },
 {
 glyphname = "ain-ar.medi";
-lastChange = "2015-11-17 00:00:43 +0000";
+lastChange = "2015-11-30 22:09:29 +0000";
 layers = (
 {
 anchors = (
@@ -9807,7 +9810,7 @@ width = 427;
 },
 {
 glyphname = "ghainDotbelow-ar.medi";
-lastChange = "2015-11-17 00:00:03 +0000";
+lastChange = "2015-11-30 22:09:29 +0000";
 layers = (
 {
 components = (

@@ -9299,7 +9299,7 @@ unicode = 0639;
 },
 {
 glyphname = "ain-ar.fina";
-lastChange = "2015-11-17 00:02:40 +0000";
+lastChange = "2015-11-30 22:09:55 +0000";
 layers = (
 {
 anchors = (
@@ -9309,7 +9309,7 @@ position = "{310, -396}";
 },
 {
 name = top;
-position = "{304, 302}";
+position = "{304, 312}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9586,7 +9586,7 @@ unicode = 06A0;
 },
 {
 glyphname = "ainThreedots-ar.fina";
-lastChange = "2015-11-17 00:02:40 +0000";
+lastChange = "2015-11-30 22:09:56 +0000";
 layers = (
 {
 components = (
@@ -9595,7 +9595,7 @@ name = "ain-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 305, -378}";
+transform = "{1, 0, 0, 1, 305, -368}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9667,7 +9667,7 @@ unicode = 063A;
 },
 {
 glyphname = "ghain-ar.fina";
-lastChange = "2015-11-17 00:02:49 +0000";
+lastChange = "2015-11-30 22:09:56 +0000";
 layers = (
 {
 components = (
@@ -9676,7 +9676,7 @@ name = "ain-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 309, -378}";
+transform = "{1, 0, 0, 1, 309, -368}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -9758,7 +9758,7 @@ unicode = 06FC;
 {
 color = 0;
 glyphname = "ghainDotbelow-ar.fina";
-lastChange = "2015-11-17 00:03:22 +0000";
+lastChange = "2015-11-30 22:09:56 +0000";
 layers = (
 {
 components = (
@@ -9767,7 +9767,7 @@ name = "ain-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 309, -378}";
+transform = "{1, 0, 0, 1, 309, -368}";
 },
 {
 disableAlignment = 1;
@@ -20105,7 +20105,7 @@ unicode = 075D;
 },
 {
 glyphname = "ainTwodotshorizontalabove-ar.fina";
-lastChange = "2015-11-17 01:01:58 +0000";
+lastChange = "2015-11-30 22:10:00 +0000";
 layers = (
 {
 components = (
@@ -20114,7 +20114,7 @@ name = "ain-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 307, -378}";
+transform = "{1, 0, 0, 1, 307, -368}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20145,7 +20145,7 @@ width = 427;
 },
 {
 glyphname = "ainTwodotshorizontalabove-ar.medi";
-lastChange = "2015-11-17 01:01:58 +0000";
+lastChange = "2015-11-30 22:10:00 +0000";
 layers = (
 {
 components = (
@@ -20154,7 +20154,7 @@ name = "ain-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 199, -378}";
+transform = "{1, 0, 0, 1, 199, -368}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20186,7 +20186,7 @@ unicode = 075E;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.fina";
-lastChange = "2015-11-25 20:25:27 +0000";
+lastChange = "2015-11-30 22:10:00 +0000";
 layers = (
 {
 components = (
@@ -20195,7 +20195,7 @@ name = "ain-ar.fina";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 317, -378}";
+transform = "{1, 0, 0, 1, 317, -368}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20226,7 +20226,7 @@ width = 427;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.medi";
-lastChange = "2015-11-25 20:25:27 +0000";
+lastChange = "2015-11-30 22:10:00 +0000";
 layers = (
 {
 components = (
@@ -20235,7 +20235,7 @@ name = "ain-ar.medi";
 },
 {
 name = "threedotsdownabove-ar";
-transform = "{1, 0, 0, 1, 209, -378}";
+transform = "{1, 0, 0, 1, 209, -368}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20267,7 +20267,7 @@ unicode = 075F;
 },
 {
 glyphname = "ainTwodotsverticalabove-ar.fina";
-lastChange = "2015-11-17 01:01:58 +0000";
+lastChange = "2015-11-30 22:10:00 +0000";
 layers = (
 {
 components = (
@@ -20276,7 +20276,7 @@ name = "ain-ar.fina";
 },
 {
 name = "twodotsverticalabove-ar";
-transform = "{1, 0, 0, 1, 311, -378}";
+transform = "{1, 0, 0, 1, 311, -368}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20307,7 +20307,7 @@ width = 427;
 },
 {
 glyphname = "ainTwodotsverticalabove-ar.medi";
-lastChange = "2015-11-17 01:01:58 +0000";
+lastChange = "2015-11-30 22:10:00 +0000";
 layers = (
 {
 components = (
@@ -20316,7 +20316,7 @@ name = "ain-ar.medi";
 },
 {
 name = "twodotsverticalabove-ar";
-transform = "{1, 0, 0, 1, 203, -378}";
+transform = "{1, 0, 0, 1, 203, -368}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -25345,7 +25345,7 @@ unicode = FCBB;
 },
 {
 glyphname = "ain_alefMaksura-ar";
-lastChange = "2015-11-30 21:53:24 +0000";
+lastChange = "2015-11-30 21:53:28 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -25512,7 +25512,7 @@ nodes = (
 "520 60 OFFCURVE",
 "434 74 CURVE",
 "473 136 OFFCURVE",
-"578 170 OFFCURVE",
+"640 194 OFFCURVE",
 "711 208 CURVE",
 "753 324 LINE",
 "733 315 OFFCURVE",

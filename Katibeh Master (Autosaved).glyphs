@@ -28900,7 +28900,7 @@ width = 871;
 },
 {
 glyphname = "heh_alefMaksura-ar";
-lastChange = "2015-11-30 23:33:25 +0000";
+lastChange = "2015-11-30 23:33:29 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28910,11 +28910,11 @@ paths = (
 closed = 1;
 nodes = (
 "382 47 OFFCURVE",
-"427 92 OFFCURVE",
-"449 141 CURVE",
+"431 92 OFFCURVE",
+"453 141 CURVE",
 "408 191 LINE",
 "344 121 OFFCURVE",
-"334 104 OFFCURVE",
+"327 105 OFFCURVE",
 "183 75 CURVE",
 "157 -9 LINE",
 "168 -30 LINE",

@@ -23298,7 +23298,7 @@ unicode = FCFF;
 },
 {
 glyphname = "hah_alefMaksura-ar.fina";
-lastChange = "2015-11-30 21:38:41 +0000";
+lastChange = "2015-11-30 21:38:43 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23413,7 +23413,7 @@ nodes = (
 );
 }
 );
-width = 905;
+width = 925;
 }
 );
 unicode = FD1B;

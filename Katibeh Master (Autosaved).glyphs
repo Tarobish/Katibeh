@@ -28542,7 +28542,7 @@ unicode = FCD1;
 },
 {
 glyphname = "meem_alefMaksura-ar";
-lastChange = "2015-11-30 20:56:37 +0000";
+lastChange = "2015-11-30 21:06:39 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28691,7 +28691,7 @@ closed = 1;
 nodes = (
 "377.333 318.703 LINE",
 "377 377 OFFCURVE",
-"212 328 OFFCURVE",
+"214 333 OFFCURVE",
 "193.873 395.486 CURVE",
 "193 363 OFFCURVE",
 "193 339 OFFCURVE",

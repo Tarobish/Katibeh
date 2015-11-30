@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/peh-ar/peh-ar/ain_alefMaksura-ar.fina"
+"/peh-ar/peh-ar/theh-ar/ain_alefMaksura-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -25479,13 +25479,13 @@ unicode = FCF7;
 },
 {
 glyphname = "ain_alefMaksura-ar.fina";
-lastChange = "2015-11-30 22:15:33 +0000";
+lastChange = "2015-11-30 22:15:49 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{613, 0}";
+position = "{618, -145}";
 },
 {
 name = bottom_2;

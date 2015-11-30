@@ -27861,7 +27861,7 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-11-30 20:00:42 +0000";
+lastChange = "2015-11-30 20:01:17 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -27974,12 +27974,12 @@ nodes = (
 "-300 113 OFFCURVE",
 "-300 112 CURVE",
 "-318 112 OFFCURVE",
-"-336 111 OFFCURVE",
-"-355 111 CURVE",
-"-417 109 LINE",
-"-417 4 LINE",
-"-319 7 LINE",
-"-253 9 OFFCURVE",
+"-336 106 OFFCURVE",
+"-355 106 CURVE",
+"-417 106 LINE",
+"-417 0 LINE",
+"-319 0 LINE",
+"-253 2 OFFCURVE",
 "-187 10 OFFCURVE",
 "-123 0 CURVE",
 "-124 0 OFFCURVE",

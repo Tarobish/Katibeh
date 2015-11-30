@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem_alefMaksura-ar"
+"/alef-ar/meem_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28542,7 +28542,7 @@ unicode = FCD1;
 },
 {
 glyphname = "meem_alefMaksura-ar";
-lastChange = "2015-11-30 21:12:10 +0000";
+lastChange = "2015-11-30 21:14:27 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28569,10 +28569,10 @@ nodes = (
 "567 13 OFFCURVE",
 "520 60 OFFCURVE",
 "434 74 CURVE",
-"480 128 OFFCURVE",
-"522 154 OFFCURVE",
-"589 154 CURVE SMOOTH",
-"673 154 OFFCURVE",
+"472 128 OFFCURVE",
+"539 154 OFFCURVE",
+"606 154 CURVE SMOOTH",
+"690 154 OFFCURVE",
 "725 168 OFFCURVE",
 "725 230 CURVE SMOOTH",
 "726 301 LINE SMOOTH",

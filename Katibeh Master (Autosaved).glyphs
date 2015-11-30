@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/ainTwodotshorizontalabove-ar.init",
-"/meem_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -28619,7 +28615,7 @@ unicode = FCD1;
 },
 {
 glyphname = "meem_alefMaksura-ar";
-lastChange = "2015-11-30 22:00:47 +0000";
+lastChange = "2015-11-30 22:00:50 +0000";
 layers = (
 {
 anchors = (
@@ -28637,7 +28633,7 @@ position = "{397, 0}";
 },
 {
 name = top_1;
-position = "{637, 409}";
+position = "{637, 410}";
 },
 {
 name = top_2;

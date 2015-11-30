@@ -25479,9 +25479,31 @@ unicode = FCF7;
 },
 {
 glyphname = "ain_alefMaksura-ar.fina";
-lastChange = "2015-11-30 22:15:01 +0000";
+lastChange = "2015-11-30 22:15:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{613, 0}";
+},
+{
+name = bottom_2;
+position = "{204, 0}";
+},
+{
+name = caret_1;
+position = "{408.5, 0}";
+},
+{
+name = top_1;
+position = "{613, 500}";
+},
+{
+name = top_2;
+position = "{204, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -25508,8 +25530,11 @@ nodes = (
 "507 152 OFFCURVE",
 "521 137 OFFCURVE",
 "531 120 CURVE",
-"480 96 OFFCURVE",
-"415 84 OFFCURVE",
+"506 108 OFFCURVE",
+"477 99 OFFCURVE",
+"448 92 CURVE SMOOTH",
+"419 85 OFFCURVE",
+"390 80 OFFCURVE",
 "364 75 CURVE",
 "338 -9 LINE",
 "349 -30 LINE",

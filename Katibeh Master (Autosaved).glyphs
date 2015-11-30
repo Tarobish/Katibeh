@@ -27860,7 +27860,7 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-11-30 20:45:02 +0000";
+lastChange = "2015-11-30 20:45:06 +0000";
 layers = (
 {
 anchors = (
@@ -27870,7 +27870,7 @@ position = "{94, -55}";
 },
 {
 name = bottom_2;
-position = "{220, -170}";
+position = "{228, -200}";
 },
 {
 name = caret_1;

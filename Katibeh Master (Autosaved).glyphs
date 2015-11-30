@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_alefMaksura-ar",
-"/dotlessfeh_alefMaksura-ar"
+"/endofayah-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -25505,7 +25504,7 @@ unicode = FD13;
 },
 {
 glyphname = "dotlessfeh_alefMaksura-ar";
-lastChange = "2015-11-30 00:38:52 +0000";
+lastChange = "2015-11-30 00:39:50 +0000";
 layers = (
 {
 anchors = (
@@ -25555,9 +25554,9 @@ nodes = (
 "529.062 38.313 OFFCURVE",
 "487.104 55.414 CURVE",
 "524.832 79.068 OFFCURVE",
-"549.896 135.626 OFFCURVE",
-"547 181 CURVE",
-"547 221 OFFCURVE",
+"550 139 OFFCURVE",
+"547 184 CURVE",
+"547 224 OFFCURVE",
 "531 289 OFFCURVE",
 "513 334 CURVE SMOOTH",
 "489 394 OFFCURVE",
@@ -25576,8 +25575,8 @@ nodes = (
 "409 175 OFFCURVE",
 "451 175 CURVE",
 "477 222 LINE",
-"493 156 LINE",
-"468 120 OFFCURVE",
+"493 159 LINE",
+"471 125 OFFCURVE",
 "431 105 OFFCURVE",
 "363 101 CURVE",
 "338 26 LINE",
@@ -32378,7 +32377,7 @@ unicode = 06FD;
 },
 {
 glyphname = "endofayah-ar";
-lastChange = "2015-11-28 03:15:43 +0000";
+lastChange = "2015-11-30 00:43:57 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -32399,8 +32398,11 @@ nodes = (
 "282 704 OFFCURVE",
 "177 629 OFFCURVE",
 "108 526 CURVE SMOOTH",
-"5 377 OFFCURVE",
-"3 171 OFFCURVE",
+"58 454 OFFCURVE",
+"32 368 OFFCURVE",
+"30 281 CURVE SMOOTH",
+"28 189 OFFCURVE",
+"54 96 OFFCURVE",
 "108 16 CURVE SMOOTH",
 "181 -92 OFFCURVE",
 "283 -159 OFFCURVE",
@@ -32414,8 +32416,11 @@ nodes = (
 "763 -159 OFFCURVE",
 "865 -92 OFFCURVE",
 "939 16 CURVE SMOOTH",
-"1044 171 OFFCURVE",
-"1042 377 OFFCURVE",
+"992 94 OFFCURVE",
+"1017 184 OFFCURVE",
+"1017 274 CURVE SMOOTH",
+"1017 363 OFFCURVE",
+"990 452 OFFCURVE",
 "939 526 CURVE SMOOTH"
 );
 },
@@ -32467,8 +32472,11 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"605 -123 OFFCURVE",
-"676 -206 OFFCURVE",
+"667 -94 OFFCURVE",
+"656 -143 OFFCURVE",
+"626 -145 CURVE SMOOTH",
+"607 -146 OFFCURVE",
+"581 -128 OFFCURVE",
 "523 -80 CURVE",
 "371 -206 OFFCURVE",
 "442 -123 OFFCURVE",
@@ -33580,7 +33588,7 @@ unicode = 25A3;
 },
 {
 glyphname = "sajdah-ar";
-lastChange = "2015-11-28 02:23:13 +0000";
+lastChange = "2015-11-30 00:43:14 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";

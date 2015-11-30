@@ -25741,7 +25741,7 @@ width = 630;
 },
 {
 glyphname = "dotlessfeh_alefMaksura-ar.fina";
-lastChange = "2015-11-30 23:44:41 +0000";
+lastChange = "2015-11-30 23:44:49 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -25750,8 +25750,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"502 74 OFFCURVE",
-"534 101 CURVE",
+"505 77 OFFCURVE",
+"537 104 CURVE",
 "449 131 LINE",
 "403 101 OFFCURVE",
 "319 82 OFFCURVE",
@@ -25801,7 +25801,7 @@ nodes = (
 "437 -23 OFFCURVE",
 "394 10 OFFCURVE",
 "348 26 CURVE",
-"464 44 OFFCURVE"
+"446 34 OFFCURVE"
 );
 },
 {

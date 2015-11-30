@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/heh_alefMaksura-ar"
+"/heh_alefMaksura-ar",
+"/heh-ar.init/hehDoachashmee-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -14931,7 +14932,7 @@ width = 355;
 },
 {
 glyphname = "meemThreedotsabove-ar.medi";
-lastChange = "2015-11-17 07:47:08 +0000";
+lastChange = "2015-11-30 23:30:06 +0000";
 layers = (
 {
 components = (
@@ -14940,7 +14941,7 @@ name = "meem-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 187, -383}";
+transform = "{1, 0, 0, 1, 178, -383}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

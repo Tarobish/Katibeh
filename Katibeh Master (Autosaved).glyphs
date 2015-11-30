@@ -25479,7 +25479,7 @@ unicode = FCF7;
 },
 {
 glyphname = "ain_alefMaksura-ar.fina";
-lastChange = "2015-11-30 22:15:17 +0000";
+lastChange = "2015-11-30 22:15:27 +0000";
 layers = (
 {
 anchors = (
@@ -25489,7 +25489,7 @@ position = "{613, 0}";
 },
 {
 name = bottom_2;
-position = "{204, 0}";
+position = "{271, -279}";
 },
 {
 name = caret_1;
@@ -25497,11 +25497,11 @@ position = "{408.5, 0}";
 },
 {
 name = top_1;
-position = "{613, 500}";
+position = "{566, 315}";
 },
 {
 name = top_2;
-position = "{204, 500}";
+position = "{271, 76}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "/lam-ar.init/lamBar-ar.init",
-"/lam_meem-ar.init/keheh-ar"
+"/alef-ar/seen-ar/lam_meem-ar.init/keheh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -27861,7 +27861,7 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-11-30 20:27:43 +0000";
+lastChange = "2015-11-30 20:28:25 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -27877,14 +27877,14 @@ nodes = (
 "140 0 OFFCURVE",
 "189 24 OFFCURVE",
 "251 -24 CURVE",
-"269 92 LINE",
-"253 108 OFFCURVE",
-"232 113 OFFCURVE",
-"213 119 CURVE SMOOTH",
-"186 128 OFFCURVE",
-"160 138 OFFCURVE",
-"152 184 CURVE",
-"134 281 OFFCURVE",
+"269 101 LINE",
+"253 117 OFFCURVE",
+"232 122 OFFCURVE",
+"213 128 CURVE SMOOTH",
+"186 137 OFFCURVE",
+"160 147 OFFCURVE",
+"152 193 CURVE",
+"134 290 OFFCURVE",
 "116 459 OFFCURVE",
 "106 535 CURVE SMOOTH",
 "102 565 OFFCURVE",

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar/meem_alefMaksura-ar.fina",
+"/peh-ar/peh-ar/meem_alefMaksura-ar.fina",
 "/meem-ar.medi/meemDotabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -28768,9 +28768,31 @@ unicode = FC49;
 },
 {
 glyphname = "meem_alefMaksura-ar.fina";
-lastChange = "2015-11-30 23:26:12 +0000";
+lastChange = "2015-11-30 23:26:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{653, 0}";
+},
+{
+name = bottom_2;
+position = "{218, 0}";
+},
+{
+name = caret_1;
+position = "{435.5, 0}";
+},
+{
+name = top_1;
+position = "{653, 500}";
+},
+{
+name = top_2;
+position = "{218, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

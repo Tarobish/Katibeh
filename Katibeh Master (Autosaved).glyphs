@@ -23173,7 +23173,7 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_alefMaksura-ar";
-lastChange = "2015-11-30 21:33:13 +0000";
+lastChange = "2015-11-30 21:33:24 +0000";
 layers = (
 {
 anchors = (
@@ -23191,7 +23191,7 @@ position = "{443, 0}";
 },
 {
 name = top_1;
-position = "{664, 500}";
+position = "{512, 398}";
 },
 {
 name = top_2;
@@ -23210,7 +23210,7 @@ nodes = (
 "670 306 OFFCURVE",
 "616 326 CURVE SMOOTH",
 "551 352 OFFCURVE",
-"526 373 OFFCURVE",
+"520 373 OFFCURVE",
 "482 373 CURVE SMOOTH",
 "459 373 OFFCURVE",
 "412 362 OFFCURVE",

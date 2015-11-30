@@ -23298,7 +23298,7 @@ unicode = FCFF;
 },
 {
 glyphname = "hah_alefMaksura-ar.fina";
-lastChange = "2015-11-30 21:37:35 +0000";
+lastChange = "2015-11-30 21:37:43 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23391,10 +23391,13 @@ nodes = (
 closed = 1;
 nodes = (
 "678 241 OFFCURVE",
-"694 176 OFFCURVE",
-"709 181 CURVE",
-"688 73 OFFCURVE",
-"721 0 OFFCURVE",
+"689 176 OFFCURVE",
+"704 181 CURVE",
+"693 125 OFFCURVE",
+"698 78 OFFCURVE",
+"724 46 CURVE SMOOTH",
+"747 17 OFFCURVE",
+"788 0 OFFCURVE",
 "851 0 CURVE SMOOTH",
 "905 0 LINE",
 "905 106 LINE",

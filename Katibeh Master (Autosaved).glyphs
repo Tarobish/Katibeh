@@ -23173,9 +23173,31 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_alefMaksura-ar";
-lastChange = "2015-11-30 21:32:34 +0000";
+lastChange = "2015-11-30 21:32:45 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{702, 106}";
+},
+{
+name = bottom_2;
+position = "{271, -249}";
+},
+{
+name = caret_1;
+position = "{443, 0}";
+},
+{
+name = top_1;
+position = "{664, 500}";
+},
+{
+name = top_2;
+position = "{221, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

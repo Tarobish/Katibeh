@@ -28770,7 +28770,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-12-01 02:18:52 +0000";
+lastChange = "2015-12-01 02:19:06 +0000";
 layers = (
 {
 anchors = (
@@ -28780,7 +28780,7 @@ position = "{371, 0}";
 },
 {
 name = bottom_2;
-position = "{124, 0}";
+position = "{116, -34}";
 },
 {
 name = caret_1;

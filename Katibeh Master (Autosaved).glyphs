@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_hah-ar.init"
+"/dotlessbeh_hah-ar.init/alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -21978,17 +21978,17 @@ width = 549;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-12-01 06:42:36 +0000";
+lastChange = "2015-12-01 06:42:47 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{411, 0}";
+position = "{352, 0}";
 },
 {
 name = bottom_2;
-position = "{137, 0}";
+position = "{74, -34}";
 },
 {
 name = caret_1;
@@ -21996,11 +21996,11 @@ position = "{274, 0}";
 },
 {
 name = top_1;
-position = "{352, 539}";
+position = "{352, 559}";
 },
 {
 name = top_2;
-position = "{137, 500}";
+position = "{83, 378}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -24746,9 +24746,31 @@ unicode = FC21;
 },
 {
 glyphname = "sad_meem-ar.init";
-lastChange = "2015-12-01 02:07:01 +0000";
+lastChange = "2015-12-01 02:07:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{598, 0}";
+},
+{
+name = bottom_2;
+position = "{199, 0}";
+},
+{
+name = caret_1;
+position = "{399, 0}";
+},
+{
+name = top_1;
+position = "{603, 373}";
+},
+{
+name = top_2;
+position = "{199, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -24768,10 +24790,13 @@ nodes = (
 "320 240 OFFCURVE",
 "302 269 CURVE",
 "289 292 OFFCURVE",
-"271 311 OFFCURVE",
-"240 311 CURVE",
-"163 311 OFFCURVE",
-"105 200 OFFCURVE",
+"270 311 OFFCURVE",
+"239 311 CURVE",
+"195 311 OFFCURVE",
+"157 274 OFFCURVE",
+"133 229 CURVE SMOOTH",
+"115 196 OFFCURVE",
+"105 157 OFFCURVE",
 "105 126 CURVE",
 "100 122 OFFCURVE",
 "79 106 OFFCURVE",
@@ -24839,7 +24864,7 @@ nodes = (
 );
 }
 );
-width = 786;
+width = 798;
 }
 );
 unicode = FCB3;

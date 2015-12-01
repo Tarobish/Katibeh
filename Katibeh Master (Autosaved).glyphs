@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 "/ain_meem-ar",
-"/ain_meem-ar.init"
+"/ain_meem-ar.init/alef-ar/reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -25435,7 +25435,7 @@ unicode = FC2A;
 },
 {
 glyphname = "ain_meem-ar.init";
-lastChange = "2015-12-01 02:26:53 +0000";
+lastChange = "2015-12-01 02:27:05 +0000";
 layers = (
 {
 anchors = (
@@ -25445,7 +25445,7 @@ position = "{345, 0}";
 },
 {
 name = bottom_2;
-position = "{69, -34}";
+position = "{43, -34}";
 },
 {
 name = caret_1;
@@ -25457,7 +25457,7 @@ position = "{320, 599}";
 },
 {
 name = top_2;
-position = "{46, 253}";
+position = "{36, 253}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

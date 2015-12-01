@@ -21869,13 +21869,13 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2015-12-01 06:48:08 +0000";
+lastChange = "2015-12-01 06:48:25 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{441, 145}";
+position = "{480, 145}";
 },
 {
 name = bottom_2;
@@ -21887,7 +21887,7 @@ position = "{310.5, 0}";
 },
 {
 name = center;
-position = "{308, -34}";
+position = "{290, -34}";
 },
 {
 name = top_1;
@@ -21981,7 +21981,7 @@ nodes = (
 );
 }
 );
-width = 621;
+width = 631;
 }
 );
 },

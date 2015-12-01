@@ -28045,7 +28045,7 @@ unicode = FCCA;
 },
 {
 glyphname = "lam_hah_alefMaksura-ar";
-lastChange = "2015-12-01 02:57:28 +0000";
+lastChange = "2015-12-01 02:57:31 +0000";
 layers = (
 {
 anchors = (
@@ -28071,11 +28071,11 @@ position = "{590.667, 0}";
 },
 {
 name = top_1;
-position = "{497, 672}";
+position = "{497, 702}";
 },
 {
 name = top_2;
-position = "{370, 419}";
+position = "{352, 440}";
 },
 {
 name = top_3;

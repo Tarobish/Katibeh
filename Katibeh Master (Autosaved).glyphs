@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/alef-ar/reh-ar/ain_meem-ar",
 "/ain_meem-ar.001",
 "/ain_alefMaksura-ar"
 );
@@ -25285,7 +25284,7 @@ unicode = FCF5;
 },
 {
 glyphname = "ain_meem-ar";
-lastChange = "2015-12-01 01:06:16 +0000";
+lastChange = "2015-12-01 01:07:14 +0000";
 layers = (
 {
 anchors = (
@@ -25307,7 +25306,7 @@ position = "{407, 490}";
 },
 {
 name = top_2;
-position = "{130, 125}";
+position = "{125, 125}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

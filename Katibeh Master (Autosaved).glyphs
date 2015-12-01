@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/seen_alefMaksura-ar",
-"/seen_meem-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -23753,7 +23749,7 @@ unicode = FD2A;
 },
 {
 glyphname = "seen_meem-ar";
-lastChange = "2015-12-01 00:43:10 +0000";
+lastChange = "2015-12-01 00:43:11 +0000";
 layers = (
 {
 anchors = (
@@ -23763,7 +23759,7 @@ position = "{581, -35}";
 },
 {
 name = bottom_2;
-position = "{125, -548}";
+position = "{125, -558}";
 },
 {
 name = caret_1;

@@ -25234,7 +25234,7 @@ unicode = FD21;
 },
 {
 glyphname = "tah_alefMaksura-ar";
-lastChange = "2015-12-01 07:28:48 +0000";
+lastChange = "2015-12-01 07:29:04 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -25417,8 +25417,8 @@ nodes = (
 "-258 297 OFFCURVE",
 "-226 266 CURVE",
 "-257 226 OFFCURVE",
-"-304 219 OFFCURVE",
-"-377 188 CURVE SMOOTH"
+"-297 209 OFFCURVE",
+"-372 182 CURVE SMOOTH"
 );
 },
 {

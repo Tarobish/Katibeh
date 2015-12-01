@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar/dotlessbeh_meem-ar.fina",
+"/theh-ar/theh-ar/peh-ar/dotlessbeh_meem-ar.fina",
 "/meem-ar.fina/meemDotabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -22508,7 +22508,7 @@ width = 470;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-12-01 00:19:41 +0000";
+lastChange = "2015-12-01 00:19:54 +0000";
 layers = (
 {
 anchors = (
@@ -22530,7 +22530,7 @@ position = "{328, 251}";
 },
 {
 name = top_2;
-position = "{146, 500}";
+position = "{115, 106}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

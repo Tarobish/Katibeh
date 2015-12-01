@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hah_meem-ar.init/reh-ar",
+"/hah_meem-ar.init/keheh-ar/alef-ar/reh-ar",
 "/hah_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -23142,7 +23142,7 @@ unicode = FC18;
 },
 {
 glyphname = "hah_meem-ar.init";
-lastChange = "2015-12-01 02:31:14 +0000";
+lastChange = "2015-12-01 02:31:26 +0000";
 layers = (
 {
 anchors = (
@@ -23164,7 +23164,7 @@ position = "{275, 493}";
 },
 {
 name = top_2;
-position = "{45, 234}";
+position = "{40, 234}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

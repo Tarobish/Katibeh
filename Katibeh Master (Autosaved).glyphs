@@ -25234,7 +25234,7 @@ unicode = FD21;
 },
 {
 glyphname = "tah_alefMaksura-ar";
-lastChange = "2015-12-01 07:36:32 +0000";
+lastChange = "2015-12-01 07:36:38 +0000";
 layers = (
 {
 anchors = (
@@ -25374,7 +25374,7 @@ nodes = (
 );
 }
 );
-width = 1023;
+width = 930;
 }
 );
 unicode = FCF5;

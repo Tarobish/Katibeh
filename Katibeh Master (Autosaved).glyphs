@@ -28411,17 +28411,17 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-12-01 03:25:05 +0000";
+lastChange = "2015-12-01 03:25:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{331, 0}";
+position = "{279, -55}";
 },
 {
 name = bottom_2;
-position = "{110, 0}";
+position = "{59, -34}";
 },
 {
 name = caret_1;

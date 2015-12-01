@@ -14622,7 +14622,7 @@ width = 598;
 },
 {
 glyphname = "meem-ar.fina";
-lastChange = "2015-11-27 04:34:06 +0000";
+lastChange = "2015-12-01 00:18:57 +0000";
 layers = (
 {
 anchors = (
@@ -22508,17 +22508,17 @@ width = 470;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-12-01 00:18:44 +0000";
+lastChange = "2015-12-01 00:19:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{437, 0}";
+position = "{337, -142}";
 },
 {
 name = bottom_2;
-position = "{124, -530}";
+position = "{124, -560}";
 },
 {
 name = caret_1;

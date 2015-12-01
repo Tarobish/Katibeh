@@ -28165,13 +28165,13 @@ width = 931;
 },
 {
 glyphname = "lam_meem-ar";
-lastChange = "2015-12-01 02:45:36 +0000";
+lastChange = "2015-12-01 02:45:51 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{320, 0}";
+position = "{277, -124}";
 },
 {
 name = bottom_2;
@@ -28183,7 +28183,7 @@ position = "{213.5, 0}";
 },
 {
 name = top_1;
-position = "{163, 670}";
+position = "{164, 700}";
 },
 {
 name = top_2;
@@ -28259,7 +28259,7 @@ nodes = (
 );
 }
 );
-width = 427;
+width = 437;
 }
 );
 unicode = FC42;

@@ -25285,7 +25285,7 @@ unicode = FCF5;
 },
 {
 glyphname = "ain_meem-ar";
-lastChange = "2015-12-01 00:57:21 +0000";
+lastChange = "2015-12-01 00:57:30 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -25344,16 +25344,9 @@ nodes = (
 );
 },
 {
-closed = 0;
+closed = 1;
 nodes = (
-"395 -89 LINE SMOOTH",
-"403 -63 OFFCURVE",
-"405 -46 OFFCURVE",
-"409 -25 CURVE SMOOTH",
-"414 -2 OFFCURVE",
-"398 25 OFFCURVE",
-"365 45 CURVE SMOOTH",
-"345 58 OFFCURVE",
+"322 -38 OFFCURVE",
 "317 69 OFFCURVE",
 "284 74 CURVE",
 "323 136 OFFCURVE",
@@ -25404,10 +25397,7 @@ nodes = (
 "199 0 LINE",
 "262 -3 OFFCURVE",
 "345 -10 OFFCURVE",
-"342 -51 CURVE",
-"318 -74 OFFCURVE",
-"274 -90 OFFCURVE",
-"224 -98 CURVE SMOOTH"
+"342 -51 CURVE"
 );
 }
 );

@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/dotlessbeh_hah-ar",
-"/lam_hah-ar"
+"/lam_hah-ar",
+"/dotlessbeh_hah-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -21987,7 +21987,7 @@ width = 631;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-12-01 06:43:20 +0000";
+lastChange = "2015-12-01 06:48:38 +0000";
 layers = (
 {
 anchors = (
@@ -22018,10 +22018,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"417 204 OFFCURVE",
-"376 213 OFFCURVE",
+"467 204 OFFCURVE",
+"426 213 OFFCURVE",
 "316 233 CURVE SMOOTH",
-"281 244 OFFCURVE",
+"281 239 OFFCURVE",
 "239 259 OFFCURVE",
 "187 278 CURVE",
 "207 284 OFFCURVE",
@@ -22078,10 +22078,10 @@ nodes = (
 "155 12 OFFCURVE",
 "201 39 CURVE SMOOTH",
 "259 73 OFFCURVE",
-"341 115 OFFCURVE",
-"436 109 CURVE",
-"488 204 LINE",
-"460 204 LINE SMOOTH"
+"391 115 OFFCURVE",
+"486 109 CURVE",
+"538 204 LINE",
+"510 204 LINE SMOOTH"
 );
 }
 );

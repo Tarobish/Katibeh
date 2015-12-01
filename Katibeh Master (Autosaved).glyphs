@@ -21987,17 +21987,17 @@ width = 631;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-12-01 06:48:38 +0000";
+lastChange = "2015-12-01 06:49:03 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{337, 0}";
+position = "{371, 0}";
 },
 {
 name = bottom_2;
-position = "{112, -34}";
+position = "{120, -34}";
 },
 {
 name = caret_1;
@@ -22018,11 +22018,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"467 204 OFFCURVE",
-"426 213 OFFCURVE",
-"316 233 CURVE SMOOTH",
-"281 239 OFFCURVE",
-"239 259 OFFCURVE",
+"447 204 OFFCURVE",
+"393 213 OFFCURVE",
+"340 227 CURVE SMOOTH",
+"290 240 OFFCURVE",
+"242 258 OFFCURVE",
 "187 278 CURVE",
 "207 284 OFFCURVE",
 "238 298 OFFCURVE",
@@ -22077,7 +22077,7 @@ nodes = (
 "108 0 OFFCURVE",
 "155 12 OFFCURVE",
 "201 39 CURVE SMOOTH",
-"259 73 OFFCURVE",
+"270 79 OFFCURVE",
 "391 115 OFFCURVE",
 "486 109 CURVE",
 "538 204 LINE",
@@ -22085,7 +22085,7 @@ nodes = (
 );
 }
 );
-width = 548;
+width = 598;
 }
 );
 },

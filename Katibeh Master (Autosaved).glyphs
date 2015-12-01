@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/lam_hah-ar",
 "/hah-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -27789,17 +27788,17 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-01 03:38:48 +0000";
+lastChange = "2015-12-01 03:38:51 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{406, -393}";
+position = "{406, -403}";
 },
 {
 name = bottom_2;
-position = "{171, -388}";
+position = "{168, -388}";
 },
 {
 name = caret_1;

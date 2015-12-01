@@ -27960,7 +27960,7 @@ unicode = FC40;
 },
 {
 glyphname = "lam_hah-ar.init";
-lastChange = "2015-12-01 03:17:06 +0000";
+lastChange = "2015-12-01 03:17:12 +0000";
 layers = (
 {
 anchors = (
@@ -27978,7 +27978,7 @@ position = "{274, 0}";
 },
 {
 name = top_1;
-position = "{411, 500}";
+position = "{268, 645}";
 },
 {
 name = top_2;

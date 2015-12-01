@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar/theh-ar/dotlessfeh_alefMaksura-ar.fina",
+"/dotlessfeh_alefMaksura-ar.fina",
 "/dotlessfeh-ar.medi/fehTwodotsbelow-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -25741,13 +25741,13 @@ width = 630;
 },
 {
 glyphname = "dotlessfeh_alefMaksura-ar.fina";
-lastChange = "2015-12-01 00:04:53 +0000";
+lastChange = "2015-12-01 00:05:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{599, -148}";
+position = "{611, -149}";
 },
 {
 name = bottom_2;

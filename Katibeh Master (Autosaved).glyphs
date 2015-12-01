@@ -21978,7 +21978,7 @@ width = 549;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-12-01 03:47:05 +0000";
+lastChange = "2015-12-01 03:47:15 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22109,7 +22109,7 @@ nodes = (
 {
 closed = 0;
 nodes = (
-"238 198 LINE SMOOTH",
+"238 198 LINE",
 "166 198 OFFCURVE",
 "251 193 OFFCURVE",
 "202 204 CURVE SMOOTH",
@@ -22146,7 +22146,7 @@ nodes = (
 {
 closed = 0;
 nodes = (
-"96 224 LINE SMOOTH"
+"96 224 LINE"
 );
 }
 );

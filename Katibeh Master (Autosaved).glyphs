@@ -28045,7 +28045,7 @@ unicode = FCCA;
 },
 {
 glyphname = "lam_hah_alefMaksura-ar";
-lastChange = "2015-12-01 02:54:47 +0000";
+lastChange = "2015-12-01 02:54:59 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28070,8 +28070,8 @@ nodes = (
 "379 292 OFFCURVE",
 "370 269 OFFCURVE",
 "370 269 CURVE",
-"468 260 OFFCURVE",
-"518 247 OFFCURVE",
+"471 254 OFFCURVE",
+"528 258 OFFCURVE",
 "601 222 CURVE",
 "510 205 OFFCURVE",
 "424 171 OFFCURVE",

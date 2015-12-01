@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/meem-ar/meemDotabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -14618,7 +14621,7 @@ width = 598;
 },
 {
 glyphname = "meem-ar.fina";
-lastChange = "2015-12-01 00:18:57 +0000";
+lastChange = "2015-12-01 00:44:33 +0000";
 layers = (
 {
 anchors = (
@@ -14650,7 +14653,7 @@ nodes = (
 "149 138 OFFCURVE",
 "120 94 CURVE SMOOTH",
 "85 40 OFFCURVE",
-"75 -22 OFFCURVE",
+"76 -17 OFFCURVE",
 "75 -22 CURVE",
 "63 -99 OFFCURVE",
 "74 -144 OFFCURVE",

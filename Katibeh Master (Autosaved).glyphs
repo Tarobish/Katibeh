@@ -27960,7 +27960,7 @@ unicode = FC40;
 },
 {
 glyphname = "lam_hah-ar.init";
-lastChange = "2015-12-01 03:14:27 +0000";
+lastChange = "2015-12-01 03:14:38 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28020,9 +28020,9 @@ nodes = (
 closed = 1;
 nodes = (
 "234 258 OFFCURVE",
-"250 277 OFFCURVE",
+"251 277 OFFCURVE",
 "250 293 CURVE SMOOTH",
-"250 337 OFFCURVE",
+"246 347 OFFCURVE",
 "240 473 OFFCURVE",
 "233 531 CURVE SMOOTH",
 "229 562 OFFCURVE",
@@ -28060,7 +28060,7 @@ nodes = (
 "203 230 OFFCURVE",
 "236 219 CURVE",
 "193 212 OFFCURVE",
-"274 267 OFFCURVE",
+"244 214 OFFCURVE",
 "227 243 CURVE"
 );
 },

@@ -21978,17 +21978,17 @@ width = 549;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-12-01 06:42:47 +0000";
+lastChange = "2015-12-01 06:43:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{352, 0}";
+position = "{320, 0}";
 },
 {
 name = bottom_2;
-position = "{74, -34}";
+position = "{100, -34}";
 },
 {
 name = caret_1;

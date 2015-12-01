@@ -28165,7 +28165,7 @@ width = 931;
 },
 {
 glyphname = "lam_meem-ar";
-lastChange = "2015-12-01 02:44:44 +0000";
+lastChange = "2015-12-01 02:44:53 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28201,7 +28201,7 @@ nodes = (
 "308 124 OFFCURVE",
 "264 137 CURVE",
 "221 161 LINE",
-"195 143 OFFCURVE",
+"208 139 OFFCURVE",
 "180 106 OFFCURVE",
 "189 81 CURVE",
 "153 70 OFFCURVE",

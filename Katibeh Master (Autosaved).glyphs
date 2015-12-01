@@ -3819,13 +3819,13 @@ unicode = 062D;
 },
 {
 glyphname = "hah-ar.fina";
-lastChange = "2015-11-17 00:11:17 +0000";
+lastChange = "2015-12-01 03:36:20 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{326, 41}";
+position = "{326, -401}";
 },
 {
 name = center;

@@ -28325,7 +28325,7 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-12-01 02:34:45 +0000";
+lastChange = "2015-12-01 02:35:08 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28454,11 +28454,11 @@ nodes = (
 "-444 580 CURVE",
 "-429 566 LINE",
 "-406 491 OFFCURVE",
-"-394 421 OFFCURVE",
-"-381 341 CURVE SMOOTH",
-"-378 325 OFFCURVE",
-"-376 307 OFFCURVE",
-"-373 290 CURVE"
+"-379 357 OFFCURVE",
+"-366 277 CURVE SMOOTH",
+"-363 261 OFFCURVE",
+"-352 289 OFFCURVE",
+"-349 272 CURVE"
 );
 },
 {

@@ -25285,13 +25285,13 @@ unicode = FCF5;
 },
 {
 glyphname = "ain_meem-ar";
-lastChange = "2015-12-01 01:05:45 +0000";
+lastChange = "2015-12-01 01:05:49 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{464, -66}";
+position = "{404, -131}";
 },
 {
 name = bottom_2;

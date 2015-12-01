@@ -23893,17 +23893,16 @@ unicode = FC1F;
 },
 {
 glyphname = "seen_meem-ar.init";
-lastChange = "2015-12-01 01:25:38 +0000";
+lastChange = "2015-12-01 01:25:41 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-"23 13 LINE",
-"40 44 OFFCURVE",
+"35 79 OFFCURVE",
 "90 27 OFFCURVE",
 "137 27 CURVE SMOOTH",
 "178 27 OFFCURVE",
@@ -23983,7 +23982,7 @@ nodes = (
 "105 118 CURVE",
 "66 107 OFFCURVE",
 "38 79 OFFCURVE",
-"18 48 CURVE SMOOTH"
+"18 48 CURVE"
 );
 },
 {

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/meem_meem-ar.init/alef-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -28953,7 +28950,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-12-01 03:26:03 +0000";
+lastChange = "2015-12-01 03:26:06 +0000";
 layers = (
 {
 anchors = (
@@ -28963,7 +28960,7 @@ position = "{337, -55}";
 },
 {
 name = bottom_2;
-position = "{115, -34}";
+position = "{106, -34}";
 },
 {
 name = caret_1;

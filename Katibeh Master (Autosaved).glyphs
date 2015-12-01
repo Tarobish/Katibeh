@@ -28325,7 +28325,7 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-12-01 02:39:33 +0000";
+lastChange = "2015-12-01 02:39:42 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28334,9 +28334,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-70 24 OFFCURVE",
-"-46 0 OFFCURVE",
-"-17 0 CURVE SMOOTH",
+"-60 24 OFFCURVE",
+"-36 0 OFFCURVE",
+"-7 0 CURVE",
 "33 0 LINE SMOOTH",
 "104 0 OFFCURVE",
 "149 7 OFFCURVE",
@@ -28387,10 +28387,10 @@ nodes = (
 "69 108 OFFCURVE",
 "51 106 OFFCURVE",
 "33 106 CURVE SMOOTH",
-"-17 106 LINE SMOOTH",
-"-46 106 OFFCURVE",
-"-70 81 OFFCURVE",
-"-70 53 CURVE SMOOTH"
+"-7 106 LINE",
+"-36 106 OFFCURVE",
+"-60 81 OFFCURVE",
+"-60 53 CURVE"
 );
 },
 {
@@ -28431,7 +28431,7 @@ nodes = (
 );
 }
 );
-width = 951;
+width = 441;
 }
 );
 unicode = FCCD;

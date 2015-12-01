@@ -22090,7 +22090,7 @@ width = 598;
 },
 {
 glyphname = "dotlessbeh_hah_alefMaksura-ar";
-lastChange = "2015-12-01 07:02:38 +0000";
+lastChange = "2015-12-01 07:02:50 +0000";
 layers = (
 {
 anchors = (
@@ -22104,7 +22104,7 @@ position = "{469, 0}";
 },
 {
 name = bottom_3;
-position = "{271, -219}";
+position = "{271, -249}";
 },
 {
 name = caret_1;
@@ -22120,11 +22120,11 @@ position = "{782, 500}";
 },
 {
 name = top_2;
-position = "{469, 500}";
+position = "{405, 455}";
 },
 {
 name = top_3;
-position = "{156, 500}";
+position = "{253, 134}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

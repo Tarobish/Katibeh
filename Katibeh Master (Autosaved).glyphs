@@ -22507,7 +22507,7 @@ width = 470;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-12-01 00:16:14 +0000";
+lastChange = "2015-12-01 00:16:39 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22649,7 +22649,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"397 116 OFFCURVE",
+"394 86 OFFCURVE",
 "372 -18 OFFCURVE",
 "334 -21 CURVE SMOOTH",
 "289 -25 LINE SMOOTH",
@@ -22663,10 +22663,10 @@ nodes = (
 "376 -63 OFFCURVE",
 "443 -60 OFFCURVE",
 "496 -101 CURVE",
-"514 24 LINE",
-"492 61 OFFCURVE",
-"470 72 OFFCURVE",
-"397 116 CURVE"
+"512 4 LINE",
+"493 41 OFFCURVE",
+"466 67 OFFCURVE",
+"396 106 CURVE"
 );
 },
 {

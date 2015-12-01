@@ -22090,17 +22090,17 @@ width = 598;
 },
 {
 glyphname = "dotlessbeh_hah_alefMaksura-ar";
-lastChange = "2015-12-01 07:02:50 +0000";
+lastChange = "2015-12-01 07:02:56 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{782, 0}";
+position = "{697, 148}";
 },
 {
 name = bottom_2;
-position = "{469, 0}";
+position = "{568, -186}";
 },
 {
 name = bottom_3;
@@ -22116,7 +22116,7 @@ position = "{626, 0}";
 },
 {
 name = top_1;
-position = "{782, 500}";
+position = "{713, 642}";
 },
 {
 name = top_2;

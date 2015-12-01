@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/sad_meem-ar.init"
+"/sad_meem-ar.init",
+"/sad_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -24746,7 +24747,7 @@ unicode = FC21;
 },
 {
 glyphname = "sad_meem-ar.init";
-lastChange = "2015-12-01 02:07:19 +0000";
+lastChange = "2015-12-01 02:07:25 +0000";
 layers = (
 {
 anchors = (
@@ -24764,7 +24765,7 @@ position = "{399, 0}";
 },
 {
 name = top_1;
-position = "{603, 373}";
+position = "{583, 403}";
 },
 {
 name = top_2;

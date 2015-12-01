@@ -21869,9 +21869,31 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2015-12-01 06:46:59 +0000";
+lastChange = "2015-12-01 06:47:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{357, -369}";
+},
+{
+name = bottom_2;
+position = "{155, 0}";
+},
+{
+name = caret_1;
+position = "{310.5, 0}";
+},
+{
+name = top_1;
+position = "{466, 500}";
+},
+{
+name = top_2;
+position = "{155, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

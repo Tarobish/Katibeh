@@ -22507,7 +22507,7 @@ width = 470;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-12-01 00:16:13 +0000";
+lastChange = "2015-12-01 00:16:14 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22664,7 +22664,7 @@ nodes = (
 "443 -60 OFFCURVE",
 "496 -101 CURVE",
 "514 24 LINE",
-"474 64 OFFCURVE",
+"492 61 OFFCURVE",
 "470 72 OFFCURVE",
 "397 116 CURVE"
 );

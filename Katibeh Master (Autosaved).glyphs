@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/dotlessbeh_meem-ar.fina"
+"/dotlessbeh_meem-ar.fina",
+"/meem-ar.fina/meemDotabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -22507,7 +22508,7 @@ width = 470;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-12-01 00:18:39 +0000";
+lastChange = "2015-12-01 00:18:44 +0000";
 layers = (
 {
 anchors = (
@@ -22517,7 +22518,7 @@ position = "{437, 0}";
 },
 {
 name = bottom_2;
-position = "{146, 0}";
+position = "{124, -530}";
 },
 {
 name = caret_1;

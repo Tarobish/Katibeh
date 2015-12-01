@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar/theh-ar/dotlessbeh_meem-ar.fina",
+"/theh-ar/dotlessbeh_meem-ar.fina",
 "/meem-ar.fina/meemDotabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -22508,7 +22508,7 @@ width = 470;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-12-01 00:19:17 +0000";
+lastChange = "2015-12-01 00:19:41 +0000";
 layers = (
 {
 anchors = (
@@ -22526,7 +22526,7 @@ position = "{291.5, 0}";
 },
 {
 name = top_1;
-position = "{339, 251}";
+position = "{328, 251}";
 },
 {
 name = top_2;
@@ -22574,8 +22574,8 @@ nodes = (
 "428 32 OFFCURVE",
 "454 0 OFFCURVE",
 "504 0 CURVE SMOOTH",
-"583 0 LINE",
-"583 106 LINE",
+"563 0 LINE",
+"563 106 LINE",
 "510 106 LINE SMOOTH",
 "460 106 OFFCURVE",
 "444 119 OFFCURVE",
@@ -22604,7 +22604,7 @@ nodes = (
 );
 }
 );
-width = 583;
+width = 563;
 }
 );
 },

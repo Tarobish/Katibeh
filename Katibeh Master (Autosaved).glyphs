@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem_meem-ar.init"
+"/meem_meem-ar.init/reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28770,13 +28770,13 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-12-01 02:19:06 +0000";
+lastChange = "2015-12-01 02:19:14 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{371, 0}";
+position = "{314, -62}";
 },
 {
 name = bottom_2;

@@ -21978,7 +21978,7 @@ width = 549;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-12-01 06:35:40 +0000";
+lastChange = "2015-12-01 06:36:16 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -22147,7 +22147,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"125 256 OFFCURVE",
+"132 271 OFFCURVE",
 "98 216 OFFCURVE",
 "123 244 CURVE",
 "134 254 OFFCURVE",
@@ -22171,11 +22171,11 @@ nodes = (
 "369 418 OFFCURVE",
 "336 418 CURVE SMOOTH",
 "315 418 OFFCURVE",
-"292 400 OFFCURVE",
+"290 401 OFFCURVE",
 "272 365 CURVE SMOOTH",
-"238 304 OFFCURVE",
-"174 250 OFFCURVE",
-"116 229 CURVE"
+"236 293 OFFCURVE",
+"181 265 OFFCURVE",
+"123 244 CURVE"
 );
 }
 );

@@ -23893,7 +23893,7 @@ unicode = FC1F;
 },
 {
 glyphname = "seen_meem-ar.init";
-lastChange = "2015-12-01 01:54:07 +0000";
+lastChange = "2015-12-01 01:54:27 +0000";
 layers = (
 {
 anchors = (
@@ -23903,7 +23903,7 @@ position = "{464, 46}";
 },
 {
 name = bottom_2;
-position = "{184, 0}";
+position = "{184, -54}";
 },
 {
 name = caret_1;
@@ -23911,11 +23911,11 @@ position = "{369, 0}";
 },
 {
 name = top_1;
-position = "{483, 304}";
+position = "{483, 344}";
 },
 {
 name = top_2;
-position = "{184, 500}";
+position = "{200, 344}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

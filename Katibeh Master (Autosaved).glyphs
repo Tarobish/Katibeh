@@ -21869,7 +21869,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2015-12-01 06:47:36 +0000";
+lastChange = "2015-12-01 06:47:45 +0000";
 layers = (
 {
 anchors = (
@@ -21887,11 +21887,11 @@ position = "{310.5, 0}";
 },
 {
 name = top_1;
-position = "{466, 500}";
+position = "{405, 612}";
 },
 {
 name = top_2;
-position = "{155, 500}";
+position = "{124, 409}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21956,8 +21956,11 @@ nodes = (
 "429 432 OFFCURVE",
 "418 378 CURVE",
 "441 386 LINE",
-"479 516 OFFCURVE",
-"450 582 OFFCURVE",
+"456 438 OFFCURVE",
+"461 480 OFFCURVE",
+"458 511 CURVE SMOOTH",
+"453 558 OFFCURVE",
+"432 582 OFFCURVE",
 "405 582 CURVE SMOOTH",
 "375 582 OFFCURVE",
 "356 562 OFFCURVE",

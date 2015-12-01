@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hah_meem-ar"
+"/meem-ar/reh-ar/hah_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -23026,7 +23026,7 @@ width = 730;
 },
 {
 glyphname = "hah_meem-ar";
-lastChange = "2015-12-01 00:35:26 +0000";
+lastChange = "2015-12-01 00:36:25 +0000";
 layers = (
 {
 anchors = (
@@ -23112,11 +23112,11 @@ nodes = (
 "124 -155 OFFCURVE",
 "129 -114 CURVE",
 "146 -83 OFFCURVE",
-"189 -68 OFFCURVE",
-"236 -68 CURVE SMOOTH",
-"277 -68 OFFCURVE",
-"320 -79 OFFCURVE",
-"349 -101 CURVE",
+"189 -63 OFFCURVE",
+"236 -63 CURVE SMOOTH",
+"277 -63 OFFCURVE",
+"320 -74 OFFCURVE",
+"349 -96 CURVE",
 "365 4 LINE",
 "353 28 OFFCURVE",
 "331 49 OFFCURVE",

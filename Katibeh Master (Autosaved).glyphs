@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/ain_meem-ar.init",
 "/ain_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -25435,7 +25434,7 @@ unicode = FC2A;
 },
 {
 glyphname = "ain_meem-ar.init";
-lastChange = "2015-12-01 02:26:00 +0000";
+lastChange = "2015-12-01 02:26:17 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -25481,7 +25480,7 @@ nodes = (
 "181 367 OFFCURVE",
 "201 323 OFFCURVE",
 "244 293 CURVE",
-"183 271 OFFCURVE",
+"178 270 OFFCURVE",
 "134 230 OFFCURVE",
 "113 186 CURVE",
 "91 145 OFFCURVE",
@@ -25537,7 +25536,7 @@ nodes = (
 );
 }
 );
-width = 536;
+width = 568;
 }
 );
 unicode = FCBB;

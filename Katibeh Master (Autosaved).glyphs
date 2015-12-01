@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_meem-ar.init"
+"/reh-ar/lam_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28327,13 +28327,13 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-12-01 03:20:53 +0000";
+lastChange = "2015-12-01 03:21:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{256, -200}";
+position = "{173, -304}";
 },
 {
 name = bottom_2;
@@ -28349,7 +28349,7 @@ position = "{9, 704}";
 },
 {
 name = top_2;
-position = "{253, 325}";
+position = "{253, 449}";
 }
 );
 components = (

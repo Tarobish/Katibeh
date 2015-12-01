@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/meem_meem-ar.init/reh-ar"
+"/meem_meem-ar.init/keheh-ar/alef-ar/reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28770,7 +28770,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-12-01 02:19:41 +0000";
+lastChange = "2015-12-01 02:20:03 +0000";
 layers = (
 {
 anchors = (
@@ -28792,7 +28792,7 @@ position = "{330, 530}";
 },
 {
 name = top_2;
-position = "{105, 344}";
+position = "{57, 344}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -23026,7 +23026,7 @@ width = 730;
 },
 {
 glyphname = "hah_meem-ar";
-lastChange = "2015-12-01 00:31:28 +0000";
+lastChange = "2015-12-01 00:31:36 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23150,7 +23150,7 @@ nodes = (
 closed = 1;
 nodes = (
 "263 82 OFFCURVE",
-"482 122 OFFCURVE",
+"453 116 OFFCURVE",
 "585 105 CURVE",
 "650 182 LINE",
 "617 188 OFFCURVE",
@@ -23180,8 +23180,8 @@ nodes = (
 "407 172 OFFCURVE",
 "423 166 CURVE",
 "356 156 OFFCURVE",
-"263 124 OFFCURVE",
-"204 90 CURVE",
+"272 128 OFFCURVE",
+"213 94 CURVE",
 "229 32 LINE",
 "227 6 LINE"
 );

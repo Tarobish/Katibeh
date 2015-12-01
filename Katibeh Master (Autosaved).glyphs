@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar/ain_meem-ar",
+"/alef-ar/reh-ar/ain_meem-ar",
 "/ain_meem-ar.001",
 "/ain_alefMaksura-ar"
 );
@@ -25285,13 +25285,13 @@ unicode = FCF5;
 },
 {
 glyphname = "ain_meem-ar";
-lastChange = "2015-12-01 01:05:49 +0000";
+lastChange = "2015-12-01 01:06:16 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{404, -131}";
+position = "{414, -130}";
 },
 {
 name = bottom_2;

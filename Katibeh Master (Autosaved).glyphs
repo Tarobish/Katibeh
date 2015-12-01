@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
 "/lam_hah-ar.init",
-"/hah_alefMaksura-ar",
 "/hah-ar.init/hahTahabove-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -27964,7 +27963,7 @@ unicode = FC40;
 },
 {
 glyphname = "lam_hah-ar.init";
-lastChange = "2015-12-01 03:04:02 +0000";
+lastChange = "2015-12-01 03:05:13 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -27973,10 +27972,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"428 146 CURVE",
-"476 235 LINE",
+"436 109 CURVE",
+"488 204 LINE",
 "433 236 LINE SMOOTH",
-"365 237 OFFCURVE",
+"371 272 OFFCURVE",
 "318 243 OFFCURVE",
 "262 258 CURVE SMOOTH",
 "195 276 OFFCURVE",
@@ -28014,10 +28013,10 @@ nodes = (
 "-17 0 CURVE SMOOTH",
 "43 0 LINE SMOOTH",
 "108 0 OFFCURVE",
-"161 20 OFFCURVE",
-"207 47 CURVE SMOOTH",
-"265 81 OFFCURVE",
-"313 135 OFFCURVE"
+"155 12 OFFCURVE",
+"201 39 CURVE SMOOTH",
+"259 73 OFFCURVE",
+"341 115 OFFCURVE"
 );
 },
 {

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/lam_meem-ar.init/yeh-farsi"
+"/reh-ar/lam_meem-ar.init  /yeh-farsi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28327,7 +28327,7 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-12-01 03:23:24 +0000";
+lastChange = "2015-12-01 03:23:54 +0000";
 layers = (
 {
 anchors = (
@@ -28350,16 +28350,6 @@ position = "{9, 704}";
 {
 name = top_2;
 position = "{248, 449}";
-}
-);
-components = (
-{
-name = "alef-ar.fina";
-transform = "{1, 0, 0, 1, -202, 0}";
-},
-{
-name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, -82, 30}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

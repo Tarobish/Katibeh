@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_heh-ar.init"
+"/lam_heh-ar.init/alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28411,17 +28411,17 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_heh-ar.init";
-lastChange = "2015-12-01 03:25:16 +0000";
+lastChange = "2015-12-01 03:25:33 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{279, -55}";
+position = "{290, -55}";
 },
 {
 name = bottom_2;
-position = "{59, -34}";
+position = "{79, -34}";
 },
 {
 name = caret_1;
@@ -28433,7 +28433,7 @@ position = "{79, 698}";
 },
 {
 name = top_2;
-position = "{-36, 306}";
+position = "{20, 306}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

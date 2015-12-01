@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/lam_hah_alefMaksura-ar",
-"/lam-ar.init/lamBar-ar.init"
+"/lam_hah_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28046,7 +28045,7 @@ unicode = FCCA;
 },
 {
 glyphname = "lam_hah_alefMaksura-ar";
-lastChange = "2015-12-01 02:48:29 +0000";
+lastChange = "2015-12-01 02:48:57 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28139,6 +28138,42 @@ nodes = (
 "648 185 OFFCURVE",
 "718 198 OFFCURVE",
 "769 198 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"553 409 OFFCURVE",
+"539 523 OFFCURVE",
+"538 531 CURVE SMOOTH",
+"534 562 OFFCURVE",
+"540 572 OFFCURVE",
+"560 592 CURVE",
+"527 618 OFFCURVE",
+"516 639 OFFCURVE",
+"497 682 CURVE",
+"469 678 OFFCURVE",
+"455 657 OFFCURVE",
+"448 635 CURVE SMOOTH",
+"440 610 OFFCURVE",
+"441 581 OFFCURVE",
+"441 581 CURVE",
+"456 567 LINE",
+"475 491 OFFCURVE",
+"483 420 OFFCURVE",
+"492 339 CURVE SMOOTH",
+"500 267 OFFCURVE",
+"509 170 OFFCURVE",
+"509 129 CURVE",
+"509 129 OFFCURVE",
+"488 106 OFFCURVE",
+"450 106 CURVE SMOOTH",
+"102 106 OFFCURVE",
+"577 -148 OFFCURVE",
+"567 172 CURVE SMOOTH",
+"565 237 OFFCURVE",
+"560 313 OFFCURVE",
+"559 327 CURVE SMOOTH"
 );
 }
 );

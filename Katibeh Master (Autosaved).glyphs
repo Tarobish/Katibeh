@@ -24585,7 +24585,7 @@ unicode = FD2B;
 },
 {
 glyphname = "sad_meem-ar";
-lastChange = "2015-12-01 00:46:12 +0000";
+lastChange = "2015-12-01 00:46:23 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24653,18 +24653,9 @@ nodes = (
 );
 },
 {
-closed = 0;
+closed = 1;
 nodes = (
-"250 -89 LINE SMOOTH",
-"254 -76 OFFCURVE",
-"379 -57 OFFCURVE",
-"385 -25 CURVE SMOOTH",
-"397 34 OFFCURVE",
-"363 46 OFFCURVE",
-"327 54 CURVE SMOOTH",
-"303 59 OFFCURVE",
-"279 62 OFFCURVE",
-"267 76 CURVE",
+"267 76 LINE",
 "274 95 OFFCURVE",
 "297 126 OFFCURVE",
 "330 126 CURVE SMOOTH",
@@ -24712,10 +24703,7 @@ nodes = (
 "257 -15 CURVE",
 "320 -25 OFFCURVE",
 "333 -29 OFFCURVE",
-"335 -41 CURVE",
-"311 -62 OFFCURVE",
-"283 -78 OFFCURVE",
-"250 -89 CURVE SMOOTH"
+"335 -41 CURVE"
 );
 },
 {

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_meem-ar.fina",
+"/theh-ar/dotlessbeh_meem-ar.fina",
 "/meem-ar.fina/meemDotabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -22508,13 +22508,13 @@ width = 470;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2015-12-01 00:19:00 +0000";
+lastChange = "2015-12-01 00:19:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{337, -142}";
+position = "{338, -130}";
 },
 {
 name = bottom_2;

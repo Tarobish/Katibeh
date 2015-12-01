@@ -28045,17 +28045,17 @@ unicode = FCCA;
 },
 {
 glyphname = "lam_hah_alefMaksura-ar";
-lastChange = "2015-12-01 02:57:44 +0000";
+lastChange = "2015-12-01 02:57:49 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{738, 0}";
+position = "{674, 100}";
 },
 {
 name = bottom_2;
-position = "{493, -200}";
+position = "{516, -200}";
 },
 {
 name = bottom_3;

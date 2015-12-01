@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/reh-ar/lam_meem-ar.init  /yeh-farsi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -28333,11 +28330,11 @@ layers = (
 anchors = (
 {
 name = bottom_1;
-position = "{54, -55}";
+position = "{16, -55}";
 },
 {
 name = bottom_2;
-position = "{201, -200}";
+position = "{163, -200}";
 },
 {
 name = caret_1;
@@ -28350,16 +28347,6 @@ position = "{9, 704}";
 {
 name = top_2;
 position = "{253, 325}";
-}
-);
-components = (
-{
-name = "alef-ar.fina";
-transform = "{1, 0, 0, 1, -202, 0}";
-},
-{
-name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, -82, 30}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

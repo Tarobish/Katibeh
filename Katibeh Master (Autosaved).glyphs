@@ -24585,13 +24585,13 @@ unicode = FD2B;
 },
 {
 glyphname = "sad_meem-ar";
-lastChange = "2015-12-01 00:48:53 +0000";
+lastChange = "2015-12-01 00:49:11 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{591, -44}";
+position = "{577, -44}";
 },
 {
 name = bottom_2;
@@ -24603,7 +24603,7 @@ position = "{448.5, 0}";
 },
 {
 name = top_1;
-position = "{702, 313}";
+position = "{682, 313}";
 },
 {
 name = top_2;

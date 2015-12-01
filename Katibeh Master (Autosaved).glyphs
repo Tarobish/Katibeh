@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/ain_alefMaksura-ar.fina",
-"/theh-ar/dotlessfeh_alefMaksura-ar.fina"
+"/theh-ar/dotlessfeh_alefMaksura-ar.fina",
+"/dotlessfeh-ar.medi/fehTwodotsbelow-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -10213,7 +10213,7 @@ width = 983;
 },
 {
 glyphname = "dotlessfeh-ar.medi";
-lastChange = "2015-11-17 00:40:23 +0000";
+lastChange = "2015-12-01 00:04:32 +0000";
 layers = (
 {
 anchors = (

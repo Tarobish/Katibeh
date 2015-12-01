@@ -28770,7 +28770,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-12-01 02:17:34 +0000";
+lastChange = "2015-12-01 02:18:01 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28787,9 +28787,9 @@ nodes = (
 "273 341 OFFCURVE",
 "272 341 CURVE",
 "196 328 OFFCURVE",
-"110 262 OFFCURVE",
+"116 274 OFFCURVE",
 "87 208 CURVE SMOOTH",
-"75 179 OFFCURVE",
+"72 174 OFFCURVE",
 "77 137 OFFCURVE",
 "84 114 CURVE",
 "74 110 OFFCURVE",

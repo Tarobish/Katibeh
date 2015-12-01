@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/lam_hah-ar",
-"/dotlessbeh_hah-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -21987,7 +21983,7 @@ width = 631;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2015-12-01 06:49:03 +0000";
+lastChange = "2015-12-01 06:49:05 +0000";
 layers = (
 {
 anchors = (
@@ -21997,7 +21993,7 @@ position = "{371, 0}";
 },
 {
 name = bottom_2;
-position = "{120, -34}";
+position = "{122, -34}";
 },
 {
 name = caret_1;

@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/lam_hah-ar",
-"/hah-ar/hahTahabove-ar"
+"/lam_hah-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -27785,7 +27784,7 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-01 03:35:36 +0000";
+lastChange = "2015-12-01 03:36:43 +0000";
 layers = (
 {
 anchors = (
@@ -27795,7 +27794,7 @@ position = "{406, -373}";
 },
 {
 name = bottom_2;
-position = "{136, -428}";
+position = "{171, -388}";
 },
 {
 name = caret_1;

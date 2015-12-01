@@ -23753,9 +23753,31 @@ unicode = FD2A;
 },
 {
 glyphname = "seen_meem-ar";
-lastChange = "2015-12-01 00:42:23 +0000";
+lastChange = "2015-12-01 00:42:44 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{581, -35}";
+},
+{
+name = bottom_2;
+position = "{209, 0}";
+},
+{
+name = caret_1;
+position = "{419, 0}";
+},
+{
+name = top_1;
+position = "{583, 254}";
+},
+{
+name = top_2;
+position = "{209, 500}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -23865,7 +23887,7 @@ nodes = (
 );
 }
 );
-width = 825;
+width = 838;
 }
 );
 unicode = FC1F;
@@ -23979,7 +24001,7 @@ unicode = FCB0;
 },
 {
 glyphname = "seen_alefMaksura-ar";
-lastChange = "2015-11-29 22:24:12 +0000";
+lastChange = "2015-12-01 00:42:50 +0000";
 layers = (
 {
 anchors = (

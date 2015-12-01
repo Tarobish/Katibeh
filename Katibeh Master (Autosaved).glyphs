@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar/dotlessfeh_alefMaksura-ar.fina",
+"/theh-ar/theh-ar/dotlessfeh_alefMaksura-ar.fina",
 "/dotlessfeh-ar.medi/fehTwodotsbelow-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -25741,7 +25741,7 @@ width = 630;
 },
 {
 glyphname = "dotlessfeh_alefMaksura-ar.fina";
-lastChange = "2015-12-01 00:04:44 +0000";
+lastChange = "2015-12-01 00:04:53 +0000";
 layers = (
 {
 anchors = (
@@ -25763,7 +25763,7 @@ position = "{574, 334}";
 },
 {
 name = top_2;
-position = "{287, 80}";
+position = "{280, 83}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

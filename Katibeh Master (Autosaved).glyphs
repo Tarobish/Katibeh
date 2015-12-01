@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/meem_meem-ar.init"
+"/meem_meem-ar.init",
+"/meem_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28770,7 +28771,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "meem_meem-ar.init";
-lastChange = "2015-12-01 02:08:43 +0000";
+lastChange = "2015-12-01 02:08:52 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28867,7 +28868,10 @@ nodes = (
 {
 closed = 0;
 nodes = (
-"528 132 LINE SMOOTH",
+"434 74 LINE",
+"452 103 OFFCURVE",
+"490 121 OFFCURVE",
+"528 132 CURVE SMOOTH",
 "557 140 OFFCURVE",
 "586 144 OFFCURVE",
 "606 144 CURVE SMOOTH",
@@ -28890,7 +28894,8 @@ nodes = (
 "468 185 CURVE SMOOTH",
 "431 165 OFFCURVE",
 "396 138 OFFCURVE",
-"367 105 CURVE"
+"367 105 CURVE",
+"338 21 LINE"
 );
 }
 );

@@ -25285,7 +25285,7 @@ unicode = FCF5;
 },
 {
 glyphname = "ain_meem-ar";
-lastChange = "2015-12-01 00:58:03 +0000";
+lastChange = "2015-12-01 00:59:15 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -25295,9 +25295,9 @@ paths = (
 closed = 1;
 nodes = (
 "380 126 OFFCURVE",
-"372 221 OFFCURVE",
-"340 221 CURVE SMOOTH",
-"313 221 OFFCURVE",
+"387 222 OFFCURVE",
+"355 222 CURVE SMOOTH",
+"328 222 OFFCURVE",
 "348 175 OFFCURVE",
 "326 152 CURVE SMOOTH",
 "302 128 OFFCURVE",

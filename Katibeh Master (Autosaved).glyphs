@@ -28165,7 +28165,7 @@ width = 931;
 },
 {
 glyphname = "lam_meem-ar";
-lastChange = "2015-12-01 02:45:27 +0000";
+lastChange = "2015-12-01 02:45:36 +0000";
 layers = (
 {
 anchors = (
@@ -28175,7 +28175,7 @@ position = "{320, 0}";
 },
 {
 name = bottom_2;
-position = "{107, 0}";
+position = "{125, -510}";
 },
 {
 name = caret_1;
@@ -28183,7 +28183,7 @@ position = "{213.5, 0}";
 },
 {
 name = top_1;
-position = "{320, 500}";
+position = "{163, 670}";
 },
 {
 name = top_2;

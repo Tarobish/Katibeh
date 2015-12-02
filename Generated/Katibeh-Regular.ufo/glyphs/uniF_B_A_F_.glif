@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFBAF" format="1">
-  <advance width="593"/>
+  <advance width="643"/>
   <unicode hex="FBAF"/>
   <outline>
     <contour>
       <point x="353" y="0"/>
       <point x="365" y="0"/>
       <point x="420" y="0" type="curve"/>
-      <point x="593" y="0" type="line"/>
-      <point x="593" y="106" type="line"/>
+      <point x="643" y="0" type="line"/>
+      <point x="643" y="106" type="line"/>
       <point x="214" y="106" type="line"/>
       <point x="168" y="106"/>
       <point x="137" y="86"/>

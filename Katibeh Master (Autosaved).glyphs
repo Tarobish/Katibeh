@@ -42012,7 +42012,7 @@ unicode = 08F6;
 },
 {
 glyphname = "samvat-ar";
-lastChange = "2015-12-02 03:59:35 +0000";
+lastChange = "2015-12-02 03:59:45 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -42063,7 +42063,9 @@ nodes = (
 "564 106 OFFCURVE",
 "531 106 CURVE SMOOTH",
 "-281 106 LINE",
-"-460 96 LINE",
+"-363 105 OFFCURVE",
+"-452 107 OFFCURVE",
+"-495 110 CURVE",
 "-432 0 LINE",
 "562 0 LINE SMOOTH",
 "630 0 OFFCURVE",

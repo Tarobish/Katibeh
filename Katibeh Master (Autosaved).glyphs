@@ -23277,7 +23277,7 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-02 03:22:27 +0000";
+lastChange = "2015-12-02 03:22:40 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23330,9 +23330,8 @@ nodes = (
 );
 },
 {
-closed = 0;
+closed = 1;
 nodes = (
-"377 293 LINE",
 "311 270 OFFCURVE",
 "267 230 OFFCURVE",
 "246 186 CURVE",
@@ -23400,8 +23399,8 @@ nodes = (
 "427 202 OFFCURVE",
 "394 226 CURVE",
 "457 257 OFFCURVE",
-"548 288 OFFCURVE",
-"607 297 CURVE"
+"318 284 OFFCURVE",
+"377 293 CURVE"
 );
 },
 {

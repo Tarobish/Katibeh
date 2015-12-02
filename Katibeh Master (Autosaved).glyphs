@@ -25631,6 +25631,27 @@ width = 568;
 unicode = FCBB;
 },
 {
+glyphname = "ain_meem_alefMaksura-ar";
+layers = (
+{
+components = (
+{
+name = "ain-ar.init";
+transform = "{1, 0, 0, 1, 871, 0}";
+},
+{
+name = "meem_alefMaksura-ar.fina";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 1298;
+}
+);
+leftMetricsKey = "ain-ar.init";
+rightMetricsKey = "alefMaksura-ar.fina";
+},
+{
 glyphname = "ain_alefMaksura-ar";
 lastChange = "2015-11-30 22:10:47 +0000";
 layers = (

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehbarree-ar.fina"
+"/yehbarreeTwoabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -18962,7 +18962,7 @@ unicode = 06D3;
 },
 {
 glyphname = "yehbarreeHamzaabove-ar.fina";
-lastChange = "2015-11-28 01:11:16 +0000";
+lastChange = "2015-12-02 05:38:53 +0000";
 layers = (
 {
 components = (
@@ -18976,7 +18976,7 @@ transform = "{1, 0, 0, 1, 170, -564}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 593;
+width = 643;
 }
 );
 unicode = FBB1;
@@ -19005,7 +19005,7 @@ unicode = 077A;
 },
 {
 glyphname = "yehbarreeTwoabove-ar.fina";
-lastChange = "2015-11-28 01:11:29 +0000";
+lastChange = "2015-12-02 05:39:00 +0000";
 layers = (
 {
 components = (
@@ -19020,7 +19020,7 @@ transform = "{0.8, 0, 0, 0.8, 127, -186}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 593;
+width = 643;
 }
 );
 },

@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "/hah_meem_alefMaksura-ar",
-"/ain_meem_alefMaksura-ar"
+"/ain_meem_alefMaksura-ar",
+"/hah_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -23153,7 +23154,7 @@ unicode = FC18;
 },
 {
 glyphname = "hah_meem-ar.init";
-lastChange = "2015-12-02 03:21:35 +0000";
+lastChange = "2015-12-02 03:24:11 +0000";
 layers = (
 {
 anchors = (
@@ -23171,7 +23172,7 @@ position = "{334.5, 0}";
 },
 {
 name = top_1;
-position = "{273, 505}";
+position = "{273, 495}";
 },
 {
 name = top_2;
@@ -23277,17 +23278,17 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-02 03:23:50 +0000";
+lastChange = "2015-12-02 03:24:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{945, 0}";
+position = "{883, 216}";
 },
 {
 name = bottom_2;
-position = "{614, -183}";
+position = "{592, -189}";
 },
 {
 name = bottom_3;
@@ -23303,15 +23304,15 @@ position = "{756, 0}";
 },
 {
 name = top_1;
-position = "{945, 500}";
+position = "{710, 505}";
 },
 {
 name = top_2;
-position = "{567, 500}";
+position = "{456, 300}";
 },
 {
 name = top_3;
-position = "{189, 500}";
+position = "{269, 83}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

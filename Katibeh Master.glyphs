@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/lam_heh-ar.init",
-"/heh_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -29012,17 +29008,17 @@ unicode = FCCC;
 },
 {
 glyphname = "lam_meem_alefMaksura-ar";
-lastChange = "2015-12-02 01:57:36 +0000";
+lastChange = "2015-12-02 03:01:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{640, -137}";
+position = "{454, -312}";
 },
 {
 name = bottom_2;
-position = "{440, -315}";
+position = "{642, -132}";
 },
 {
 name = bottom_3;

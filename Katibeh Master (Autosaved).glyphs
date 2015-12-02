@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/samvat-ar"
+"/samvat-ar",
+"/number-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -42011,7 +42012,7 @@ unicode = 08F6;
 },
 {
 glyphname = "samvat-ar";
-lastChange = "2015-12-02 03:58:56 +0000";
+lastChange = "2015-12-02 03:59:21 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -42061,10 +42062,8 @@ nodes = (
 "100 122 OFFCURVE",
 "79 106 OFFCURVE",
 "46 106 CURVE SMOOTH",
-"-17 106 LINE SMOOTH",
-"-86 106 OFFCURVE",
-"-87 0 OFFCURVE",
-"-17 0 CURVE SMOOTH",
+"-917 106 LINE",
+"-917 0 LINE",
 "77 0 LINE SMOOTH",
 "145 0 OFFCURVE",
 "194 24 OFFCURVE",
@@ -42106,6 +42105,16 @@ nodes = (
 "676 209 OFFCURVE",
 "679 231 OFFCURVE",
 "678 254 CURVE SMOOTH"
+);
+},
+{
+closed = 0;
+nodes = (
+"-775 105 LINE",
+"-848 105 OFFCURVE",
+"-937 107 OFFCURVE",
+"-980 110 CURVE",
+"-914 -1 LINE"
 );
 }
 );

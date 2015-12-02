@@ -23277,7 +23277,7 @@ unicode = FCAA;
 },
 {
 glyphname = "hah_meem_alefMaksura-ar";
-lastChange = "2015-12-02 03:23:08 +0000";
+lastChange = "2015-12-02 03:23:32 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23350,11 +23350,11 @@ nodes = (
 "441 366 OFFCURVE",
 "477 354 OFFCURVE",
 "522 339 CURVE",
-"466 332 OFFCURVE",
-"402 314 OFFCURVE",
-"349 284 CURVE SMOOTH",
-"337.68 277.711 OFFCURVE",
-"326.804 270.916 OFFCURVE",
+"478 332 OFFCURVE",
+"427 319 OFFCURVE",
+"382 300 CURVE SMOOTH",
+"358 289 OFFCURVE",
+"336 277 OFFCURVE",
 "316.545 263.631 CURVE",
 "283.358 241.901 OFFCURVE",
 "259.749 214.808 OFFCURVE",
@@ -23409,11 +23409,10 @@ nodes = (
 );
 }
 );
-width = 871;
+width = 830;
 }
 );
 leftMetricsKey = "hah-ar.init";
-rightMetricsKey = "alefMaksura-ar.fina";
 },
 {
 glyphname = "hah_alefMaksura-ar";

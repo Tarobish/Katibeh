@@ -70,6 +70,8 @@
 	<string>d.glif</string>
 	<key>dotcenter-ar</key>
 	<string>dotcenter-ar.glif</string>
+	<key>dotlessbeh_High-ar</key>
+	<string>dotlessbeh_H_igh-ar.glif</string>
 	<key>dots.horz.below-ar</key>
 	<string>dots.horz.below-ar.glif</string>
 	<key>e</key>
@@ -484,6 +486,8 @@
 	<string>uni066D_.glif</string>
 	<key>uni066E</key>
 	<string>uni066E_.glif</string>
+	<key>uni066E.calt</key>
+	<string>uni066E_.calt.glif</string>
 	<key>uni066E.fina</key>
 	<string>uni066E_.fina.glif</string>
 	<key>uni066E.init</key>

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar"
+"/alef-ar.short"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -731,17 +731,17 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2015-12-05 23:55:16 +0000";
+lastChange = "2015-12-05 23:55:31 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{85, 0}";
+position = "{81, 0}";
 },
 {
 name = top;
-position = "{85, 500}";
+position = "{85, 682}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1018,7 +1018,7 @@ unicode = FE84;
 {
 color = 0;
 glyphname = "alefHamzabelow-ar";
-lastChange = "2015-12-05 23:55:19 +0000";
+lastChange = "2015-12-05 23:55:33 +0000";
 layers = (
 {
 components = (
@@ -1027,7 +1027,7 @@ name = "alef-ar";
 },
 {
 name = "hamzabelow-ar";
-transform = "{1, 0, 0, 1, 87, 65}";
+transform = "{1, 0, 0, 1, 83, 65}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

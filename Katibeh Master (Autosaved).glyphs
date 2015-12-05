@@ -6,6 +6,7 @@ featurePrefixes = (
 automatic = 1;
 code = "languagesystem DFLT dflt;\012languagesystem arab dflt;\012languagesystem arab URD;\012";
 name = Languagesystems;
+notes = "languagesystem arab ARA;";
 }
 );
 features = (

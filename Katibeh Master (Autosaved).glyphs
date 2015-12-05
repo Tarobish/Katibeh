@@ -17480,7 +17480,7 @@ unicode = 0649;
 },
 {
 glyphname = "alefMaksura-ar.fina";
-lastChange = "2015-12-05 23:57:58 +0000";
+lastChange = "2015-12-05 23:58:09 +0000";
 layers = (
 {
 anchors = (
@@ -17513,7 +17513,7 @@ nodes = (
 "170 -69 OFFCURVE",
 "140 -30 CURVE SMOOTH",
 "98 23 OFFCURVE",
-"103 124 OFFCURVE",
+"109 124 OFFCURVE",
 "143 171 CURVE",
 "127 187 LINE",
 "86 138 OFFCURVE",
@@ -17533,6 +17533,37 @@ nodes = (
 "511 0 CURVE",
 "555 0 LINE",
 "555 106 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"302 104 LINE SMOOTH",
+"302 82 OFFCURVE",
+"307 60 OFFCURVE",
+"322 45 CURVE SMOOTH"
+);
+},
+{
+closed = 0;
+nodes = (
+"281 -68 LINE SMOOTH",
+"229 -68 OFFCURVE",
+"190 -53 OFFCURVE",
+"164 -35 CURVE SMOOTH",
+"124 -7 OFFCURVE",
+"109 30 OFFCURVE",
+"110 71 CURVE SMOOTH",
+"111 119 OFFCURVE",
+"134 161 OFFCURVE",
+"143 171 CURVE",
+"127 187 LINE",
+"105 163 OFFCURVE",
+"94 135 OFFCURVE",
+"87 113 CURVE SMOOTH",
+"70 61 OFFCURVE",
+"70 19 OFFCURVE",
+"70 17 CURVE SMOOTH"
 );
 }
 );

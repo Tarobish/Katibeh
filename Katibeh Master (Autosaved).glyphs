@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/alefMaksura-ar.fina/yeh-farsi.fina"
+"/alefMaksura-ar.fina/yeh-farsi.fina",
+"/alefMaksura-ar/yehFourbelow-farsi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17479,7 +17480,7 @@ unicode = 0649;
 },
 {
 glyphname = "alefMaksura-ar.fina";
-lastChange = "2015-12-05 23:57:53 +0000";
+lastChange = "2015-12-05 23:57:58 +0000";
 layers = (
 {
 anchors = (
@@ -17512,7 +17513,7 @@ nodes = (
 "170 -69 OFFCURVE",
 "140 -30 CURVE SMOOTH",
 "98 23 OFFCURVE",
-"100 124 OFFCURVE",
+"103 124 OFFCURVE",
 "143 171 CURVE",
 "127 187 LINE",
 "86 138 OFFCURVE",

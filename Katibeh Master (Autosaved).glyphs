@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/alefMaksura-ar.fina/yeh-farsi.fina",
-"/alefMaksura-ar/yehFourbelow-farsi"
+"/alefMaksura-ar.fina/yeh-farsi.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17480,7 +17479,7 @@ unicode = 0649;
 },
 {
 glyphname = "alefMaksura-ar.fina";
-lastChange = "2015-12-05 23:58:25 +0000";
+lastChange = "2015-12-05 23:59:49 +0000";
 layers = (
 {
 anchors = (
@@ -17531,15 +17530,18 @@ nodes = (
 "312 -202 OFFCURVE",
 "365 -191 OFFCURVE",
 "408 -172 CURVE SMOOTH",
-"551 -109 OFFCURVE",
-"534 -21 OFFCURVE",
+"501 -131 OFFCURVE",
+"526 -79 OFFCURVE",
+"526 -43 CURVE SMOOTH",
+"526 -23 OFFCURVE",
+"519 -7 OFFCURVE",
 "511 0 CURVE",
-"555 0 LINE",
-"555 106 LINE"
+"579 0 LINE",
+"579 106 LINE"
 );
 }
 );
-width = 555;
+width = 579;
 }
 );
 unicode = FEF0;
@@ -18116,7 +18118,7 @@ unicode = 06CC;
 },
 {
 glyphname = "yeh-farsi.fina";
-lastChange = "2015-11-28 07:23:32 +0000";
+lastChange = "2015-12-05 23:59:49 +0000";
 layers = (
 {
 components = (
@@ -18126,7 +18128,7 @@ name = "alefMaksura-ar.fina";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 555;
+width = 579;
 }
 );
 unicode = FBFD;

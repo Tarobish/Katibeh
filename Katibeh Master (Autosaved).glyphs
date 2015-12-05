@@ -17479,7 +17479,7 @@ unicode = 0649;
 },
 {
 glyphname = "alefMaksura-ar.fina";
-lastChange = "2015-12-05 23:57:16 +0000";
+lastChange = "2015-12-05 23:57:27 +0000";
 layers = (
 {
 anchors = (
@@ -17531,7 +17531,7 @@ nodes = (
 "365 -191 OFFCURVE",
 "408 -172 CURVE SMOOTH",
 "551 -109 OFFCURVE",
-"540 -25 OFFCURVE",
+"534 -21 OFFCURVE",
 "511 0 CURVE",
 "555 0 LINE",
 "555 106 LINE"

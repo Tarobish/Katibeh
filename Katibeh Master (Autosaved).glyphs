@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/heh_alefMaksura-ar"
+"/meem_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -30354,7 +30354,7 @@ unicode = FC49;
 },
 {
 glyphname = "meem_alefMaksura-ar.fina";
-lastChange = "2015-11-30 23:27:37 +0000";
+lastChange = "2015-12-06 00:09:07 +0000";
 layers = (
 {
 anchors = (
@@ -30364,7 +30364,7 @@ position = "{647, -108}";
 },
 {
 name = bottom_2;
-position = "{271, -279}";
+position = "{281, -279}";
 },
 {
 name = caret_1;
@@ -30486,13 +30486,13 @@ width = 871;
 },
 {
 glyphname = "heh_alefMaksura-ar";
-lastChange = "2015-12-06 00:08:52 +0000";
+lastChange = "2015-12-06 00:08:59 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{640, 0}";
+position = "{603, -200}";
 },
 {
 name = bottom_2;
@@ -30504,7 +30504,7 @@ position = "{426.5, 0}";
 },
 {
 name = top_1;
-position = "{573, 476}";
+position = "{583, 476}";
 },
 {
 name = top_2;

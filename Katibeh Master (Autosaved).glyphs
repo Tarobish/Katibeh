@@ -3798,17 +3798,17 @@ unicode = FB74;
 },
 {
 glyphname = "hah-ar";
-lastChange = "2015-12-01 03:36:30 +0000";
+lastChange = "2015-12-06 00:16:54 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{321, -399}";
+position = "{301, -399}";
 },
 {
 name = center;
-position = "{341, -25}";
+position = "{331, -25}";
 },
 {
 name = top;
@@ -3869,8 +3869,8 @@ nodes = (
 "199 -353 OFFCURVE",
 "264 -368 OFFCURVE",
 "349 -369 CURVE SMOOTH",
-"427 -370 LINE",
-"515 -269 LINE",
+"407 -370 LINE",
+"495 -269 LINE",
 "399 -269 LINE SMOOTH"
 );
 },

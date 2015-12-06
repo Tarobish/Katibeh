@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lam-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -13651,7 +13654,7 @@ unicode = FB98;
 },
 {
 glyphname = "lam-ar";
-lastChange = "2015-11-17 00:42:15 +0000";
+lastChange = "2015-12-06 00:59:49 +0000";
 layers = (
 {
 anchors = (
@@ -13661,7 +13664,7 @@ position = "{275, -164}";
 },
 {
 name = top;
-position = "{401, 708}";
+position = "{401, 698}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13733,7 +13736,7 @@ unicode = 0644;
 },
 {
 glyphname = "lam-ar.fina";
-lastChange = "2015-11-17 00:41:51 +0000";
+lastChange = "2015-12-06 00:59:42 +0000";
 layers = (
 {
 anchors = (
@@ -13743,7 +13746,7 @@ position = "{276, -264}";
 },
 {
 name = top;
-position = "{365, 641}";
+position = "{365, 631}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13975,7 +13978,7 @@ unicode = 06B5;
 },
 {
 glyphname = "lamVabove-ar.fina";
-lastChange = "2015-11-27 04:11:45 +0000";
+lastChange = "2015-12-06 00:59:44 +0000";
 layers = (
 {
 components = (
@@ -13984,7 +13987,7 @@ name = "lam-ar.fina";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 365, -39}";
+transform = "{1, 0, 0, 1, 365, -49}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14056,7 +14059,7 @@ unicode = 06B6;
 },
 {
 glyphname = "lamDotabove-ar.fina";
-lastChange = "2015-11-17 00:41:52 +0000";
+lastChange = "2015-12-06 00:59:44 +0000";
 layers = (
 {
 components = (
@@ -14065,7 +14068,7 @@ name = "lam-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 370, -39}";
+transform = "{1, 0, 0, 1, 370, -49}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14137,7 +14140,7 @@ unicode = 06B7;
 },
 {
 glyphname = "lamThreedotsabove-ar.fina";
-lastChange = "2015-11-17 00:41:52 +0000";
+lastChange = "2015-12-06 00:59:44 +0000";
 layers = (
 {
 components = (
@@ -14146,7 +14149,7 @@ name = "lam-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 366, -39}";
+transform = "{1, 0, 0, 1, 366, -49}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/uni064B
+);
 customParameters = (
 {
 name = glyphOrder;
@@ -38624,6 +38627,7 @@ unicode = 0655;
 },
 {
 glyphname = uni0655064D;
+lastChange = "2015-12-06 06:34:35 +0000";
 layers = (
 {
 components = (
@@ -38632,7 +38636,7 @@ name = uni0655;
 },
 {
 name = uni064D;
-transform = "{1, 0, 0, 1, 0, -139}";
+transform = "{1, 0, 0, 1, 0, -170}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -38643,6 +38647,7 @@ width = 0;
 },
 {
 glyphname = uni06550650;
+lastChange = "2015-12-06 06:34:35 +0000";
 layers = (
 {
 components = (
@@ -38651,7 +38656,7 @@ name = uni0655;
 },
 {
 name = uni0650;
-transform = "{1, 0, 0, 1, 0, -146}";
+transform = "{1, 0, 0, 1, 0, -178}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

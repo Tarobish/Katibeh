@@ -1714,7 +1714,7 @@ unicode = FE90;
 },
 {
 glyphname = "beh-ar.medi";
-lastChange = "2015-11-16 19:16:48 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -1723,7 +1723,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 6, 30}";
+transform = "{1, 0, 0, 1, 16, 30}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1798,7 +1798,7 @@ unicode = FB57;
 },
 {
 glyphname = "peh-ar.medi";
-lastChange = "2015-11-16 19:17:31 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -1807,7 +1807,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 8, 31}";
+transform = "{1, 0, 0, 1, 18, 31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1882,7 +1882,7 @@ unicode = FB53;
 },
 {
 glyphname = "beeh-ar.medi";
-lastChange = "2015-11-16 19:17:31 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -1891,7 +1891,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 1, 32}";
+transform = "{1, 0, 0, 1, 11, 32}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1966,7 +1966,7 @@ unicode = FB5B;
 },
 {
 glyphname = "beheh-ar.medi";
-lastChange = "2015-11-16 19:21:09 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -1975,7 +1975,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "fourdotsbelow-ar";
-transform = "{1, 0, 0, 1, 7, 31}";
+transform = "{1, 0, 0, 1, 17, 31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2821,7 +2821,7 @@ width = 234;
 },
 {
 glyphname = "behThreedotsupabove-ar.medi";
-lastChange = "2015-11-17 00:02:07 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -2830,7 +2830,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 6, 30}";
+transform = "{1, 0, 0, 1, 16, 30}";
 },
 {
 name = "threedotsupabove-ar";
@@ -2906,7 +2906,7 @@ width = 234;
 },
 {
 glyphname = "behThreedotsupbelow-ar.medi";
-lastChange = "2015-11-16 19:17:31 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -2915,7 +2915,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 8, 31}";
+transform = "{1, 0, 0, 1, 18, 31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2999,7 +2999,7 @@ width = 234;
 },
 {
 glyphname = "tehThreedotsupbelow-ar.medi";
-lastChange = "2015-11-17 00:02:07 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -3008,7 +3008,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 8, 31}";
+transform = "{1, 0, 0, 1, 18, 31}";
 },
 {
 name = "twodotshorizontalabove-ar";
@@ -3096,7 +3096,7 @@ width = 234;
 },
 {
 glyphname = "behTwodotsbelowDotabove-ar.medi";
-lastChange = "2015-11-17 00:02:07 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -3105,7 +3105,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 8, 31}";
+transform = "{1, 0, 0, 1, 18, 31}";
 },
 {
 name = "dotabove-ar";
@@ -3181,7 +3181,7 @@ width = 234;
 },
 {
 glyphname = "behVinvertedbelow-ar.medi";
-lastChange = "2015-11-27 04:19:02 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -3190,7 +3190,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = circumflex.below;
-transform = "{1, 0, 0, 1, 6, 147}";
+transform = "{1, 0, 0, 1, 16, 147}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3283,7 +3283,7 @@ width = 234;
 },
 {
 glyphname = "behVbelow-ar.medi";
-lastChange = "2015-11-27 04:16:32 +0000";
+lastChange = "2015-12-06 00:47:54 +0000";
 layers = (
 {
 components = (
@@ -3292,7 +3292,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "vbelow-ar";
-transform = "{1, 0, 0, 1, 6, 148}";
+transform = "{1, 0, 0, 1, 16, 148}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -15104,7 +15104,7 @@ width = 234;
 },
 {
 glyphname = "noonDotbelow-ar.medi";
-lastChange = "2015-12-06 00:47:46 +0000";
+lastChange = "2015-12-06 00:47:52 +0000";
 layers = (
 {
 components = (

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMaksura-ar/yehTail-ar"
+"/yehTail-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17379,7 +17379,7 @@ unicode = FBDF;
 },
 {
 glyphname = "alefMaksura-ar";
-lastChange = "2015-12-06 01:26:53 +0000";
+lastChange = "2015-12-06 01:27:26 +0000";
 layers = (
 {
 anchors = (
@@ -18589,13 +18589,13 @@ width = 284;
 },
 {
 glyphname = "yehTail-ar";
-lastChange = "2015-12-06 01:27:15 +0000";
+lastChange = "2015-12-06 01:27:33 +0000";
 layers = (
 {
 components = (
 {
 name = "alefMaksura-ar";
-transform = "{1.07, 0, 0, 1.07, 28, -5}";
+transform = "{1.07, 0, 0, 1.07, 28, 5}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

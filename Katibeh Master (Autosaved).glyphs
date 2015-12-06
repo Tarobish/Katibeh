@@ -4686,7 +4686,7 @@ unicode = FEA7;
 },
 {
 glyphname = "hahTahbelow-ar";
-lastChange = "2015-11-27 21:40:10 +0000";
+lastChange = "2015-12-06 00:18:51 +0000";
 layers = (
 {
 components = (
@@ -4696,7 +4696,7 @@ name = "hah-ar";
 {
 disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 345, -848}";
+transform = "{1, 0, 0, 1, 335, -848}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4708,7 +4708,7 @@ unicode = 076E;
 },
 {
 glyphname = "hahTahbelow-ar.fina";
-lastChange = "2015-11-27 21:40:18 +0000";
+lastChange = "2015-12-06 00:18:45 +0000";
 layers = (
 {
 components = (
@@ -4718,7 +4718,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 334, -874}";
+transform = "{1, 0, 0, 1, 324, -864}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

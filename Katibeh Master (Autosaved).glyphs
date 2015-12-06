@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alef-ar.fina"
+"/theh-ar/lam_alef-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -21571,7 +21571,7 @@ unicode = FEFB;
 },
 {
 glyphname = "lam_alef-ar.fina";
-lastChange = "2015-12-06 01:00:08 +0000";
+lastChange = "2015-12-06 02:08:28 +0000";
 layers = (
 {
 anchors = (
@@ -21649,12 +21649,8 @@ nodes = (
 "388 115 OFFCURVE",
 "419 171 OFFCURVE",
 "428 236 CURVE",
-"432 179 LINE",
-"433 164 OFFCURVE",
-"432 114 OFFCURVE",
-"449 70 CURVE SMOOTH",
-"464 33 OFFCURVE",
-"492 0 OFFCURVE",
+"439 68 OFFCURVE",
+"459 0 OFFCURVE",
 "546 0 CURVE SMOOTH",
 "634 0 LINE",
 "634 106 LINE",

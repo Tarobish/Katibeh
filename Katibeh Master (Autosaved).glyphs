@@ -28450,7 +28450,7 @@ width = 1001;
 },
 {
 glyphname = "kaf_alefMaksura-ar";
-lastChange = "2015-12-06 00:07:00 +0000";
+lastChange = "2015-12-06 00:07:13 +0000";
 layers = (
 {
 anchors = (
@@ -28472,7 +28472,7 @@ position = "{400, 590}";
 },
 {
 name = top_2;
-position = "{259, 79}";
+position = "{261, 81}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -28570,7 +28570,7 @@ nodes = (
 );
 }
 );
-width = 653;
+width = 673;
 }
 );
 unicode = FC3D;

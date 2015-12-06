@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -13821,7 +13818,7 @@ unicode = FEDE;
 },
 {
 glyphname = "lam-ar.medi";
-lastChange = "2015-12-06 00:58:22 +0000";
+lastChange = "2015-12-06 00:58:40 +0000";
 layers = (
 {
 anchors = (
@@ -13831,7 +13828,7 @@ position = "{51, -34}";
 },
 {
 name = top;
-position = "{60, 692}";
+position = "{60, 702}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14018,7 +14015,7 @@ width = 201;
 },
 {
 glyphname = "lamVabove-ar.medi";
-lastChange = "2015-12-06 00:58:23 +0000";
+lastChange = "2015-12-06 00:58:43 +0000";
 layers = (
 {
 components = (
@@ -14027,7 +14024,7 @@ name = "lam-ar.medi";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 60, 12}";
+transform = "{1, 0, 0, 1, 60, 22}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14099,7 +14096,7 @@ width = 201;
 },
 {
 glyphname = "lamDotabove-ar.medi";
-lastChange = "2015-12-06 00:58:23 +0000";
+lastChange = "2015-12-06 00:58:43 +0000";
 layers = (
 {
 components = (
@@ -14108,7 +14105,7 @@ name = "lam-ar.medi";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 65, 12}";
+transform = "{1, 0, 0, 1, 65, 22}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14180,7 +14177,7 @@ width = 201;
 },
 {
 glyphname = "lamThreedotsabove-ar.medi";
-lastChange = "2015-12-06 00:58:23 +0000";
+lastChange = "2015-12-06 00:58:43 +0000";
 layers = (
 {
 components = (
@@ -14189,7 +14186,7 @@ name = "lam-ar.medi";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 61, 12}";
+transform = "{1, 0, 0, 1, 61, 22}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

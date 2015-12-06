@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hehDoachashmee-ar.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -16210,13 +16207,13 @@ unicode = 06BE;
 },
 {
 glyphname = "hehDoachashmee-ar.fina";
-lastChange = "2015-11-17 00:54:18 +0000";
+lastChange = "2015-12-06 01:23:28 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{301, -34}";
+position = "{301, -44}";
 },
 {
 name = top;
@@ -16324,13 +16321,13 @@ unicode = FBAB;
 },
 {
 glyphname = "hehDoachashmee-ar.medi";
-lastChange = "2015-11-17 00:54:34 +0000";
+lastChange = "2015-12-06 01:23:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{187, -34}";
+position = "{187, -44}";
 },
 {
 name = top;

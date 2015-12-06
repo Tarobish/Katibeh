@@ -116,13 +116,13 @@
       <point x="653" y="172" type="curve"/>
     </contour>
     <contour>
-      <point x="583" y="476" type="move" name="top_1"/>
+      <point x="427" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
       <point x="603" y="-200" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="427" y="0" type="move" name="caret_1"/>
+      <point x="583" y="476" type="move" name="top_1"/>
     </contour>
     <contour>
       <point x="278" y="87" type="move" name="top_2"/>

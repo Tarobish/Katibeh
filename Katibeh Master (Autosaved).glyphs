@@ -6376,23 +6376,23 @@ width = 355;
 },
 {
 glyphname = "rehStroke-ar";
-lastChange = "2015-11-28 01:17:33 +0000";
+lastChange = "2015-12-06 00:24:09 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "reh-ar";
-transform = "{1, 0, 0, 1, 70, 0}";
+transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = barlong;
-transform = "{1, 0, 0, 1, 145, -225}";
+transform = "{1, 0, 0, 1, 175, -225}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 339;
+width = 319;
 }
 );
 unicode = 075B;

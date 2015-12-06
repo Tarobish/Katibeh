@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_alef-ar.fina/keheh-ar/noon-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -21571,7 +21568,7 @@ unicode = FEFB;
 },
 {
 glyphname = "lam_alef-ar.fina";
-lastChange = "2015-12-06 00:43:10 +0000";
+lastChange = "2015-12-06 00:44:00 +0000";
 layers = (
 {
 anchors = (
@@ -21593,7 +21590,7 @@ position = "{432, 712}";
 },
 {
 name = top_2;
-position = "{92, 611}";
+position = "{112, 611}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

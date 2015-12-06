@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/sad_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -24633,7 +24630,7 @@ unicode = FD17;
 },
 {
 glyphname = "seen_meem_alefMaksura-ar";
-lastChange = "2015-12-02 01:34:00 +0000";
+lastChange = "2015-12-06 00:03:31 +0000";
 layers = (
 {
 anchors = (
@@ -24647,7 +24644,7 @@ position = "{682, -90}";
 },
 {
 name = bottom_3;
-position = "{271, -288}";
+position = "{281, -288}";
 },
 {
 name = caret_1;
@@ -25337,7 +25334,7 @@ unicode = FCB3;
 },
 {
 glyphname = "sad_meem_alefMaksura-ar";
-lastChange = "2015-12-02 01:28:45 +0000";
+lastChange = "2015-12-06 00:03:25 +0000";
 layers = (
 {
 anchors = (
@@ -25351,7 +25348,7 @@ position = "{680, -87}";
 },
 {
 name = bottom_3;
-position = "{271, -288}";
+position = "{281, -288}";
 },
 {
 name = caret_1;

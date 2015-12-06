@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -13957,7 +13954,7 @@ unicode = FEDF;
 },
 {
 glyphname = "lamVabove-ar";
-lastChange = "2015-11-27 04:11:45 +0000";
+lastChange = "2015-12-06 00:59:51 +0000";
 layers = (
 {
 components = (
@@ -13966,7 +13963,7 @@ name = "lam-ar";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 401, 28}";
+transform = "{1, 0, 0, 1, 401, 18}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14038,7 +14035,7 @@ width = 297;
 },
 {
 glyphname = "lamDotabove-ar";
-lastChange = "2015-11-17 00:42:16 +0000";
+lastChange = "2015-12-06 00:59:51 +0000";
 layers = (
 {
 components = (
@@ -14047,7 +14044,7 @@ name = "lam-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 406, 28}";
+transform = "{1, 0, 0, 1, 406, 18}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14119,7 +14116,7 @@ width = 297;
 },
 {
 glyphname = "lamThreedotsabove-ar";
-lastChange = "2015-11-17 00:42:16 +0000";
+lastChange = "2015-12-06 00:59:51 +0000";
 layers = (
 {
 components = (
@@ -14128,7 +14125,7 @@ name = "lam-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 402, 28}";
+transform = "{1, 0, 0, 1, 402, 18}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20150,7 +20147,7 @@ width = 427;
 },
 {
 glyphname = "ainTwodotshorizontalabove-ar.medi";
-lastChange = "2015-11-30 22:10:00 +0000";
+lastChange = "2015-12-06 00:59:56 +0000";
 layers = (
 {
 components = (
@@ -20164,7 +20161,7 @@ transform = "{1, 0, 0, 1, 199, -368}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 441;
+width = 451;
 }
 );
 },
@@ -20231,7 +20228,7 @@ width = 427;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.medi";
-lastChange = "2015-11-30 22:10:00 +0000";
+lastChange = "2015-12-06 00:59:56 +0000";
 layers = (
 {
 components = (
@@ -20245,7 +20242,7 @@ transform = "{1, 0, 0, 1, 209, -368}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 441;
+width = 451;
 }
 );
 },
@@ -20312,7 +20309,7 @@ width = 427;
 },
 {
 glyphname = "ainTwodotsverticalabove-ar.medi";
-lastChange = "2015-11-30 22:10:00 +0000";
+lastChange = "2015-12-06 00:59:56 +0000";
 layers = (
 {
 components = (
@@ -20326,7 +20323,7 @@ transform = "{1, 0, 0, 1, 203, -368}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 441;
+width = 451;
 }
 );
 },

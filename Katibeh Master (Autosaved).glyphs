@@ -21571,7 +21571,7 @@ unicode = FEFB;
 },
 {
 glyphname = "lam_alef-ar.fina";
-lastChange = "2015-12-06 02:08:52 +0000";
+lastChange = "2015-12-06 02:09:02 +0000";
 layers = (
 {
 anchors = (
@@ -21651,8 +21651,8 @@ nodes = (
 "428 236 CURVE",
 "438 135 LINE",
 "447 40 OFFCURVE",
-"491 0 OFFCURVE",
-"563 0 CURVE SMOOTH",
+"498 0 OFFCURVE",
+"570 0 CURVE SMOOTH",
 "634 0 LINE",
 "634 106 LINE",
 "594 106 LINE SMOOTH"

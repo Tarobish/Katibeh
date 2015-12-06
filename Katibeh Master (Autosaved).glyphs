@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/noonghunna-ar/noon-ar/noonRing-ar"
+"/noonRing-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -15043,7 +15043,7 @@ unicode = FEE7;
 },
 {
 glyphname = "noonDotbelow-ar";
-lastChange = "2015-12-06 00:14:08 +0000";
+lastChange = "2015-12-06 00:14:32 +0000";
 layers = (
 {
 components = (
@@ -15124,7 +15124,7 @@ width = 276;
 },
 {
 glyphname = "noonghunna-ar";
-lastChange = "2015-12-06 00:14:04 +0000";
+lastChange = "2015-12-06 00:14:30 +0000";
 layers = (
 {
 anchors = (

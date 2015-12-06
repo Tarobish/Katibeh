@@ -15730,7 +15730,7 @@ unicode = FEEC;
 },
 {
 glyphname = "heh-ar.init";
-lastChange = "2015-11-17 00:54:06 +0000";
+lastChange = "2015-12-06 00:08:49 +0000";
 layers = (
 {
 anchors = (
@@ -30486,7 +30486,7 @@ width = 871;
 },
 {
 glyphname = "heh_alefMaksura-ar";
-lastChange = "2015-12-06 00:08:31 +0000";
+lastChange = "2015-12-06 00:08:52 +0000";
 layers = (
 {
 anchors = (
@@ -30504,7 +30504,7 @@ position = "{426.5, 0}";
 },
 {
 name = top_1;
-position = "{553, 446}";
+position = "{573, 476}";
 },
 {
 name = top_2;

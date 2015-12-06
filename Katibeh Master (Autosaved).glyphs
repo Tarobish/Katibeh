@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessfeh-ar.fina"
+"/dotlessfeh-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -2304,7 +2304,7 @@ unicode = FE9C;
 },
 {
 glyphname = "theh-ar.init";
-lastChange = "2015-11-29 21:57:34 +0000";
+lastChange = "2015-12-06 01:25:25 +0000";
 layers = (
 {
 components = (
@@ -2313,7 +2313,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, -2, -380}";
+transform = "{1, 0, 0, 1, 4, -380}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

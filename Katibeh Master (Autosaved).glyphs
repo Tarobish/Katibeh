@@ -4518,7 +4518,7 @@ width = 546;
 {
 color = 0;
 glyphname = "hahThreedotsupbelow-ar";
-lastChange = "2015-11-16 21:36:31 +0000";
+lastChange = "2015-12-06 00:18:38 +0000";
 layers = (
 {
 components = (
@@ -4528,7 +4528,7 @@ name = "hah-ar";
 {
 disableAlignment = 1;
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 343, 149}";
+transform = "{1, 0, 0, 1, 333, 149}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4541,7 +4541,7 @@ unicode = 0758;
 {
 color = 0;
 glyphname = "hahThreedotsupbelow-ar.fina";
-lastChange = "2015-11-17 00:19:03 +0000";
+lastChange = "2015-12-06 00:18:34 +0000";
 layers = (
 {
 components = (
@@ -4551,7 +4551,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "threedotsupbelow-ar";
-transform = "{1, 0, 0, 1, 328, 144}";
+transform = "{1, 0, 0, 1, 318, 144}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

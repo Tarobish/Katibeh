@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/ain-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -9219,13 +9216,13 @@ width = 505;
 },
 {
 glyphname = "ain-ar";
-lastChange = "2015-11-28 00:46:30 +0000";
+lastChange = "2015-12-06 00:16:25 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{329, -396}";
+position = "{309, -396}";
 },
 {
 name = top;
@@ -9297,8 +9294,8 @@ nodes = (
 "200 -358 OFFCURVE",
 "279 -370 OFFCURVE",
 "349 -370 CURVE SMOOTH",
-"418 -370 LINE",
-"505 -269 LINE",
+"398 -370 LINE",
+"485 -269 LINE",
 "399 -269 LINE SMOOTH"
 );
 }

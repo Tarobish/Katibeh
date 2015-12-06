@@ -13651,7 +13651,7 @@ unicode = FB98;
 },
 {
 glyphname = "lam-ar";
-lastChange = "2015-12-06 00:59:49 +0000";
+lastChange = "2015-12-06 01:06:36 +0000";
 layers = (
 {
 anchors = (
@@ -13661,7 +13661,7 @@ position = "{275, -164}";
 },
 {
 name = top;
-position = "{401, 698}";
+position = "{381, 698}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13954,7 +13954,7 @@ unicode = FEDF;
 },
 {
 glyphname = "lamVabove-ar";
-lastChange = "2015-12-06 00:59:51 +0000";
+lastChange = "2015-12-06 01:06:42 +0000";
 layers = (
 {
 components = (
@@ -13963,7 +13963,7 @@ name = "lam-ar";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 401, 18}";
+transform = "{1, 0, 0, 1, 381, 18}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14035,7 +14035,7 @@ width = 297;
 },
 {
 glyphname = "lamDotabove-ar";
-lastChange = "2015-12-06 00:59:51 +0000";
+lastChange = "2015-12-06 01:06:42 +0000";
 layers = (
 {
 components = (
@@ -14044,7 +14044,7 @@ name = "lam-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 406, 18}";
+transform = "{1, 0, 0, 1, 386, 18}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14116,7 +14116,7 @@ width = 297;
 },
 {
 glyphname = "lamThreedotsabove-ar";
-lastChange = "2015-12-06 00:59:51 +0000";
+lastChange = "2015-12-06 01:06:42 +0000";
 layers = (
 {
 components = (
@@ -14125,7 +14125,7 @@ name = "lam-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 402, 18}";
+transform = "{1, 0, 0, 1, 382, 18}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

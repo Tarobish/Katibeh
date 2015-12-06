@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/rehStroke-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -6402,14 +6399,14 @@ unicode = 075B;
 },
 {
 glyphname = "rehStroke-ar.fina";
-lastChange = "2015-11-28 01:17:42 +0000";
+lastChange = "2015-12-06 00:23:59 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "reh-ar.fina";
-transform = "{1, 0, 0, 1, 70, 0}";
+transform = "{1, 0, 0, 1, 50, 0}";
 },
 {
 name = barlong;
@@ -6418,7 +6415,7 @@ transform = "{1, 0, 0, 1, 171, -225}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 385;
+width = 365;
 }
 );
 },

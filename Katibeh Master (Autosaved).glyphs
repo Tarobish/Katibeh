@@ -25669,7 +25669,7 @@ unicode = FD05;
 },
 {
 glyphname = "sad_alefMaksura-ar.fina";
-lastChange = "2015-11-29 22:13:10 +0000";
+lastChange = "2015-12-06 00:04:52 +0000";
 layers = (
 {
 anchors = (
@@ -25679,7 +25679,7 @@ position = "{717, -44}";
 },
 {
 name = bottom_2;
-position = "{278, -248}";
+position = "{288, -248}";
 },
 {
 name = caret_1;
@@ -28905,7 +28905,7 @@ unicode = FCCA;
 },
 {
 glyphname = "lam_hah_alefMaksura-ar";
-lastChange = "2015-12-01 03:12:04 +0000";
+lastChange = "2015-12-06 00:04:58 +0000";
 layers = (
 {
 anchors = (
@@ -28919,7 +28919,7 @@ position = "{568, -188}";
 },
 {
 name = bottom_3;
-position = "{271, -249}";
+position = "{281, -249}";
 },
 {
 name = caret_1;

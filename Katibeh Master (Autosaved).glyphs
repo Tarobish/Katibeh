@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/kaf_alefMaksura-ar.fina"
+"/kaf_alefMaksura-ar.fina",
+"/kaf-ar.init/keheh-ar.init/kehehThreedotsupbelow-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28555,7 +28556,7 @@ unicode = FC3D;
 },
 {
 glyphname = "kaf_alefMaksura-ar.fina";
-lastChange = "2015-12-06 00:05:13 +0000";
+lastChange = "2015-12-06 00:05:48 +0000";
 layers = (
 {
 anchors = (
@@ -28573,11 +28574,11 @@ position = "{375.5, 0}";
 },
 {
 name = top_1;
-position = "{563, 500}";
+position = "{437, 595}";
 },
 {
 name = top_2;
-position = "{264, 90}";
+position = "{271, 82}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

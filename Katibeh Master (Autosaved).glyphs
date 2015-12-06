@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hah_alefMaksura-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -22155,7 +22158,7 @@ width = 598;
 },
 {
 glyphname = "dotlessbeh_hah_alefMaksura-ar";
-lastChange = "2015-12-01 07:03:08 +0000";
+lastChange = "2015-12-06 00:02:27 +0000";
 layers = (
 {
 anchors = (
@@ -22169,7 +22172,7 @@ position = "{553, -190}";
 },
 {
 name = bottom_3;
-position = "{271, -249}";
+position = "{281, -249}";
 },
 {
 name = caret_1;
@@ -23638,7 +23641,7 @@ unicode = FCFF;
 },
 {
 glyphname = "hah_alefMaksura-ar.fina";
-lastChange = "2015-12-01 03:12:50 +0000";
+lastChange = "2015-12-06 00:02:34 +0000";
 layers = (
 {
 anchors = (
@@ -23648,7 +23651,7 @@ position = "{677, -34}";
 },
 {
 name = bottom_2;
-position = "{271, -249}";
+position = "{281, -249}";
 },
 {
 name = caret_1;

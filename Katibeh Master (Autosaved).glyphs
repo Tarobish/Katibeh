@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefMaksura-ar/yehTail-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -18586,7 +18589,7 @@ width = 284;
 },
 {
 glyphname = "yehTail-ar";
-lastChange = "2015-11-28 07:29:07 +0000";
+lastChange = "2015-12-06 01:27:15 +0000";
 layers = (
 {
 components = (

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/hamza-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -663,7 +666,7 @@ unicode = 007A;
 },
 {
 glyphname = "hamza-ar";
-lastChange = "2015-11-25 22:30:50 +0000";
+lastChange = "2015-12-06 00:40:27 +0000";
 layers = (
 {
 anchors = (
@@ -683,41 +686,41 @@ paths = (
 closed = 1;
 nodes = (
 "173 100 OFFCURVE",
-"154 127 OFFCURVE",
-"148 136 CURVE",
-"150 138 OFFCURVE",
-"173 155 OFFCURVE",
-"191 155 CURVE SMOOTH",
-"195 155 OFFCURVE",
-"211 150 OFFCURVE",
-"219 132 CURVE",
-"247 156 LINE",
-"247 156 OFFCURVE",
-"239 203 OFFCURVE",
-"202 203 CURVE SMOOTH",
-"160 203 OFFCURVE",
-"115 142 OFFCURVE",
-"112 136 CURVE",
-"109 132 OFFCURVE",
-"108 128 OFFCURVE",
-"108 124 CURVE SMOOTH",
-"108 84 OFFCURVE",
-"143 71 OFFCURVE",
-"143 71 CURVE",
-"135 67 OFFCURVE",
-"113 61 OFFCURVE",
-"103 57 CURVE",
-"70 6 LINE",
-"78 0 LINE",
-"120 21 OFFCURVE",
-"184 45 OFFCURVE",
-"263 58 CURVE",
-"263 58 OFFCURVE",
-"280 103 OFFCURVE",
-"280 104 CURVE",
-"258 100 OFFCURVE",
-"239 97 OFFCURVE",
-"212 90 CURVE"
+"150 132 OFFCURVE",
+"143 143 CURVE",
+"145 145 OFFCURVE",
+"173 166 OFFCURVE",
+"194 166 CURVE SMOOTH",
+"199 166 OFFCURVE",
+"218 160 OFFCURVE",
+"228 138 CURVE",
+"261 167 LINE",
+"261 167 OFFCURVE",
+"252 223 OFFCURVE",
+"207 223 CURVE SMOOTH",
+"157 223 OFFCURVE",
+"103 150 OFFCURVE",
+"99 143 CURVE",
+"96 138 OFFCURVE",
+"95 133 OFFCURVE",
+"95 128 CURVE SMOOTH",
+"95 81 OFFCURVE",
+"137 65 OFFCURVE",
+"137 65 CURVE",
+"127 60 OFFCURVE",
+"101 53 OFFCURVE",
+"89 48 CURVE",
+"49 -13 LINE",
+"59 -20 LINE",
+"109 5 OFFCURVE",
+"186 34 OFFCURVE",
+"281 49 CURVE",
+"281 49 OFFCURVE",
+"301 103 OFFCURVE",
+"301 104 CURVE",
+"275 100 OFFCURVE",
+"252 96 OFFCURVE",
+"219 88 CURVE"
 );
 }
 );
@@ -14878,7 +14881,7 @@ unicode = FEE3;
 },
 {
 glyphname = "meemThreedotsabove-ar";
-lastChange = "2015-11-17 00:45:29 +0000";
+lastChange = "2015-12-06 00:40:19 +0000";
 layers = (
 {
 components = (
@@ -14887,7 +14890,7 @@ name = "meem-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 324, -334}";
+transform = "{1, 0, 0, 1, 314, -334}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14899,7 +14902,7 @@ unicode = 08A7;
 },
 {
 glyphname = "meemThreedotsabove-ar.fina";
-lastChange = "2015-11-17 07:47:31 +0000";
+lastChange = "2015-12-06 00:40:19 +0000";
 layers = (
 {
 components = (
@@ -14908,7 +14911,7 @@ name = "meem-ar.fina";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 283, -437}";
+transform = "{1, 0, 0, 1, 263, -437}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

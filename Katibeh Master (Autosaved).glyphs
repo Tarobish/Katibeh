@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dalRing-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -5387,7 +5384,7 @@ unicode = 0689;
 },
 {
 glyphname = "dalRing-ar.fina";
-lastChange = "2015-12-06 00:25:59 +0000";
+lastChange = "2015-12-06 00:26:21 +0000";
 layers = (
 {
 components = (
@@ -5397,7 +5394,7 @@ name = "dal-ar.fina";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 191, 225}";
+transform = "{1, 0, 0, 1, 161, 224}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

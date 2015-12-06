@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/noonghunna-ar/noon-ar/noonRing-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -15317,7 +15320,7 @@ unicode = FBA1;
 },
 {
 glyphname = "noonRing-ar";
-lastChange = "2015-11-28 00:59:11 +0000";
+lastChange = "2015-12-06 00:14:14 +0000";
 layers = (
 {
 components = (

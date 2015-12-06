@@ -15446,13 +15446,13 @@ width = 615;
 },
 {
 glyphname = "heh-ar";
-lastChange = "2015-11-17 00:51:49 +0000";
+lastChange = "2015-12-06 00:50:17 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{166, -38}";
+position = "{156, -38}";
 },
 {
 name = top;
@@ -20722,7 +20722,7 @@ width = 234;
 },
 {
 glyphname = "noonTwodotsbelow-ar.medi";
-lastChange = "2015-11-17 01:02:05 +0000";
+lastChange = "2015-12-06 00:50:04 +0000";
 layers = (
 {
 components = (
@@ -20731,7 +20731,7 @@ name = "noon-ar.medi";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 8, 31}";
+transform = "{1, 0, 0, 1, 18, 31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

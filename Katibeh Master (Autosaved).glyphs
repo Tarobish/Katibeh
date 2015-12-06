@@ -13818,7 +13818,7 @@ unicode = FEDE;
 },
 {
 glyphname = "lam-ar.medi";
-lastChange = "2015-12-06 00:58:40 +0000";
+lastChange = "2015-12-06 01:04:15 +0000";
 layers = (
 {
 anchors = (
@@ -28109,7 +28109,7 @@ width = 959;
 },
 {
 glyphname = "kaf_lam_alefMaksura-ar";
-lastChange = "2015-12-06 00:07:31 +0000";
+lastChange = "2015-12-06 01:04:38 +0000";
 layers = (
 {
 anchors = (
@@ -28139,7 +28139,7 @@ position = "{800, 634}";
 },
 {
 name = top_2;
-position = "{482, 712}";
+position = "{472, 702}";
 },
 {
 name = top_3;
@@ -28274,7 +28274,7 @@ width = 948;
 },
 {
 glyphname = "kaf_lam_alefMaksura-ar.fina";
-lastChange = "2015-12-06 00:06:42 +0000";
+lastChange = "2015-12-06 01:04:34 +0000";
 layers = (
 {
 anchors = (
@@ -28304,7 +28304,7 @@ position = "{792, 631}";
 },
 {
 name = top_2;
-position = "{483, 712}";
+position = "{473, 702}";
 },
 {
 name = top_3;

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/heh-ar.fina/theh-ar/heh-ar.fina/theh-ar/hehgoalHamzaabove-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -16587,7 +16584,7 @@ unicode = 0629;
 },
 {
 glyphname = "tehMarbuta-ar.fina";
-lastChange = "2015-11-17 07:40:27 +0000";
+lastChange = "2015-12-06 02:05:56 +0000";
 layers = (
 {
 components = (
@@ -16601,7 +16598,7 @@ transform = "{1, 0, 0, 1, 160, -264}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 424;
+width = 404;
 }
 );
 unicode = FE94;

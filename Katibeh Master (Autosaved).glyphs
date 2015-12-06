@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/tcheh-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -3536,7 +3533,7 @@ unicode = FB7C;
 },
 {
 glyphname = "tcheheh-ar";
-lastChange = "2015-12-01 03:37:41 +0000";
+lastChange = "2015-12-06 00:18:25 +0000";
 layers = (
 {
 components = (
@@ -3546,7 +3543,7 @@ name = "hah-ar";
 {
 disableAlignment = 1;
 name = "fourdotsbelow-ar";
-transform = "{1, 0, 0, 1, 334, 135}";
+transform = "{1, 0, 0, 1, 324, 135}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3558,7 +3555,7 @@ unicode = 0687;
 },
 {
 glyphname = "tcheheh-ar.fina";
-lastChange = "2015-12-01 03:37:28 +0000";
+lastChange = "2015-12-06 00:18:20 +0000";
 layers = (
 {
 components = (
@@ -3568,7 +3565,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "fourdotsbelow-ar";
-transform = "{1, 0, 0, 1, 327, 116}";
+transform = "{1, 0, 0, 1, 317, 116}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

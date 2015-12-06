@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehThreedotsabove-farsi.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -18311,7 +18314,7 @@ width = 234;
 },
 {
 glyphname = "yehThreedotsabove-farsi.medi";
-lastChange = "2015-11-17 00:53:30 +0000";
+lastChange = "2015-12-06 00:48:46 +0000";
 layers = (
 {
 components = (
@@ -18709,7 +18712,7 @@ width = 234;
 },
 {
 glyphname = "yehKashmiri-ar.medi";
-lastChange = "2015-11-28 00:49:25 +0000";
+lastChange = "2015-12-06 00:48:39 +0000";
 layers = (
 {
 components = (
@@ -18718,7 +18721,7 @@ name = "dotlessbeh-ar.medi";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 6, 147}";
+transform = "{1, 0, 0, 1, 16, 147}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

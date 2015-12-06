@@ -9412,7 +9412,7 @@ unicode = FECA;
 },
 {
 glyphname = "ain-ar.medi";
-lastChange = "2015-11-30 22:09:50 +0000";
+lastChange = "2015-12-06 00:52:36 +0000";
 layers = (
 {
 anchors = (
@@ -9488,7 +9488,7 @@ nodes = (
 );
 }
 );
-width = 441;
+width = 451;
 }
 );
 unicode = FECC;
@@ -9637,7 +9637,7 @@ width = 427;
 },
 {
 glyphname = "ainThreedots-ar.medi";
-lastChange = "2015-11-30 22:09:51 +0000";
+lastChange = "2015-12-06 00:52:38 +0000";
 layers = (
 {
 components = (
@@ -9651,7 +9651,7 @@ transform = "{1, 0, 0, 1, 197, -368}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 441;
+width = 451;
 }
 );
 },
@@ -9699,7 +9699,7 @@ unicode = FECE;
 },
 {
 glyphname = "ghain-ar.medi";
-lastChange = "2015-11-30 22:09:51 +0000";
+lastChange = "2015-12-06 00:52:38 +0000";
 layers = (
 {
 components = (
@@ -9713,7 +9713,7 @@ transform = "{1, 0, 0, 1, 201, -368}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 441;
+width = 451;
 }
 );
 unicode = FED0;
@@ -9818,7 +9818,7 @@ width = 427;
 },
 {
 glyphname = "ghainDotbelow-ar.medi";
-lastChange = "2015-11-30 22:09:51 +0000";
+lastChange = "2015-12-06 00:52:38 +0000";
 layers = (
 {
 components = (
@@ -9836,7 +9836,7 @@ transform = "{1, 0, 0, 1, 202, 30}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 441;
+width = 451;
 }
 );
 },

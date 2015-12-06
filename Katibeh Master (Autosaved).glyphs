@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hamza-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -38140,7 +38137,7 @@ width = 0;
 },
 {
 glyphname = "hamzaabove_sukun-ar";
-lastChange = "2015-11-25 18:04:57 +0000";
+lastChange = "2015-12-06 00:42:16 +0000";
 layers = (
 {
 components = (
@@ -38150,7 +38147,7 @@ name = "hamzaabove-ar";
 {
 disableAlignment = 1;
 name = "sukun-ar";
-transform = "{1, 0, 0, 1, -4, 200}";
+transform = "{1, 0, 0, 1, -4, 210}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

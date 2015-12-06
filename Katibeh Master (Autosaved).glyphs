@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alef-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -731,7 +728,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2015-12-05 23:55:31 +0000";
+lastChange = "2015-12-06 01:51:50 +0000";
 layers = (
 {
 anchors = (
@@ -741,7 +738,7 @@ position = "{81, 0}";
 },
 {
 name = top;
-position = "{85, 682}";
+position = "{75, 682}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -856,7 +853,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2015-11-16 19:27:34 +0000";
+lastChange = "2015-12-06 01:51:56 +0000";
 layers = (
 {
 anchors = (
@@ -866,7 +863,7 @@ position = "{85, 0}";
 },
 {
 name = top;
-position = "{85, 611}";
+position = "{75, 611}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

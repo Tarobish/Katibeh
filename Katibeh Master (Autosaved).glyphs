@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/meemDotbelow-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -14629,7 +14632,7 @@ width = 598;
 },
 {
 glyphname = "meem-ar.fina";
-lastChange = "2015-12-01 00:44:33 +0000";
+lastChange = "2015-12-06 00:39:29 +0000";
 layers = (
 {
 anchors = (
@@ -14639,7 +14642,7 @@ position = "{128, -481}";
 },
 {
 name = top;
-position = "{282, 243}";
+position = "{262, 243}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20520,7 +20523,7 @@ unicode = 0765;
 },
 {
 glyphname = "meemDotabove-ar.fina";
-lastChange = "2015-11-17 07:47:49 +0000";
+lastChange = "2015-12-06 00:39:30 +0000";
 layers = (
 {
 components = (
@@ -20529,7 +20532,7 @@ name = "meem-ar.fina";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 287, -437}";
+transform = "{1, 0, 0, 1, 267, -437}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

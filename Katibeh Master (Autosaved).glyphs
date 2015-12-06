@@ -4018,7 +4018,7 @@ unicode = FEA2;
 },
 {
 glyphname = "hah-ar.medi";
-lastChange = "2015-12-06 00:44:45 +0000";
+lastChange = "2015-12-06 00:44:52 +0000";
 layers = (
 {
 anchors = (
@@ -4040,7 +4040,7 @@ nodes = (
 "418 106 OFFCURVE",
 "396 121 OFFCURVE",
 "386 146 CURVE",
-"405 149 OFFCURVE",
+"398 148 OFFCURVE",
 "410 148 OFFCURVE",
 "420 146 CURVE",
 "468 235 LINE",

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kaf_alefMaksura-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -28270,7 +28273,7 @@ width = 948;
 },
 {
 glyphname = "kaf_lam_alefMaksura-ar.fina";
-lastChange = "2015-11-30 02:14:37 +0000";
+lastChange = "2015-12-06 00:06:42 +0000";
 layers = (
 {
 anchors = (
@@ -28284,7 +28287,7 @@ position = "{507, -225}";
 },
 {
 name = bottom_3;
-position = "{271, -279}";
+position = "{281, -279}";
 },
 {
 name = caret_1;

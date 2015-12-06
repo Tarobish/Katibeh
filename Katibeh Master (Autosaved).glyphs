@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar/alef-ar.fina",
-"/alef-ar.fina.short"
+"/theh-ar/alef-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -912,7 +911,7 @@ width = 169;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2015-11-17 00:38:34 +0000";
+lastChange = "2015-12-06 00:22:52 +0000";
 layers = (
 {
 anchors = (
@@ -962,13 +961,13 @@ nodes = (
 "111 7 OFFCURVE",
 "145 0 OFFCURVE",
 "176 0 CURVE SMOOTH",
-"209 0 LINE",
-"209 106 LINE",
+"229 0 LINE",
+"229 106 LINE",
 "169 106 LINE SMOOTH"
 );
 }
 );
-width = 209;
+width = 229;
 }
 );
 },

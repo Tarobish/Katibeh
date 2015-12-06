@@ -15607,7 +15607,7 @@ unicode = FEEA;
 },
 {
 glyphname = "heh-ar.medi";
-lastChange = "2015-11-17 00:50:30 +0000";
+lastChange = "2015-12-06 01:07:51 +0000";
 layers = (
 {
 anchors = (
@@ -15680,8 +15680,8 @@ nodes = (
 "344 -50 OFFCURVE",
 "323 -27 OFFCURVE",
 "290 0 CURVE",
-"437 0 LINE",
-"437 106 LINE"
+"450 0 LINE",
+"450 106 LINE"
 );
 },
 {
@@ -15723,7 +15723,7 @@ nodes = (
 );
 }
 );
-width = 437;
+width = 450;
 }
 );
 unicode = FEEC;
@@ -16170,7 +16170,7 @@ width = 434;
 },
 {
 glyphname = "hehgoalHamzaabove-ar.medi";
-lastChange = "2015-11-17 07:40:15 +0000";
+lastChange = "2015-12-06 01:07:59 +0000";
 layers = (
 {
 components = (
@@ -16184,7 +16184,7 @@ transform = "{1, 0, 0, 1, 208, -290}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 437;
+width = 450;
 }
 );
 },

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hah-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -3623,7 +3620,7 @@ unicode = FB80;
 {
 color = 0;
 glyphname = "nyeh-ar";
-lastChange = "2015-11-16 21:35:24 +0000";
+lastChange = "2015-12-06 00:17:19 +0000";
 layers = (
 {
 components = (
@@ -3633,7 +3630,7 @@ name = "hah-ar";
 {
 disableAlignment = 1;
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 343, 97}";
+transform = "{1, 0, 0, 1, 333, 97}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3646,7 +3643,7 @@ unicode = 0683;
 {
 color = 0;
 glyphname = "nyeh-ar.fina";
-lastChange = "2015-11-17 00:19:03 +0000";
+lastChange = "2015-12-06 00:17:25 +0000";
 layers = (
 {
 components = (
@@ -3656,7 +3653,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 328, 77}";
+transform = "{1, 0, 0, 1, 318, 77}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3808,7 +3805,7 @@ position = "{301, -399}";
 },
 {
 name = center;
-position = "{331, -25}";
+position = "{341, -25}";
 },
 {
 name = top;

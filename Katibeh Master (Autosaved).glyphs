@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/tah_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -25834,7 +25831,7 @@ unicode = FD21;
 },
 {
 glyphname = "tah_alefMaksura-ar";
-lastChange = "2015-12-06 00:04:36 +0000";
+lastChange = "2015-12-06 00:04:46 +0000";
 layers = (
 {
 anchors = (

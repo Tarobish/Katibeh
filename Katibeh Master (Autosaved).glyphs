@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_lam_alef-ar"
+"/kaf_lam-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -27700,7 +27700,7 @@ unicode = FCEB;
 },
 {
 glyphname = "kaf_lam-ar.init";
-lastChange = "2015-11-30 02:32:47 +0000";
+lastChange = "2015-12-06 01:05:12 +0000";
 layers = (
 {
 anchors = (
@@ -27722,7 +27722,7 @@ position = "{353, 626}";
 },
 {
 name = top_2;
-position = "{-10, 661}";
+position = "{22, 671}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

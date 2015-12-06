@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/theh-ar/lam_alef-ar.fina"
+/uniFEFE
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -42370,7 +42370,7 @@ unicode = FBBC;
 {
 color = 0;
 glyphname = uniFEFE;
-lastChange = "2015-11-25 21:51:52 +0000";
+lastChange = "2015-12-06 02:09:21 +0000";
 layers = (
 {
 components = (
@@ -42379,12 +42379,12 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 144, -91}";
+transform = "{1, 0, 0, 1, 134, -91}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 684;
+width = 634;
 }
 );
 unicode = FEFE;
@@ -42392,7 +42392,7 @@ unicode = FEFE;
 {
 color = 0;
 glyphname = uniFEFD;
-lastChange = "2015-11-25 21:13:17 +0000";
+lastChange = "2015-12-06 02:09:13 +0000";
 layers = (
 {
 components = (
@@ -42406,7 +42406,7 @@ transform = "{1, 0, 0, 1, 89, -31}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 544;
+width = 509;
 }
 );
 unicode = FEFD;

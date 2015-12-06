@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -17683,7 +17680,7 @@ width = 301;
 },
 {
 glyphname = "yeh-ar";
-lastChange = "2015-11-28 07:28:58 +0000";
+lastChange = "2015-12-06 01:26:57 +0000";
 layers = (
 {
 components = (
@@ -17692,7 +17689,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 286, -143}";
+transform = "{1, 0, 0, 1, 286, -153}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18651,7 +18648,7 @@ width = 592;
 },
 {
 glyphname = "yehKashmiri-ar";
-lastChange = "2015-11-28 07:28:59 +0000";
+lastChange = "2015-12-06 01:26:57 +0000";
 layers = (
 {
 components = (
@@ -18660,7 +18657,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 284, -27}";
+transform = "{1, 0, 0, 1, 284, -37}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18732,7 +18729,7 @@ width = 276;
 },
 {
 glyphname = "e-ar";
-lastChange = "2015-11-28 07:28:59 +0000";
+lastChange = "2015-12-06 01:26:57 +0000";
 layers = (
 {
 components = (
@@ -18741,7 +18738,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 279, -142}";
+transform = "{1, 0, 0, 1, 279, -152}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18808,7 +18805,7 @@ unicode = FBE6;
 },
 {
 glyphname = "yehThreedotsbelow-ar";
-lastChange = "2015-11-28 07:28:59 +0000";
+lastChange = "2015-12-06 01:26:57 +0000";
 layers = (
 {
 components = (
@@ -18817,7 +18814,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 286, -143}";
+transform = "{1, 0, 0, 1, 286, -153}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

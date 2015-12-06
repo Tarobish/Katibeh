@@ -17566,7 +17566,7 @@ unicode = FC5D;
 },
 {
 glyphname = "alefMaksuraAlefabove-ar.fina";
-lastChange = "2015-11-28 07:23:32 +0000";
+lastChange = "2015-12-06 00:00:53 +0000";
 layers = (
 {
 components = (
@@ -17580,7 +17580,7 @@ transform = "{1, 0, 0, 1, 281, -550}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 555;
+width = 589;
 }
 );
 unicode = FC90;
@@ -17698,7 +17698,7 @@ unicode = 064A;
 },
 {
 glyphname = "yeh-ar.fina";
-lastChange = "2015-11-28 07:23:32 +0000";
+lastChange = "2015-12-06 00:00:53 +0000";
 layers = (
 {
 components = (
@@ -17707,12 +17707,12 @@ name = "alefMaksura-ar.fina";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 268, -142}";
+transform = "{1, 0, 0, 1, 278, -162}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 555;
+width = 589;
 }
 );
 unicode = FEF2;
@@ -17782,7 +17782,7 @@ unicode = 0626;
 },
 {
 glyphname = "yehHamzaabove-ar.fina";
-lastChange = "2015-11-28 07:23:32 +0000";
+lastChange = "2015-12-06 00:00:53 +0000";
 layers = (
 {
 components = (
@@ -17796,7 +17796,7 @@ transform = "{1, 0, 0, 1, 280, -539}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 555;
+width = 589;
 }
 );
 unicode = FE8A;
@@ -17868,7 +17868,7 @@ unicode = 06CE;
 },
 {
 glyphname = "yehVabove-ar.fina";
-lastChange = "2015-11-28 07:23:32 +0000";
+lastChange = "2015-12-06 00:00:53 +0000";
 layers = (
 {
 components = (
@@ -17882,7 +17882,7 @@ transform = "{1, 0, 0, 1, 278, -519}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 555;
+width = 589;
 }
 );
 },
@@ -17957,7 +17957,7 @@ unicode = 08A9;
 },
 {
 glyphname = "yehTwodotsbelowDotabove-ar.fina";
-lastChange = "2015-11-28 07:23:46 +0000";
+lastChange = "2015-12-06 00:00:53 +0000";
 layers = (
 {
 components = (
@@ -17971,7 +17971,7 @@ transform = "{1, 0, 0, 1, 283, -519}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 555;
+width = 589;
 }
 );
 },
@@ -18038,7 +18038,7 @@ unicode = 063D;
 },
 {
 glyphname = "yehVinverted-farsi.fina";
-lastChange = "2015-11-28 07:23:32 +0000";
+lastChange = "2015-12-06 00:00:53 +0000";
 layers = (
 {
 components = (
@@ -18052,7 +18052,7 @@ transform = "{1, 0, 0, 1, 278, -519}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 555;
+width = 589;
 }
 );
 },

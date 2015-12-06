@@ -15527,7 +15527,7 @@ unicode = 0647;
 },
 {
 glyphname = "heh-ar.fina";
-lastChange = "2015-12-06 02:04:49 +0000";
+lastChange = "2015-12-06 02:04:56 +0000";
 layers = (
 {
 anchors = (
@@ -15574,7 +15574,7 @@ nodes = (
 "243 100 OFFCURVE",
 "246 86 CURVE SMOOTH",
 "255 45 OFFCURVE",
-"279 0 OFFCURVE",
+"274 0 OFFCURVE",
 "352 0 CURVE SMOOTH",
 "386 0 OFFCURVE",
 "405 0 OFFCURVE",

@@ -18586,7 +18586,7 @@ width = 284;
 },
 {
 glyphname = "yehTail-ar";
-lastChange = "2015-12-06 01:27:33 +0000";
+lastChange = "2015-12-06 01:28:48 +0000";
 layers = (
 {
 components = (
@@ -18610,7 +18610,7 @@ nodes = (
 );
 }
 );
-width = 673;
+width = 663;
 }
 );
 unicode = 06CD;

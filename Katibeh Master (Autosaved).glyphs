@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/heh-ar.fina/hehgoalHamzaabove-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 fontMaster = (
@@ -15524,7 +15527,7 @@ unicode = 0647;
 },
 {
 glyphname = "heh-ar.fina";
-lastChange = "2015-11-17 07:40:27 +0000";
+lastChange = "2015-12-06 02:04:49 +0000";
 layers = (
 {
 anchors = (
@@ -15571,9 +15574,9 @@ nodes = (
 "243 100 OFFCURVE",
 "246 86 CURVE SMOOTH",
 "255 45 OFFCURVE",
-"277 0 OFFCURVE",
-"343 0 CURVE SMOOTH",
-"377 0 OFFCURVE",
+"279 0 OFFCURVE",
+"352 0 CURVE SMOOTH",
+"386 0 OFFCURVE",
 "405 0 OFFCURVE",
 "424 0 CURVE",
 "424 106 LINE",

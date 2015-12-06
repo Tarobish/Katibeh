@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ain_alefMaksura-ar"
+"/tah_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -25834,7 +25834,7 @@ unicode = FD21;
 },
 {
 glyphname = "tah_alefMaksura-ar";
-lastChange = "2015-12-01 07:37:07 +0000";
+lastChange = "2015-12-06 00:04:36 +0000";
 layers = (
 {
 anchors = (
@@ -25844,7 +25844,7 @@ position = "{712, 0}";
 },
 {
 name = bottom_2;
-position = "{271, -279}";
+position = "{281, -279}";
 },
 {
 name = caret_1;
@@ -26235,7 +26235,7 @@ unicode = FCBB;
 },
 {
 glyphname = "ain_meem_alefMaksura-ar";
-lastChange = "2015-12-02 03:23:45 +0000";
+lastChange = "2015-12-06 00:04:30 +0000";
 layers = (
 {
 anchors = (
@@ -26249,7 +26249,7 @@ position = "{592, -200}";
 },
 {
 name = bottom_3;
-position = "{271, -279}";
+position = "{281, -279}";
 },
 {
 name = caret_1;

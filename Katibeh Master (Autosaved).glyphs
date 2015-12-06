@@ -20658,7 +20658,7 @@ width = 436;
 },
 {
 glyphname = "noonTwodotsbelow-ar";
-lastChange = "2015-11-28 06:47:15 +0000";
+lastChange = "2015-12-06 00:15:20 +0000";
 layers = (
 {
 components = (
@@ -20667,7 +20667,7 @@ name = "noon-ar";
 },
 {
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 278, -203}";
+transform = "{1, 0, 0, 1, 278, -163}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20739,7 +20739,7 @@ width = 276;
 },
 {
 glyphname = "noonTahabove-ar";
-lastChange = "2015-11-27 21:37:35 +0000";
+lastChange = "2015-12-06 00:15:20 +0000";
 layers = (
 {
 components = (
@@ -20748,11 +20748,11 @@ name = "noonghunna-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 265, -702}";
+transform = "{1, 0, 0, 1, 265, -662}";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 265, -549}";
+transform = "{1, 0, 0, 1, 265, -509}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20788,7 +20788,7 @@ width = 615;
 },
 {
 glyphname = "noonTahabove-ar.init";
-lastChange = "2015-11-27 21:37:35 +0000";
+lastChange = "2015-12-06 00:15:20 +0000";
 layers = (
 {
 components = (
@@ -20797,11 +20797,11 @@ name = "noonghunna-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 265, -702}";
+transform = "{1, 0, 0, 1, 265, -662}";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 265, -549}";
+transform = "{1, 0, 0, 1, 265, -509}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20812,7 +20812,7 @@ width = 568;
 },
 {
 glyphname = "noonTahabove-ar.medi";
-lastChange = "2015-11-27 21:37:35 +0000";
+lastChange = "2015-12-06 00:15:20 +0000";
 layers = (
 {
 components = (
@@ -20821,11 +20821,11 @@ name = "noonghunna-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 265, -702}";
+transform = "{1, 0, 0, 1, 265, -662}";
 },
 {
 name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 265, -549}";
+transform = "{1, 0, 0, 1, 265, -509}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -20836,7 +20836,7 @@ width = 568;
 },
 {
 glyphname = "noonVabove-ar";
-lastChange = "2015-11-27 04:10:28 +0000";
+lastChange = "2015-12-06 00:15:20 +0000";
 layers = (
 {
 components = (
@@ -20845,7 +20845,7 @@ name = "noon-ar";
 },
 {
 name = "vabove-ar";
-transform = "{1, 0, 0, 1, 260, -546}";
+transform = "{1, 0, 0, 1, 260, -506}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

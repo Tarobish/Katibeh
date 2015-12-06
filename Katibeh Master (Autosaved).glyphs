@@ -14713,13 +14713,13 @@ unicode = FEE2;
 },
 {
 glyphname = "meem-ar.medi";
-lastChange = "2015-11-30 23:28:00 +0000";
+lastChange = "2015-12-06 00:45:56 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{166, -34}";
+position = "{166, -44}";
 },
 {
 name = top;
@@ -20641,7 +20641,7 @@ width = 355;
 },
 {
 glyphname = "meemDotbelow-ar.medi";
-lastChange = "2015-11-17 01:02:05 +0000";
+lastChange = "2015-12-06 00:45:56 +0000";
 layers = (
 {
 components = (
@@ -20650,7 +20650,7 @@ name = "meem-ar.medi";
 },
 {
 name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 166, 30}";
+transform = "{1, 0, 0, 1, 166, 20}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

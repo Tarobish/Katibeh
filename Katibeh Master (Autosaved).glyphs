@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/rehRing-ar.fina",
-"/rehRing-ar"
+"/rehRing-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -6015,7 +6014,7 @@ width = 355;
 },
 {
 glyphname = "rehRing-ar";
-lastChange = "2015-12-06 00:25:03 +0000";
+lastChange = "2015-12-06 00:25:10 +0000";
 layers = (
 {
 components = (
@@ -6025,7 +6024,7 @@ name = "reh-ar";
 {
 disableAlignment = 1;
 name = "ring-ar";
-transform = "{1, 0, 0, 1, 96, 48}";
+transform = "{1, 0, 0, 1, 98, 38}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

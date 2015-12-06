@@ -5014,7 +5014,7 @@ width = 548;
 },
 {
 glyphname = "jeemTwodotsabove-ar.medi";
-lastChange = "2015-11-16 21:21:53 +0000";
+lastChange = "2015-12-06 00:45:41 +0000";
 layers = (
 {
 components = (
@@ -5028,7 +5028,7 @@ transform = "{1, 0, 0, 1, 147, -344}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 546;
+width = 556;
 }
 );
 },
@@ -21240,7 +21240,7 @@ width = 548;
 },
 {
 glyphname = "hahTahabove-ar.medi";
-lastChange = "2015-11-30 21:33:33 +0000";
+lastChange = "2015-12-06 00:45:46 +0000";
 layers = (
 {
 components = (
@@ -21254,7 +21254,7 @@ transform = "{1, 0, 0, 1, 149, -347}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 546;
+width = 556;
 }
 );
 },

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/heh-ar.fina/theh-ar/heh-ar.fina/hehgoalHamzaabove-ar.fina"
+"/heh-ar.fina/theh-ar/heh-ar.fina/theh-ar/hehgoalHamzaabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -15527,7 +15527,7 @@ unicode = 0647;
 },
 {
 glyphname = "heh-ar.fina";
-lastChange = "2015-12-06 02:05:32 +0000";
+lastChange = "2015-12-06 02:05:51 +0000";
 layers = (
 {
 anchors = (
@@ -15576,10 +15576,10 @@ nodes = (
 "255 45 OFFCURVE",
 "274 0 OFFCURVE",
 "352 0 CURVE SMOOTH",
-"386 0 OFFCURVE",
-"395 0 OFFCURVE",
-"414 0 CURVE",
-"414 106 LINE",
+"376 0 OFFCURVE",
+"385 0 OFFCURVE",
+"404 0 CURVE",
+"404 106 LINE",
 "357 106 LINE"
 );
 },
@@ -15603,7 +15603,7 @@ nodes = (
 );
 }
 );
-width = 414;
+width = 404;
 }
 );
 unicode = FEEA;
@@ -16133,7 +16133,7 @@ unicode = 06C2;
 },
 {
 glyphname = "hehgoalHamzaabove-ar.fina";
-lastChange = "2015-12-06 02:05:32 +0000";
+lastChange = "2015-12-06 02:05:51 +0000";
 layers = (
 {
 components = (
@@ -16147,7 +16147,7 @@ transform = "{1, 0, 0, 1, 159, -284}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 414;
+width = 404;
 }
 );
 },

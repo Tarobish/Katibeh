@@ -29157,13 +29157,13 @@ width = 886;
 },
 {
 glyphname = "lam_meem-ar";
-lastChange = "2015-12-09 20:30:21 +0000";
+lastChange = "2015-12-09 21:26:48 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{282, -124}";
+position = "{283, -114}";
 },
 {
 name = bottom_2;
@@ -29258,17 +29258,17 @@ unicode = FC42;
 },
 {
 glyphname = "lam_meem-ar.init";
-lastChange = "2015-12-09 20:45:13 +0000";
+lastChange = "2015-12-09 21:25:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{16, -55}";
+position = "{173, -184}";
 },
 {
 name = bottom_2;
-position = "{171, -187}";
+position = "{41, -55}";
 },
 {
 name = caret_1;
@@ -29276,11 +29276,11 @@ position = "{167, 0}";
 },
 {
 name = top_1;
-position = "{9, 704}";
+position = "{143, 704}";
 },
 {
 name = top_2;
-position = "{253, 325}";
+position = "{-87, 682}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -29335,24 +29335,24 @@ nodes = (
 );
 }
 );
-width = 344;
+width = 334;
 }
 );
 unicode = FCCC;
 },
 {
 glyphname = "lam_meem_alefMaksura-ar";
-lastChange = "2015-12-09 21:14:20 +0000";
+lastChange = "2015-12-09 21:26:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{464, -312}";
+position = "{645, -135}";
 },
 {
 name = bottom_2;
-position = "{652, -132}";
+position = "{437, -336}";
 },
 {
 name = bottom_3;

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hah_meem_alefMaksura-ar"
+"/lam_hah-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28769,7 +28769,7 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-06 00:21:43 +0000";
+lastChange = "2015-12-09 20:55:43 +0000";
 layers = (
 {
 anchors = (
@@ -28815,11 +28815,11 @@ nodes = (
 "245 241 OFFCURVE",
 "268 236 OFFCURVE",
 "325 224 CURVE",
-"260 198 OFFCURVE",
-"201 160 OFFCURVE",
-"157 110 CURVE SMOOTH",
-"109 55 OFFCURVE",
-"78 -15 OFFCURVE",
+"252 198 OFFCURVE",
+"191 157 OFFCURVE",
+"148 104 CURVE SMOOTH",
+"103 50 OFFCURVE",
+"78 -19 OFFCURVE",
 "78 -99 CURVE SMOOTH",
 "78 -182 OFFCURVE",
 "107 -257 OFFCURVE",

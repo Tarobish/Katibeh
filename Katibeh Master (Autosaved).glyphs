@@ -29618,7 +29618,7 @@ unicode = FCCD;
 },
 {
 glyphname = "lam_heh_alefMaksura-ar";
-lastChange = "2015-12-09 21:12:30 +0000";
+lastChange = "2015-12-09 21:12:38 +0000";
 layers = (
 {
 anchors = (
@@ -29679,8 +29679,8 @@ nodes = (
 "565 -23 OFFCURVE",
 "522 10 OFFCURVE",
 "476 26 CURVE",
-"524 29 OFFCURVE",
-"557 43 OFFCURVE",
+"508 29 OFFCURVE",
+"554 45 OFFCURVE",
 "572 60 CURVE",
 "631 22 OFFCURVE",
 "658 -2 OFFCURVE",
@@ -29723,7 +29723,7 @@ nodes = (
 "462 154 OFFCURVE",
 "470 128 OFFCURVE",
 "496 107 CURVE",
-"459 88 OFFCURVE",
+"462 83 OFFCURVE",
 "407 77 OFFCURVE",
 "364 75 CURVE",
 "338 -9 LINE",

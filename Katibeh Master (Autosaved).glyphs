@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/qafDotbelow-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -10675,7 +10678,7 @@ width = 983;
 },
 {
 glyphname = "fehThreedotsbelow-ar.init";
-lastChange = "2015-12-09 20:33:11 +0000";
+lastChange = "2015-12-09 20:40:07 +0000";
 layers = (
 {
 components = (
@@ -11304,7 +11307,7 @@ width = 613;
 },
 {
 glyphname = "qafDotbelow-ar.init";
-lastChange = "2015-12-09 20:34:57 +0000";
+lastChange = "2015-12-09 20:40:13 +0000";
 layers = (
 {
 components = (

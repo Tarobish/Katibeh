@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_meem-ar"
+"/seen_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -24087,7 +24087,7 @@ unicode = FD2A;
 },
 {
 glyphname = "seen_meem-ar";
-lastChange = "2015-12-01 00:43:11 +0000";
+lastChange = "2015-12-09 20:50:17 +0000";
 layers = (
 {
 anchors = (
@@ -24182,11 +24182,11 @@ nodes = (
 "190 -63 OFFCURVE",
 "237 -63 CURVE SMOOTH",
 "278 -63 OFFCURVE",
-"321 -74 OFFCURVE",
-"350 -96 CURVE",
-"366 4 LINE",
-"350 36 OFFCURVE",
-"316 62 OFFCURVE",
+"321 -78 OFFCURVE",
+"350 -100 CURVE",
+"366 8 LINE",
+"350 40 OFFCURVE",
+"316 65 OFFCURVE",
 "271 85 CURVE",
 "281 103 OFFCURVE",
 "301 126 OFFCURVE",
@@ -25123,7 +25123,7 @@ unicode = FD2B;
 },
 {
 glyphname = "sad_meem-ar";
-lastChange = "2015-12-09 20:49:50 +0000";
+lastChange = "2015-12-09 20:49:57 +0000";
 layers = (
 {
 anchors = (
@@ -25206,8 +25206,8 @@ nodes = (
 "278 -63 OFFCURVE",
 "319 -80 OFFCURVE",
 "348 -102 CURVE",
-"366 8 LINE",
-"350 40 OFFCURVE",
+"366 9 LINE",
+"350 41 OFFCURVE",
 "316 66 OFFCURVE",
 "271 85 CURVE",
 "288 108 OFFCURVE",

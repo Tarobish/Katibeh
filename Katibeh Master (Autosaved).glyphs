@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_lam_alefMaksura-ar",
-"/kaf_lam_alefMaksura-ar.fina"
+"/kaf_lam_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28159,7 +28158,7 @@ width = 959;
 },
 {
 glyphname = "kaf_lam_alefMaksura-ar";
-lastChange = "2015-12-09 21:06:18 +0000";
+lastChange = "2015-12-09 21:07:02 +0000";
 layers = (
 {
 anchors = (
@@ -28220,8 +28219,8 @@ nodes = (
 "545 -23 OFFCURVE",
 "502 10 OFFCURVE",
 "456 26 CURVE",
-"487 40 OFFCURVE",
-"529 66 OFFCURVE",
+"496 34 OFFCURVE",
+"529 62 OFFCURVE",
 "538 90 CURVE",
 "543 69 OFFCURVE",
 "553 50 OFFCURVE",
@@ -28261,11 +28260,8 @@ nodes = (
 "470 607 LINE",
 "514 238 LINE",
 "522 167 LINE",
-"513 145 OFFCURVE",
-"495 126 OFFCURVE",
-"472 111 CURVE SMOOTH",
-"443 93 OFFCURVE",
-"385 82 OFFCURVE",
+"496 102 OFFCURVE",
+"411 79 OFFCURVE",
 "344 75 CURVE",
 "318 -9 LINE",
 "329 -30 LINE",

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehFourbelow-farsi.init"
+"/yeh-farsi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -18378,7 +18378,7 @@ width = 276;
 },
 {
 glyphname = "yehTwoabove-farsi";
-lastChange = "2015-11-28 07:26:57 +0000";
+lastChange = "2015-12-10 03:07:26 +0000";
 layers = (
 {
 components = (
@@ -18393,7 +18393,7 @@ transform = "{0.8, 0, 0, 0.8, 155, -171}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 617;
+width = 597;
 }
 );
 unicode = 0775;
@@ -18591,7 +18591,7 @@ width = 609;
 },
 {
 glyphname = "yehFourbelow-farsi.init";
-lastChange = "2015-11-26 08:31:36 +0000";
+lastChange = "2015-12-10 03:07:09 +0000";
 layers = (
 {
 components = (
@@ -18606,13 +18606,13 @@ transform = "{0.8, 0, 0, 0.8, -53, -597}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 223;
+width = 234;
 }
 );
 },
 {
 glyphname = "yehFourbelow-farsi.medi";
-lastChange = "2015-11-26 08:31:45 +0000";
+lastChange = "2015-12-10 03:07:12 +0000";
 layers = (
 {
 components = (
@@ -18627,7 +18627,7 @@ transform = "{0.8, 0, 0, 0.8, -50, -603}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 284;
+width = 276;
 }
 );
 },

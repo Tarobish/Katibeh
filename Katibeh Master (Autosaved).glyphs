@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehHamzaabove-ar.fina"
+"/rehTwodotshorizontalaboveTahabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -6532,7 +6532,7 @@ unicode = 076C;
 },
 {
 glyphname = "rehHamzaabove-ar.fina";
-lastChange = "2015-12-06 00:23:37 +0000";
+lastChange = "2015-12-10 03:02:38 +0000";
 layers = (
 {
 components = (
@@ -6548,13 +6548,13 @@ transform = "{1, 0, 0, 1, 167, -495}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 355;
+width = 405;
 }
 );
 },
 {
 glyphname = "rehTwodotshorizontalaboveTahabove-ar";
-lastChange = "2015-12-06 00:23:46 +0000";
+lastChange = "2015-12-10 03:02:42 +0000";
 layers = (
 {
 components = (
@@ -6574,7 +6574,7 @@ transform = "{1, 0, 0, 1, 188, -271}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 309;
+width = 359;
 }
 );
 unicode = 0771;

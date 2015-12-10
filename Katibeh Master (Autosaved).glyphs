@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefWasla-ar"
+"/jeemTwodotsabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1268,23 +1268,23 @@ unicode = 0671;
 },
 {
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-12-06 06:29:15 +0000";
+lastChange = "2015-12-10 02:57:40 +0000";
 layers = (
 {
 components = (
 {
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 53, -41}";
+transform = "{1, 0, 0, 1, 95, -41}";
 },
 {
 locked = 1;
 name = "alef-ar.fina.short";
-transform = "{1, 0, 0, 1, -18, 0}";
+transform = "{1, 0, 0, 1, 24, 0}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 211;
+width = 253;
 }
 );
 unicode = FB51;
@@ -4942,7 +4942,7 @@ unicode = 077C;
 },
 {
 glyphname = "hahFourbelow-ar.fina";
-lastChange = "2015-12-06 00:18:59 +0000";
+lastChange = "2015-12-10 02:59:25 +0000";
 layers = (
 {
 components = (
@@ -4957,13 +4957,13 @@ transform = "{0.8, 0, 0, 0.8, 213, -494}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 641;
+width = 608;
 }
 );
 },
 {
 glyphname = "hahFourbelow-ar.medi";
-lastChange = "2015-11-27 04:16:07 +0000";
+lastChange = "2015-12-10 02:59:29 +0000";
 layers = (
 {
 components = (
@@ -4978,7 +4978,7 @@ transform = "{0.8, 0, 0, 0.8, 48, -598}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 609;
+width = 556;
 }
 );
 },

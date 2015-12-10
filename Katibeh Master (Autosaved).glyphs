@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/wawDotcenter-ar.fina"
+"/alefTwoabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17144,7 +17144,7 @@ unicode = 08AB;
 {
 color = 0;
 glyphname = "wawDotcenter-ar.fina";
-lastChange = "2015-11-17 00:57:18 +0000";
+lastChange = "2015-12-10 03:05:32 +0000";
 layers = (
 {
 components = (
@@ -17161,7 +17161,7 @@ transform = "{1, 0, 0, 1, 114, -167}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 472;
+width = 482;
 }
 );
 },
@@ -17399,7 +17399,7 @@ unicode = 06CB;
 {
 color = 0;
 glyphname = "ve-ar.fina";
-lastChange = "2015-11-25 21:49:44 +0000";
+lastChange = "2015-12-10 03:05:42 +0000";
 layers = (
 {
 components = (
@@ -17416,7 +17416,7 @@ transform = "{1, 0, 0, 1, 146, -396}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 407;
+width = 417;
 }
 );
 unicode = FBDF;

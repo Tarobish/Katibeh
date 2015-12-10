@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenDotbelowDotabove-ar"
+"/wawTwoabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -16926,7 +16926,7 @@ unicode = 06CA;
 {
 color = 0;
 glyphname = "wawTwodots-ar.fina";
-lastChange = "2015-11-28 01:30:45 +0000";
+lastChange = "2015-12-10 03:05:11 +0000";
 layers = (
 {
 components = (
@@ -16943,7 +16943,7 @@ transform = "{1, 0, 0, 1, 147, -396}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 408;
+width = 418;
 }
 );
 },

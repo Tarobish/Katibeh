@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehThreeabove-farsi"
+"/yehTail-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -18463,7 +18463,7 @@ width = 276;
 },
 {
 glyphname = "yehThreeabove-farsi";
-lastChange = "2015-11-28 07:26:39 +0000";
+lastChange = "2015-12-10 03:08:37 +0000";
 layers = (
 {
 components = (
@@ -18478,7 +18478,7 @@ name = "alefMaksura-ar";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 617;
+width = 597;
 }
 );
 unicode = 0776;

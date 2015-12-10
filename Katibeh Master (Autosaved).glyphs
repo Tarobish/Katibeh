@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehTail-ar"
+"/seenVinvertedabove-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -21329,7 +21329,7 @@ unicode = 077D;
 },
 {
 glyphname = "seenFourabove-ar.fina";
-lastChange = "2015-11-26 08:34:42 +0000";
+lastChange = "2015-12-10 03:09:43 +0000";
 layers = (
 {
 components = (
@@ -21345,7 +21345,7 @@ transform = "{0.8, 0, 0, 0.8, 512, -32}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 909;
+width = 902;
 }
 );
 },
@@ -21372,7 +21372,7 @@ width = 530;
 },
 {
 glyphname = "seenFourabove-ar.medi";
-lastChange = "2015-11-26 08:34:55 +0000";
+lastChange = "2015-12-10 03:09:48 +0000";
 layers = (
 {
 components = (
@@ -21387,7 +21387,7 @@ transform = "{0.8, 0, 0, 0.8, 221, -28}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 549;
+width = 613;
 }
 );
 },

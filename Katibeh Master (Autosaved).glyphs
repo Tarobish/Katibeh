@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehHamzaabove-ar.init"
+"/yehThreeabove-farsi.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -18442,7 +18442,7 @@ width = 223;
 },
 {
 glyphname = "yehTwoabove-farsi.medi";
-lastChange = "2015-11-26 08:29:37 +0000";
+lastChange = "2015-12-10 03:06:34 +0000";
 layers = (
 {
 components = (
@@ -18457,7 +18457,7 @@ transform = "{0.8, 0, 0, 0.8, -42, -158}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 284;
+width = 276;
 }
 );
 },

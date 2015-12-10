@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenVinvertedabove-ar.init"
+"/lamVabove_alef-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28495,7 +28495,7 @@ width = 1031;
 },
 {
 glyphname = "kaf_alefMaksura-ar";
-lastChange = "2015-12-06 00:07:13 +0000";
+lastChange = "2015-12-10 03:10:45 +0000";
 layers = (
 {
 anchors = (
@@ -28615,7 +28615,7 @@ nodes = (
 );
 }
 );
-width = 673;
+width = 683;
 }
 );
 unicode = FC3D;

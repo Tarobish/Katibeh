@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefTwoabove-ar"
+"/alefThreeabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17637,7 +17637,7 @@ unicode = FC90;
 },
 {
 glyphname = "alefTwoabove-ar";
-lastChange = "2015-11-26 08:27:25 +0000";
+lastChange = "2015-12-10 03:06:02 +0000";
 layers = (
 {
 components = (
@@ -17653,14 +17653,14 @@ transform = "{0.8, 0, 0, 0.8, -1, 188}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 230;
+width = 243;
 }
 );
 unicode = 0773;
 },
 {
 glyphname = "alefTwoabove-ar.fina";
-lastChange = "2015-11-26 08:27:36 +0000";
+lastChange = "2015-12-10 03:06:06 +0000";
 layers = (
 {
 components = (
@@ -17676,7 +17676,7 @@ transform = "{0.8, 0, 0, 0.8, -6, 220}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 301;
+width = 288;
 }
 );
 },

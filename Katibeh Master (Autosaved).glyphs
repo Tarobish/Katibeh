@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/fourthroot-ar"
+"/perthousand-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -35775,7 +35775,7 @@ unicode = 066A;
 },
 {
 glyphname = "cuberoot-ar";
-lastChange = "2015-12-10 03:12:41 +0000";
+lastChange = "2015-12-10 03:12:55 +0000";
 layers = (
 {
 components = (
@@ -35784,7 +35784,7 @@ name = "fourthroot-ar.pt";
 },
 {
 name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 280, 32}";
+transform = "{0.882, 0, 0, 0.882, 271, -11}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -35796,7 +35796,7 @@ unicode = 0606;
 },
 {
 glyphname = "fourthroot-ar";
-lastChange = "2015-12-10 03:12:48 +0000";
+lastChange = "2015-12-10 03:12:49 +0000";
 layers = (
 {
 components = (
@@ -35805,7 +35805,7 @@ name = "fourthroot-ar.pt";
 },
 {
 name = "four-ar.small";
-transform = "{0.882, 0, 0, 0.882, 268, -11}";
+transform = "{0.882, 0, 0, 0.882, 268, -1}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

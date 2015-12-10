@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lamVabove_alef-ar.fina"
+"/six-ar.tab"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -30957,7 +30957,7 @@ unicode = 066B;
 },
 {
 glyphname = "thousandseparator-ar";
-lastChange = "2015-11-16 02:01:55 +0000";
+lastChange = "2015-12-10 03:11:10 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -30966,10 +30966,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"77 97 LINE",
-"0 -92 LINE",
-"53 -92 LINE",
-"130 97 LINE"
+"77 107 LINE",
+"0 -82 LINE",
+"53 -82 LINE",
+"130 107 LINE"
 );
 }
 );

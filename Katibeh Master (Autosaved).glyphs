@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehTwodotshorizontalaboveTahabove-ar.fina"
+"/seenDotbelowDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -6581,7 +6581,7 @@ unicode = 0771;
 },
 {
 glyphname = "rehTwodotshorizontalaboveTahabove-ar.fina";
-lastChange = "2015-12-06 00:23:38 +0000";
+lastChange = "2015-12-10 03:02:47 +0000";
 layers = (
 {
 components = (
@@ -6601,7 +6601,7 @@ transform = "{1, 0, 0, 1, 170, -322}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 355;
+width = 405;
 }
 );
 },

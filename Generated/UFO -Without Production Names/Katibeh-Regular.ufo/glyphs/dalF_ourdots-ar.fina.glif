@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dalFourdots-ar.fina" format="1">
+  <advance width="443"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="fourdotsabove-ar" xOffset="197" yOffset="-324"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

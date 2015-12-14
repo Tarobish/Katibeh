@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seenTahTwodotshorizontalabove-ar.medi" format="1">
+  <advance width="613"/>
+  <outline>
+    <component base="seen-ar.medi"/>
+    <component base="twodotshorizontalabove-ar" xOffset="312" yOffset="-429"/>
+    <component base="tahabove-ar" xOffset="314" yOffset="-276"/>
+  </outline>
+</glyph>

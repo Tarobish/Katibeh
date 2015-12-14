@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="065A"/>
+  <outline>
+    <contour>
+      <point x="46" y="853"/>
+      <point x="34" y="836"/>
+      <point x="24" y="818" type="curve" smooth="yes"/>
+      <point x="10" y="794"/>
+      <point x="0" y="767"/>
+      <point x="0" y="752" type="curve"/>
+      <point x="-4" y="773"/>
+      <point x="-11" y="795"/>
+      <point x="-21" y="815" type="curve" smooth="yes"/>
+      <point x="-31" y="834"/>
+      <point x="-42" y="850"/>
+      <point x="-56" y="861" type="curve"/>
+      <point x="-71" y="825" type="line"/>
+      <point x="-57" y="813"/>
+      <point x="-42" y="790"/>
+      <point x="-30" y="764" type="curve" smooth="yes"/>
+      <point x="-20" y="742"/>
+      <point x="-12" y="719"/>
+      <point x="-9" y="700" type="curve"/>
+      <point x="9" y="700" type="line"/>
+      <point x="13" y="719"/>
+      <point x="22" y="746"/>
+      <point x="34" y="770" type="curve" smooth="yes"/>
+      <point x="45" y="793"/>
+      <point x="58" y="814"/>
+      <point x="71" y="825" type="curve"/>
+      <point x="56" y="861" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="861" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="0" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

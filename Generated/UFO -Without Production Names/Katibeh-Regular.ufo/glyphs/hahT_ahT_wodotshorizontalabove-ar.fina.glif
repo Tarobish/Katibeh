@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hahTahTwodotshorizontalabove-ar.fina" format="1">
+  <advance width="608"/>
+  <outline>
+    <component base="hah-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="268" yOffset="-321"/>
+    <component base="tahabove-ar" xOffset="270" yOffset="-168"/>
+  </outline>
+</glyph>

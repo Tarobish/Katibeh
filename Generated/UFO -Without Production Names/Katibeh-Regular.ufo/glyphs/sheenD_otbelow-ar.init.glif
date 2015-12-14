@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sheenDotbelow-ar.init" format="1">
+  <advance width="567"/>
+  <outline>
+    <component base="seen-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="313" yOffset="-429"/>
+    <component base="dotbelow-ar" xOffset="310" yOffset="30"/>
+  </outline>
+</glyph>

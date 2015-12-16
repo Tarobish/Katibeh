@@ -4735,7 +4735,7 @@ unicode = FEA7;
 },
 {
 glyphname = "hahTahbelow-ar";
-lastChange = "2015-12-06 00:18:51 +0000";
+lastChange = "2015-12-16 21:04:35 +0000";
 layers = (
 {
 components = (
@@ -4744,8 +4744,8 @@ name = "hah-ar";
 },
 {
 disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 335, -848}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 345, 264}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4757,7 +4757,7 @@ unicode = 076E;
 },
 {
 glyphname = "hahTahbelow-ar.fina";
-lastChange = "2015-12-06 00:18:45 +0000";
+lastChange = "2015-12-16 21:04:52 +0000";
 layers = (
 {
 components = (
@@ -4766,8 +4766,8 @@ name = "hah-ar.fina";
 },
 {
 disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 324, -864}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 339, 252}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4778,7 +4778,7 @@ width = 608;
 },
 {
 glyphname = "hahTahbelow-ar.medi";
-lastChange = "2015-12-06 00:45:11 +0000";
+lastChange = "2015-12-16 21:05:02 +0000";
 layers = (
 {
 components = (
@@ -4786,9 +4786,8 @@ components = (
 name = "hah-ar.medi";
 },
 {
-disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 161, -983}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 103, 149}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4799,7 +4798,7 @@ width = 556;
 },
 {
 glyphname = "hahTahbelow-ar.init";
-lastChange = "2015-11-27 21:40:39 +0000";
+lastChange = "2015-12-16 21:05:12 +0000";
 layers = (
 {
 components = (
@@ -4807,9 +4806,8 @@ components = (
 name = "hah-ar.init";
 },
 {
-disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 220, -983}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 207, 150}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4820,7 +4818,7 @@ width = 548;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar";
-lastChange = "2015-12-16 20:44:02 +0000";
+lastChange = "2015-12-16 21:05:56 +0000";
 layers = (
 {
 components = (
@@ -4829,13 +4827,13 @@ name = "hah-ar";
 },
 {
 disableAlignment = 1;
-name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 344, -921}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 348, 333}";
 },
 {
 disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 346, -790}";
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 351, -21}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4847,7 +4845,7 @@ unicode = 076F;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.fina";
-lastChange = "2015-12-16 20:44:19 +0000";
+lastChange = "2015-12-16 21:07:06 +0000";
 layers = (
 {
 components = (
@@ -4856,13 +4854,13 @@ name = "hah-ar.fina";
 },
 {
 disableAlignment = 1;
-name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 332, -923}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 334, 331}";
 },
 {
 disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 334, -789}";
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 337, -23}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4873,7 +4871,7 @@ width = 608;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.init";
-lastChange = "2015-12-16 20:44:46 +0000";
+lastChange = "2015-12-16 21:07:30 +0000";
 layers = (
 {
 components = (
@@ -4881,14 +4879,12 @@ components = (
 name = "hah-ar.init";
 },
 {
-disableAlignment = 1;
-name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 204, -1106}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 207, 150}";
 },
 {
-disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 206, -953}";
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 210, -204}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4899,7 +4895,7 @@ width = 548;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-12-16 20:44:57 +0000";
+lastChange = "2015-12-16 21:07:51 +0000";
 layers = (
 {
 components = (
@@ -4907,14 +4903,12 @@ components = (
 name = "hah-ar.medi";
 },
 {
-disableAlignment = 1;
-name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 157, -1124}";
+name = "tahbelow-ar";
+transform = "{1, 0, 0, 1, 103, 149}";
 },
 {
-disableAlignment = 1;
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 159, -971}";
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 106, -205}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -36652,6 +36646,110 @@ width = 0;
 }
 );
 unicode = 0615;
+},
+{
+glyphname = "tahbelow-ar";
+lastChange = "2015-12-16 21:03:54 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{1, -184}";
+},
+{
+name = bottom;
+position = "{1, -419}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-67 -419 LINE",
+"4 -418 LINE",
+"30 -418 OFFCURVE",
+"47 -413 OFFCURVE",
+"58 -405 CURVE",
+"68 -399 OFFCURVE",
+"75 -392 OFFCURVE",
+"80 -384 CURVE",
+"87 -374 OFFCURVE",
+"88 -364 OFFCURVE",
+"90 -360 CURVE",
+"86 -350 OFFCURVE",
+"82 -343 OFFCURVE",
+"77 -337 CURVE SMOOTH",
+"69 -329 OFFCURVE",
+"58 -324 OFFCURVE",
+"46 -324 CURVE SMOOTH",
+"28 -324 OFFCURVE",
+"13 -334 OFFCURVE",
+"-2 -347 CURVE",
+"3 -332 OFFCURVE",
+"4 -315 OFFCURVE",
+"2 -298 CURVE SMOOTH",
+"0 -282 OFFCURVE",
+"-4 -266 OFFCURVE",
+"-7 -253 CURVE",
+"-10 -242 OFFCURVE",
+"-8 -237 OFFCURVE",
+"-1 -232 CURVE",
+"-10 -225 OFFCURVE",
+"-17 -216 OFFCURVE",
+"-22 -204 CURVE",
+"-32 -204 OFFCURVE",
+"-37 -214 OFFCURVE",
+"-38 -219 CURVE",
+"-41 -227 OFFCURVE",
+"-40 -237 OFFCURVE",
+"-40 -237 CURVE",
+"-35 -242 LINE",
+"-27 -259 OFFCURVE",
+"-23 -277 OFFCURVE",
+"-20 -296 CURVE SMOOTH",
+"-17 -316 OFFCURVE",
+"-16 -338 OFFCURVE",
+"-16 -363 CURVE",
+"-22 -369 OFFCURVE",
+"-27 -377 OFFCURVE",
+"-31 -383 CURVE",
+"-31 -383 OFFCURVE",
+"-46 -384 OFFCURVE",
+"-53 -384 CURVE SMOOTH",
+"-66 -384 OFFCURVE",
+"-89 -382 OFFCURVE",
+"-89 -382 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-22 -387 OFFCURVE",
+"-14 -376 OFFCURVE",
+"-2 -366 CURVE SMOOTH",
+"9 -357 OFFCURVE",
+"26 -349 OFFCURVE",
+"43 -349 CURVE SMOOTH",
+"53 -349 OFFCURVE",
+"61 -351 OFFCURVE",
+"67 -357 CURVE",
+"71 -359 OFFCURVE",
+"73 -364 OFFCURVE",
+"77 -369 CURVE",
+"62 -382 OFFCURVE",
+"43 -387 OFFCURVE",
+"13 -387 CURVE SMOOTH",
+"-22 -387 LINE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+unicode = FBC1;
 },
 {
 glyphname = "alefLamYehabove-ar";

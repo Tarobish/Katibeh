@@ -21978,25 +21978,25 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2015-12-01 06:48:25 +0000";
+lastChange = "2015-12-16 20:02:27 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{480, 145}";
+position = "{514, 145}";
 },
 {
 name = bottom_2;
-position = "{357, -399}";
+position = "{300, 16}";
 },
 {
 name = caret_1;
-position = "{310.5, 0}";
+position = "{355, 0}";
 },
 {
 name = center;
-position = "{290, -34}";
+position = "{337, -34}";
 },
 {
 name = top_1;
@@ -28761,17 +28761,17 @@ unicode = FC83;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2015-12-09 20:55:43 +0000";
+lastChange = "2015-12-16 20:03:40 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{386, -403}";
+position = "{453, -390}";
 },
 {
 name = bottom_2;
-position = "{148, -388}";
+position = "{343, 30}";
 },
 {
 name = caret_1;

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahTahTwodotshorizontalabove-ar.init"
+"/hahTahTwodotshorizontalabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -4877,7 +4877,7 @@ width = 548;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-12-16 21:07:51 +0000";
+lastChange = "2015-12-18 08:29:50 +0000";
 layers = (
 {
 components = (
@@ -4885,12 +4885,8 @@ components = (
 name = "hah-ar.medi";
 },
 {
-name = "tahbelow-ar";
-transform = "{1, 0, 0, 1, 103, 149}";
-},
-{
-name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 106, -205}";
+name = TahSmallTwoDotsbelowar;
+transform = "{1, 0, 0, 1, 99, 145}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

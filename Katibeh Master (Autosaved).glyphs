@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/twodotsverticalcenter-ar/dyeh-ar"
+"/dyeh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3757,7 +3757,7 @@ unicode = FB78;
 {
 color = 0;
 glyphname = "dyeh-ar";
-lastChange = "2015-12-18 08:23:05 +0000";
+lastChange = "2015-12-18 08:23:12 +0000";
 layers = (
 {
 components = (
@@ -3766,7 +3766,7 @@ name = "hah-ar";
 },
 {
 name = "twodotsverticalcenter-ar";
-transform = "{1, 0, 0, 1, 335, -241}";
+transform = "{1, 0, 0, 1, 335, -265}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3779,7 +3779,7 @@ unicode = 0684;
 {
 color = 0;
 glyphname = "dyeh-ar.fina";
-lastChange = "2015-12-06 00:17:34 +0000";
+lastChange = "2015-12-18 08:23:20 +0000";
 layers = (
 {
 components = (
@@ -3787,9 +3787,8 @@ components = (
 name = "hah-ar.fina";
 },
 {
-disableAlignment = 1;
-name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 311, 124}";
+name = "twodotsverticalcenter-ar";
+transform = "{1, 0, 0, 1, 317, -295}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37699,13 +37698,13 @@ unicode = FBBE;
 },
 {
 glyphname = "twodotsverticalcenter-ar";
-lastChange = "2015-12-18 08:00:33 +0000";
+lastChange = "2015-12-18 08:23:12 +0000";
 layers = (
 {
 anchors = (
 {
 name = _center;
-position = "{-4, 216}";
+position = "{-4, 240}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

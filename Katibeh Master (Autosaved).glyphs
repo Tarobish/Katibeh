@@ -20842,16 +20842,16 @@ width = 568;
 },
 {
 glyphname = "noonVabove-ar";
-lastChange = "2015-12-18 08:53:01 +0000";
+lastChange = "2015-12-18 08:53:15 +0000";
 layers = (
 {
 components = (
 {
-name = "vabove-ar";
-transform = "{1, 0, 0, 1, 260, -526}";
+name = "noonghunna-ar";
 },
 {
-name = "noonghunna-ar";
+name = VaDotbelowar;
+transform = "{1, 0, 0, 1, 263, -682}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

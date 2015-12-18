@@ -2,7 +2,8 @@
 DisplayStrings = (
 "/sad-ar",
 "/sad-ar.fina",
-"/sad-ar/sadTwodotsbelow-ar"
+"/sad-ar/sadTwodotsbelow-ar",
+"/sadTwodotsbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -7743,7 +7744,7 @@ width = 613;
 },
 {
 glyphname = "sad-ar";
-lastChange = "2015-12-18 09:08:43 +0000";
+lastChange = "2015-12-18 09:08:46 +0000";
 layers = (
 {
 anchors = (
@@ -7753,7 +7754,7 @@ position = "{276, -264}";
 },
 {
 name = center;
-position = "{639, -65}";
+position = "{647, -85}";
 },
 {
 name = top;
@@ -8229,7 +8230,7 @@ unicode = FEBB;
 {
 color = 0;
 glyphname = "sadTwodotsbelow-ar";
-lastChange = "2015-12-18 09:08:43 +0000";
+lastChange = "2015-12-18 09:08:52 +0000";
 layers = (
 {
 components = (
@@ -8239,11 +8240,11 @@ name = "sad-ar";
 {
 disableAlignment = 1;
 name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 648, 31}";
+transform = "{1, 0, 0, 1, 772, 78}";
 },
 {
 name = "twodotshorizontalcenter-ar";
-transform = "{1, 0, 0, 1, 641, -257}";
+transform = "{1, 0, 0, 1, 649, -277}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

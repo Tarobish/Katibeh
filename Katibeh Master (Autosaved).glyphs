@@ -18539,7 +18539,7 @@ name = "alefMaksura-ar";
 },
 {
 name = "four-ar.below";
-transform = "{0.8, 0, 0, 0.8, 291, -101}";
+transform = "{0.8, 0, 0, 0.8, 286, -71}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

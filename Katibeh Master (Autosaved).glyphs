@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar.fina/wawDotcenter-ar.fina"
+"/wawDotcenter-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17113,7 +17113,7 @@ width = 382;
 {
 color = 0;
 glyphname = "wawDotcenter-ar";
-lastChange = "2015-12-18 08:36:30 +0000";
+lastChange = "2015-12-18 08:36:50 +0000";
 layers = (
 {
 components = (
@@ -17121,11 +17121,6 @@ components = (
 disableAlignment = 1;
 name = "waw-ar";
 transform = "{1, 0, 0, 1, 86, 0}";
-},
-{
-disableAlignment = 1;
-name = "dotcenter-ar";
-transform = "{1, 0, 0, 1, 114, -185}";
 },
 {
 name = "dotcenter-ar";

@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/hahTahbelow-ar",
-"/tahabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -4734,12 +4730,16 @@ unicode = FEA7;
 },
 {
 glyphname = "hahTahbelow-ar";
-lastChange = "2015-12-18 08:24:29 +0000";
+lastChange = "2015-12-18 08:26:27 +0000";
 layers = (
 {
 components = (
 {
 name = "hah-ar";
+},
+{
+name = "tahcenter-ar";
+transform = "{1, 0, 0, 1, 336, -257}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -37143,13 +37143,13 @@ unicode = 0615;
 },
 {
 glyphname = "tahcenter-ar";
-lastChange = "2015-12-18 08:25:58 +0000";
+lastChange = "2015-12-18 08:26:27 +0000";
 layers = (
 {
 anchors = (
 {
 name = _center;
-position = "{-5, 218}";
+position = "{-5, 232}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

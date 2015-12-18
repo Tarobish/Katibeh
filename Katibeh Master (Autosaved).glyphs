@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/tcheh-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -3520,7 +3517,7 @@ unicode = 0686;
 },
 {
 glyphname = "tcheh-ar.fina";
-lastChange = "2015-12-18 08:21:16 +0000";
+lastChange = "2015-12-18 08:21:22 +0000";
 layers = (
 {
 components = (
@@ -3528,8 +3525,9 @@ components = (
 name = "hah-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "threedotsdowncenter-ar";
-transform = "{1, 0, 0, 1, 312, -312}";
+transform = "{1, 0, 0, 1, 316, -302}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

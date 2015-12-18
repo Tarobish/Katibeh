@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehbarreeThreeabove-ar.init"
+"/yehbarreeThreeabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -19206,7 +19206,7 @@ width = 643;
 },
 {
 glyphname = "yehbarreeThreeabove-ar.init";
-lastChange = "2015-12-18 08:50:27 +0000";
+lastChange = "2015-12-18 08:50:28 +0000";
 layers = (
 {
 components = (
@@ -19215,7 +19215,7 @@ name = "dotlessbeh-ar.init";
 },
 {
 name = "three-ar.above";
-transform = "{1, 0, 0, 1, 2, -380}";
+transform = "{0.8, 0, 0, 0.8, 1, -244}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -19226,7 +19226,7 @@ width = 234;
 },
 {
 glyphname = "yehbarreeThreeabove-ar.medi";
-lastChange = "2015-11-26 08:33:58 +0000";
+lastChange = "2015-12-18 08:50:36 +0000";
 layers = (
 {
 components = (
@@ -19234,9 +19234,8 @@ components = (
 name = "dotlessbeh-ar.medi";
 },
 {
-disableAlignment = 1;
-name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, -43, -161}";
+name = "three-ar.above";
+transform = "{0.8, 0, 0, 0.8, 31, -352}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

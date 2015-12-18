@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/noonVabove-ar"
+"/noonVabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -20863,7 +20863,7 @@ unicode = 0769;
 },
 {
 glyphname = "noonVabove-ar.fina";
-lastChange = "2015-11-27 04:10:28 +0000";
+lastChange = "2015-12-18 08:53:33 +0000";
 layers = (
 {
 components = (
@@ -20871,8 +20871,8 @@ components = (
 name = "noon-ar.fina";
 },
 {
-name = "vabove-ar";
-transform = "{1, 0, 0, 1, 261, -545}";
+name = VaDotbelowar;
+transform = "{1, 0, 0, 1, 264, -545}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

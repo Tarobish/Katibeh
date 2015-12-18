@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 /TahSmallDotbelowar,
-/VaDotbelowar
+/VaDotbelowar,
+"/vabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -43483,7 +43484,7 @@ width = 0;
 },
 {
 glyphname = VaDotbelowar;
-lastChange = "2015-12-18 08:09:32 +0000";
+lastChange = "2015-12-18 08:09:57 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -43492,22 +43493,54 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-23 799 OFFCURVE",
-"-48 771 OFFCURVE",
-"-63 754 CURVE",
-"-42 742 OFFCURVE",
-"-24 725 OFFCURVE",
-"1 700 CURVE",
-"29 727 OFFCURVE",
-"40 743 OFFCURVE",
-"53 761 CURVE",
-"41 780 OFFCURVE",
-"13 804 OFFCURVE",
-"-10 816 CURVE"
+"-72 799 OFFCURVE",
+"-97 771 OFFCURVE",
+"-112 754 CURVE",
+"-91 742 OFFCURVE",
+"-73 725 OFFCURVE",
+"-48 700 CURVE",
+"-20 727 OFFCURVE",
+"-9 743 OFFCURVE",
+"4 761 CURVE",
+"-8 780 OFFCURVE",
+"-36 804 OFFCURVE",
+"-59 816 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-3 1003 OFFCURVE",
+"-15 986 OFFCURVE",
+"-25 968 CURVE SMOOTH",
+"-39 944 OFFCURVE",
+"-49 917 OFFCURVE",
+"-49 902 CURVE",
+"-53 923 OFFCURVE",
+"-60 945 OFFCURVE",
+"-70 965 CURVE SMOOTH",
+"-80 984 OFFCURVE",
+"-91 1000 OFFCURVE",
+"-105 1011 CURVE",
+"-120 975 LINE",
+"-106 963 OFFCURVE",
+"-91 940 OFFCURVE",
+"-79 914 CURVE SMOOTH",
+"-69 892 OFFCURVE",
+"-61 869 OFFCURVE",
+"-58 850 CURVE",
+"-40 850 LINE",
+"-36 869 OFFCURVE",
+"-27 896 OFFCURVE",
+"-15 920 CURVE SMOOTH",
+"-4 943 OFFCURVE",
+"9 964 OFFCURVE",
+"22 975 CURVE",
+"7 1011 LINE"
 );
 }
 );
-width = 600;
+width = 551;
 }
 );
 }

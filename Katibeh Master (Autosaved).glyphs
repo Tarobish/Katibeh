@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/sheenDotbelow-ar.fina"
+"/sad-ar",
+"/sad-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -7668,7 +7669,7 @@ unicode = 06FA;
 {
 color = 0;
 glyphname = "sheenDotbelow-ar.fina";
-lastChange = "2015-12-18 09:06:03 +0000";
+lastChange = "2015-12-18 09:06:06 +0000";
 layers = (
 {
 components = (
@@ -7680,8 +7681,9 @@ name = "threedotsupabove-ar";
 transform = "{1, 0, 0, 1, 609, -430}";
 },
 {
+disableAlignment = 1;
 name = "dotcenter-ar";
-transform = "{1, 0, 0, 1, 614, -277}";
+transform = "{1, 0, 0, 1, 634, -277}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -7740,13 +7742,17 @@ width = 613;
 },
 {
 glyphname = "sad-ar";
-lastChange = "2015-12-06 00:36:18 +0000";
+lastChange = "2015-12-18 09:06:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{276, -264}";
+},
+{
+name = center;
+position = "{639, -55}";
 },
 {
 name = top;
@@ -7861,13 +7867,17 @@ unicode = 0635;
 },
 {
 glyphname = "sad-ar.fina";
-lastChange = "2015-12-06 00:36:13 +0000";
+lastChange = "2015-12-18 09:06:25 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{276, -264}";
+},
+{
+name = center;
+position = "{331, -25}";
 },
 {
 name = top;

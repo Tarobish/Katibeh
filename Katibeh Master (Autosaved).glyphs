@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/hahTahbelow-ar"
+"/hahTahbelow-ar",
+"/tahabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -37139,6 +37140,17 @@ width = 0;
 }
 );
 unicode = 0615;
+},
+{
+glyphname = "tahcenter-ar";
+lastChange = "2015-12-18 08:25:32 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
 },
 {
 glyphname = "tahbelow-ar";

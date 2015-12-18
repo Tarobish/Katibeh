@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahTahTwodotshorizontalabove-ar.medi"
+"/hahFourbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -4877,7 +4877,7 @@ width = 548;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-12-18 08:29:50 +0000";
+lastChange = "2015-12-18 08:29:51 +0000";
 layers = (
 {
 components = (
@@ -4897,7 +4897,7 @@ width = 556;
 },
 {
 glyphname = "hahFourbelow-ar";
-lastChange = "2015-12-16 21:23:45 +0000";
+lastChange = "2015-12-18 08:30:31 +0000";
 layers = (
 {
 components = (
@@ -4905,9 +4905,8 @@ components = (
 name = "hah-ar";
 },
 {
-disableAlignment = 1;
-name = "four-ar.below";
-transform = "{1, 0, 0, 1, 316, 253}";
+name = "four-ar.center";
+transform = "{1, 0, 0, 1, 335, -265}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

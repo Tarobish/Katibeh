@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahFourbelow-ar"
+"/hahFourbelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -4897,7 +4897,7 @@ width = 556;
 },
 {
 glyphname = "hahFourbelow-ar";
-lastChange = "2015-12-18 08:30:31 +0000";
+lastChange = "2015-12-18 08:30:37 +0000";
 layers = (
 {
 components = (
@@ -4906,7 +4906,7 @@ name = "hah-ar";
 },
 {
 name = "four-ar.center";
-transform = "{1, 0, 0, 1, 335, -265}";
+transform = "{1, 0, 0, 1, 335, -297}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -4918,7 +4918,7 @@ unicode = 077C;
 },
 {
 glyphname = "hahFourbelow-ar.fina";
-lastChange = "2015-12-16 21:23:33 +0000";
+lastChange = "2015-12-18 08:30:48 +0000";
 layers = (
 {
 components = (
@@ -4926,9 +4926,8 @@ components = (
 name = "hah-ar.fina";
 },
 {
-disableAlignment = 1;
-name = "four-ar.below";
-transform = "{1, 0, 0, 1, 296, 241}";
+name = "four-ar.center";
+transform = "{1, 0, 0, 1, 317, -327}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -31794,13 +31793,13 @@ width = 0;
 },
 {
 glyphname = "four-ar.center";
-lastChange = "2015-12-18 08:20:16 +0000";
+lastChange = "2015-12-18 08:30:37 +0000";
 layers = (
 {
 anchors = (
 {
 name = _center;
-position = "{-4, 240}";
+position = "{-4, 272}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

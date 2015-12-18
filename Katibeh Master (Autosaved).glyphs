@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/threedotsdowncenter-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -37672,12 +37675,60 @@ unicode = FBB9;
 },
 {
 glyphname = "threedotsdowncenter-ar";
-lastChange = "2015-12-18 07:18:52 +0000";
+lastChange = "2015-12-18 08:01:14 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-92 256 OFFCURVE",
+"-74 239 OFFCURVE",
+"-49 214 CURVE",
+"-29 234 OFFCURVE",
+"-18 247 OFFCURVE",
+"-8 260 CURVE",
+"8 248 OFFCURVE",
+"24 234 OFFCURVE",
+"43 214 CURVE",
+"71 241 OFFCURVE",
+"83 257 OFFCURVE",
+"96 275 CURVE",
+"84 294 OFFCURVE",
+"56 318 OFFCURVE",
+"32 330 CURVE",
+"24 318 OFFCURVE",
+"9 301 OFFCURVE",
+"-5 286 CURVE",
+"-19 302 OFFCURVE",
+"-41 320 OFFCURVE",
+"-60 330 CURVE",
+"-73 313 OFFCURVE",
+"-98 285 OFFCURVE",
+"-113 268 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-39 149 OFFCURVE",
+"-20 132 OFFCURVE",
+"4 107 CURVE",
+"32 135 OFFCURVE",
+"44 150 OFFCURVE",
+"57 168 CURVE",
+"45 187 OFFCURVE",
+"16 211 OFFCURVE",
+"-7 224 CURVE",
+"-19 207 OFFCURVE",
+"-45 178 OFFCURVE",
+"-60 161 CURVE"
+);
+}
+);
+width = 0;
 }
 );
 },

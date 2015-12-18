@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ain-ar.fina/ghainDotbelow-ar.fina"
+"/ghainDotbelow-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -9777,7 +9777,7 @@ unicode = FECF;
 {
 color = 0;
 glyphname = "ghainDotbelow-ar";
-lastChange = "2015-12-18 08:34:42 +0000";
+lastChange = "2015-12-18 08:35:15 +0000";
 layers = (
 {
 components = (
@@ -9787,11 +9787,6 @@ name = "ain-ar";
 {
 name = "dotabove-ar";
 transform = "{1, 0, 0, 1, 257, -281}";
-},
-{
-disableAlignment = 1;
-name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 295, 28}";
 },
 {
 name = "dotcenter-ar";
@@ -9808,7 +9803,7 @@ unicode = 06FC;
 {
 color = 0;
 glyphname = "ghainDotbelow-ar.fina";
-lastChange = "2015-12-18 08:35:09 +0000";
+lastChange = "2015-12-18 08:35:21 +0000";
 layers = (
 {
 components = (
@@ -9818,11 +9813,6 @@ name = "ain-ar.fina";
 {
 name = "dotabove-ar";
 transform = "{1, 0, 0, 1, 309, -368}";
-},
-{
-disableAlignment = 1;
-name = "dotbelow-ar";
-transform = "{1, 0, 0, 1, 303, 30}";
 },
 {
 name = "dotcenter-ar";

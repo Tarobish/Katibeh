@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/noonTahabove-ar.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -20842,7 +20839,7 @@ width = 568;
 },
 {
 glyphname = "noonVabove-ar";
-lastChange = "2015-12-06 00:21:21 +0000";
+lastChange = "2015-12-18 08:52:35 +0000";
 layers = (
 {
 components = (

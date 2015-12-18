@@ -3,7 +3,6 @@
   <advance width="912"/>
   <outline>
     <component base="seen-ar.fina"/>
-    <component base="twodotshorizontalabove-ar" xOffset="611" yOffset="-430"/>
-    <component base="tahabove-ar" xOffset="613" yOffset="-277"/>
+    <component base="TahSmallTwoDotsabovear" xOffset="611" yOffset="-430"/>
   </outline>
 </glyph>

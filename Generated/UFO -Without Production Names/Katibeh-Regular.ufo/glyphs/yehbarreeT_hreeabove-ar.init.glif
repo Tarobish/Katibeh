@@ -3,6 +3,6 @@
   <advance width="234"/>
   <outline>
     <component base="dotlessbeh-ar.init"/>
-    <component base="three-ar.small" xOffset="-74" yOffset="-126" xScale="0.8" yScale="0.8"/>
+    <component base="three-ar.above" xOffset="1" yOffset="-244" xScale="0.8" yScale="0.8"/>
   </outline>
 </glyph>

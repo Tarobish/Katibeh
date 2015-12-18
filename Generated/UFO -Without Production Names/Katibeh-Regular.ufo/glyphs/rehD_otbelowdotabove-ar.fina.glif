@@ -3,15 +3,7 @@
   <advance width="405"/>
   <outline>
     <component base="reh-ar.fina" xOffset="40"/>
-    <component base="dotabove-ar" xOffset="91" yOffset="-734"/>
     <component base="dotbelow-ar" xOffset="114" yOffset="-199"/>
+    <component base="dotcenter-ar" xOffset="92" yOffset="-140"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

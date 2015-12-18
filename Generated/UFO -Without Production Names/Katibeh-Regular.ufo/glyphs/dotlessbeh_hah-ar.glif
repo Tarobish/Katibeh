@@ -79,13 +79,13 @@
       <point x="70" y="269" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="311" y="0" type="move" name="caret_1"/>
+      <point x="355" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="480" y="145" type="move" name="bottom_1"/>
+      <point x="514" y="141" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="290" y="-34" type="move" name="center"/>
+      <point x="290" y="-55" type="move" name="center"/>
     </contour>
     <contour>
       <point x="405" y="612" type="move" name="top_1"/>

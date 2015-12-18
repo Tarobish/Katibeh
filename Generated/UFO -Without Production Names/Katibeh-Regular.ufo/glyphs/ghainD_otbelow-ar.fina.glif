@@ -4,14 +4,6 @@
   <outline>
     <component base="ain-ar.fina"/>
     <component base="dotabove-ar" xOffset="309" yOffset="-368"/>
-    <component base="dotbelow-ar" xOffset="303" yOffset="30"/>
+    <component base="dotcenter-ar" xOffset="309" yOffset="-277"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

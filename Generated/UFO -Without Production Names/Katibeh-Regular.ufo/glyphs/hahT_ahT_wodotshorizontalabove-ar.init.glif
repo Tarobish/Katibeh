@@ -3,7 +3,6 @@
   <advance width="548"/>
   <outline>
     <component base="hah-ar.init"/>
-    <component base="twodotshorizontalabove-ar" xOffset="110" yOffset="-348"/>
-    <component base="tahabove-ar" xOffset="112" yOffset="-195"/>
+    <component base="TahSmallTwoDotsbelowar" xOffset="203" yOffset="146"/>
   </outline>
 </glyph>

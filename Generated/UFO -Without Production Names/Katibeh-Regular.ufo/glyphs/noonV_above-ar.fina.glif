@@ -2,7 +2,7 @@
 <glyph name="noonVabove-ar.fina" format="1">
   <advance width="615"/>
   <outline>
-    <component base="noon-ar.fina"/>
-    <component base="vabove-ar" xOffset="261" yOffset="-545"/>
+    <component base="noonghunna-ar.fina"/>
+    <component base="VaDotbelowar" xOffset="264" yOffset="-701"/>
   </outline>
 </glyph>

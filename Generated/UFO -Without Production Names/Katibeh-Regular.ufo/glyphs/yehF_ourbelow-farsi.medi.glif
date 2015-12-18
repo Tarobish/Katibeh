@@ -3,6 +3,6 @@
   <advance width="276"/>
   <outline>
     <component base="dotlessbeh-ar.medi"/>
-    <component base="four-persian.urdu.small" xOffset="-50" yOffset="-603" xScale="0.8" yScale="0.8"/>
+    <component base="four-ar.below" xOffset="18" yOffset="113" xScale="0.8" yScale="0.8"/>
   </outline>
 </glyph>

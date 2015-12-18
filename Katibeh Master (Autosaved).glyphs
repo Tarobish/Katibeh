@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/fourdotscenter-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -38092,12 +38095,74 @@ unicode = FBBB;
 },
 {
 glyphname = "fourdotscenter-ar";
-lastChange = "2015-12-18 07:19:09 +0000";
+lastChange = "2015-12-18 08:02:48 +0000";
 layers = (
 {
+anchors = (
+{
+name = _center;
+position = "{-1, 216}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-85 148 OFFCURVE",
+"-66 131 OFFCURVE",
+"-42 106 CURVE",
+"-22 126 OFFCURVE",
+"-10 139 OFFCURVE",
+"0 152 CURVE",
+"16 141 OFFCURVE",
+"32 126 OFFCURVE",
+"51 106 CURVE",
+"79 133 OFFCURVE",
+"91 149 OFFCURVE",
+"104 167 CURVE",
+"94 183 OFFCURVE",
+"74 201 OFFCURVE",
+"54 214 CURVE",
+"80 239 OFFCURVE",
+"92 254 OFFCURVE",
+"104 271 CURVE",
+"92 290 OFFCURVE",
+"63 314 OFFCURVE",
+"40 326 CURVE",
+"3 282 LINE",
+"-11 298 OFFCURVE",
+"-34 316 OFFCURVE",
+"-53 326 CURVE",
+"-66 310 OFFCURVE",
+"-91 281 OFFCURVE",
+"-106 264 CURVE",
+"-88 254 OFFCURVE",
+"-72 241 OFFCURVE",
+"-53 222 CURVE",
+"-66 206 OFFCURVE",
+"-91 177 OFFCURVE",
+"-106 160 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-21 232 OFFCURVE",
+"-9 244 OFFCURVE",
+"0 256 CURVE",
+"13 248 OFFCURVE",
+"25 236 OFFCURVE",
+"40 222 CURVE",
+"3 178 LINE",
+"-8 191 OFFCURVE",
+"-23 204 OFFCURVE",
+"-39 214 CURVE"
+);
+}
+);
+width = 0;
 }
 );
 },

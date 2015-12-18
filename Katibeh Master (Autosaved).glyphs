@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/reh-ar.fina/rehDotbelowdotabove-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -6198,7 +6195,7 @@ unicode = 0696;
 {
 color = 0;
 glyphname = "rehDotbelowdotabove-ar.fina";
-lastChange = "2015-12-18 08:33:15 +0000";
+lastChange = "2015-12-18 08:33:27 +0000";
 layers = (
 {
 components = (
@@ -6206,11 +6203,6 @@ components = (
 disableAlignment = 1;
 name = "reh-ar.fina";
 transform = "{1, 0, 0, 1, 40, 0}";
-},
-{
-disableAlignment = 1;
-name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 91, -734}";
 },
 {
 name = "dotbelow-ar";

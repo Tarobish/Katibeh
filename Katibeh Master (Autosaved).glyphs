@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/four-ar.center"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -31820,9 +31817,15 @@ width = 0;
 },
 {
 glyphname = "four-ar.center";
-lastChange = "2015-12-18 08:19:58 +0000";
+lastChange = "2015-12-18 08:20:16 +0000";
 layers = (
 {
+anchors = (
+{
+name = _center;
+position = "{-4, 240}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

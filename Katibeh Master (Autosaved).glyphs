@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehThreeabove-farsi.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -18466,17 +18469,17 @@ unicode = 0776;
 },
 {
 glyphname = "yehThreeabove-farsi.fina";
-lastChange = "2015-12-09 20:35:52 +0000";
+lastChange = "2015-12-18 08:44:31 +0000";
 layers = (
 {
 components = (
 {
-disableAlignment = 1;
-name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 176, -231}";
+name = "alefMaksura-ar.fina";
 },
 {
-name = "alefMaksura-ar.fina";
+disableAlignment = 1;
+name = "three-ar.above";
+transform = "{0.8, 0, 0, 0.8, 281, -454}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

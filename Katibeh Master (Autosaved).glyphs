@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/two-ar.above",
-"/three-ar.below"
+"/two-ar.below"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -31510,9 +31509,19 @@ width = 0;
 },
 {
 glyphname = "three-ar.below";
-lastChange = "2015-12-18 08:18:33 +0000";
+lastChange = "2015-12-18 08:18:48 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{0, -184}";
+},
+{
+name = bottom;
+position = "{0, -484}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

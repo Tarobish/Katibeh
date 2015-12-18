@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/threedotsdowncenter-ar/tcheh-ar"
+"/tcheh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3499,7 +3499,7 @@ unicode = FE9F;
 },
 {
 glyphname = "tcheh-ar";
-lastChange = "2015-12-18 08:21:03 +0000";
+lastChange = "2015-12-18 08:21:05 +0000";
 layers = (
 {
 components = (
@@ -3508,7 +3508,7 @@ name = "hah-ar";
 },
 {
 name = "threedotsdowncenter-ar";
-transform = "{1, 0, 0, 1, 330, -284}";
+transform = "{1, 0, 0, 1, 330, -282}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3520,7 +3520,7 @@ unicode = 0686;
 },
 {
 glyphname = "tcheh-ar.fina";
-lastChange = "2015-12-06 00:18:02 +0000";
+lastChange = "2015-12-18 08:21:16 +0000";
 layers = (
 {
 components = (
@@ -3528,9 +3528,8 @@ components = (
 name = "hah-ar.fina";
 },
 {
-disableAlignment = 1;
-name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 318, 108}";
+name = "threedotsdowncenter-ar";
+transform = "{1, 0, 0, 1, 312, -312}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -38044,13 +38043,13 @@ unicode = FBB9;
 },
 {
 glyphname = "threedotsdowncenter-ar";
-lastChange = "2015-12-18 08:21:03 +0000";
+lastChange = "2015-12-18 08:21:05 +0000";
 layers = (
 {
 anchors = (
 {
 name = _center;
-position = "{1, 259}";
+position = "{1, 257}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/rehDotbelowdotabove-ar"
+"/reh-ar.fina/rehDotbelowdotabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -5847,7 +5847,7 @@ unicode = 0631;
 },
 {
 glyphname = "reh-ar.fina";
-lastChange = "2015-12-18 08:32:01 +0000";
+lastChange = "2015-12-18 08:33:15 +0000";
 layers = (
 {
 anchors = (
@@ -5857,7 +5857,7 @@ position = "{74, -263}";
 },
 {
 name = center;
-position = "{103, 14}";
+position = "{46, 24}";
 },
 {
 name = top;
@@ -6198,7 +6198,7 @@ unicode = 0696;
 {
 color = 0;
 glyphname = "rehDotbelowdotabove-ar.fina";
-lastChange = "2015-12-10 03:01:02 +0000";
+lastChange = "2015-12-18 08:33:15 +0000";
 layers = (
 {
 components = (
@@ -6215,6 +6215,10 @@ transform = "{1, 0, 0, 1, 91, -734}";
 {
 name = "dotbelow-ar";
 transform = "{1, 0, 0, 1, 114, -199}";
+},
+{
+name = "dotcenter-ar";
+transform = "{1, 0, 0, 1, 92, -140}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

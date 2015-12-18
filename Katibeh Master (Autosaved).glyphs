@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenFourabove-ar"
+"/seenFourabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -21247,7 +21247,7 @@ width = 556;
 },
 {
 glyphname = "seenFourabove-ar";
-lastChange = "2015-12-18 08:57:07 +0000";
+lastChange = "2015-12-18 08:57:10 +0000";
 layers = (
 {
 components = (
@@ -21256,7 +21256,7 @@ name = "seen-ar";
 },
 {
 name = "four-ar.above";
-transform = "{1, 0, 0, 1, 630, -429}";
+transform = "{0.8, 0, 0, 0.8, 626, -293}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -21268,23 +21268,21 @@ unicode = 077D;
 },
 {
 glyphname = "seenFourabove-ar.fina";
-lastChange = "2015-12-10 03:09:43 +0000";
+lastChange = "2015-12-18 08:57:18 +0000";
 layers = (
 {
 components = (
 {
 name = "seen-ar.fina";
-transform = "{1, 0, 0, 1, -10, 0}";
 },
 {
-disableAlignment = 1;
-name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 512, -32}";
+name = "four-ar.above";
+transform = "{1, 0, 0, 1, 629, -430}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 902;
+width = 912;
 }
 );
 },

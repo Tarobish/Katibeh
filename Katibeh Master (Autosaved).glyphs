@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/yehFourbelow-farsi"
+"/yehFourbelow-farsi",
+"/yehFourbelow-farsi.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -18551,7 +18552,7 @@ unicode = 0777;
 },
 {
 glyphname = "yehFourbelow-farsi.fina";
-lastChange = "2015-12-09 20:36:09 +0000";
+lastChange = "2015-12-18 08:45:47 +0000";
 layers = (
 {
 components = (

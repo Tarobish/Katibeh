@@ -42970,9 +42970,15 @@ width = 0;
 },
 {
 glyphname = TahSmallTwoDotscenterar;
-lastChange = "2015-12-18 08:05:21 +0000";
+lastChange = "2015-12-18 08:05:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = _center;
+position = "{1, 231}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -43086,7 +43092,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 }
 );
 },

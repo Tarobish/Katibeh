@@ -31307,6 +31307,28 @@ width = 503;
 unicode = 0663;
 },
 {
+glyphname = "three-ar.above";
+lastChange = "2015-12-18 07:11:45 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+},
+{
+glyphname = "three-ar.below";
+lastChange = "2015-12-18 07:11:53 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+},
+{
 glyphname = "three-ar.small";
 lastChange = "2015-11-26 08:10:05 +0000";
 layers = (

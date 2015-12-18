@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/reh-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -5780,13 +5783,17 @@ width = 443;
 },
 {
 glyphname = "reh-ar";
-lastChange = "2015-12-06 00:23:44 +0000";
+lastChange = "2015-12-18 08:31:56 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{74, -261}";
+},
+{
+name = center;
+position = "{73, 14}";
 },
 {
 name = top;
@@ -5840,13 +5847,17 @@ unicode = 0631;
 },
 {
 glyphname = "reh-ar.fina";
-lastChange = "2015-12-06 00:23:34 +0000";
+lastChange = "2015-12-18 08:32:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{74, -263}";
+},
+{
+name = center;
+position = "{73, 14}";
 },
 {
 name = top;

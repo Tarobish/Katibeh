@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/threedotsdowncenter-ar"
+"/threedotsupcenter-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -37876,11 +37876,57 @@ unicode = FBB7;
 },
 {
 glyphname = "threedotsupcenter-ar";
-lastChange = "2015-12-18 07:19:01 +0000";
+lastChange = "2015-12-18 08:02:22 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-86 150 OFFCURVE",
+"-67 133 OFFCURVE",
+"-43 108 CURVE",
+"-23 128 OFFCURVE",
+"-11 141 OFFCURVE",
+"-1 154 CURVE",
+"15 143 OFFCURVE",
+"31 128 OFFCURVE",
+"50 108 CURVE",
+"78 135 OFFCURVE",
+"90 151 OFFCURVE",
+"103 169 CURVE",
+"91 188 OFFCURVE",
+"62 212 OFFCURVE",
+"39 224 CURVE",
+"2 180 LINE",
+"-12 196 OFFCURVE",
+"-35 214 OFFCURVE",
+"-54 224 CURVE",
+"-67 208 OFFCURVE",
+"-92 179 OFFCURVE",
+"-107 162 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-42 257 OFFCURVE",
+"-23 241 OFFCURVE",
+"1 216 CURVE",
+"29 243 OFFCURVE",
+"41 259 OFFCURVE",
+"54 277 CURVE",
+"42 295 OFFCURVE",
+"13 320 OFFCURVE",
+"-10 332 CURVE",
+"-23 315 OFFCURVE",
+"-48 286 OFFCURVE",
+"-63 270 CURVE"
+);
+}
+);
 width = 600;
 }
 );

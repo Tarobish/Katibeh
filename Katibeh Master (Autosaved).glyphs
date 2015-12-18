@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehbarreeTwoabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -19079,7 +19082,7 @@ unicode = FBB1;
 },
 {
 glyphname = "yehbarreeTwoabove-ar";
-lastChange = "2015-11-26 08:32:10 +0000";
+lastChange = "2015-12-18 08:48:37 +0000";
 layers = (
 {
 components = (
@@ -19090,6 +19093,11 @@ name = "yehbarree-ar";
 disableAlignment = 1;
 name = "two-ar.small";
 transform = "{0.8, 0, 0, 0.8, 146, -8}";
+},
+{
+disableAlignment = 1;
+name = "two-ar.above";
+transform = "{0.8, 0, 0, 0.8, 225, -228}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

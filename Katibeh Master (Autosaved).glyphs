@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/twodotsverticalcenter-ar/dyeh-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -3754,7 +3757,7 @@ unicode = FB78;
 {
 color = 0;
 glyphname = "dyeh-ar";
-lastChange = "2015-12-06 00:17:30 +0000";
+lastChange = "2015-12-18 08:23:05 +0000";
 layers = (
 {
 components = (
@@ -3762,9 +3765,8 @@ components = (
 name = "hah-ar";
 },
 {
-disableAlignment = 1;
-name = "twodotsverticalbelow-ar";
-transform = "{1, 0, 0, 1, 326, 136}";
+name = "twodotsverticalcenter-ar";
+transform = "{1, 0, 0, 1, 335, -241}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/yehTwoabove-farsi"
+"/yehTwoabove-farsi.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -18366,7 +18366,7 @@ width = 276;
 },
 {
 glyphname = "yehTwoabove-farsi";
-lastChange = "2015-12-18 08:41:34 +0000";
+lastChange = "2015-12-18 08:41:37 +0000";
 layers = (
 {
 components = (
@@ -18375,7 +18375,7 @@ name = "yeh-farsi";
 },
 {
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 230, -475}";
+transform = "{0.8, 0, 0, 0.8, 229, -339}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18387,17 +18387,16 @@ unicode = 0775;
 },
 {
 glyphname = "yehTwoabove-farsi.fina";
-lastChange = "2015-12-09 20:35:45 +0000";
+lastChange = "2015-12-18 08:41:44 +0000";
 layers = (
 {
 components = (
 {
-disableAlignment = 1;
-name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, 177, -233}";
+name = "alefMaksura-ar.fina";
 },
 {
-name = "alefMaksura-ar.fina";
+name = "two-ar.above";
+transform = "{1, 0, 0, 1, 282, -519}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

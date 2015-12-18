@@ -6911,7 +6911,7 @@ unicode = 0633;
 },
 {
 glyphname = "seen-ar.fina";
-lastChange = "2015-12-18 09:01:56 +0000";
+lastChange = "2015-12-18 09:02:39 +0000";
 layers = (
 {
 anchors = (
@@ -6921,7 +6921,7 @@ position = "{276, -264}";
 },
 {
 name = center;
-position = "{626, -55}";
+position = "{608, -113}";
 },
 {
 name = top;
@@ -7298,7 +7298,7 @@ unicode = 069A;
 {
 color = 0;
 glyphname = "seenDotbelowDotabove-ar.fina";
-lastChange = "2015-12-18 09:02:30 +0000";
+lastChange = "2015-12-18 09:02:39 +0000";
 layers = (
 {
 components = (
@@ -7316,7 +7316,7 @@ transform = "{1, 0, 0, 1, 613, -430}";
 },
 {
 name = "dotcenter-ar";
-transform = "{1, 0, 0, 1, 632, -219}";
+transform = "{1, 0, 0, 1, 614, -277}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

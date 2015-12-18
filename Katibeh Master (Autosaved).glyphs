@@ -20863,16 +20863,16 @@ unicode = 0769;
 },
 {
 glyphname = "noonVabove-ar.fina";
-lastChange = "2015-12-18 08:53:33 +0000";
+lastChange = "2015-12-18 08:53:43 +0000";
 layers = (
 {
 components = (
 {
-name = "noon-ar.fina";
+name = VaDotbelowar;
+transform = "{1, 0, 0, 1, 264, -481}";
 },
 {
-name = VaDotbelowar;
-transform = "{1, 0, 0, 1, 264, -545}";
+name = "noonghunna-ar.fina";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

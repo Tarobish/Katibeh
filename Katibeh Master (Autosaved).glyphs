@@ -31420,6 +31420,17 @@ width = 412;
 unicode = 0664;
 },
 {
+glyphname = "four-ar.above";
+lastChange = "2015-12-18 07:12:11 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+},
+{
 glyphname = "four-ar.below";
 lastChange = "2015-12-16 21:22:31 +0000";
 layers = (
@@ -31482,6 +31493,17 @@ nodes = (
 }
 );
 width = 0;
+}
+);
+},
+{
+glyphname = "four-ar.center";
+lastChange = "2015-12-18 07:12:18 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
 }
 );
 },

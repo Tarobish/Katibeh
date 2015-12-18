@@ -31173,6 +31173,17 @@ width = 417;
 unicode = 0662;
 },
 {
+glyphname = "two-ar.above";
+lastChange = "2015-12-18 07:11:08 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+},
+{
 glyphname = "two-ar.small";
 lastChange = "2015-11-26 08:09:06 +0000";
 layers = (

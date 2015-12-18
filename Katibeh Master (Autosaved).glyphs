@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenTahTwodotshorizontalabove-ar.medi"
+"/hahTahabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -21146,7 +21146,7 @@ width = 567;
 },
 {
 glyphname = "seenTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-12-18 08:56:45 +0000";
+lastChange = "2015-12-18 08:56:46 +0000";
 layers = (
 {
 components = (
@@ -21166,7 +21166,7 @@ width = 613;
 },
 {
 glyphname = "hahTahabove-ar";
-lastChange = "2015-12-16 21:25:06 +0000";
+lastChange = "2015-12-18 08:56:53 +0000";
 layers = (
 {
 components = (

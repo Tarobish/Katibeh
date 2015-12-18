@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/tcheheh-ar.fina"
+"/nyeh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3605,7 +3605,7 @@ unicode = 0687;
 },
 {
 glyphname = "tcheheh-ar.fina";
-lastChange = "2015-12-18 08:22:10 +0000";
+lastChange = "2015-12-18 08:22:12 +0000";
 layers = (
 {
 components = (
@@ -3615,7 +3615,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = "fourdotscenter-ar";
-transform = "{1, 0, 0, 1, 314, -286}";
+transform = "{1, 0, 0, 1, 319, -290}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -3670,7 +3670,7 @@ unicode = FB80;
 {
 color = 0;
 glyphname = "nyeh-ar";
-lastChange = "2015-12-06 00:17:19 +0000";
+lastChange = "2015-12-18 08:22:27 +0000";
 layers = (
 {
 components = (
@@ -3678,9 +3678,8 @@ components = (
 name = "hah-ar";
 },
 {
-disableAlignment = 1;
-name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 333, 97}";
+name = "twodotshorizontalcenter-ar";
+transform = "{1, 0, 0, 1, 333, -189}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

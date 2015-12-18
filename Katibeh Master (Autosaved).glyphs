@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"/two-ar.below",
 "/twodotsverticalbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -31244,17 +31243,17 @@ width = 0;
 },
 {
 glyphname = "two-ar.below";
-lastChange = "2015-12-18 08:16:50 +0000";
+lastChange = "2015-12-18 08:17:03 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{5, -210}";
+position = "{5, -184}";
 },
 {
 name = bottom;
-position = "{5, -470}";
+position = "{5, -484}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

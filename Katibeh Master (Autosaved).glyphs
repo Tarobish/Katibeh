@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/hahTahabove-ar"
+"/seenFourabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -21247,7 +21247,7 @@ width = 556;
 },
 {
 glyphname = "seenFourabove-ar";
-lastChange = "2015-11-26 08:34:29 +0000";
+lastChange = "2015-12-18 08:57:07 +0000";
 layers = (
 {
 components = (
@@ -21255,14 +21255,13 @@ components = (
 name = "seen-ar";
 },
 {
-disableAlignment = 1;
-name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, 521, -32}";
+name = "four-ar.above";
+transform = "{1, 0, 0, 1, 630, -429}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 893;
+width = 866;
 }
 );
 unicode = 077D;

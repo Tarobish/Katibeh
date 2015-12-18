@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/three-ar.above"
+"/three-ar.above",
+"/two-ar.above"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -31421,7 +31422,7 @@ unicode = 0663;
 },
 {
 glyphname = "three-ar.above";
-lastChange = "2015-12-18 08:17:54 +0000";
+lastChange = "2015-12-18 08:18:00 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";

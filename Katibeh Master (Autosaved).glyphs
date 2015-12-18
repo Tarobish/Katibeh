@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/twodotsverticalabove-ar",
-"/two-ar.below"
+"/two-ar.below",
+"/twodotsverticalbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -31244,9 +31244,19 @@ width = 0;
 },
 {
 glyphname = "two-ar.below";
-lastChange = "2015-12-18 08:16:28 +0000";
+lastChange = "2015-12-18 08:16:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = _bottom;
+position = "{5, -210}";
+},
+{
+name = bottom;
+position = "{5, -470}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -31294,7 +31304,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 }
 );
 },

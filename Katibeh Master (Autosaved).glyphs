@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-/TahSmallDotbelowar,
-"/vabove-ar"
+"/two-ar.small"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -31200,7 +31199,7 @@ width = 600;
 },
 {
 glyphname = "two-ar.small";
-lastChange = "2015-11-26 08:09:06 +0000";
+lastChange = "2015-12-18 08:11:30 +0000";
 layers = (
 {
 components = (

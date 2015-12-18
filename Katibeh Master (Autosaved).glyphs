@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/seenThreedotsbelowThreedots-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -7480,7 +7483,7 @@ unicode = 069C;
 {
 color = 0;
 glyphname = "seenThreedotsbelowThreedots-ar.fina";
-lastChange = "2015-11-16 22:16:46 +0000";
+lastChange = "2015-12-18 09:05:34 +0000";
 layers = (
 {
 components = (
@@ -7493,8 +7496,8 @@ transform = "{1, 0, 0, 1, 609, -430}";
 },
 {
 disableAlignment = 1;
-name = "threedotsdownbelow-ar";
-transform = "{1, 0, 0, 1, 641, 31}";
+name = "threedotsdowncenter-ar";
+transform = "{1, 0, 0, 1, 637, -370}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

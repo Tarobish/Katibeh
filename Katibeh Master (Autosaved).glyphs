@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/two-ar.above"
+"/two-ar.above",
+"/twodotsverticalabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -31177,9 +31178,19 @@ unicode = 0662;
 },
 {
 glyphname = "two-ar.above";
-lastChange = "2015-12-18 08:11:50 +0000";
+lastChange = "2015-12-18 08:12:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{-4, 680}";
+},
+{
+name = top;
+position = "{-4, 979}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

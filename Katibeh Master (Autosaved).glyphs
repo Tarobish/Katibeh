@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hahFourbelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -4918,7 +4915,7 @@ unicode = 077C;
 },
 {
 glyphname = "hahFourbelow-ar.fina";
-lastChange = "2015-12-18 08:30:48 +0000";
+lastChange = "2015-12-18 08:30:56 +0000";
 layers = (
 {
 components = (
@@ -4926,8 +4923,9 @@ components = (
 name = "hah-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "four-ar.center";
-transform = "{1, 0, 0, 1, 317, -327}";
+transform = "{1, 0, 0, 1, 316, -314}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

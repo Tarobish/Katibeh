@@ -3692,7 +3692,7 @@ unicode = 0683;
 {
 color = 0;
 glyphname = "nyeh-ar.fina";
-lastChange = "2015-12-06 00:17:25 +0000";
+lastChange = "2015-12-18 08:22:48 +0000";
 layers = (
 {
 components = (
@@ -3700,9 +3700,8 @@ components = (
 name = "hah-ar.fina";
 },
 {
-disableAlignment = 1;
-name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 318, 77}";
+name = "twodotshorizontalcenter-ar";
+transform = "{1, 0, 0, 1, 315, -247}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

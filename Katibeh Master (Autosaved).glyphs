@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar.fina"
+"/wawDotcenter-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -16769,7 +16769,7 @@ unicode = 0648;
 },
 {
 glyphname = "waw-ar.fina";
-lastChange = "2015-12-18 08:36:11 +0000";
+lastChange = "2015-12-18 08:36:13 +0000";
 layers = (
 {
 anchors = (
@@ -16779,7 +16779,7 @@ position = "{131, -279}";
 },
 {
 name = center;
-position = "{73, 14}";
+position = "{30, -25}";
 },
 {
 name = top;
@@ -17113,7 +17113,7 @@ width = 382;
 {
 color = 0;
 glyphname = "wawDotcenter-ar";
-lastChange = "2015-11-28 01:19:33 +0000";
+lastChange = "2015-12-18 08:36:23 +0000";
 layers = (
 {
 components = (
@@ -17126,6 +17126,10 @@ transform = "{1, 0, 0, 1, 86, 0}";
 disableAlignment = 1;
 name = "dotcenter-ar";
 transform = "{1, 0, 0, 1, 114, -185}";
+},
+{
+name = "dotcenter-ar";
+transform = "{1, 0, 0, 1, 126, -184}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

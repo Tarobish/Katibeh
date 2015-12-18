@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/wawThreeAbove-ar"
+"/wawThreeAbove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17068,7 +17068,7 @@ width = 382;
 },
 {
 glyphname = "wawThreeAbove-ar";
-lastChange = "2015-11-28 01:19:13 +0000";
+lastChange = "2015-12-18 08:38:17 +0000";
 layers = (
 {
 components = (
@@ -17076,9 +17076,8 @@ components = (
 name = "waw-ar";
 },
 {
-disableAlignment = 1;
-name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 77, -34}";
+name = "three-ar.above";
+transform = "{0.8, 0, 0, 0.8, 164, -260}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -17090,7 +17089,7 @@ unicode = 0779;
 },
 {
 glyphname = "wawThreeAbove-ar.fina";
-lastChange = "2015-12-10 03:05:27 +0000";
+lastChange = "2015-12-18 08:38:29 +0000";
 layers = (
 {
 components = (
@@ -17098,9 +17097,8 @@ components = (
 name = "waw-ar.fina";
 },
 {
-disableAlignment = 1;
-name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, 77, -34}";
+name = "three-ar.above";
+transform = "{0.8, 0, 0, 0.8, 144, -260}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

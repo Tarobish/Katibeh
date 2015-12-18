@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/wawTwoabove-ar.fina"
+"/wawThreeAbove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17047,7 +17047,7 @@ unicode = 0778;
 },
 {
 glyphname = "wawTwoabove-ar.fina";
-lastChange = "2015-12-18 08:37:59 +0000";
+lastChange = "2015-12-18 08:38:04 +0000";
 layers = (
 {
 components = (
@@ -17055,8 +17055,9 @@ components = (
 name = "waw-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "two-ar.above";
-transform = "{1, 0, 0, 1, 145, -396}";
+transform = "{0.8, 0, 0, 0.8, 124, -260}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

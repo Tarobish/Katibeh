@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hahThreedotsupbelow-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -4588,7 +4585,7 @@ unicode = 0758;
 {
 color = 0;
 glyphname = "hahThreedotsupbelow-ar.fina";
-lastChange = "2015-12-18 08:24:17 +0000";
+lastChange = "2015-12-18 08:24:23 +0000";
 layers = (
 {
 components = (
@@ -4596,8 +4593,9 @@ components = (
 name = "hah-ar.fina";
 },
 {
+disableAlignment = 1;
 name = "threedotsupcenter-ar";
-transform = "{1, 0, 0, 1, 315, -288}";
+transform = "{1, 0, 0, 1, 334, -280}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

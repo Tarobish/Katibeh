@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-/TahSmallTwoDotsabovear,
 "/twodotshorizontalabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -43231,9 +43230,19 @@ width = 0;
 },
 {
 glyphname = TahSmallTwoDotsabovear;
-lastChange = "2015-12-18 08:07:20 +0000";
+lastChange = "2015-12-18 08:07:37 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{-3, 680}";
+},
+{
+name = top;
+position = "{-3, 1083}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
@@ -43347,7 +43356,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 0;
 }
 );
 },

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/twodotsverticalcenter-ar"
+"/twodotshorizontalcenter-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -37333,43 +37333,49 @@ unicode = FBBE;
 },
 {
 glyphname = "twodotsverticalcenter-ar";
-lastChange = "2015-12-18 08:00:19 +0000";
+lastChange = "2015-12-18 08:00:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = _center;
+position = "{-4, 216}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"-7 237 OFFCURVE",
-"5 252 OFFCURVE",
-"17 270 CURVE",
-"5 288 OFFCURVE",
-"-24 312 OFFCURVE",
-"-47 325 CURVE",
-"-59 308 OFFCURVE",
-"-84 279 OFFCURVE",
-"-100 263 CURVE",
-"-82 252 OFFCURVE",
-"-66 239 OFFCURVE",
-"-47 220 CURVE",
-"-60 203 OFFCURVE",
-"-85 175 OFFCURVE",
-"-100 159 CURVE",
-"-79 147 OFFCURVE",
-"-60 130 OFFCURVE",
-"-36 105 CURVE",
-"-8 132 OFFCURVE",
-"4 148 OFFCURVE",
-"17 166 CURVE",
-"7 181 OFFCURVE",
-"-13 199 OFFCURVE",
-"-32 212 CURVE"
+"31 238 OFFCURVE",
+"43 253 OFFCURVE",
+"55 271 CURVE",
+"43 289 OFFCURVE",
+"14 313 OFFCURVE",
+"-9 326 CURVE",
+"-21 309 OFFCURVE",
+"-46 280 OFFCURVE",
+"-62 264 CURVE",
+"-44 253 OFFCURVE",
+"-28 240 OFFCURVE",
+"-9 221 CURVE",
+"-22 204 OFFCURVE",
+"-47 176 OFFCURVE",
+"-62 160 CURVE",
+"-41 148 OFFCURVE",
+"-22 131 OFFCURVE",
+"2 106 CURVE",
+"30 133 OFFCURVE",
+"42 149 OFFCURVE",
+"55 167 CURVE",
+"45 182 OFFCURVE",
+"25 200 OFFCURVE",
+"6 213 CURVE"
 );
 }
 );
-width = 554;
+width = 0;
 }
 );
 },
@@ -37481,12 +37487,43 @@ unicode = FBB5;
 },
 {
 glyphname = "twodotshorizontalcenter-ar";
-lastChange = "2015-12-18 07:18:44 +0000";
+lastChange = "2015-12-18 08:00:50 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-85 148 OFFCURVE",
+"-67 131 OFFCURVE",
+"-42 106 CURVE",
+"-22 126 OFFCURVE",
+"-11 139 OFFCURVE",
+"-1 152 CURVE",
+"15 140 OFFCURVE",
+"31 126 OFFCURVE",
+"50 106 CURVE",
+"78 133 OFFCURVE",
+"90 149 OFFCURVE",
+"103 167 CURVE",
+"91 186 OFFCURVE",
+"63 210 OFFCURVE",
+"39 222 CURVE",
+"31 210 OFFCURVE",
+"16 193 OFFCURVE",
+"2 178 CURVE",
+"-12 194 OFFCURVE",
+"-34 212 OFFCURVE",
+"-53 222 CURVE",
+"-66 205 OFFCURVE",
+"-91 177 OFFCURVE",
+"-106 160 CURVE"
+);
+}
+);
+width = 3;
 }
 );
 },

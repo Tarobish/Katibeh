@@ -8229,7 +8229,7 @@ unicode = FEBB;
 {
 color = 0;
 glyphname = "sadTwodotsbelow-ar";
-lastChange = "2015-11-16 22:22:53 +0000";
+lastChange = "2015-12-18 09:07:12 +0000";
 layers = (
 {
 components = (
@@ -8237,9 +8237,8 @@ components = (
 name = "sad-ar";
 },
 {
-disableAlignment = 1;
-name = "twodotshorizontalbelow-ar";
-transform = "{1, 0, 0, 1, 648, 31}";
+name = "twodotshorizontalcenter-ar";
+transform = "{1, 0, 0, 1, 641, -247}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

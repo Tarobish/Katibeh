@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/seenTahTwodotshorizontalabove-ar.init"
+"/seenTahTwodotshorizontalabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -21126,7 +21126,7 @@ width = 912;
 },
 {
 glyphname = "seenTahTwodotshorizontalabove-ar.init";
-lastChange = "2015-12-18 08:56:29 +0000";
+lastChange = "2015-12-18 08:56:30 +0000";
 layers = (
 {
 components = (
@@ -21146,7 +21146,7 @@ width = 567;
 },
 {
 glyphname = "seenTahTwodotshorizontalabove-ar.medi";
-lastChange = "2015-11-27 21:37:35 +0000";
+lastChange = "2015-12-18 08:56:45 +0000";
 layers = (
 {
 components = (
@@ -21154,12 +21154,8 @@ components = (
 name = "seen-ar.medi";
 },
 {
-name = "twodotshorizontalabove-ar";
+name = TahSmallTwoDotsabovear;
 transform = "{1, 0, 0, 1, 312, -429}";
-},
-{
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 314, -276}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

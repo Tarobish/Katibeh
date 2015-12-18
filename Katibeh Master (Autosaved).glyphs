@@ -4836,7 +4836,7 @@ unicode = 076F;
 },
 {
 glyphname = "hahTahTwodotshorizontalabove-ar.fina";
-lastChange = "2015-12-18 08:28:08 +0000";
+lastChange = "2015-12-18 08:28:12 +0000";
 layers = (
 {
 components = (
@@ -4846,7 +4846,7 @@ name = "hah-ar.fina";
 {
 disableAlignment = 1;
 name = TahSmallTwoDotscenterar;
-transform = "{1, 0, 0, 1, 312, -366}";
+transform = "{1, 0, 0, 1, 342, -347}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

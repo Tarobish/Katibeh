@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehTwoabove-farsi.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -18408,15 +18405,10 @@ width = 609;
 },
 {
 glyphname = "yehTwoabove-farsi.init";
-lastChange = "2015-12-18 08:42:22 +0000";
+lastChange = "2015-12-18 08:42:29 +0000";
 layers = (
 {
 components = (
-{
-disableAlignment = 1;
-name = "two-ar.small";
-transform = "{0.8, 0, 0, 0.8, -61, -123}";
-},
 {
 name = "yeh-farsi.init";
 },

@@ -1,6 +1,8 @@
 {
 DisplayStrings = (
-"/twodotshorizontalabove-ar"
+"/dotabove-ar",
+/TahSmallDotbelowar,
+/TahSmallTwoDotsabovear
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -43362,11 +43364,30 @@ width = 0;
 },
 {
 glyphname = TahSmallDotbelowar;
-lastChange = "2015-12-18 07:09:09 +0000";
+lastChange = "2015-12-18 08:08:39 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-23 799 OFFCURVE",
+"-48 771 OFFCURVE",
+"-63 754 CURVE",
+"-42 742 OFFCURVE",
+"-24 725 OFFCURVE",
+"1 700 CURVE",
+"29 727 OFFCURVE",
+"40 743 OFFCURVE",
+"53 761 CURVE",
+"41 780 OFFCURVE",
+"13 804 OFFCURVE",
+"-10 816 CURVE"
+);
+}
+);
 width = 600;
 }
 );

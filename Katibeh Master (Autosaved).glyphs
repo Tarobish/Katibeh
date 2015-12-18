@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehFourbelow-farsi.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -18591,7 +18588,7 @@ width = 234;
 },
 {
 glyphname = "yehFourbelow-farsi.medi";
-lastChange = "2015-12-10 03:07:12 +0000";
+lastChange = "2015-12-18 08:48:09 +0000";
 layers = (
 {
 components = (
@@ -18599,9 +18596,8 @@ components = (
 name = "dotlessbeh-ar.medi";
 },
 {
-disableAlignment = 1;
-name = "four-persian.urdu.small";
-transform = "{0.8, 0, 0, 0.8, -50, -603}";
+name = "four-ar.below";
+transform = "{0.8, 0, 0, 0.8, 18, 113}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

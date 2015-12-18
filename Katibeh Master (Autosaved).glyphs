@@ -8237,8 +8237,9 @@ components = (
 name = "sad-ar";
 },
 {
-name = "twodotshorizontalcenter-ar";
-transform = "{1, 0, 0, 1, 641, -247}";
+disableAlignment = 1;
+name = "twodotshorizontalbelow-ar";
+transform = "{1, 0, 0, 1, 648, 31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

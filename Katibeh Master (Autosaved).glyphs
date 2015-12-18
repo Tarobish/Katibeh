@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "/sad-ar",
-"/sad-ar.fina"
+"/sad-ar.fina",
+"/sadTwodotsbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -7867,7 +7868,7 @@ unicode = 0635;
 },
 {
 glyphname = "sad-ar.fina";
-lastChange = "2015-12-18 09:06:25 +0000";
+lastChange = "2015-12-18 09:06:28 +0000";
 layers = (
 {
 anchors = (
@@ -7877,7 +7878,7 @@ position = "{276, -264}";
 },
 {
 name = center;
-position = "{331, -25}";
+position = "{646, -55}";
 },
 {
 name = top;

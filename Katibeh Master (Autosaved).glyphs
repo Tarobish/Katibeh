@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/noonTahabove-ar.fina"
+"/noonTahabove-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -20802,7 +20802,7 @@ width = 615;
 },
 {
 glyphname = "noonTahabove-ar.init";
-lastChange = "2015-12-06 00:21:21 +0000";
+lastChange = "2015-12-18 08:52:15 +0000";
 layers = (
 {
 components = (
@@ -20810,12 +20810,8 @@ components = (
 name = "noonghunna-ar";
 },
 {
-name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 265, -682}";
-},
-{
-name = "tahabove-ar";
-transform = "{1, 0, 0, 1, 265, -529}";
+name = TahSmallDotbelowar;
+transform = "{1, 0, 0, 1, 263, -682}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

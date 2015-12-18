@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-/TahSmallTwoDotsbelowar,
 "/twodotsverticalbelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -43099,13 +43098,13 @@ width = 0;
 },
 {
 glyphname = TahSmallTwoDotsbelowar;
-lastChange = "2015-12-18 08:06:46 +0000";
+lastChange = "2015-12-18 08:06:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{5, -303}";
+position = "{5, -180}";
 },
 {
 name = bottom;

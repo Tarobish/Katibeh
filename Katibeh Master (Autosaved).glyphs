@@ -42612,6 +42612,28 @@ name = Regular;
 width = 600;
 }
 );
+},
+{
+glyphname = TahSmallTwoDotsbelowar;
+lastChange = "2015-12-18 07:08:51 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+},
+{
+glyphname = TahSmallTwoDotsabovear;
+lastChange = "2015-12-18 07:09:00 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
 }
 );
 instances = (

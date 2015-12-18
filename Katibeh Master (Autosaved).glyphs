@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/noonVabove-ar.init"
+"/noonVabove-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -20903,16 +20903,16 @@ width = 234;
 },
 {
 glyphname = "noonVabove-ar.medi";
-lastChange = "2015-11-27 04:10:22 +0000";
+lastChange = "2015-12-18 08:54:56 +0000";
 layers = (
 {
 components = (
 {
-name = "noon-ar.medi";
-},
-{
 name = "vabove-ar";
 transform = "{1, 0, 0, 1, 28, -332}";
+},
+{
+name = "dotlessbeh-ar.medi";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

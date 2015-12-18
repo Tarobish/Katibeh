@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehTwoabove-farsi.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -18426,7 +18429,7 @@ width = 234;
 },
 {
 glyphname = "yehTwoabove-farsi.medi";
-lastChange = "2015-12-10 03:06:34 +0000";
+lastChange = "2015-12-18 08:43:42 +0000";
 layers = (
 {
 components = (
@@ -18437,6 +18440,10 @@ name = "yeh-farsi.medi";
 disableAlignment = 1;
 name = "two-ar.small";
 transform = "{0.8, 0, 0, 0.8, -42, -158}";
+},
+{
+name = "two-ar.above";
+transform = "{0.8, 0, 0, 0.8, 31, -352}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/seenDotbelowDotabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -6787,7 +6784,7 @@ width = 507;
 },
 {
 glyphname = "seen-ar";
-lastChange = "2015-12-18 09:01:50 +0000";
+lastChange = "2015-12-18 09:02:17 +0000";
 layers = (
 {
 anchors = (
@@ -6797,7 +6794,7 @@ position = "{276, -264}";
 },
 {
 name = center;
-position = "{616, -55}";
+position = "{609, -112}";
 },
 {
 name = top;
@@ -7272,7 +7269,7 @@ unicode = FEB3;
 {
 color = 0;
 glyphname = "seenDotbelowDotabove-ar";
-lastChange = "2015-12-18 09:02:07 +0000";
+lastChange = "2015-12-18 09:02:17 +0000";
 layers = (
 {
 components = (
@@ -7290,7 +7287,7 @@ transform = "{1, 0, 0, 1, 614, -429}";
 },
 {
 name = "dotcenter-ar";
-transform = "{1, 0, 0, 1, 622, -219}";
+transform = "{1, 0, 0, 1, 615, -276}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

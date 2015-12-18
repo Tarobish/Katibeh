@@ -42678,6 +42678,28 @@ name = Regular;
 width = 600;
 }
 );
+},
+{
+glyphname = threedotsdowncenterar;
+lastChange = "2015-12-18 07:10:27 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+},
+{
+glyphname = twodotshorizontalcenterar;
+lastChange = "2015-12-18 07:10:36 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
 }
 );
 instances = (

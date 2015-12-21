@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/kaf-ar.medi/keheh-ar.medi",
+"/keheh_alef-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -28650,6 +28654,231 @@ width = 751;
 }
 );
 unicode = FC83;
+},
+{
+glyphname = "keheh_alef-ar";
+lastChange = "2015-12-21 01:22:29 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+position = "{299, 0}";
+},
+{
+name = bottom_2;
+position = "{82, 0}";
+},
+{
+name = caret_1;
+position = "{240, 0}";
+},
+{
+name = top_1;
+position = "{271, 580}";
+},
+{
+name = top_2;
+position = "{54, 682}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"21 590 OFFCURVE",
+"36 544 OFFCURVE",
+"42 435 CURVE SMOOTH",
+"45 369 OFFCURVE",
+"46 319 OFFCURVE",
+"49 138 CURVE SMOOTH",
+"50 89 OFFCURVE",
+"63 56 OFFCURVE",
+"82 36 CURVE SMOOTH",
+"105 10 OFFCURVE",
+"135 0 OFFCURVE",
+"188 0 CURVE SMOOTH",
+"245 0 OFFCURVE",
+"284 20 OFFCURVE",
+"307 55 CURVE SMOOTH",
+"327 84 OFFCURVE",
+"336 123 OFFCURVE",
+"336 170 CURVE SMOOTH",
+"336 211 OFFCURVE",
+"309 265 OFFCURVE",
+"274 314 CURVE SMOOTH",
+"245 354 OFFCURVE",
+"211 391 OFFCURVE",
+"181 414 CURVE",
+"195 424 OFFCURVE",
+"251 449 OFFCURVE",
+"309 475 CURVE SMOOTH",
+"363 500 OFFCURVE",
+"418 526 OFFCURVE",
+"445 544 CURVE",
+"470 657 LINE",
+"424 628 OFFCURVE",
+"405 617 OFFCURVE",
+"329 580 CURVE SMOOTH",
+"288 560 OFFCURVE",
+"208 520 OFFCURVE",
+"165 496 CURVE SMOOTH",
+"145 484 OFFCURVE",
+"121 471 OFFCURVE",
+"106 452 CURVE",
+"103 525 LINE SMOOTH",
+"101 586 OFFCURVE",
+"99 655 OFFCURVE",
+"97 681 CURVE",
+"84 681 LINE",
+"70 657 OFFCURVE",
+"48 630 OFFCURVE",
+"20 599 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"204 272 OFFCURVE",
+"251 215 OFFCURVE",
+"278 151 CURVE",
+"256 121 OFFCURVE",
+"240 107 OFFCURVE",
+"182 106 CURVE",
+"149 106 OFFCURVE",
+"134 117 OFFCURVE",
+"126 131 CURVE",
+"115 151 OFFCURVE",
+"113 180 OFFCURVE",
+"112 202 CURVE SMOOTH",
+"111 234 OFFCURVE",
+"109 300 OFFCURVE",
+"108 347 CURVE"
+);
+}
+);
+width = 480;
+}
+);
+},
+{
+glyphname = "keheh_alef-ar.fina";
+lastChange = "2015-12-21 01:26:18 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+position = "{330, 0}";
+},
+{
+name = bottom_2;
+position = "{101, 0}";
+},
+{
+name = caret_1;
+position = "{268.5, 0}";
+},
+{
+name = top_1;
+position = "{276, 566}";
+},
+{
+name = top_2;
+position = "{42, 679}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"21 590 OFFCURVE",
+"36 544 OFFCURVE",
+"42 435 CURVE SMOOTH",
+"45 369 OFFCURVE",
+"46 319 OFFCURVE",
+"49 138 CURVE SMOOTH",
+"50 89 OFFCURVE",
+"63 56 OFFCURVE",
+"82 36 CURVE SMOOTH",
+"105 11 OFFCURVE",
+"141 0 OFFCURVE",
+"189 0 CURVE",
+"278 0 OFFCURVE",
+"305 28 OFFCURVE",
+"335 85 CURVE",
+"355 55 OFFCURVE",
+"396 0 OFFCURVE",
+"485 0 CURVE SMOOTH",
+"537 0 LINE",
+"537 106 LINE",
+"492 106 LINE SMOOTH",
+"472 106 OFFCURVE",
+"453 107 OFFCURVE",
+"435 114 CURVE SMOOTH",
+"394 129 OFFCURVE",
+"369 167 OFFCURVE",
+"348 200 CURVE SMOOTH",
+"326 235 OFFCURVE",
+"307 266 OFFCURVE",
+"278 306 CURVE SMOOTH",
+"251 344 OFFCURVE",
+"221 379 OFFCURVE",
+"189 404 CURVE",
+"225 427 OFFCURVE",
+"237 434 OFFCURVE",
+"315 472 CURVE SMOOTH",
+"399 513 OFFCURVE",
+"446 538 OFFCURVE",
+"454 544 CURVE",
+"479 657 LINE",
+"441 631 OFFCURVE",
+"363 591 OFFCURVE",
+"344 582 CURVE SMOOTH",
+"311 566 OFFCURVE",
+"181 499 OFFCURVE",
+"148 481 CURVE SMOOTH",
+"131 472 OFFCURVE",
+"117 464 OFFCURVE",
+"106 454 CURVE",
+"103 525 LINE SMOOTH",
+"101 586 OFFCURVE",
+"99 655 OFFCURVE",
+"97 681 CURVE",
+"84 681 LINE",
+"70 657 OFFCURVE",
+"48 630 OFFCURVE",
+"20 599 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"146 307 OFFCURVE",
+"175 280 OFFCURVE",
+"199 255 CURVE SMOOTH",
+"235 217 OFFCURVE",
+"262 182 OFFCURVE",
+"290 137 CURVE",
+"269 116 OFFCURVE",
+"242 106 OFFCURVE",
+"202 106 CURVE SMOOTH",
+"128 106 OFFCURVE",
+"115 133 OFFCURVE",
+"112 202 CURVE SMOOTH",
+"111 233 OFFCURVE",
+"109 294 OFFCURVE",
+"109 340 CURVE"
+);
+}
+);
+width = 537;
+}
+);
 },
 {
 glyphname = "lam_hah-ar";

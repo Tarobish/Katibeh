@@ -1,4 +1,9 @@
 {
+DisplayStrings = (
+"/keheh_alef-ar",
+"/kaf_kaf-ar",
+"/alef-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -11790,17 +11795,6 @@ width = 934;
 }
 );
 unicode = 06A9;
-},
-{
-glyphname = "keheh-ar.init_";
-lastChange = "2015-12-21 01:17:19 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 600;
-}
-);
 },
 {
 glyphname = "keheh-ar.fina";
@@ -28661,6 +28655,114 @@ width = 751;
 }
 );
 unicode = FC83;
+},
+{
+glyphname = "keheh_alef-ar";
+lastChange = "2015-12-21 01:21:50 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+position = "{360, 0}";
+},
+{
+name = bottom_2;
+position = "{120, 0}";
+},
+{
+name = caret_1;
+position = "{240, 0}";
+},
+{
+name = top_1;
+position = "{360, 500}";
+},
+{
+name = top_2;
+position = "{120, 500}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"21 590 OFFCURVE",
+"36 544 OFFCURVE",
+"42 435 CURVE SMOOTH",
+"45 369 OFFCURVE",
+"46 319 OFFCURVE",
+"49 138 CURVE SMOOTH",
+"50 89 OFFCURVE",
+"63 56 OFFCURVE",
+"82 36 CURVE SMOOTH",
+"105 10 OFFCURVE",
+"135 0 OFFCURVE",
+"188 0 CURVE SMOOTH",
+"245 0 OFFCURVE",
+"284 20 OFFCURVE",
+"307 55 CURVE SMOOTH",
+"327 84 OFFCURVE",
+"336 123 OFFCURVE",
+"336 170 CURVE SMOOTH",
+"336 211 OFFCURVE",
+"309 265 OFFCURVE",
+"274 314 CURVE SMOOTH",
+"245 354 OFFCURVE",
+"211 391 OFFCURVE",
+"181 414 CURVE",
+"195 424 OFFCURVE",
+"251 449 OFFCURVE",
+"309 475 CURVE SMOOTH",
+"363 500 OFFCURVE",
+"418 526 OFFCURVE",
+"445 544 CURVE",
+"470 657 LINE",
+"424 628 OFFCURVE",
+"405 617 OFFCURVE",
+"329 580 CURVE SMOOTH",
+"288 560 OFFCURVE",
+"208 520 OFFCURVE",
+"165 496 CURVE SMOOTH",
+"145 484 OFFCURVE",
+"121 471 OFFCURVE",
+"106 452 CURVE",
+"103 525 LINE SMOOTH",
+"101 586 OFFCURVE",
+"99 655 OFFCURVE",
+"97 681 CURVE",
+"84 681 LINE",
+"70 657 OFFCURVE",
+"48 630 OFFCURVE",
+"20 599 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"204 272 OFFCURVE",
+"251 215 OFFCURVE",
+"278 151 CURVE",
+"256 121 OFFCURVE",
+"240 107 OFFCURVE",
+"182 106 CURVE",
+"149 106 OFFCURVE",
+"134 117 OFFCURVE",
+"126 131 CURVE",
+"115 151 OFFCURVE",
+"113 180 OFFCURVE",
+"112 202 CURVE SMOOTH",
+"111 234 OFFCURVE",
+"109 300 OFFCURVE",
+"108 347 CURVE"
+);
+}
+);
+width = 480;
+}
+);
 },
 {
 glyphname = "lam_hah-ar";

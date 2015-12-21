@@ -28658,7 +28658,7 @@ unicode = FC83;
 },
 {
 glyphname = "keheh_alef-ar";
-lastChange = "2015-12-21 01:21:50 +0000";
+lastChange = "2015-12-21 01:22:05 +0000";
 layers = (
 {
 anchors = (
@@ -28676,11 +28676,11 @@ position = "{240, 0}";
 },
 {
 name = top_1;
-position = "{360, 500}";
+position = "{278, 580}";
 },
 {
 name = top_2;
-position = "{120, 500}";
+position = "{54, 682}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>urlHosted</title>
+
+    <link rel="stylesheet"
+            type="text/css"
+            href="./bower_components/online-font-project/lib/css/liveTesting.css" />
+
+    <style type="text/css">
+        @font-face {
+            font-family: Katibeh;
+            font-style: normal;
+            font-weight: 400;
+            src: url('../Generated/Katibeh-Regular.ttf')  format('truetype');
+        }
+
+        @font-face {
+            font-family: Amiri;
+            font-style: normal;
+            font-weight: 400;
+            src: url('lib/generated-pages/fonts/amiri-bold.ttf')  format('truetype');
+        }
+
+        .Katibeh-Regular-400 {
+            font-family: Katibeh, Amiri, sans-serif;
+            font-weight: 400;
+        }
+        h1.app-title {
+            text-align: center
+        }
+    </style>
+
+    <script src="./bower_components/requirejs/require.js"></script>
+    <script>
+
+    define('ofp/config', [], {
+        liveTesting: {
+            fonts: {
+                w400: 'Katibeh-Regular-400'
+            }
+          , controlsTemplate: '{edit} {generate} {shareBox} <a href="../">home</a>'
+        }
+    });
+
+    require(['./browserConfig.js'], function(){
+        require(['ofp/liveTestingMain']);
+    });
+    </script>
+</head>
+<body>
+    <h1 class="app-title">Katibeh—Live Font Testing</h1>
+</body>
+</html>

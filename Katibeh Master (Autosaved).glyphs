@@ -43889,6 +43889,73 @@ category = Mark;
 subCategory = Nonspacing;
 },
 {
+glyphname = "dots.horz.below-ar";
+lastChange = "2015-12-30 21:08:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{1, -65}";
+},
+{
+name = bottom;
+position = "{-3, -200}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"85 -97 OFFCURVE",
+"70 -114 OFFCURVE",
+"57 -129 CURVE",
+"43 -113 OFFCURVE",
+"20 -95 OFFCURVE",
+"1 -85 CURVE",
+"-8 -97 OFFCURVE",
+"-23 -114 OFFCURVE",
+"-36 -129 CURVE",
+"-50 -113 OFFCURVE",
+"-73 -95 OFFCURVE",
+"-92 -85 CURVE",
+"-104 -102 OFFCURVE",
+"-129 -131 OFFCURVE",
+"-145 -147 CURVE",
+"-124 -159 OFFCURVE",
+"-105 -176 OFFCURVE",
+"-81 -201 CURVE",
+"-61 -181 OFFCURVE",
+"-49 -168 OFFCURVE",
+"-39 -155 CURVE",
+"-23 -167 OFFCURVE",
+"-7 -181 OFFCURVE",
+"12 -201 CURVE",
+"32 -181 OFFCURVE",
+"44 -168 OFFCURVE",
+"54 -155 CURVE",
+"70 -167 OFFCURVE",
+"86 -181 OFFCURVE",
+"105 -201 CURVE",
+"133 -174 OFFCURVE",
+"145 -158 OFFCURVE",
+"158 -140 CURVE",
+"146 -121 OFFCURVE",
+"117 -97 OFFCURVE",
+"94 -85 CURVE"
+);
+}
+);
+width = 0;
+}
+);
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
+},
+{
 glyphname = "gafbar-ar";
 lastChange = "2015-12-30 21:06:12 +0000";
 layers = (
@@ -44098,70 +44165,6 @@ width = 858;
 }
 );
 unicode = 0604;
-},
-{
-glyphname = "dots.horz.below-ar";
-lastChange = "2015-12-18 09:45:43 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{1, -65}";
-},
-{
-name = bottom;
-position = "{-3, -200}";
-}
-);
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"85 -97 OFFCURVE",
-"70 -114 OFFCURVE",
-"57 -129 CURVE",
-"43 -113 OFFCURVE",
-"20 -95 OFFCURVE",
-"1 -85 CURVE",
-"-8 -97 OFFCURVE",
-"-23 -114 OFFCURVE",
-"-36 -129 CURVE",
-"-50 -113 OFFCURVE",
-"-73 -95 OFFCURVE",
-"-92 -85 CURVE",
-"-104 -102 OFFCURVE",
-"-129 -131 OFFCURVE",
-"-145 -147 CURVE",
-"-124 -159 OFFCURVE",
-"-105 -176 OFFCURVE",
-"-81 -201 CURVE",
-"-61 -181 OFFCURVE",
-"-49 -168 OFFCURVE",
-"-39 -155 CURVE",
-"-23 -167 OFFCURVE",
-"-7 -181 OFFCURVE",
-"12 -201 CURVE",
-"32 -181 OFFCURVE",
-"44 -168 OFFCURVE",
-"54 -155 CURVE",
-"70 -167 OFFCURVE",
-"86 -181 OFFCURVE",
-"105 -201 CURVE",
-"133 -174 OFFCURVE",
-"145 -158 OFFCURVE",
-"158 -140 CURVE",
-"146 -121 OFFCURVE",
-"117 -97 OFFCURVE",
-"94 -85 CURVE"
-);
-}
-);
-width = 0;
-}
-);
 }
 );
 instances = (

@@ -31016,6 +31016,30 @@ category = Letter;
 subCategory = Ligature;
 },
 {
+glyphname = uniFEFE;
+lastChange = "2015-12-30 20:56:46 +0000";
+layers = (
+{
+components = (
+{
+name = "lam_alef-ar.fina";
+},
+{
+name = "fathatan-ar";
+transform = "{1, 0, 0, 1, 94, -91}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 634;
+}
+);
+unicode = FEFE;
+script = arabic;
+category = Letter;
+subCategory = Ligature;
+},
+{
 glyphname = "dotlessbeh_High-ar";
 lastChange = "2015-12-18 09:45:42 +0000";
 layers = (
@@ -43406,27 +43430,6 @@ width = 0;
 }
 );
 unicode = FBBC;
-},
-{
-glyphname = uniFEFE;
-lastChange = "2015-12-18 09:45:43 +0000";
-layers = (
-{
-components = (
-{
-name = "lam_alef-ar.fina";
-},
-{
-name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 94, -91}";
-}
-);
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-width = 634;
-}
-);
-unicode = FEFE;
 },
 {
 glyphname = "dots.horz.below-ar";

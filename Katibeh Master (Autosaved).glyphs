@@ -43863,6 +43863,32 @@ width = 0;
 unicode = 08F6;
 },
 {
+glyphname = barlong;
+lastChange = "2015-12-30 21:06:27 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-95 195 LINE",
+"-88 188 LINE",
+"57 188 LINE",
+"93 225 LINE",
+"-59 225 LINE"
+);
+}
+);
+width = 0;
+}
+);
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
+},
+{
 glyphname = "gafbar-ar";
 lastChange = "2015-12-30 21:06:12 +0000";
 layers = (
@@ -44127,29 +44153,6 @@ nodes = (
 "146 -121 OFFCURVE",
 "117 -97 OFFCURVE",
 "94 -85 CURVE"
-);
-}
-);
-width = 0;
-}
-);
-},
-{
-glyphname = barlong;
-lastChange = "2015-12-18 09:45:43 +0000";
-layers = (
-{
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"-95 195 LINE",
-"-88 188 LINE",
-"57 188 LINE",
-"93 225 LINE",
-"-59 225 LINE"
 );
 }
 );

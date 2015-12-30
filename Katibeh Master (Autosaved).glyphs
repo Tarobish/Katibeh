@@ -43929,6 +43929,71 @@ category = Mark;
 subCategory = Nonspacing;
 },
 {
+glyphname = uniFBBC;
+lastChange = "2015-12-30 21:07:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{1, -180}";
+},
+{
+name = bottom;
+position = "{-3, -327}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"38 -326 LINE",
+"52 -289 OFFCURVE",
+"49 -259 OFFCURVE",
+"45 -244 CURVE SMOOTH",
+"41 -229 OFFCURVE",
+"34 -215 OFFCURVE",
+"24 -201 CURVE",
+"4 -235 LINE",
+"14 -247 OFFCURVE",
+"19 -261 OFFCURVE",
+"22 -274 CURVE SMOOTH",
+"28 -304 OFFCURVE",
+"23 -321 OFFCURVE",
+"21 -326 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-19 -326 LINE",
+"-5 -289 OFFCURVE",
+"-8 -259 OFFCURVE",
+"-12 -244 CURVE SMOOTH",
+"-16 -229 OFFCURVE",
+"-23 -215 OFFCURVE",
+"-33 -201 CURVE",
+"-53 -235 LINE",
+"-43 -247 OFFCURVE",
+"-38 -261 OFFCURVE",
+"-35 -274 CURVE SMOOTH",
+"-29 -304 OFFCURVE",
+"-34 -321 OFFCURVE",
+"-36 -326 CURVE"
+);
+}
+);
+width = 0;
+}
+);
+unicode = FBBC;
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
+},
+{
 glyphname = "samvat-ar";
 lastChange = "2015-12-18 09:45:43 +0000";
 layers = (
@@ -44033,68 +44098,6 @@ width = 858;
 }
 );
 unicode = 0604;
-},
-{
-glyphname = uniFBBC;
-lastChange = "2015-12-18 09:45:43 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{1, -180}";
-},
-{
-name = bottom;
-position = "{-3, -327}";
-}
-);
-layerId = "51F41761-070F-43EA-B302-C90910850260";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"38 -326 LINE",
-"52 -289 OFFCURVE",
-"49 -259 OFFCURVE",
-"45 -244 CURVE SMOOTH",
-"41 -229 OFFCURVE",
-"34 -215 OFFCURVE",
-"24 -201 CURVE",
-"4 -235 LINE",
-"14 -247 OFFCURVE",
-"19 -261 OFFCURVE",
-"22 -274 CURVE SMOOTH",
-"28 -304 OFFCURVE",
-"23 -321 OFFCURVE",
-"21 -326 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-19 -326 LINE",
-"-5 -289 OFFCURVE",
-"-8 -259 OFFCURVE",
-"-12 -244 CURVE SMOOTH",
-"-16 -229 OFFCURVE",
-"-23 -215 OFFCURVE",
-"-33 -201 CURVE",
-"-53 -235 LINE",
-"-43 -247 OFFCURVE",
-"-38 -261 OFFCURVE",
-"-35 -274 CURVE SMOOTH",
-"-29 -304 OFFCURVE",
-"-34 -321 OFFCURVE",
-"-36 -326 CURVE"
-);
-}
-);
-width = 0;
-}
-);
-unicode = FBBC;
 },
 {
 glyphname = "dots.horz.below-ar";

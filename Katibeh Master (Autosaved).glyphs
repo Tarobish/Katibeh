@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefWasla-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -1232,7 +1235,7 @@ unicode = FE82;
 },
 {
 glyphname = "alefWasla-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:11:24 +0000";
 layers = (
 {
 components = (
@@ -1241,9 +1244,8 @@ locked = 1;
 name = "alef-ar.short";
 },
 {
-disableAlignment = 1;
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 80, -40}";
+transform = "{1, 0, 0, 1, 73, -51}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

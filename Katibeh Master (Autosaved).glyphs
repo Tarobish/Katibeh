@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/wawTwoabove-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -17480,7 +17483,7 @@ unicode = FE86;
 },
 {
 glyphname = "wawTwoabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:06:30 +0000";
 layers = (
 {
 components = (

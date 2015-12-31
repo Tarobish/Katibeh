@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/yehbarreeTwoabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -19539,7 +19536,7 @@ name = "yehbarree-ar";
 {
 disableAlignment = 1;
 name = "two-ar.above";
-transform = "{0.8, 0, 0, 0.8, 205, -213}";
+transform = "{0.8, 0, 0, 0.8, 205, -228}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

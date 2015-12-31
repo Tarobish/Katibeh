@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefFathatan-ar"
+"/alefFathatan-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1301,17 +1301,17 @@ unicode = FD3D;
 },
 {
 glyphname = "alefFathatan-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:12:26 +0000";
 layers = (
 {
 components = (
 {
-name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 69, -58}";
-},
-{
 locked = 1;
 name = "alef-ar.fina.short";
+},
+{
+name = "fathatan-ar";
+transform = "{1, 0, 0, 1, 75, -59}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

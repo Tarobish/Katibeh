@@ -19045,7 +19045,7 @@ unicode = FBB1;
 },
 {
 glyphname = "yehbarreeTwoabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 01:55:29 +0000";
 layers = (
 {
 components = (
@@ -19060,7 +19060,7 @@ transform = "{0.8, 0, 0, 0.8, 205, -228}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 950;
+width = 968;
 }
 );
 unicode = 077A;

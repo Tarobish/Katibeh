@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 /gafbarTwoDotsabovear,
-/gafbarThreeDotsabovear
+/gafbarThreeDotsabovear,
+"/threedotsupabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -44363,7 +44364,7 @@ width = 0;
 },
 {
 glyphname = gafbarThreeDotsabovear;
-lastChange = "2015-12-31 02:35:51 +0000";
+lastChange = "2015-12-31 02:36:14 +0000";
 layers = (
 {
 anchors = (
@@ -44396,30 +44397,45 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"-86 912 OFFCURVE",
+"-87 912 OFFCURVE",
 "-68 895 OFFCURVE",
-"-43 870 CURVE",
-"-23 890 OFFCURVE",
+"-44 870 CURVE",
+"-24 890 OFFCURVE",
 "-12 903 OFFCURVE",
 "-2 916 CURVE",
-"14 904 OFFCURVE",
+"14 905 OFFCURVE",
 "30 890 OFFCURVE",
 "49 870 CURVE",
 "77 897 OFFCURVE",
 "89 913 OFFCURVE",
 "102 931 CURVE",
 "90 950 OFFCURVE",
-"62 974 OFFCURVE",
+"61 974 OFFCURVE",
 "38 986 CURVE",
-"30 974 OFFCURVE",
-"15 957 OFFCURVE",
-"1 942 CURVE",
+"1 942 LINE",
 "-13 958 OFFCURVE",
-"-35 976 OFFCURVE",
-"-54 986 CURVE",
-"-67 969 OFFCURVE",
-"-92 941 OFFCURVE",
-"-107 924 CURVE"
+"-36 976 OFFCURVE",
+"-55 986 CURVE",
+"-68 970 OFFCURVE",
+"-93 941 OFFCURVE",
+"-108 924 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-43 1019 OFFCURVE",
+"-24 1003 OFFCURVE",
+"0 978 CURVE",
+"28 1005 OFFCURVE",
+"40 1021 OFFCURVE",
+"53 1039 CURVE",
+"41 1057 OFFCURVE",
+"12 1082 OFFCURVE",
+"-11 1094 CURVE",
+"-24 1077 OFFCURVE",
+"-49 1048 OFFCURVE",
+"-64 1032 CURVE"
 );
 }
 );

@@ -44290,6 +44290,17 @@ unicode = FBBC;
 script = arabic;
 category = Mark;
 subCategory = Nonspacing;
+},
+{
+glyphname = gafbarTwoDotsabovear;
+lastChange = "2015-12-31 02:33:01 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
 }
 );
 instances = (

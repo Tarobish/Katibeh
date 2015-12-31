@@ -44665,6 +44665,17 @@ name = Regular;
 width = 600;
 }
 );
+},
+{
+glyphname = "Longdotlessbeh-ar.medi";
+lastChange = "2015-12-31 03:16:25 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
 }
 );
 instances = (

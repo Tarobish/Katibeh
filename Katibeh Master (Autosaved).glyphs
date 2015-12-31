@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafbar-ar/gaf-ar/gafThreedots-ar"
+"/gafThreedots-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -12983,7 +12983,7 @@ width = 426;
 },
 {
 glyphname = "gafThreedots-ar";
-lastChange = "2015-12-31 03:00:04 +0000";
+lastChange = "2015-12-31 03:00:06 +0000";
 layers = (
 {
 components = (
@@ -12992,7 +12992,7 @@ name = "gaf-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 753, 6}";
+transform = "{1, 0, 0, 1, 753, 7}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13004,7 +13004,7 @@ unicode = 06B4;
 },
 {
 glyphname = "gafThreedots-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:00:13 +0000";
 layers = (
 {
 components = (
@@ -13012,9 +13012,8 @@ components = (
 name = "gaf-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 682, -20}";
+transform = "{1, 0, 0, 1, 712, 7}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -44576,7 +44575,7 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "gafbar-ar";
-lastChange = "2015-12-31 02:38:55 +0000";
+lastChange = "2015-12-31 03:00:07 +0000";
 layers = (
 {
 anchors = (
@@ -44586,7 +44585,7 @@ position = "{-62, 754}";
 },
 {
 name = top;
-position = "{-2, 850}";
+position = "{-2, 851}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -2714,7 +2711,7 @@ width = 434;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.medi";
-lastChange = "2015-12-31 03:12:58 +0000";
+lastChange = "2015-12-31 03:13:00 +0000";
 layers = (
 {
 anchors = (
@@ -2725,7 +2722,9 @@ position = "{184, 199}";
 );
 components = (
 {
+disableAlignment = 1;
 name = "dots.horz.below-ar";
+transform = "{1, 0, 0, 1, 147, 31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

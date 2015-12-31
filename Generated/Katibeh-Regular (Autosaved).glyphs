@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/uni066D
+);
 customParameters = (
 {
 name = glyphOrder;
@@ -40968,6 +40971,7 @@ width = 0;
 },
 {
 glyphname = shaddaDammaar;
+lastChange = "2015-12-31 04:14:25 +0000";
 layers = (
 {
 components = (
@@ -40977,7 +40981,7 @@ transform = "{1, 0, 0, 1, 0, 1}";
 },
 {
 name = uni064F;
-transform = "{1, 0, 0, 1, -2, 126}";
+transform = "{1, 0, 0, 1, -2, 154}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -40988,6 +40992,7 @@ width = 0;
 },
 {
 glyphname = shaddaDammatanar;
+lastChange = "2015-12-31 04:14:25 +0000";
 layers = (
 {
 components = (
@@ -40997,7 +41002,7 @@ transform = "{1, 0, 0, 1, 0, 2}";
 },
 {
 name = uni064C;
-transform = "{1, 0, 0, 1, -1, 119}";
+transform = "{1, 0, 0, 1, -1, 155}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -41008,6 +41013,7 @@ width = 0;
 },
 {
 glyphname = shaddaFathaar;
+lastChange = "2015-12-31 04:14:25 +0000";
 layers = (
 {
 components = (
@@ -41017,7 +41023,7 @@ transform = "{1, 0, 0, 1, 0, 2}";
 },
 {
 name = uni064E;
-transform = "{1, 0, 0, 1, -1, 141}";
+transform = "{1, 0, 0, 1, -1, 164}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -41028,6 +41034,7 @@ width = 0;
 },
 {
 glyphname = shaddaFathatanar;
+lastChange = "2015-12-31 04:14:25 +0000";
 layers = (
 {
 components = (
@@ -41037,7 +41044,7 @@ transform = "{1, 0, 0, 1, 1, 1}";
 },
 {
 name = uni064B;
-transform = "{1, 0, 0, 1, -2, 159}";
+transform = "{1, 0, 0, 1, 0, 183}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -41048,6 +41055,7 @@ width = 0;
 },
 {
 glyphname = shaddaKasraar;
+lastChange = "2015-12-31 04:14:25 +0000";
 layers = (
 {
 components = (
@@ -41057,7 +41065,7 @@ transform = "{1, 0, 0, 1, 0, 8}";
 },
 {
 name = uni0651;
-transform = "{1, 0, 0, 1, 1, 110}";
+transform = "{1, 0, 0, 1, 1, 128}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/gaf-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -12377,7 +12380,7 @@ width = 934;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 02:39:38 +0000";
 layers = (
 {
 components = (
@@ -12385,9 +12388,8 @@ components = (
 name = "keheh-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 724, -162}";
+transform = "{1, 0, 0, 1, 713, -164}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12420,7 +12422,7 @@ width = 955;
 },
 {
 glyphname = "gaf-ar.medi";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 02:39:31 +0000";
 layers = (
 {
 components = (
@@ -12428,9 +12430,8 @@ components = (
 name = "kaf-ar.medi";
 },
 {
-disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 191, -163}";
+transform = "{1, 0, 0, 1, 182, -165}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

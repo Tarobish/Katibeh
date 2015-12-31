@@ -12400,7 +12400,7 @@ unicode = FB93;
 {
 color = 5;
 glyphname = "gaf-ar.fina.001";
-lastChange = "2015-12-31 01:55:49 +0000";
+lastChange = "2015-12-31 02:39:21 +0000";
 layers = (
 {
 components = (
@@ -12408,9 +12408,8 @@ components = (
 name = "keheh-ar.fina";
 },
 {
-disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 724, -162}";
+transform = "{1, 0, 0, 1, 713, -164}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

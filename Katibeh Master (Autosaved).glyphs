@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefThreeabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -18122,7 +18119,7 @@ width = 229;
 },
 {
 glyphname = "alefThreeabove-ar";
-lastChange = "2015-12-31 03:08:28 +0000";
+lastChange = "2015-12-31 03:08:37 +0000";
 layers = (
 {
 components = (
@@ -18132,7 +18129,7 @@ name = "alef-ar.short";
 {
 disableAlignment = 1;
 name = "three-ar.above";
-transform = "{0.8, 0, 0, 0.8, 26, 49}";
+transform = "{0.8, 0, 0, 0.8, 47, 49}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -18144,23 +18141,22 @@ unicode = 0774;
 },
 {
 glyphname = "alefThreeabove-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:08:56 +0000";
 layers = (
 {
 components = (
 {
 name = "alef-ar.fina.short";
-transform = "{1, 0, 0, 1, 60, 0}";
 },
 {
 disableAlignment = 1;
-name = "three-ar.small";
-transform = "{0.8, 0, 0, 0.8, -12, 220}";
+name = "three-ar.above";
+transform = "{0.8, 0, 0, 0.8, 48, 48}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 289;
+width = 229;
 }
 );
 },

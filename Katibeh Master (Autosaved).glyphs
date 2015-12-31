@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gaf-ar.001"
+"/gaf-ar.fina.001"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -12358,7 +12358,7 @@ unicode = 06AF;
 {
 color = 5;
 glyphname = "gaf-ar.001";
-lastChange = "2015-12-31 02:57:56 +0000";
+lastChange = "2015-12-31 02:58:06 +0000";
 layers = (
 {
 anchors = (
@@ -12368,7 +12368,7 @@ position = "{490, -34}";
 },
 {
 name = top;
-position = "{486, 561}";
+position = "{486, 641}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12447,6 +12447,27 @@ nodes = (
 "866 283 OFFCURVE",
 "809 292 CURVE SMOOTH"
 );
+},
+{
+closed = 1;
+nodes = (
+"325 574 OFFCURVE",
+"365 576 OFFCURVE",
+"430 576 CURVE SMOOTH",
+"563 576 LINE",
+"573 613 LINE",
+"377 613 LINE SMOOTH",
+"325 613 OFFCURVE",
+"290 597 OFFCURVE",
+"268 578 CURVE SMOOTH",
+"243 556 OFFCURVE",
+"232 532 OFFCURVE",
+"230 525 CURVE",
+"238 517 LINE",
+"255 541 OFFCURVE",
+"270 555 OFFCURVE",
+"298 563 CURVE SMOOTH"
+);
 }
 );
 width = 1032;
@@ -12477,13 +12498,13 @@ unicode = FB93;
 {
 color = 5;
 glyphname = "gaf-ar.fina.001";
-lastChange = "2015-12-31 02:53:12 +0000";
+lastChange = "2015-12-31 02:58:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{489, 574}";
+position = "{489, 641}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12565,6 +12586,27 @@ nodes = (
 "1084 0 LINE",
 "1084 106 LINE",
 "1029 106 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"325 574 OFFCURVE",
+"365 576 OFFCURVE",
+"430 576 CURVE SMOOTH",
+"563 576 LINE",
+"573 613 LINE",
+"377 613 LINE SMOOTH",
+"325 613 OFFCURVE",
+"290 597 OFFCURVE",
+"268 578 CURVE SMOOTH",
+"243 556 OFFCURVE",
+"232 532 OFFCURVE",
+"230 525 CURVE",
+"238 517 LINE",
+"255 541 OFFCURVE",
+"270 555 OFFCURVE",
+"298 563 CURVE SMOOTH"
 );
 }
 );

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/Longdotlessbeh-ar.medi"
+"/dotlessbeh-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -44721,9 +44721,19 @@ width = 434;
 },
 {
 glyphname = "Longdotlessbeh-ar.medi";
-lastChange = "2015-12-31 03:17:53 +0000";
+lastChange = "2015-12-31 03:18:09 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{164, -34}";
+},
+{
+name = top;
+position = "{176, 192}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

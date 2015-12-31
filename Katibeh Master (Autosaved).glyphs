@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/gafbar-ar/gaf-ar.init",
-"/gaf-ar.init.001"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -12448,7 +12444,7 @@ unicode = FB95;
 {
 color = 5;
 glyphname = "gaf-ar.medi.001";
-lastChange = "2015-12-31 01:55:49 +0000";
+lastChange = "2015-12-31 02:39:06 +0000";
 layers = (
 {
 components = (
@@ -12456,9 +12452,8 @@ components = (
 name = "kaf-ar.medi";
 },
 {
-disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 191, -163}";
+transform = "{1, 0, 0, 1, 182, -165}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

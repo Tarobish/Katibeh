@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -44657,6 +44654,17 @@ unicode = FBBC;
 script = arabic;
 category = Mark;
 subCategory = Nonspacing;
+},
+{
+glyphname = "Longdotlessbeh-ar.init";
+lastChange = "2015-12-31 03:16:02 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
 }
 );
 instances = (

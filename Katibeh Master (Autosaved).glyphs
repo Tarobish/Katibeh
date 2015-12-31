@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/gaf-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -12380,7 +12377,7 @@ width = 934;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2015-12-31 02:39:38 +0000";
+lastChange = "2015-12-31 02:39:39 +0000";
 layers = (
 {
 components = (

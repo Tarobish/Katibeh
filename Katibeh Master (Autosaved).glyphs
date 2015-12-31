@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.init",
-"/Longdotlessbeh-ar.init"
+"/dotlessbeh-ar.init/teh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -44661,10 +44660,14 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2015-12-31 03:17:18 +0000";
+lastChange = "2015-12-31 03:17:37 +0000";
 layers = (
 {
 anchors = (
+{
+name = bottom;
+position = "{171, -35}";
+},
 {
 name = top;
 position = "{167, 300}";

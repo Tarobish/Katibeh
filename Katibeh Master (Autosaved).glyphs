@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefWasla-ar.fina"
+"/alefFathatan-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1257,13 +1257,17 @@ unicode = 0671;
 },
 {
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-12-31 03:11:54 +0000";
+lastChange = "2015-12-31 03:12:01 +0000";
 layers = (
 {
 components = (
 {
 locked = 1;
 name = "alef-ar.fina.short";
+},
+{
+name = "wasla-ar";
+transform = "{1, 0, 0, 1, 71, -51}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -1275,7 +1279,7 @@ unicode = FB51;
 },
 {
 glyphname = "alefFathatan-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:12:07 +0000";
 layers = (
 {
 components = (
@@ -1284,9 +1288,8 @@ locked = 1;
 name = "alef-ar.short";
 },
 {
-disableAlignment = 1;
 name = "fathatan-ar";
-transform = "{1, 0, 0, 1, 87, -59}";
+transform = "{1, 0, 0, 1, 77, -59}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/yehbarreeTwoabove-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -19601,13 +19604,20 @@ width = 643;
 },
 {
 glyphname = "yehbarreeTwoabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:25:51 +0000";
 layers = (
 {
-components = (
+anchors = (
 {
-name = "dotlessbeh-ar.init";
+name = bottom;
+position = "{33, -35}";
 },
+{
+name = top;
+position = "{-2, 300}";
+}
+);
+components = (
 {
 name = "two-ar.above";
 transform = "{0.8, 0, 0, 0.8, 1, -244}";
@@ -19615,6 +19625,46 @@ transform = "{0.8, 0, 0, 0.8, 1, -244}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"174 183 OFFCURVE",
+"167 223 OFFCURVE",
+"149 256 CURVE SMOOTH",
+"135 281 OFFCURVE",
+"115 303 OFFCURVE",
+"89 321 CURVE",
+"60 215 LINE",
+"98 196 OFFCURVE",
+"124 170 OFFCURVE",
+"135 131 CURVE",
+"130 127 OFFCURVE",
+"126 124 OFFCURVE",
+"115 119 CURVE SMOOTH",
+"91 108 OFFCURVE",
+"61 106 OFFCURVE",
+"39 106 CURVE SMOOTH",
+"-17 106 LINE SMOOTH",
+"-46 106 OFFCURVE",
+"-70 83 OFFCURVE",
+"-70 53 CURVE SMOOTH",
+"-70 23 OFFCURVE",
+"-46 0 OFFCURVE",
+"-17 0 CURVE SMOOTH",
+"47 0 LINE SMOOTH",
+"71 0 OFFCURVE",
+"115 15 OFFCURVE",
+"140 39 CURVE SMOOTH",
+"156 54 OFFCURVE",
+"174 82 OFFCURVE",
+"174 117 CURVE SMOOTH",
+"174 135 OFFCURVE",
+"174 134 OFFCURVE",
+"174 148 CURVE SMOOTH"
+);
+}
+);
 width = 234;
 }
 );

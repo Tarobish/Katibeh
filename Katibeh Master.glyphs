@@ -18845,7 +18845,7 @@ width = 276;
 },
 {
 glyphname = "yehTwoabove-farsi";
-lastChange = "2015-12-31 03:09:10 +0000";
+lastChange = "2015-12-31 03:24:02 +0000";
 layers = (
 {
 components = (
@@ -19601,7 +19601,7 @@ width = 643;
 },
 {
 glyphname = "yehbarreeTwoabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:25:51 +0000";
 layers = (
 {
 components = (
@@ -22114,7 +22114,7 @@ unicode = FEFC;
 },
 {
 glyphname = "lam_alefHamzaabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:26:40 +0000";
 layers = (
 {
 components = (
@@ -22122,8 +22122,9 @@ components = (
 name = "lam_alef-ar";
 },
 {
+disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 90, -46}";
+transform = "{1, 0, 0, 1, 41, -55}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

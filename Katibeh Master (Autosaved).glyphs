@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefFathatan-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -1301,7 +1298,7 @@ unicode = FD3D;
 },
 {
 glyphname = "alefFathatan-ar.fina";
-lastChange = "2015-12-31 03:12:26 +0000";
+lastChange = "2015-12-31 03:12:27 +0000";
 layers = (
 {
 components = (

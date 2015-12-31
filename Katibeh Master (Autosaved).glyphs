@@ -1235,7 +1235,7 @@ unicode = FE82;
 },
 {
 glyphname = "alefWasla-ar";
-lastChange = "2015-12-31 03:11:24 +0000";
+lastChange = "2015-12-31 03:11:46 +0000";
 layers = (
 {
 components = (
@@ -1257,23 +1257,18 @@ unicode = 0671;
 },
 {
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-12-31 03:11:38 +0000";
+lastChange = "2015-12-31 03:11:54 +0000";
 layers = (
 {
 components = (
 {
-name = "wasla-ar";
-transform = "{1, 0, 0, 1, 211, -37}";
-},
-{
 locked = 1;
 name = "alef-ar.fina.short";
-transform = "{1, 0, 0, 1, 24, 0}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 253;
+width = 229;
 }
 );
 unicode = FB51;

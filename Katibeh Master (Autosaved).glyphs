@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/hehgoalHamzaabove-ar.fina.001"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -16243,12 +16240,16 @@ width = 404;
 {
 color = 0;
 glyphname = "hehgoalHamzaabove-ar.fina.001";
-lastChange = "2015-12-31 01:56:11 +0000";
+lastChange = "2015-12-31 01:56:18 +0000";
 layers = (
 {
 components = (
 {
 name = "hehgoal-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 157, -406}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -44661,9 +44661,15 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "Longdotlessbeh-ar.init";
-lastChange = "2015-12-31 03:17:09 +0000";
+lastChange = "2015-12-31 03:17:18 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{167, 300}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

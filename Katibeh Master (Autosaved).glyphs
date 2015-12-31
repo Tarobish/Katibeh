@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/behThreedotshorizontalbelow-ar.init"
+"/behThreedotshorizontalbelow-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -2651,13 +2651,13 @@ width = 893;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.init";
-lastChange = "2015-12-31 03:14:31 +0000";
+lastChange = "2015-12-31 03:14:39 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{163, -170}";
+position = "{163, -190}";
 },
 {
 name = top;
@@ -2753,20 +2753,21 @@ width = 434;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.medi";
-lastChange = "2015-12-31 03:13:00 +0000";
+lastChange = "2015-12-31 03:14:45 +0000";
 layers = (
 {
 anchors = (
 {
+name = _bottom;
+position = "{148, -34}";
+},
+{
+name = bottom;
+position = "{144, -169}";
+},
+{
 name = top;
 position = "{184, 199}";
-}
-);
-components = (
-{
-disableAlignment = 1;
-name = "dots.horz.below-ar";
-transform = "{1, 0, 0, 1, 147, 31}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2815,6 +2816,47 @@ nodes = (
 "478 0 LINE",
 "478 106 LINE",
 "435 106 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"232 -66 OFFCURVE",
+"217 -83 OFFCURVE",
+"204 -98 CURVE",
+"190 -82 OFFCURVE",
+"167 -64 OFFCURVE",
+"148 -54 CURVE",
+"139 -66 OFFCURVE",
+"124 -83 OFFCURVE",
+"111 -98 CURVE",
+"97 -82 OFFCURVE",
+"74 -64 OFFCURVE",
+"55 -54 CURVE",
+"43 -71 OFFCURVE",
+"18 -100 OFFCURVE",
+"2 -116 CURVE",
+"23 -128 OFFCURVE",
+"42 -145 OFFCURVE",
+"66 -170 CURVE",
+"86 -150 OFFCURVE",
+"98 -137 OFFCURVE",
+"108 -124 CURVE",
+"124 -136 OFFCURVE",
+"140 -150 OFFCURVE",
+"159 -170 CURVE",
+"179 -150 OFFCURVE",
+"191 -137 OFFCURVE",
+"201 -124 CURVE",
+"217 -136 OFFCURVE",
+"233 -150 OFFCURVE",
+"252 -170 CURVE",
+"280 -143 OFFCURVE",
+"292 -127 OFFCURVE",
+"305 -109 CURVE",
+"293 -90 OFFCURVE",
+"264 -66 OFFCURVE",
+"241 -54 CURVE"
 );
 }
 );

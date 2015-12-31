@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "/gafbar-ar",
-/gafbarTwoDotsabovear
+/gafbarTwoDotsabovear,
+"/twodotshorizontalabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -44297,7 +44298,7 @@ subCategory = Nonspacing;
 },
 {
 glyphname = gafbarTwoDotsabovear;
-lastChange = "2015-12-31 02:33:21 +0000";
+lastChange = "2015-12-31 02:34:27 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -44315,6 +44316,35 @@ nodes = (
 "-83 727 OFFCURVE",
 "82 804 OFFCURVE",
 "116 828 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-86 912 OFFCURVE",
+"-68 895 OFFCURVE",
+"-43 870 CURVE",
+"-23 890 OFFCURVE",
+"-12 903 OFFCURVE",
+"-2 916 CURVE",
+"14 904 OFFCURVE",
+"30 890 OFFCURVE",
+"49 870 CURVE",
+"77 897 OFFCURVE",
+"89 913 OFFCURVE",
+"102 931 CURVE",
+"90 950 OFFCURVE",
+"62 974 OFFCURVE",
+"38 986 CURVE",
+"30 974 OFFCURVE",
+"15 957 OFFCURVE",
+"1 942 CURVE",
+"-13 958 OFFCURVE",
+"-35 976 OFFCURVE",
+"-54 986 CURVE",
+"-67 969 OFFCURVE",
+"-92 941 OFFCURVE",
+"-107 924 CURVE"
 );
 }
 );

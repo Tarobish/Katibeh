@@ -44298,17 +44298,17 @@ subCategory = Nonspacing;
 },
 {
 glyphname = gafbarTwoDotsabovear;
-lastChange = "2015-12-31 02:34:36 +0000";
+lastChange = "2015-12-31 02:34:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-2, 700}";
+position = "{-2, 680}";
 },
 {
 name = top;
-position = "{-2, 894}";
+position = "{-2, 986}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

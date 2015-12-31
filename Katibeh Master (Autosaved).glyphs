@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/gafThreedots-ar"
+"/gafbar-ar/gaf-ar/gafThreedots-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -12983,7 +12983,7 @@ width = 426;
 },
 {
 glyphname = "gafThreedots-ar";
-lastChange = "2015-12-31 02:59:52 +0000";
+lastChange = "2015-12-31 03:00:04 +0000";
 layers = (
 {
 components = (
@@ -12992,7 +12992,7 @@ name = "gaf-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 753, 50}";
+transform = "{1, 0, 0, 1, 753, 6}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -44586,7 +44586,7 @@ position = "{-62, 754}";
 },
 {
 name = top;
-position = "{-2, 894}";
+position = "{-2, 850}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

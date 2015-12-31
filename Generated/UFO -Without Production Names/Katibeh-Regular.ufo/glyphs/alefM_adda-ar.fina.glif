@@ -4,6 +4,6 @@
   <unicode hex="FE82"/>
   <outline>
     <component base="alef-ar.fina.short"/>
-    <component base="madda-ar" xOffset="70" yOffset="-78"/>
+    <component base="madda-ar" xOffset="73" yOffset="-66"/>
   </outline>
 </glyph>

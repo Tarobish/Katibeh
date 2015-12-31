@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehbarreeTwoabove-ar" format="1">
-  <advance width="950"/>
+  <advance width="968"/>
   <unicode hex="077A"/>
   <outline>
     <component base="yehbarree-ar"/>

@@ -12333,7 +12333,7 @@ width = 426;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 02:39:50 +0000";
 layers = (
 {
 components = (
@@ -12341,9 +12341,8 @@ components = (
 name = "keheh-ar";
 },
 {
-disableAlignment = 1;
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 757, -158}";
+transform = "{1, 0, 0, 1, 754, -164}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -2651,19 +2651,21 @@ width = 893;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:14:20 +0000";
 layers = (
 {
 anchors = (
 {
+name = _bottom;
+position = "{464, -26}";
+},
+{
+name = bottom;
+position = "{151, -170}";
+},
+{
 name = top;
 position = "{167, 300}";
-}
-);
-components = (
-{
-name = "dots.horz.below-ar";
-transform = "{1, 0, 0, 1, 154, 30}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2705,6 +2707,47 @@ nodes = (
 "374 135 OFFCURVE",
 "374 134 OFFCURVE",
 "374 148 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"239 -67 OFFCURVE",
+"224 -84 OFFCURVE",
+"211 -99 CURVE",
+"197 -83 OFFCURVE",
+"174 -65 OFFCURVE",
+"155 -55 CURVE",
+"146 -67 OFFCURVE",
+"131 -84 OFFCURVE",
+"118 -99 CURVE",
+"104 -83 OFFCURVE",
+"81 -65 OFFCURVE",
+"62 -55 CURVE",
+"50 -72 OFFCURVE",
+"25 -101 OFFCURVE",
+"9 -117 CURVE",
+"30 -129 OFFCURVE",
+"49 -146 OFFCURVE",
+"73 -171 CURVE",
+"93 -151 OFFCURVE",
+"105 -138 OFFCURVE",
+"115 -125 CURVE",
+"131 -137 OFFCURVE",
+"147 -151 OFFCURVE",
+"166 -171 CURVE",
+"186 -151 OFFCURVE",
+"198 -138 OFFCURVE",
+"208 -125 CURVE",
+"224 -137 OFFCURVE",
+"240 -151 OFFCURVE",
+"259 -171 CURVE",
+"287 -144 OFFCURVE",
+"299 -128 OFFCURVE",
+"312 -110 CURVE",
+"300 -91 OFFCURVE",
+"271 -67 OFFCURVE",
+"248 -55 CURVE"
 );
 }
 );

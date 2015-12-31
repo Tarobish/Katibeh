@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/lam_alef-ar/lam_alefHamzaabove-ar"
+"/lam_alefHamzaabove-ar",
+"/lam_alefHamzaabove-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -22117,7 +22118,7 @@ unicode = FEFC;
 },
 {
 glyphname = "lam_alefHamzaabove-ar";
-lastChange = "2015-12-31 03:26:21 +0000";
+lastChange = "2015-12-31 03:26:40 +0000";
 layers = (
 {
 components = (
@@ -22127,7 +22128,7 @@ name = "lam_alef-ar";
 {
 disableAlignment = 1;
 name = "hamzaabove-ar";
-transform = "{1, 0, 0, 1, 20, 68}";
+transform = "{1, 0, 0, 1, 41, -55}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

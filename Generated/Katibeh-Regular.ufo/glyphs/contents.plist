@@ -26,6 +26,10 @@
 	<string>K_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
+	<key>Longdotlessbehar.init</key>
+	<string>L_ongdotlessbehar.init.glif</string>
+	<key>Longdotlessbehar.medi</key>
+	<string>L_ongdotlessbehar.medi.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
 	<key>N</key>
@@ -94,12 +98,22 @@
 	<string>fourdotscenterar.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>gafar.001</key>
+	<string>gafar.001.glif</string>
+	<key>gafar.fina.001</key>
+	<string>gafar.fina.001.glif</string>
+	<key>gafar.init.001</key>
+	<string>gafar.init.001.glif</string>
+	<key>gafar.medi.001</key>
+	<string>gafar.medi.001.glif</string>
 	<key>gafbarar</key>
 	<string>gafbarar.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hamzacenterar</key>
 	<string>hamzacenterar.glif</string>
+	<key>hehgoalHamzaabovear.fina.001</key>
+	<string>hehgoalH_amzaabovear.fina.001.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>

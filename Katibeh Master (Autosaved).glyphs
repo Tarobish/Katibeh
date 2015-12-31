@@ -1257,13 +1257,13 @@ unicode = 0671;
 },
 {
 glyphname = "alefWasla-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:11:38 +0000";
 layers = (
 {
 components = (
 {
 name = "wasla-ar";
-transform = "{1, 0, 0, 1, 95, -41}";
+transform = "{1, 0, 0, 1, 211, -37}";
 },
 {
 locked = 1;

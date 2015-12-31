@@ -2651,17 +2651,13 @@ width = 893;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.init";
-lastChange = "2015-12-31 03:14:20 +0000";
+lastChange = "2015-12-31 03:14:31 +0000";
 layers = (
 {
 anchors = (
 {
-name = _bottom;
-position = "{464, -26}";
-},
-{
 name = bottom;
-position = "{151, -170}";
+position = "{163, -170}";
 },
 {
 name = top;

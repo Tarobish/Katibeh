@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/behThreedotshorizontalbelow-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -2607,7 +2610,7 @@ unicode = FB64;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:13:55 +0000";
 layers = (
 {
 components = (
@@ -2628,7 +2631,7 @@ unicode = 0750;
 },
 {
 glyphname = "behThreedotshorizontalbelow-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 03:14:00 +0000";
 layers = (
 {
 components = (

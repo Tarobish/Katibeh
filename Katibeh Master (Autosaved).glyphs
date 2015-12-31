@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/gafbar-ar",
+/gafbarTwoDotsabovear
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -44293,12 +44297,28 @@ subCategory = Nonspacing;
 },
 {
 glyphname = gafbarTwoDotsabovear;
-lastChange = "2015-12-31 02:33:01 +0000";
+lastChange = "2015-12-31 02:33:21 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"125 870 LINE",
+"125 870 OFFCURVE",
+"-96 758 OFFCURVE",
+"-96 758 CURVE",
+"-130 705 LINE",
+"-123 700 LINE",
+"-83 727 OFFCURVE",
+"82 804 OFFCURVE",
+"116 828 CURVE"
+);
+}
+);
+width = 0;
 }
 );
 }

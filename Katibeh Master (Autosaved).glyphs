@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/kafswash-ar",
+"/gaf-ar.001"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -12355,13 +12359,10 @@ unicode = 06AF;
 {
 color = 5;
 glyphname = "gaf-ar.001";
-lastChange = "2015-12-31 01:55:49 +0000";
+lastChange = "2015-12-31 02:52:49 +0000";
 layers = (
 {
 components = (
-{
-name = "keheh-ar";
-},
 {
 disableAlignment = 1;
 name = "gafbar-ar";
@@ -12673,7 +12674,7 @@ width = 426;
 },
 {
 glyphname = "kafswash-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2015-12-31 02:52:41 +0000";
 layers = (
 {
 anchors = (

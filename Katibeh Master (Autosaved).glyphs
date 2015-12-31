@@ -12354,6 +12354,28 @@ width = 934;
 unicode = 06AF;
 },
 {
+color = 5;
+glyphname = "gaf-ar.001";
+lastChange = "2015-12-31 01:55:49 +0000";
+layers = (
+{
+components = (
+{
+name = "keheh-ar";
+},
+{
+disableAlignment = 1;
+name = "gafbar-ar";
+transform = "{1, 0, 0, 1, 757, -158}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 934;
+}
+);
+},
+{
 glyphname = "gaf-ar.fina";
 lastChange = "2015-12-18 09:45:42 +0000";
 layers = (
@@ -12374,6 +12396,28 @@ width = 955;
 }
 );
 unicode = FB93;
+},
+{
+color = 5;
+glyphname = "gaf-ar.fina.001";
+lastChange = "2015-12-31 01:55:49 +0000";
+layers = (
+{
+components = (
+{
+name = "keheh-ar.fina";
+},
+{
+disableAlignment = 1;
+name = "gafbar-ar";
+transform = "{1, 0, 0, 1, 724, -162}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 955;
+}
+);
 },
 {
 glyphname = "gaf-ar.medi";
@@ -12398,6 +12442,28 @@ width = 426;
 unicode = FB95;
 },
 {
+color = 5;
+glyphname = "gaf-ar.medi.001";
+lastChange = "2015-12-31 01:55:49 +0000";
+layers = (
+{
+components = (
+{
+name = "kaf-ar.medi";
+},
+{
+disableAlignment = 1;
+name = "gafbar-ar";
+transform = "{1, 0, 0, 1, 191, -163}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 426;
+}
+);
+},
+{
 glyphname = "gaf-ar.init";
 lastChange = "2015-12-18 09:45:42 +0000";
 layers = (
@@ -12418,6 +12484,28 @@ width = 351;
 }
 );
 unicode = FB94;
+},
+{
+color = 5;
+glyphname = "gaf-ar.init.001";
+lastChange = "2015-12-31 01:55:49 +0000";
+layers = (
+{
+components = (
+{
+name = "kaf-ar.init";
+},
+{
+disableAlignment = 1;
+name = "gafbar-ar";
+transform = "{1, 0, 0, 1, 167, -162}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 351;
+}
+);
 },
 {
 glyphname = "gafRing-ar";
@@ -16132,6 +16220,25 @@ unicode = 06C2;
 {
 glyphname = "hehgoalHamzaabove-ar.fina";
 lastChange = "2015-12-18 09:45:42 +0000";
+layers = (
+{
+components = (
+{
+name = "heh-ar.fina";
+},
+{
+name = "hamzaabove-ar";
+transform = "{1, 0, 0, 1, 159, -284}";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 404;
+}
+);
+},
+{
+glyphname = "hehgoalHamzaabove-ar.fina.001";
 layers = (
 {
 components = (

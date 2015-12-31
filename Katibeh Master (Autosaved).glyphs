@@ -44298,9 +44298,19 @@ subCategory = Nonspacing;
 },
 {
 glyphname = gafbarTwoDotsabovear;
-lastChange = "2015-12-31 02:34:27 +0000";
+lastChange = "2015-12-31 02:34:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{-2, 700}";
+},
+{
+name = top;
+position = "{-2, 894}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
 paths = (

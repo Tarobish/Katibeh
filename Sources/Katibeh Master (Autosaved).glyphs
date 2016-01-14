@@ -23316,7 +23316,7 @@ rightKerningGroup = HahFina;
 },
 {
 glyphname = "dotlessbeh_hah-ar.init";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-14 20:40:57 +0000";
 layers = (
 {
 anchors = (
@@ -23417,8 +23417,6 @@ nodes = (
 width = 598;
 }
 );
-leftKerningGroup = HahInti;
-rightKerningGroup = HahInti;
 },
 {
 glyphname = "dotlessbeh_hah_alefMaksura-ar";

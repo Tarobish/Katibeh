@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefMadda-ar/alefMadda-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -45221,9 +45224,6 @@ kerning = {
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;
-};
-"alef-ar.fina.short" = {
-"keheh-ar" = 30;
 };
 };
 };

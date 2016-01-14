@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar/keheh-ar/alef-ar"
+"/reh-ar/dotlessfeh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -10282,7 +10282,7 @@ unicode = FB6C;
 },
 {
 glyphname = "dotlessfeh-ar";
-lastChange = "2016-01-14 19:07:28 +0000";
+lastChange = "2016-01-14 20:07:58 +0000";
 layers = (
 {
 anchors = (
@@ -45230,6 +45230,9 @@ kerning = {
 };
 "@MMK_L_AlefIso" = {
 "keheh-ar" = 30;
+};
+"@MMK_L_Reh" = {
+"dotlessfeh-ar" = -43;
 };
 };
 };

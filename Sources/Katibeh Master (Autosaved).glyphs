@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alef-ar.fina.short/alefMadda-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -1160,7 +1157,6 @@ nodes = (
 width = 229;
 }
 );
-rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefHamzaabove-ar";
@@ -1344,7 +1340,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2016-01-14 09:35:06 +0000";
+lastChange = "2016-01-14 09:35:19 +0000";
 layers = (
 {
 components = (
@@ -44740,7 +44736,7 @@ kerning = {
 "alefMadda-ar" = 175;
 };
 "@MMK_L_AlefFina" = {
-"alefMadda-ar" = 5;
+"alefMadda-ar" = 26;
 };
 };
 };

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar/alef-ar.short"
+"/beh-ar/alefMadda-ar/alef-ar.short"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1044,7 +1044,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2016-01-14 09:53:16 +0000";
+lastChange = "2016-01-14 09:53:20 +0000";
 layers = (
 {
 anchors = (
@@ -44743,7 +44743,7 @@ kerning = {
 "51F41761-070F-43EA-B302-C90910850260" = {
 "alefMadda-ar" = {
 "alefMadda-ar" = 170;
-"@MMK_R_Alef" = 77;
+"@MMK_R_Alef" = 111;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;

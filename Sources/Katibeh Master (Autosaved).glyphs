@@ -9896,7 +9896,7 @@ unicode = FECC;
 },
 {
 glyphname = "ain-ar.init";
-lastChange = "2016-01-14 21:45:27 +0000";
+lastChange = "2016-01-14 21:53:06 +0000";
 layers = (
 {
 anchors = (
@@ -45854,6 +45854,7 @@ kerning = {
 "@MMK_R_Seen" = -50;
 "@MMK_R_Sad" = -70;
 "@MMK_R_AInIso" = -70;
+"@MMK_R_AinInti" = -70;
 };
 };
 };

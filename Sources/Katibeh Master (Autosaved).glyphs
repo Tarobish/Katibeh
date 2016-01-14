@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/four-persian.urdu.tab/one-persian"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -33399,7 +33402,7 @@ width = 408;
 },
 {
 glyphname = "zero-persian";
-lastChange = "2016-01-14 21:25:42 +0000";
+lastChange = "2016-01-14 21:27:29 +0000";
 layers = (
 {
 components = (
@@ -45787,6 +45790,9 @@ kerning = {
 "seven-persian" = -70;
 "eight-persian" = -30;
 "nine-persian" = -70;
+};
+"four-persian.urdu.tab" = {
+"zero-persian" = -60;
 };
 };
 };

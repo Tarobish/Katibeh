@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefMadda-ar/alefMadda-ar/alefMadda-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -1325,7 +1322,7 @@ width = 229;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2016-01-14 09:27:03 +0000";
+lastChange = "2016-01-14 09:27:06 +0000";
 layers = (
 {
 components = (
@@ -44710,7 +44707,7 @@ name = Regular;
 kerning = {
 "51F41761-070F-43EA-B302-C90910850260" = {
 "alefMadda-ar" = {
-"alefMadda-ar" = 164;
+"alefMadda-ar" = 175;
 };
 };
 };

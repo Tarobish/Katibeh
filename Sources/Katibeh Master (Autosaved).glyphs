@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/reh-ar/beh-ar/jeh-ar/beh-ar/waw-ar/lam_alef-ar/waw-ar/reh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -22688,7 +22685,7 @@ unicode = 0640;
 },
 {
 glyphname = "lam_alef-ar";
-lastChange = "2016-01-14 20:53:02 +0000";
+lastChange = "2016-01-14 20:53:13 +0000";
 layers = (
 {
 anchors = (
@@ -45626,6 +45623,9 @@ kerning = {
 "@MMK_R_WawIso" = -50;
 };
 "@MMK_L_WawIso" = {
+"@MMK_R_LamAlef" = -50;
+};
+"@MMK_L_WawFina" = {
 "@MMK_R_LamAlef" = -50;
 };
 };

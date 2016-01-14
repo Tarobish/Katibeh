@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/reh-ar/beh-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -1934,7 +1937,7 @@ unicode = FE92;
 },
 {
 glyphname = "beh-ar.init";
-lastChange = "2016-01-14 18:38:32 +0000";
+lastChange = "2016-01-14 20:11:45 +0000";
 layers = (
 {
 components = (
@@ -45221,6 +45224,9 @@ kerning = {
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;
+};
+"@MMK_L_Reh" = {
+"beh-ar.init" = -42;
 };
 };
 };

@@ -33552,7 +33552,7 @@ width = 417;
 },
 {
 glyphname = "three-persian";
-lastChange = "2016-01-14 21:20:30 +0000";
+lastChange = "2016-01-14 21:21:43 +0000";
 layers = (
 {
 components = (
@@ -45749,6 +45749,7 @@ kerning = {
 "zero-persian" = -20;
 "one-persian" = -40;
 "two-persian" = -40;
+"three-persian" = -40;
 };
 };
 };

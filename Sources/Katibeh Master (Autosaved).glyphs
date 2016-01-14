@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/four-persian.urdu.tab/eight-persian"
+"/four-persian.urdu.tab/nine-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -34129,7 +34129,7 @@ rightMetricsKey = "seven-ar";
 },
 {
 glyphname = "eight-persian";
-lastChange = "2016-01-14 21:28:19 +0000";
+lastChange = "2016-01-14 21:28:28 +0000";
 layers = (
 {
 components = (
@@ -45800,7 +45800,7 @@ kerning = {
 "five-persian" = -80;
 "six-persian" = -70;
 "seven-persian" = -40;
-"eight-persian" = -120;
+"eight-persian" = -140;
 };
 };
 };

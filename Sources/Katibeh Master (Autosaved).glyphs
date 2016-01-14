@@ -912,7 +912,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:29:07 +0000";
 layers = (
 {
 anchors = (
@@ -970,6 +970,7 @@ nodes = (
 width = 169;
 }
 );
+widthMetricsKey = Alef;
 unicode = 0627;
 },
 {
@@ -1037,7 +1038,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:29:07 +0000";
 layers = (
 {
 anchors = (
@@ -1089,6 +1090,7 @@ nodes = (
 width = 169;
 }
 );
+widthMetricsKey = Alef;
 },
 {
 glyphname = "alef-ar.fina.short";

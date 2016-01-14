@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefMadda-ar/kafDotabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -13611,7 +13608,7 @@ width = 426;
 },
 {
 glyphname = "kafDotabove-ar";
-lastChange = "2016-01-14 09:43:46 +0000";
+lastChange = "2016-01-14 09:44:06 +0000";
 layers = (
 {
 components = (
@@ -44761,6 +44758,7 @@ kerning = {
 "alefMadda-ar" = 170;
 "highhamzaAlef-ar" = 250;
 "@MMK_R_Lam" = 44;
+"@MMK_R_Kaf" = 27;
 };
 "@MMK_L_AlefFina" = {
 "alefMadda-ar" = 89;

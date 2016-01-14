@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/two-persian/eight-persian"
+"/two-persian/nine-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -34129,7 +34129,7 @@ rightMetricsKey = "seven-ar";
 },
 {
 glyphname = "eight-persian";
-lastChange = "2016-01-14 21:12:37 +0000";
+lastChange = "2016-01-14 21:12:42 +0000";
 layers = (
 {
 components = (
@@ -34184,7 +34184,7 @@ rightMetricsKey = "eight-ar";
 },
 {
 glyphname = "nine-persian";
-lastChange = "2016-01-14 21:10:43 +0000";
+lastChange = "2016-01-14 21:12:48 +0000";
 layers = (
 {
 components = (
@@ -45681,7 +45681,8 @@ kerning = {
 "five-persian" = -80;
 "six-persian" = -60;
 "seven-persian" = -60;
-"eight-persian" = -90;
+"eight-persian" = -120;
+"nine-persian" = -60;
 };
 };
 };

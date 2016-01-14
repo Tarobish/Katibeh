@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kafDotabove-ar"
+"/alefMadda-ar/kafDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -13611,7 +13611,7 @@ width = 426;
 },
 {
 glyphname = "kafDotabove-ar";
-lastChange = "2016-01-14 09:43:27 +0000";
+lastChange = "2016-01-14 09:43:46 +0000";
 layers = (
 {
 components = (
@@ -44755,6 +44755,7 @@ kerning = {
 "alefMadda-ar" = {
 "alefMadda-ar" = 170;
 "@MMK_R_Lam" = 44;
+"@MMK_R_Kaf" = 27;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;

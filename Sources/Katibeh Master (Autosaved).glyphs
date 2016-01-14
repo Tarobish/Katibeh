@@ -6808,7 +6808,7 @@ unicode = FC5C;
 },
 {
 glyphname = "rehLoop-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:43:25 +0000";
 layers = (
 {
 anchors = (
@@ -6891,6 +6891,7 @@ nodes = (
 width = 455;
 }
 );
+rightKerningGroup = Reh;
 unicode = 08AA;
 },
 {

@@ -15397,7 +15397,7 @@ width = 297;
 },
 {
 glyphname = "meem-ar";
-lastChange = "2016-01-14 21:47:57 +0000";
+lastChange = "2016-01-14 21:54:38 +0000";
 layers = (
 {
 anchors = (
@@ -45857,6 +45857,7 @@ kerning = {
 "@MMK_R_AinInti" = -70;
 "@MMK_R_Feh" = -70;
 "@MMK_R_Kaf" = -30;
+"@MMK_R_MeemIso" = -60;
 };
 };
 };

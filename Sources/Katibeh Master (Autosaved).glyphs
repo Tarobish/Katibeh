@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar/yeh-farsi"
+"/alefMadda-ar/beh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -19274,7 +19274,7 @@ rightKerningGroup = BehInti;
 },
 {
 glyphname = "yeh-farsi";
-lastChange = "2016-01-14 21:49:18 +0000";
+lastChange = "2016-01-14 23:48:53 +0000";
 layers = (
 {
 components = (
@@ -45596,6 +45596,7 @@ kerning = {
 "@MMK_R_NoonIso" = -50;
 "@MMK_R_WawIso" = -40;
 "@MMK_R_HehIso" = -30;
+"@MMK_R_YahIso" = -20;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;

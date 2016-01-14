@@ -12162,7 +12162,7 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2016-01-14 20:47:48 +0000";
+lastChange = "2016-01-14 20:51:46 +0000";
 layers = (
 {
 anchors = (
@@ -45618,6 +45618,9 @@ kerning = {
 };
 "jeh-ar.fina" = {
 "@MMK_R_BehIso" = -63;
+};
+"@MMK_L_LamAlef" = {
+"@MMK_R_Kaf" = 40;
 };
 };
 };

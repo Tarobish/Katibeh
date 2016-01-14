@@ -22430,7 +22430,7 @@ unicode = FEFB;
 },
 {
 glyphname = "lam_alef-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 anchors = (
@@ -22521,6 +22521,7 @@ nodes = (
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = o;
 unicode = FEFC;
 },
@@ -22552,7 +22553,7 @@ unicode = FEF7;
 },
 {
 glyphname = "lam_alefHamzaabove-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -22569,6 +22570,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lam_alef-ar.fina";
 rightMetricsKey = "lam_alef-ar.fina";
 unicode = FEF8;
@@ -22600,7 +22602,7 @@ unicode = FEF9;
 },
 {
 glyphname = "lam_alefHamzabelow-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -22617,13 +22619,14 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lam_alef-ar.fina";
 rightMetricsKey = "lam_alef-ar.fina";
 unicode = FEFA;
 },
 {
 glyphname = "lam_alefWavyhamzaabove-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -22640,6 +22643,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lam-ar.fina";
 rightMetricsKey = "alefWavyhamzaabove-ar.fina";
 },
@@ -22669,7 +22673,7 @@ rightMetricsKey = "alefWavyhamzaabove-ar.isol";
 },
 {
 glyphname = "lam_alefWavyhamzabelow-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -22686,6 +22690,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lam-ar.fina";
 rightMetricsKey = "alefWavyhamzabelow-ar.fina";
 },
@@ -22738,7 +22743,7 @@ unicode = FEF5;
 },
 {
 glyphname = "lam_alefMadda-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -22755,6 +22760,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lam_alef-ar.fina";
 rightMetricsKey = "lam_alef-ar.fina";
 unicode = FEF6;
@@ -22785,7 +22791,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "lam_alefWasla-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -22802,6 +22808,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lam-ar.init";
 rightMetricsKey = "alefWasla-ar.fina";
 },
@@ -31099,7 +31106,7 @@ unicode = FC86;
 },
 {
 glyphname = "lamVabove_alef-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -31116,12 +31123,13 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lamVabove-ar.fina";
 rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamVabove_alef-ar.isol";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -31138,12 +31146,13 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lamVabove-ar.isol";
 rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "lamDotabove_alef-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -31160,6 +31169,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lamDotabove-ar.fina";
 rightMetricsKey = "alef-ar.fina";
 },
@@ -31189,7 +31199,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "lamThreedotsabove_alef-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -31206,6 +31216,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lamThreedotsabove-ar.fina";
 rightMetricsKey = "alef-ar.fina";
 },
@@ -31235,7 +31246,7 @@ rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = "lamThreedotsbelow_alef-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -31252,6 +31263,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lamThreedotsbelow-ar.fina";
 rightMetricsKey = "alef-ar.fina";
 },
@@ -31915,7 +31927,7 @@ width = 918;
 },
 {
 glyphname = "lamBar_alef-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -31932,6 +31944,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 leftMetricsKey = "lamBar-ar.fina";
 rightMetricsKey = "alef-ar.fina";
 },
@@ -31987,7 +32000,7 @@ subCategory = Ligature;
 },
 {
 glyphname = uniFEFE;
-lastChange = "2015-12-30 20:56:46 +0000";
+lastChange = "2016-01-14 19:27:52 +0000";
 layers = (
 {
 components = (
@@ -32004,6 +32017,7 @@ name = Regular;
 width = 634;
 }
 );
+leftKerningGroup = LamAlefFina;
 unicode = FEFE;
 script = arabic;
 category = Letter;

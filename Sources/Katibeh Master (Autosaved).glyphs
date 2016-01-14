@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar/feh-ar"
+"/alefMadda-ar/noon-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -10253,7 +10253,7 @@ width = 451;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2016-01-14 21:53:43 +0000";
+lastChange = "2016-01-14 23:48:07 +0000";
 layers = (
 {
 components = (
@@ -15397,7 +15397,7 @@ width = 297;
 },
 {
 glyphname = "meem-ar";
-lastChange = "2016-01-14 21:54:38 +0000";
+lastChange = "2016-01-14 23:48:20 +0000";
 layers = (
 {
 anchors = (
@@ -15991,7 +15991,7 @@ width = 436;
 },
 {
 glyphname = "noon-ar";
-lastChange = "2016-01-14 21:48:28 +0000";
+lastChange = "2016-01-14 23:48:26 +0000";
 layers = (
 {
 components = (
@@ -45591,6 +45591,9 @@ kerning = {
 "@MMK_R_Seen" = -40;
 "@MMK_R_Sad" = -50;
 "@MMK_R_AInIso" = -40;
+"@MMK_R_Feh" = -30;
+"@MMK_R_MeemIso" = -30;
+"@MMK_R_NoonIso" = -50;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;

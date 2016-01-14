@@ -6473,7 +6473,7 @@ unicode = 06EF;
 },
 {
 glyphname = "rehVinvertedabove-ar.fina";
-lastChange = "2016-01-14 10:26:04 +0000";
+lastChange = "2016-01-14 18:23:22 +0000";
 layers = (
 {
 components = (
@@ -6492,7 +6492,7 @@ name = Regular;
 width = 405;
 }
 );
-leftKerningGroup = Reh;
+leftKerningGroup = "0";
 },
 {
 glyphname = "rehStroke-ar";
@@ -6541,7 +6541,7 @@ width = 415;
 },
 {
 glyphname = "rehTwodotsverticalabove-ar";
-lastChange = "2016-01-14 10:26:04 +0000";
+lastChange = "2016-01-14 18:23:22 +0000";
 layers = (
 {
 components = (
@@ -6558,12 +6558,12 @@ name = Regular;
 width = 319;
 }
 );
-leftKerningGroup = Reh;
+leftKerningGroup = "0";
 unicode = 076B;
 },
 {
 glyphname = "rehTwodotsverticalabove-ar.fina";
-lastChange = "2016-01-14 10:26:04 +0000";
+lastChange = "2016-01-14 18:23:22 +0000";
 layers = (
 {
 components = (
@@ -6580,11 +6580,11 @@ name = Regular;
 width = 365;
 }
 );
-leftKerningGroup = Reh;
+leftKerningGroup = "0";
 },
 {
 glyphname = "rehHamzaabove-ar";
-lastChange = "2016-01-14 10:26:04 +0000";
+lastChange = "2016-01-14 18:23:22 +0000";
 layers = (
 {
 components = (
@@ -6602,12 +6602,12 @@ name = Regular;
 width = 319;
 }
 );
-leftKerningGroup = Reh;
+leftKerningGroup = "0";
 unicode = 076C;
 },
 {
 glyphname = "rehHamzaabove-ar.fina";
-lastChange = "2016-01-14 10:26:04 +0000";
+lastChange = "2016-01-14 18:23:22 +0000";
 layers = (
 {
 components = (
@@ -6626,11 +6626,11 @@ name = Regular;
 width = 405;
 }
 );
-leftKerningGroup = Reh;
+leftKerningGroup = "0";
 },
 {
 glyphname = "rehTwodotshorizontalaboveTahabove-ar";
-lastChange = "2016-01-14 10:26:04 +0000";
+lastChange = "2016-01-14 18:23:22 +0000";
 layers = (
 {
 components = (
@@ -6653,12 +6653,12 @@ name = Regular;
 width = 359;
 }
 );
-leftKerningGroup = Reh;
+leftKerningGroup = "0";
 unicode = 0771;
 },
 {
 glyphname = "rehTwodotshorizontalaboveTahabove-ar.fina";
-lastChange = "2016-01-14 10:26:04 +0000";
+lastChange = "2016-01-14 18:23:22 +0000";
 layers = (
 {
 components = (
@@ -6681,11 +6681,11 @@ name = Regular;
 width = 405;
 }
 );
-leftKerningGroup = Reh;
+leftKerningGroup = "0";
 },
 {
 glyphname = "rehAlefabove-ar";
-lastChange = "2016-01-14 10:26:04 +0000";
+lastChange = "2016-01-14 18:23:22 +0000";
 layers = (
 {
 components = (
@@ -6702,7 +6702,7 @@ name = Regular;
 width = 319;
 }
 );
-leftKerningGroup = Reh;
+leftKerningGroup = "0";
 unicode = FC5C;
 },
 {

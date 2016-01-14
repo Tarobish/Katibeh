@@ -45225,9 +45225,6 @@ kerning = {
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;
 };
-"@MMK_L_Reh" = {
-"beh-ar.init" = -42;
-};
 };
 };
 unitsPerEm = 1000;

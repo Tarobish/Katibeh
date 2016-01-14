@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"H/lam-ar.init"
+"/alefMadda-ar/lam-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -14455,7 +14455,7 @@ unicode = FEE0;
 },
 {
 glyphname = "lam-ar.init";
-lastChange = "2016-01-14 10:00:43 +0000";
+lastChange = "2016-01-14 10:01:02 +0000";
 layers = (
 {
 anchors = (
@@ -44802,6 +44802,7 @@ kerning = {
 "@MMK_R_Alef" = 111;
 "@MMK_R_Kaf" = 82;
 "@MMK_R_KaafAr" = 14;
+"@MMK_R_Lam" = 30;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar  /alefMadda-ar/reh-ar  /alef-ar"
+"/beh-ar  /alefMadda-ar/seen-ar  /alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -6034,7 +6034,7 @@ rightKerningGroup = DalFina;
 },
 {
 glyphname = "reh-ar";
-lastChange = "2016-01-14 23:47:26 +0000";
+lastChange = "2016-01-14 23:50:26 +0000";
 layers = (
 {
 anchors = (
@@ -45611,6 +45611,7 @@ kerning = {
 "@MMK_R_HahFina" = -30;
 "@MMK_R_HahInti" = -30;
 "@MMK_R_DalIso" = -40;
+"@MMK_R_Reh" = -64;
 };
 "@MMK_L_AlefIso" = {
 "@MMK_R_Kaf" = 20;

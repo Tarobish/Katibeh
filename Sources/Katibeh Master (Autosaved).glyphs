@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/wawTwodots-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -17873,24 +17870,23 @@ unicode = 06CB;
 },
 {
 glyphname = "ve-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:30:40 +0000";
 layers = (
 {
 components = (
 {
 disableAlignment = 1;
 name = "waw-ar.fina";
-transform = "{1, 0, 0, 1, 35, 0}";
 },
 {
 disableAlignment = 1;
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 146, -396}";
+transform = "{1, 0, 0, 1, 111, -396}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 417;
+width = 352;
 }
 );
 unicode = FBDF;

@@ -15243,7 +15243,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:39:55 +0000";
 layers = (
 {
 anchors = (
@@ -15318,6 +15318,7 @@ nodes = (
 width = 523;
 }
 );
+leftKerningGroup = MeemInti;
 },
 {
 glyphname = "meem-ar.altfina";

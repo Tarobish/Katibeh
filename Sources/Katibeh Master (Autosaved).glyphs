@@ -1101,7 +1101,7 @@ rightKerningGroup = Alef;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2016-01-14 09:39:18 +0000";
+lastChange = "2016-01-14 09:39:26 +0000";
 layers = (
 {
 anchors = (
@@ -44752,7 +44752,7 @@ kerning = {
 "alefMadda-ar" = 64;
 };
 "beh-ar.init" = {
-"@MMK_R_ALefFina" = -9;
+"@MMK_R_ALefFina" = 68;
 };
 };
 };

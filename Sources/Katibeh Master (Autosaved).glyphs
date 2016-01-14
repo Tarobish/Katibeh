@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/beh-ar/waw-ar/keheh-ar/alef-ar"
+"/waw-ar/theh-ar",
+"/waw-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17250,7 +17251,7 @@ width = 411;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-14 10:09:04 +0000";
+lastChange = "2016-01-14 10:10:38 +0000";
 layers = (
 {
 anchors = (

@@ -17926,7 +17926,7 @@ leftKerningGroup = WawFina;
 },
 {
 glyphname = "wawDotcenter-ar";
-lastChange = "2016-01-14 18:30:16 +0000";
+lastChange = "2016-01-14 19:40:40 +0000";
 layers = (
 {
 components = (
@@ -17945,6 +17945,7 @@ name = Regular;
 width = 429;
 }
 );
+rightKerningGroup = WawIso;
 unicode = 08AB;
 },
 {

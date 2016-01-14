@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/reh-ar/keheh-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -11990,7 +11987,7 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2016-01-14 20:08:49 +0000";
+lastChange = "2016-01-14 20:08:55 +0000";
 layers = (
 {
 anchors = (
@@ -45227,13 +45224,6 @@ kerning = {
 };
 "alef-ar.fina.short" = {
 "keheh-ar" = 30;
-};
-"@MMK_L_AlefIso" = {
-"keheh-ar" = 30;
-};
-"@MMK_L_Reh" = {
-"dotlessfeh-ar" = -43;
-"keheh-ar" = -70;
 };
 };
 };

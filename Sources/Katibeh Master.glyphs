@@ -44959,35 +44959,6 @@ interpolationWeight = 400;
 name = Regular;
 }
 );
-kerning = {
-"51F41761-070F-43EA-B302-C90910850260" = {
-"alefMadda-ar" = {
-"alefMadda-ar" = 170;
-"@MMK_R_Alef" = 111;
-"@MMK_R_Kaf" = 82;
-"@MMK_R_KaafAr" = 14;
-"@MMK_R_Lam" = 30;
-"@MMK_R_LamAlef" = 30;
-"lam_alefMaksura-ar" = -40;
-};
-"alefMadda-ar.fina" = {
-"alefMadda-ar" = 170;
-"highhamzaAlef-ar" = 250;
-"@MMK_R_Alef" = 111;
-"@MMK_R_Kaf" = 82;
-"@MMK_R_KaafAr" = 14;
-"@MMK_R_Lam" = 30;
-"@MMK_R_LamAlef" = 30;
-"lam_alefMaksura-ar" = -40;
-};
-"@MMK_L_Alef" = {
-"@MMK_R_Kaf" = 7;
-};
-"@MMK_L_AlefFina" = {
-"@MMK_R_Kaf" = 36;
-};
-};
-};
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;

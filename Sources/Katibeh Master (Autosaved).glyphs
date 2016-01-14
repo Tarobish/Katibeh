@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/jeh-ar/tcheh-ar",
-"/tcheh-ar"
+"/jeh-ar/tcheh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3647,7 +3646,7 @@ unicode = FE9F;
 },
 {
 glyphname = "tcheh-ar";
-lastChange = "2016-01-14 20:42:00 +0000";
+lastChange = "2016-01-14 20:42:30 +0000";
 layers = (
 {
 components = (
@@ -45605,7 +45604,7 @@ kerning = {
 "@MMK_R_BehIso" = -63;
 "@MMK_R_BehInti" = -20;
 "@MMK_R_HahInti" = -90;
-"@MMK_R_HahFina" = -50;
+"@MMK_R_HahFina" = -70;
 };
 "jeh-ar.fina" = {
 "@MMK_R_BehIso" = -63;

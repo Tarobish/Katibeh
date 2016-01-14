@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/zero-ar/two-persian"
+"/zero-ar/one-persian/two-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -45664,7 +45664,7 @@ kerning = {
 "@MMK_R_YahIso" = -20;
 };
 "one-persian" = {
-"two-persian" = -11;
+"two-persian" = -10;
 };
 };
 };

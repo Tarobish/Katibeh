@@ -1101,7 +1101,7 @@ rightKerningGroup = Alef;
 },
 {
 glyphname = "alef-ar.fina.short";
-lastChange = "2016-01-14 09:38:14 +0000";
+lastChange = "2016-01-14 09:39:18 +0000";
 layers = (
 {
 anchors = (
@@ -1349,7 +1349,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2016-01-14 09:39:10 +0000";
+lastChange = "2016-01-14 09:39:11 +0000";
 layers = (
 {
 components = (
@@ -44749,7 +44749,10 @@ kerning = {
 "highhamzaAlef-ar" = 250;
 };
 "@MMK_L_AlefFina" = {
-"alefMadda-ar" = 60;
+"alefMadda-ar" = 64;
+};
+"beh-ar.init" = {
+"@MMK_R_ALefFina" = -9;
 };
 };
 };

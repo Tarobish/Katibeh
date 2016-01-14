@@ -5214,7 +5214,7 @@ unicode = 062F;
 },
 {
 glyphname = "dal-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 anchors = (
@@ -5285,6 +5285,7 @@ nodes = (
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 unicode = FEAA;
 },
 {
@@ -5312,7 +5313,7 @@ unicode = 0630;
 },
 {
 glyphname = "thal-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5329,6 +5330,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 unicode = FEAC;
 },
 {
@@ -5379,7 +5381,7 @@ unicode = 0688;
 },
 {
 glyphname = "ddal-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5396,6 +5398,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 unicode = FB89;
 },
 {
@@ -5423,7 +5426,7 @@ unicode = 068C;
 },
 {
 glyphname = "dahal-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5441,6 +5444,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 unicode = FB85;
 },
 {
@@ -5468,7 +5472,7 @@ unicode = 068D;
 },
 {
 glyphname = "ddahal-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5485,6 +5489,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 unicode = FB83;
 },
 {
@@ -5513,7 +5518,7 @@ unicode = 0689;
 },
 {
 glyphname = "dalRing-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5531,6 +5536,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 },
 {
 glyphname = "dalDotbelow-ar";
@@ -5557,7 +5563,7 @@ unicode = 068A;
 },
 {
 glyphname = "dalDotbelow-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5574,6 +5580,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 },
 {
 glyphname = "dalDotbelowTah-ar";
@@ -5604,7 +5611,7 @@ unicode = 068B;
 },
 {
 glyphname = "dalDotbelowTah-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5625,6 +5632,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 },
 {
 glyphname = "dul-ar";
@@ -5651,7 +5659,7 @@ unicode = 068E;
 },
 {
 glyphname = "dul-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5669,6 +5677,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 unicode = FB87;
 },
 {
@@ -5696,7 +5705,7 @@ unicode = 068F;
 },
 {
 glyphname = "dalThreedotsdown-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5714,6 +5723,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 },
 {
 glyphname = "dalFourdots-ar";
@@ -5740,7 +5750,7 @@ unicode = 0690;
 },
 {
 glyphname = "dalFourdots-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5758,6 +5768,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 },
 {
 glyphname = "dalVinvertedabove-ar";
@@ -5784,7 +5795,7 @@ unicode = 06EE;
 },
 {
 glyphname = "dalVinvertedabove-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5802,6 +5813,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 },
 {
 glyphname = "dalTwodotsverticalbelowTahabove-ar";
@@ -5832,7 +5844,7 @@ unicode = 0759;
 },
 {
 glyphname = "dalTwodotsverticalbelowTahabove-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5853,6 +5865,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 },
 {
 glyphname = "dalVinvertedbelow-ar";
@@ -5879,7 +5892,7 @@ unicode = 075A;
 },
 {
 glyphname = "dalVinvertedbelow-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 18:55:28 +0000";
 layers = (
 {
 components = (
@@ -5896,6 +5909,7 @@ name = Regular;
 width = 443;
 }
 );
+leftKerningGroup = DalFina;
 },
 {
 glyphname = "reh-ar";

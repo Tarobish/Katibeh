@@ -29833,7 +29833,7 @@ unicode = FC40;
 },
 {
 glyphname = "lam_hah-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:35:25 +0000";
 layers = (
 {
 anchors = (
@@ -29937,6 +29937,7 @@ nodes = (
 width = 548;
 }
 );
+leftKerningGroup = HahInti;
 unicode = FCCA;
 },
 {

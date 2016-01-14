@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/waw-ar/reh-ar/alef-ar.short"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -1046,7 +1043,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2016-01-14 20:55:23 +0000";
+lastChange = "2016-01-14 20:55:34 +0000";
 layers = (
 {
 anchors = (
@@ -1098,8 +1095,6 @@ nodes = (
 width = 169;
 }
 );
-leftKerningGroup = AlefIso;
-rightKerningGroup = AlefIso;
 },
 {
 glyphname = "alef-ar.fina.short";

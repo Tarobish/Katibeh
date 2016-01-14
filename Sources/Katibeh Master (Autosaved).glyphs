@@ -1876,7 +1876,7 @@ width = 234;
 },
 {
 glyphname = "beh-ar";
-lastChange = "2016-01-14 10:12:48 +0000";
+lastChange = "2016-01-14 10:13:02 +0000";
 layers = (
 {
 components = (
@@ -44894,6 +44894,7 @@ kerning = {
 };
 "@MMK_L_Waw" = {
 "@MMK_R_Kaf" = -91;
+"@MMK_R_BehFina" = -40;
 };
 };
 };

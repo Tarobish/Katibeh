@@ -9667,7 +9667,7 @@ unicode = FECC;
 },
 {
 glyphname = "ain-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:31:39 +0000";
 layers = (
 {
 anchors = (
@@ -9744,6 +9744,7 @@ nodes = (
 width = 427;
 }
 );
+leftKerningGroup = AInInti;
 unicode = FECB;
 },
 {
@@ -9789,7 +9790,7 @@ width = 559;
 },
 {
 glyphname = "ainThreedots-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:31:39 +0000";
 layers = (
 {
 components = (
@@ -9806,6 +9807,7 @@ name = Regular;
 width = 427;
 }
 );
+leftKerningGroup = AInInti;
 },
 {
 glyphname = "ainThreedots-ar.medi";
@@ -9892,7 +9894,7 @@ unicode = FED0;
 },
 {
 glyphname = "ghain-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:31:39 +0000";
 layers = (
 {
 components = (
@@ -9909,6 +9911,7 @@ name = Regular;
 width = 427;
 }
 );
+leftKerningGroup = AInInti;
 unicode = FECF;
 },
 {
@@ -9962,7 +9965,7 @@ width = 559;
 },
 {
 glyphname = "ghainDotbelow-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:31:39 +0000";
 layers = (
 {
 components = (
@@ -9983,6 +9986,7 @@ name = Regular;
 width = 427;
 }
 );
+leftKerningGroup = AInInti;
 },
 {
 glyphname = "ghainDotbelow-ar.medi";
@@ -20856,7 +20860,7 @@ width = 559;
 },
 {
 glyphname = "ainTwodotshorizontalabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:31:39 +0000";
 layers = (
 {
 components = (
@@ -20873,6 +20877,7 @@ name = Regular;
 width = 427;
 }
 );
+leftKerningGroup = AInInti;
 },
 {
 glyphname = "ainTwodotshorizontalabove-ar.medi";
@@ -20937,7 +20942,7 @@ width = 559;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:31:39 +0000";
 layers = (
 {
 components = (
@@ -20954,6 +20959,7 @@ name = Regular;
 width = 427;
 }
 );
+leftKerningGroup = AInInti;
 },
 {
 glyphname = "ainThreedotsdownabove-ar.medi";
@@ -21018,7 +21024,7 @@ width = 559;
 },
 {
 glyphname = "ainTwodotsverticalabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:31:39 +0000";
 layers = (
 {
 components = (
@@ -21035,6 +21041,7 @@ name = Regular;
 width = 427;
 }
 );
+leftKerningGroup = AInInti;
 },
 {
 glyphname = "ainTwodotsverticalabove-ar.medi";

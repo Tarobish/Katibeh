@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"H/lam-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -14219,7 +14222,7 @@ unicode = FB98;
 },
 {
 glyphname = "lam-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 anchors = (
@@ -14297,6 +14300,7 @@ nodes = (
 width = 563;
 }
 );
+leftKerningGroup = Lam;
 unicode = 0644;
 },
 {
@@ -14451,7 +14455,7 @@ unicode = FEE0;
 },
 {
 glyphname = "lam-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 anchors = (
@@ -14518,11 +14522,12 @@ nodes = (
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 unicode = FEDF;
 },
 {
 glyphname = "lamVabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14539,6 +14544,7 @@ name = Regular;
 width = 563;
 }
 );
+leftKerningGroup = Lam;
 unicode = 06B5;
 },
 {
@@ -14563,7 +14569,7 @@ width = 615;
 },
 {
 glyphname = "lamVabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14580,6 +14586,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamVabove-ar.medi";
@@ -14603,7 +14610,7 @@ width = 297;
 },
 {
 glyphname = "lamDotabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14620,6 +14627,7 @@ name = Regular;
 width = 563;
 }
 );
+leftKerningGroup = Lam;
 unicode = 06B6;
 },
 {
@@ -14644,7 +14652,7 @@ width = 615;
 },
 {
 glyphname = "lamDotabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14661,6 +14669,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamDotabove-ar.medi";
@@ -14684,7 +14693,7 @@ width = 297;
 },
 {
 glyphname = "lamThreedotsabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14701,6 +14710,7 @@ name = Regular;
 width = 563;
 }
 );
+leftKerningGroup = Lam;
 unicode = 06B7;
 },
 {
@@ -14725,7 +14735,7 @@ width = 615;
 },
 {
 glyphname = "lamThreedotsabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14742,6 +14752,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamThreedotsabove-ar.medi";
@@ -14765,7 +14776,7 @@ width = 297;
 },
 {
 glyphname = "lamThreedotsbelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14782,6 +14793,7 @@ name = Regular;
 width = 563;
 }
 );
+leftKerningGroup = Lam;
 unicode = 06B8;
 },
 {
@@ -14806,7 +14818,7 @@ width = 615;
 },
 {
 glyphname = "lamThreedotsbelow-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14823,6 +14835,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamThreedotsbelow-ar.medi";
@@ -14846,7 +14859,7 @@ width = 297;
 },
 {
 glyphname = "lamDoublebar-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14867,6 +14880,7 @@ name = Regular;
 width = 563;
 }
 );
+leftKerningGroup = Lam;
 unicode = 08A6;
 },
 {
@@ -14895,7 +14909,7 @@ width = 615;
 },
 {
 glyphname = "lamDoublebar-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -14916,6 +14930,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamDoublebar-ar.medi";
@@ -21459,7 +21474,7 @@ width = 276;
 },
 {
 glyphname = "lamBar-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -21476,6 +21491,7 @@ name = Regular;
 width = 563;
 }
 );
+leftKerningGroup = Lam;
 unicode = 076A;
 },
 {
@@ -21500,7 +21516,7 @@ width = 615;
 },
 {
 glyphname = "lamBar-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:00:43 +0000";
 layers = (
 {
 components = (
@@ -21517,6 +21533,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamBar-ar.medi";

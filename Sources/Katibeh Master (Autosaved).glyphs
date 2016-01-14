@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/waw-ar/peh-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -2026,7 +2023,7 @@ unicode = FB59;
 },
 {
 glyphname = "peh-ar.init";
-lastChange = "2016-01-14 10:15:26 +0000";
+lastChange = "2016-01-14 10:15:28 +0000";
 layers = (
 {
 components = (
@@ -44935,7 +44932,7 @@ kerning = {
 "@MMK_L_Waw" = {
 "@MMK_R_Kaf" = -91;
 "@MMK_R_BehFina" = -40;
-"@MMK_R_BehInti" = -37;
+"@MMK_R_BehInti" = -40;
 };
 };
 };

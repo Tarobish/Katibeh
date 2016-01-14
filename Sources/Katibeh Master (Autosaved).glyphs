@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/waw-ar/seen-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -6868,7 +6871,7 @@ width = 507;
 },
 {
 glyphname = "seen-ar";
-lastChange = "2016-01-14 10:17:29 +0000";
+lastChange = "2016-01-14 10:17:49 +0000";
 layers = (
 {
 anchors = (
@@ -44959,6 +44962,7 @@ kerning = {
 "@MMK_R_Kaf" = -91;
 "@MMK_R_BehFina" = -40;
 "@MMK_R_BehInti" = -40;
+"@MMK_R_Seen" = -35;
 };
 };
 };

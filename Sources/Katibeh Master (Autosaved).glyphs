@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/ainThreedots-ar"
+"/jeh-ar/ainThreedots-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -9983,7 +9983,7 @@ unicode = FECB;
 },
 {
 glyphname = "ainThreedots-ar";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-14 20:46:55 +0000";
 layers = (
 {
 components = (
@@ -45601,6 +45601,7 @@ kerning = {
 "@MMK_R_Seen" = -90;
 "@MMK_R_Sad" = -70;
 "@MMK_R_AinInti" = -90;
+"@MMK_R_AInIso" = -80;
 };
 "jeh-ar.fina" = {
 "@MMK_R_BehIso" = -63;

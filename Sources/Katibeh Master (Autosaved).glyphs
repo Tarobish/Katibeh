@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar/alefHamzaabove-ar.fina/alefMadda-ar"
+"/lam-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -14418,7 +14418,7 @@ unicode = FEE0;
 },
 {
 glyphname = "lam-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:41:33 +0000";
 layers = (
 {
 anchors = (
@@ -14485,6 +14485,7 @@ nodes = (
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 unicode = FEDF;
 },
 {
@@ -14530,7 +14531,7 @@ width = 615;
 },
 {
 glyphname = "lamVabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:41:33 +0000";
 layers = (
 {
 components = (
@@ -14547,6 +14548,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamVabove-ar.medi";
@@ -14611,7 +14613,7 @@ width = 615;
 },
 {
 glyphname = "lamDotabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:41:33 +0000";
 layers = (
 {
 components = (
@@ -14628,6 +14630,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamDotabove-ar.medi";
@@ -14692,7 +14695,7 @@ width = 615;
 },
 {
 glyphname = "lamThreedotsabove-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:41:33 +0000";
 layers = (
 {
 components = (
@@ -14709,6 +14712,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamThreedotsabove-ar.medi";
@@ -14773,7 +14777,7 @@ width = 615;
 },
 {
 glyphname = "lamThreedotsbelow-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:41:33 +0000";
 layers = (
 {
 components = (
@@ -14790,6 +14794,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamThreedotsbelow-ar.medi";
@@ -14862,7 +14867,7 @@ width = 615;
 },
 {
 glyphname = "lamDoublebar-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:41:33 +0000";
 layers = (
 {
 components = (
@@ -14883,6 +14888,7 @@ name = Regular;
 width = 201;
 }
 );
+leftKerningGroup = Lam;
 },
 {
 glyphname = "lamDoublebar-ar.medi";

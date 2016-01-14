@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alefMadda-ar/alef-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -1443,7 +1446,7 @@ unicode = FD3D;
 },
 {
 glyphname = "alefFathatan-ar.fina";
-lastChange = "2016-01-14 09:32:17 +0000";
+lastChange = "2016-01-14 09:32:46 +0000";
 layers = (
 {
 components = (
@@ -1461,7 +1464,6 @@ name = Regular;
 width = 229;
 }
 );
-leftKerningGroup = Alef;
 unicode = FD3C;
 },
 {

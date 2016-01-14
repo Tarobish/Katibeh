@@ -6346,7 +6346,7 @@ leftKerningGroup = Reh;
 },
 {
 glyphname = "rehDotbelowdotabove-ar";
-lastChange = "2016-01-14 18:29:37 +0000";
+lastChange = "2016-01-14 19:43:14 +0000";
 layers = (
 {
 components = (
@@ -6369,6 +6369,7 @@ name = Regular;
 width = 359;
 }
 );
+rightKerningGroup = Reh;
 unicode = 0696;
 },
 {
@@ -6591,7 +6592,7 @@ leftKerningGroup = Reh;
 },
 {
 glyphname = "rehStroke-ar";
-lastChange = "2016-01-14 18:33:01 +0000";
+lastChange = "2016-01-14 19:43:18 +0000";
 layers = (
 {
 components = (
@@ -6610,6 +6611,7 @@ name = Regular;
 width = 339;
 }
 );
+rightKerningGroup = Reh;
 unicode = 075B;
 },
 {

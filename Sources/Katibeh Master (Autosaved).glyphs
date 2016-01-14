@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/alef-ar/alefMadda-ar/kaf-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -11688,7 +11691,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2016-01-14 09:55:30 +0000";
+lastChange = "2016-01-14 09:55:59 +0000";
 layers = (
 {
 anchors = (
@@ -44778,11 +44781,15 @@ kerning = {
 "alefMadda-ar" = {
 "alefMadda-ar" = 170;
 "@MMK_R_Alef" = 111;
+"@MMK_R_Kaf" = -2;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;
 "highhamzaAlef-ar" = 250;
 "@MMK_R_Alef" = 111;
+};
+"@MMK_L_Alef" = {
+"@MMK_R_Kaf" = 7;
 };
 };
 };

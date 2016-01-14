@@ -9383,7 +9383,7 @@ width = 505;
 },
 {
 glyphname = "ain-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:32:18 +0000";
 layers = (
 {
 anchors = (
@@ -9474,6 +9474,7 @@ nodes = (
 width = 515;
 }
 );
+leftKerningGroup = AinFina;
 unicode = 0639;
 },
 {
@@ -9749,7 +9750,7 @@ unicode = FECB;
 },
 {
 glyphname = "ainThreedots-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:32:18 +0000";
 layers = (
 {
 components = (
@@ -9766,6 +9767,7 @@ name = Regular;
 width = 515;
 }
 );
+leftKerningGroup = AinFina;
 unicode = 06A0;
 },
 {
@@ -9831,7 +9833,7 @@ width = 451;
 },
 {
 glyphname = "ghain-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:32:18 +0000";
 layers = (
 {
 components = (
@@ -9848,6 +9850,7 @@ name = Regular;
 width = 515;
 }
 );
+leftKerningGroup = AinFina;
 unicode = 063A;
 },
 {
@@ -9916,7 +9919,7 @@ unicode = FECF;
 },
 {
 glyphname = "ghainDotbelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:32:18 +0000";
 layers = (
 {
 components = (
@@ -9937,6 +9940,7 @@ name = Regular;
 width = 515;
 }
 );
+leftKerningGroup = AinFina;
 unicode = 06FC;
 },
 {
@@ -20819,7 +20823,7 @@ width = 613;
 },
 {
 glyphname = "ainTwodotshorizontalabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:32:18 +0000";
 layers = (
 {
 components = (
@@ -20836,6 +20840,7 @@ name = Regular;
 width = 515;
 }
 );
+leftKerningGroup = AinFina;
 unicode = 075D;
 },
 {
@@ -20901,7 +20906,7 @@ width = 451;
 },
 {
 glyphname = "ainThreedotsdownabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:32:18 +0000";
 layers = (
 {
 components = (
@@ -20918,6 +20923,7 @@ name = Regular;
 width = 515;
 }
 );
+leftKerningGroup = AinFina;
 unicode = 075E;
 },
 {
@@ -20983,7 +20989,7 @@ width = 451;
 },
 {
 glyphname = "ainTwodotsverticalabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:32:18 +0000";
 layers = (
 {
 components = (
@@ -21000,6 +21006,7 @@ name = Regular;
 width = 515;
 }
 );
+leftKerningGroup = AinFina;
 unicode = 075F;
 },
 {

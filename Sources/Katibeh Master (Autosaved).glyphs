@@ -20270,7 +20270,7 @@ unicode = 0676;
 },
 {
 glyphname = "highhamzaWaw-ar.fina";
-lastChange = "2016-01-14 18:33:46 +0000";
+lastChange = "2016-01-14 19:46:23 +0000";
 layers = (
 {
 anchors = (
@@ -20355,6 +20355,7 @@ nodes = (
 width = 520;
 }
 );
+leftKerningGroup = WawFina;
 },
 {
 glyphname = "uHamzaabove-ar";
@@ -20529,7 +20530,7 @@ unicode = 0677;
 },
 {
 glyphname = "uHamzaabove-ar.fina";
-lastChange = "2016-01-14 18:34:02 +0000";
+lastChange = "2016-01-14 19:46:16 +0000";
 layers = (
 {
 anchors = (
@@ -20690,6 +20691,7 @@ nodes = (
 width = 397;
 }
 );
+leftKerningGroup = WawFina;
 },
 {
 glyphname = "highhamzaYeh-ar";

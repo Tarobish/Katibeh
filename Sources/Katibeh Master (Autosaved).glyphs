@@ -18390,7 +18390,7 @@ unicode = 0773;
 },
 {
 glyphname = "alefTwoabove-ar.fina";
-lastChange = "2015-12-31 03:08:12 +0000";
+lastChange = "2016-01-14 19:10:17 +0000";
 layers = (
 {
 components = (
@@ -18408,6 +18408,7 @@ name = Regular;
 width = 229;
 }
 );
+leftKerningGroup = AlefFina;
 },
 {
 glyphname = "alefThreeabove-ar";
@@ -18433,7 +18434,7 @@ unicode = 0774;
 },
 {
 glyphname = "alefThreeabove-ar.fina";
-lastChange = "2015-12-31 03:08:56 +0000";
+lastChange = "2016-01-14 19:10:17 +0000";
 layers = (
 {
 components = (
@@ -18451,6 +18452,7 @@ name = Regular;
 width = 229;
 }
 );
+leftKerningGroup = AlefFina;
 },
 {
 glyphname = "yeh-ar";

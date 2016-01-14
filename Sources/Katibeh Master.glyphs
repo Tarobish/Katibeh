@@ -1341,7 +1341,7 @@ leftKerningGroup = AlefFina;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2015-12-31 03:10:47 +0000";
+lastChange = "2016-01-14 19:52:37 +0000";
 layers = (
 {
 components = (
@@ -1934,7 +1934,7 @@ unicode = FE92;
 },
 {
 glyphname = "beh-ar.init";
-lastChange = "2016-01-14 18:38:32 +0000";
+lastChange = "2016-01-14 20:11:45 +0000";
 layers = (
 {
 components = (
@@ -10279,7 +10279,7 @@ unicode = FB6C;
 },
 {
 glyphname = "dotlessfeh-ar";
-lastChange = "2016-01-14 19:07:28 +0000";
+lastChange = "2016-01-14 20:07:58 +0000";
 layers = (
 {
 anchors = (
@@ -11987,7 +11987,7 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2016-01-14 19:08:53 +0000";
+lastChange = "2016-01-14 20:10:17 +0000";
 layers = (
 {
 anchors = (
@@ -45214,6 +45214,16 @@ interpolationWeight = 400;
 name = Regular;
 }
 );
+kerning = {
+"51F41761-070F-43EA-B302-C90910850260" = {
+"alefMadda-ar" = {
+"alefMadda-ar" = 170;
+};
+"alefMadda-ar.fina" = {
+"alefMadda-ar" = 170;
+};
+};
+};
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;

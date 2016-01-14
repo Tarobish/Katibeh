@@ -11101,7 +11101,7 @@ unicode = FB70;
 },
 {
 glyphname = "dotlessqaf-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:38:34 +0000";
 layers = (
 {
 anchors = (
@@ -11194,6 +11194,7 @@ nodes = (
 width = 567;
 }
 );
+leftKerningGroup = Qaf;
 unicode = 066F;
 },
 {
@@ -11298,7 +11299,7 @@ width = 613;
 },
 {
 glyphname = "qaf-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:38:34 +0000";
 layers = (
 {
 components = (
@@ -11315,6 +11316,7 @@ name = Regular;
 width = 567;
 }
 );
+leftKerningGroup = Qaf;
 unicode = 0642;
 },
 {
@@ -11383,7 +11385,7 @@ unicode = FED7;
 },
 {
 glyphname = "qafDotabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:38:34 +0000";
 layers = (
 {
 components = (
@@ -11400,6 +11402,7 @@ name = Regular;
 width = 567;
 }
 );
+leftKerningGroup = Qaf;
 unicode = 06A7;
 },
 {
@@ -11424,7 +11427,7 @@ width = 613;
 },
 {
 glyphname = "qafThreedotsabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:38:34 +0000";
 layers = (
 {
 components = (
@@ -11441,6 +11444,7 @@ name = Regular;
 width = 567;
 }
 );
+leftKerningGroup = Qaf;
 unicode = 06A8;
 },
 {
@@ -11465,7 +11469,7 @@ width = 613;
 },
 {
 glyphname = "qafDotbelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:38:34 +0000";
 layers = (
 {
 components = (
@@ -11482,6 +11486,7 @@ name = Regular;
 width = 567;
 }
 );
+leftKerningGroup = Qaf;
 unicode = 08A5;
 },
 {

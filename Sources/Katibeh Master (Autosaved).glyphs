@@ -11691,7 +11691,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2016-01-14 09:56:07 +0000";
+lastChange = "2016-01-14 09:56:11 +0000";
 layers = (
 {
 anchors = (
@@ -44781,7 +44781,7 @@ kerning = {
 "alefMadda-ar" = {
 "alefMadda-ar" = 170;
 "@MMK_R_Alef" = 111;
-"@MMK_R_Kaf" = 71;
+"@MMK_R_Kaf" = 82;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;

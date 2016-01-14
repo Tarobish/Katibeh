@@ -15146,7 +15146,7 @@ width = 297;
 },
 {
 glyphname = "meem-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:40:26 +0000";
 layers = (
 {
 anchors = (
@@ -15239,6 +15239,7 @@ nodes = (
 width = 506;
 }
 );
+leftKerningGroup = MeemFina;
 unicode = 0645;
 },
 {
@@ -15651,7 +15652,7 @@ unicode = FEE3;
 },
 {
 glyphname = "meemThreedotsabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:40:26 +0000";
 layers = (
 {
 components = (
@@ -15668,6 +15669,7 @@ name = Regular;
 width = 506;
 }
 );
+leftKerningGroup = MeemFina;
 unicode = 08A7;
 },
 {
@@ -21329,7 +21331,7 @@ width = 376;
 },
 {
 glyphname = "meemDotabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:40:26 +0000";
 layers = (
 {
 components = (
@@ -21346,6 +21348,7 @@ name = Regular;
 width = 506;
 }
 );
+leftKerningGroup = MeemFina;
 unicode = 0765;
 },
 {
@@ -21411,7 +21414,7 @@ width = 436;
 },
 {
 glyphname = "meemDotbelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:40:26 +0000";
 layers = (
 {
 components = (
@@ -21428,6 +21431,7 @@ name = Regular;
 width = 506;
 }
 );
+leftKerningGroup = MeemFina;
 unicode = 0766;
 },
 {

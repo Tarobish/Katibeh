@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf-ar"
+"/beh-ar/alefMadda-ar/kaf-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -11364,7 +11364,7 @@ width = 376;
 },
 {
 glyphname = "kaf-ar";
-lastChange = "2016-01-14 09:58:33 +0000";
+lastChange = "2016-01-14 09:58:47 +0000";
 layers = (
 {
 anchors = (
@@ -44787,6 +44787,7 @@ kerning = {
 "alefMadda-ar" = 170;
 "@MMK_R_Alef" = 111;
 "@MMK_R_Kaf" = 82;
+"@MMK_R_KaafAr" = 14;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;

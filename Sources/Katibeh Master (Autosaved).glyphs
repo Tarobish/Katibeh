@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/lam_alef-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -16496,7 +16493,7 @@ width = 615;
 },
 {
 glyphname = "heh-ar";
-lastChange = "2016-01-14 21:48:58 +0000";
+lastChange = "2016-01-14 21:54:49 +0000";
 layers = (
 {
 anchors = (
@@ -45858,6 +45855,7 @@ kerning = {
 "@MMK_R_Feh" = -70;
 "@MMK_R_Kaf" = -30;
 "@MMK_R_MeemIso" = -60;
+"@MMK_R_HehIso" = -50;
 };
 };
 };

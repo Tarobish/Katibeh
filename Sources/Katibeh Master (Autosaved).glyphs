@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/jeh-ar/keheh-ar"
+"/jeh-ar/gaf-ar.init.001"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -13270,7 +13270,7 @@ unicode = FB94;
 {
 color = 5;
 glyphname = "gaf-ar.init.001";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-14 20:48:27 +0000";
 layers = (
 {
 anchors = (
@@ -45604,6 +45604,7 @@ kerning = {
 "@MMK_R_AInIso" = -80;
 "@MMK_R_Feh" = -70;
 "@MMK_R_Kaf" = -150;
+"@MMK_R_Kafs" = -30;
 };
 "jeh-ar.fina" = {
 "@MMK_R_BehIso" = -63;

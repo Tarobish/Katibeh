@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar/alefMadda-ar/lam-ar.init"
+"/beh-ar/jeh-ar/meemThreedotsabove-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -15953,7 +15953,7 @@ width = 531;
 },
 {
 glyphname = "meemThreedotsabove-ar.init";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-14 20:49:49 +0000";
 layers = (
 {
 components = (
@@ -45609,6 +45609,7 @@ kerning = {
 "@MMK_R_Feh" = -70;
 "@MMK_R_Kaf" = -150;
 "@MMK_R_Kafs" = -50;
+"@MMK_R_MeemInti" = -70;
 };
 "jeh-ar.fina" = {
 "@MMK_R_BehIso" = -63;

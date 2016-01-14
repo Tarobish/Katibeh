@@ -12633,7 +12633,7 @@ unicode = 06AF;
 {
 color = 5;
 glyphname = "gaf-ar.001";
-lastChange = "2015-12-31 02:58:06 +0000";
+lastChange = "2016-01-14 19:32:13 +0000";
 layers = (
 {
 anchors = (
@@ -12748,6 +12748,7 @@ nodes = (
 width = 1032;
 }
 );
+rightKerningGroup = Kafs;
 },
 {
 glyphname = "gaf-ar.fina";
@@ -13058,7 +13059,7 @@ unicode = FB94;
 {
 color = 5;
 glyphname = "gaf-ar.init.001";
-lastChange = "2015-12-31 02:59:27 +0000";
+lastChange = "2016-01-14 19:32:13 +0000";
 layers = (
 {
 anchors = (
@@ -13171,6 +13172,7 @@ nodes = (
 width = 874;
 }
 );
+rightKerningGroup = Kafs;
 },
 {
 glyphname = "gafRing-ar";
@@ -13344,7 +13346,7 @@ width = 426;
 },
 {
 glyphname = "kafswash-ar";
-lastChange = "2015-12-31 02:52:41 +0000";
+lastChange = "2016-01-14 19:32:13 +0000";
 layers = (
 {
 anchors = (
@@ -13438,6 +13440,7 @@ nodes = (
 width = 1032;
 }
 );
+rightKerningGroup = Kafs;
 unicode = 06AA;
 },
 {
@@ -13543,7 +13546,7 @@ width = 1084;
 },
 {
 glyphname = "kafswash-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:32:13 +0000";
 layers = (
 {
 anchors = (
@@ -13635,6 +13638,7 @@ nodes = (
 width = 874;
 }
 );
+rightKerningGroup = Kafs;
 },
 {
 glyphname = "kafswash-ar.medi";

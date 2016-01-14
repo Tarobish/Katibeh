@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/reh-ar/jeh-ar/peh-ar.init"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -45590,9 +45587,6 @@ kerning = {
 };
 "@MMK_L_AlefIso" = {
 "@MMK_R_Kaf" = 20;
-};
-"@MMK_L_Reh" = {
-"@MMK_R_BehInti" = -10;
 };
 };
 };

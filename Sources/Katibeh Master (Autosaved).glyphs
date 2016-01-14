@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/jeh-ar/beh-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -1883,7 +1886,7 @@ rightKerningGroup = BehInti;
 },
 {
 glyphname = "beh-ar";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-14 20:33:05 +0000";
 layers = (
 {
 components = (
@@ -45587,6 +45590,9 @@ kerning = {
 };
 "@MMK_L_AlefIso" = {
 "@MMK_R_Kaf" = 20;
+};
+"@MMK_L_Reh" = {
+"@MMK_R_BehIso" = -80;
 };
 };
 };

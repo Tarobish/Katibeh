@@ -914,7 +914,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-14 20:55:45 +0000";
 layers = (
 {
 anchors = (
@@ -972,8 +972,6 @@ nodes = (
 width = 169;
 }
 );
-leftKerningGroup = AlefIso;
-rightKerningGroup = AlefIso;
 unicode = 0627;
 },
 {

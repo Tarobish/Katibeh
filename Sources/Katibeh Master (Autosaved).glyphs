@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/alefMadda-ar/lamDotabove-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -18192,7 +18189,7 @@ unicode = FC90;
 },
 {
 glyphname = "alefTwoabove-ar";
-lastChange = "2015-12-31 03:07:56 +0000";
+lastChange = "2016-01-14 10:02:02 +0000";
 layers = (
 {
 components = (
@@ -18210,6 +18207,8 @@ name = Regular;
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = 0773;
 },
 {
@@ -18235,7 +18234,7 @@ width = 229;
 },
 {
 glyphname = "alefThreeabove-ar";
-lastChange = "2015-12-31 03:08:37 +0000";
+lastChange = "2016-01-14 10:02:08 +0000";
 layers = (
 {
 components = (
@@ -18253,6 +18252,8 @@ name = Regular;
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = 0774;
 },
 {

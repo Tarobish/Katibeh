@@ -12814,7 +12814,7 @@ width = 426;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2016-01-14 21:40:36 +0000";
+lastChange = "2016-01-14 21:40:43 +0000";
 layers = (
 {
 components = (
@@ -45822,7 +45822,7 @@ kerning = {
 "nine-persian" = -60;
 };
 "@MMK_L_DalIso" = {
-"@MMK_R_Kaf" = -64;
+"@MMK_R_Kaf" = -63;
 };
 };
 };

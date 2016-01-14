@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/four-ar/two-persian"
+"/four-ar/three-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -33502,7 +33502,7 @@ width = 271;
 },
 {
 glyphname = "two-persian";
-lastChange = "2016-01-14 21:21:34 +0000";
+lastChange = "2016-01-14 21:23:32 +0000";
 layers = (
 {
 components = (
@@ -45759,6 +45759,7 @@ kerning = {
 "four-ar" = {
 "zero-persian" = -30;
 "one-persian" = -40;
+"two-persian" = -50;
 };
 };
 };

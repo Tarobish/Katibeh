@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar/alefMadda-ar/lam_alefHamzaabove-ar/keheh-ar"
+"/beh-ar/alefMadda-ar/lam_alefHamzaabove-ar/keheh-ar/alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -12162,7 +12162,7 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2016-01-14 20:51:46 +0000";
+lastChange = "2016-01-14 20:51:59 +0000";
 layers = (
 {
 anchors = (
@@ -45620,7 +45620,7 @@ kerning = {
 "@MMK_R_BehIso" = -63;
 };
 "@MMK_L_LamAlef" = {
-"@MMK_R_Kaf" = 40;
+"@MMK_R_Kaf" = 60;
 };
 };
 };

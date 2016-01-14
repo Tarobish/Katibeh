@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/beh-ar/waw-ar/ainThreedots-ar.init"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -10019,7 +10022,7 @@ width = 559;
 },
 {
 glyphname = "ainThreedots-ar.init";
-lastChange = "2016-01-14 20:46:11 +0000";
+lastChange = "2016-01-14 21:00:22 +0000";
 layers = (
 {
 components = (
@@ -45629,6 +45632,7 @@ kerning = {
 "@MMK_R_DalIso" = -30;
 "@MMK_R_Seen" = -30;
 "@MMK_R_Sad" = -40;
+"@MMK_R_AinInti" = -30;
 };
 "@MMK_L_WawFina" = {
 "@MMK_R_LamAlef" = -50;
@@ -45639,6 +45643,7 @@ kerning = {
 "@MMK_R_DalIso" = -30;
 "@MMK_R_Seen" = -30;
 "@MMK_R_Sad" = -40;
+"@MMK_R_AinInti" = -30;
 };
 };
 };

@@ -1325,7 +1325,7 @@ width = 229;
 },
 {
 glyphname = "alefMadda-ar";
-lastChange = "2016-01-14 09:21:32 +0000";
+lastChange = "2016-01-14 09:21:58 +0000";
 layers = (
 {
 components = (
@@ -44707,6 +44707,13 @@ interpolationWeight = 400;
 name = Regular;
 }
 );
+kerning = {
+"51F41761-070F-43EA-B302-C90910850260" = {
+"alefMadda-ar" = {
+"alefMadda-ar" = 54;
+};
+};
+};
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;

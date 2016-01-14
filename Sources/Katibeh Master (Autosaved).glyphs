@@ -18229,7 +18229,7 @@ unicode = FBDF;
 },
 {
 glyphname = "alefMaksura-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 anchors = (
@@ -18328,6 +18328,7 @@ nodes = (
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 0649;
 },
 {
@@ -18401,7 +18402,7 @@ unicode = FEF0;
 },
 {
 glyphname = "alefMaksuraAlefabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -18418,6 +18419,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = FC5D;
 },
 {
@@ -18535,7 +18537,7 @@ leftKerningGroup = AlefFina;
 },
 {
 glyphname = "yeh-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -18552,6 +18554,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 064A;
 },
 {
@@ -18620,7 +18623,7 @@ unicode = FEF3;
 },
 {
 glyphname = "yehHamzaabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -18637,6 +18640,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 0626;
 },
 {
@@ -18706,7 +18710,7 @@ unicode = FE8B;
 },
 {
 glyphname = "yehVabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -18723,6 +18727,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 06CE;
 },
 {
@@ -18796,7 +18801,7 @@ width = 276;
 },
 {
 glyphname = "yehTwodotsbelowDotabove-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -18813,6 +18818,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 08A9;
 },
 {
@@ -18878,7 +18884,7 @@ width = 276;
 },
 {
 glyphname = "yehVinverted-farsi";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -18895,6 +18901,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 063D;
 },
 {
@@ -18960,7 +18967,7 @@ rightKerningGroup = BehInti;
 },
 {
 glyphname = "yeh-farsi";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -18973,6 +18980,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 06CC;
 },
 {
@@ -19029,7 +19037,7 @@ unicode = FBFE;
 },
 {
 glyphname = "yehTwodotsabove-farsi";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19046,6 +19054,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 063E;
 },
 {
@@ -19111,7 +19120,7 @@ width = 276;
 },
 {
 glyphname = "yehThreedotsabove-farsi";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19128,6 +19137,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 063F;
 },
 {
@@ -19193,7 +19203,7 @@ width = 276;
 },
 {
 glyphname = "yehTwoabove-farsi";
-lastChange = "2015-12-31 03:24:02 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19210,6 +19220,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 0775;
 },
 {
@@ -19275,7 +19286,7 @@ width = 276;
 },
 {
 glyphname = "yehThreeabove-farsi";
-lastChange = "2015-12-31 03:09:28 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19292,6 +19303,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 0776;
 },
 {
@@ -19357,7 +19369,7 @@ width = 276;
 },
 {
 glyphname = "yehFourbelow-farsi";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19374,6 +19386,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 0777;
 },
 {
@@ -19439,7 +19452,7 @@ width = 276;
 },
 {
 glyphname = "yehTail-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19466,6 +19479,7 @@ nodes = (
 width = 663;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 06CD;
 },
 {
@@ -19501,7 +19515,7 @@ width = 646;
 },
 {
 glyphname = "yehKashmiri-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19518,6 +19532,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 0620;
 },
 {
@@ -19583,7 +19598,7 @@ width = 276;
 },
 {
 glyphname = "e-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19600,6 +19615,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 06D0;
 },
 {
@@ -19660,7 +19676,7 @@ unicode = FBE6;
 },
 {
 glyphname = "yehThreedotsbelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 19:25:14 +0000";
 layers = (
 {
 components = (
@@ -19677,6 +19693,7 @@ name = Regular;
 width = 597;
 }
 );
+rightKerningGroup = YahIso;
 unicode = 06D1;
 },
 {

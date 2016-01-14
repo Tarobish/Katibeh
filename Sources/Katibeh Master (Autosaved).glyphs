@@ -912,7 +912,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:37:49 +0000";
 layers = (
 {
 anchors = (
@@ -970,6 +970,8 @@ nodes = (
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = 0627;
 },
 {
@@ -1037,7 +1039,7 @@ unicode = FE8E;
 },
 {
 glyphname = "alef-ar.short";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:37:49 +0000";
 layers = (
 {
 anchors = (
@@ -1089,6 +1091,8 @@ nodes = (
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 },
 {
 glyphname = "alef-ar.fina.short";
@@ -1154,7 +1158,7 @@ width = 229;
 },
 {
 glyphname = "alefHamzaabove-ar";
-lastChange = "2015-12-31 03:11:05 +0000";
+lastChange = "2016-01-14 09:37:49 +0000";
 layers = (
 {
 components = (
@@ -1171,6 +1175,8 @@ name = Regular;
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = 0623;
 },
 {
@@ -1196,7 +1202,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:37:49 +0000";
 layers = (
 {
 components = (
@@ -1213,6 +1219,8 @@ name = Regular;
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = 0625;
 },
 {
@@ -1238,7 +1246,7 @@ unicode = FE88;
 },
 {
 glyphname = "alefWavyhamzaabove-ar";
-lastChange = "2015-12-31 03:11:11 +0000";
+lastChange = "2016-01-14 09:37:49 +0000";
 layers = (
 {
 components = (
@@ -1255,6 +1263,8 @@ name = Regular;
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = 0672;
 },
 {
@@ -1279,7 +1289,7 @@ width = 229;
 },
 {
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 09:37:49 +0000";
 layers = (
 {
 components = (
@@ -1297,6 +1307,8 @@ name = Regular;
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = 0673;
 },
 {
@@ -1367,7 +1379,7 @@ unicode = FE82;
 },
 {
 glyphname = "alefWasla-ar";
-lastChange = "2015-12-31 03:11:46 +0000";
+lastChange = "2016-01-14 09:37:49 +0000";
 layers = (
 {
 components = (
@@ -1385,6 +1397,8 @@ name = Regular;
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = 0671;
 },
 {
@@ -1411,7 +1425,7 @@ unicode = FB51;
 },
 {
 glyphname = "alefFathatan-ar";
-lastChange = "2015-12-31 03:12:07 +0000";
+lastChange = "2016-01-14 09:37:49 +0000";
 layers = (
 {
 components = (
@@ -1429,6 +1443,8 @@ name = Regular;
 width = 169;
 }
 );
+leftKerningGroup = Alef;
+rightKerningGroup = Alef;
 unicode = FD3D;
 },
 {

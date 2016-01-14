@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/lam_alef-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -21995,7 +21998,7 @@ unicode = 0640;
 },
 {
 glyphname = "lam_alef-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 anchors = (
@@ -22104,6 +22107,7 @@ nodes = (
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 unicode = FEFB;
 },
 {
@@ -22204,7 +22208,7 @@ unicode = FEFC;
 },
 {
 glyphname = "lam_alefHamzaabove-ar";
-lastChange = "2015-12-31 03:26:40 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -22222,6 +22226,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lam_alef-ar";
 rightMetricsKey = "lam_alef-ar";
 unicode = FEF7;
@@ -22251,7 +22256,7 @@ unicode = FEF8;
 },
 {
 glyphname = "lam_alefHamzabelow-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -22268,6 +22273,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lam_alef-ar";
 rightMetricsKey = "lam_alef-ar";
 unicode = FEF9;
@@ -22319,7 +22325,7 @@ rightMetricsKey = "alefWavyhamzaabove-ar.fina";
 },
 {
 glyphname = "lam_alefWavyhamzaabove-ar.isol";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -22336,6 +22342,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lam-ar.isol";
 rightMetricsKey = "alefWavyhamzaabove-ar.isol";
 },
@@ -22385,7 +22392,7 @@ rightMetricsKey = "alefWavyhamzabelow-ar.isol";
 },
 {
 glyphname = "lam_alefMadda-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -22402,6 +22409,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lam_alef-ar";
 rightMetricsKey = "lam_alef-ar";
 unicode = FEF5;
@@ -22431,7 +22439,7 @@ unicode = FEF6;
 },
 {
 glyphname = "lam_alefWasla-ar";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -22448,6 +22456,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lam-ar.init";
 rightMetricsKey = "alefWasla-ar.fina";
 },
@@ -30816,7 +30825,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamDotabove_alef-ar.isol";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -30833,6 +30842,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lamDotabove-ar.isol";
 rightMetricsKey = "alef-ar.isol";
 },
@@ -30860,7 +30870,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamThreedotsabove_alef-ar.isol";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -30877,6 +30887,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lamThreedotsabove-ar.isol";
 rightMetricsKey = "alef-ar.isol";
 },
@@ -30904,7 +30915,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamThreedotsbelow_alef-ar.isol";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -30921,6 +30932,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lamThreedotsbelow-ar.isol";
 rightMetricsKey = "alef-ar.isol";
 },
@@ -31582,7 +31594,7 @@ rightMetricsKey = "alef-ar.fina";
 },
 {
 glyphname = "lamBar_alef-ar.isol";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -31599,12 +31611,13 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 leftMetricsKey = "lamBar-ar.isol";
 rightMetricsKey = "alef-ar.isol";
 },
 {
 glyphname = uniFEFD;
-lastChange = "2015-12-30 20:56:16 +0000";
+lastChange = "2016-01-14 10:03:43 +0000";
 layers = (
 {
 components = (
@@ -31621,6 +31634,7 @@ name = Regular;
 width = 509;
 }
 );
+leftKerningGroup = LamAlef;
 unicode = FEFD;
 script = arabic;
 category = Letter;

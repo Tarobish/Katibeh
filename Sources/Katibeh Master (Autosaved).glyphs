@@ -27258,7 +27258,7 @@ unicode = FCF5;
 },
 {
 glyphname = "ain_meem-ar";
-lastChange = "2016-01-15 01:54:17 +0000";
+lastChange = "2016-01-15 01:54:22 +0000";
 layers = (
 {
 anchors = (
@@ -46136,6 +46136,7 @@ kerning = {
 "ain_alefMaksura-ar" = -60;
 "ain_meem_alefMaksura-ar" = -70;
 "ain_meem-ar.init" = -80;
+"ain_meem-ar" = -80;
 };
 };
 };

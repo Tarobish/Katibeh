@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar/alefMadda-ar/dotlessbeh_noonghunna-ar"
+"/dotlessbeh_noonghunna-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -23942,7 +23942,7 @@ width = 563;
 },
 {
 glyphname = "dotlessbeh_noonghunna-ar";
-lastChange = "2016-01-15 01:33:45 +0000";
+lastChange = "2016-01-15 01:33:55 +0000";
 layers = (
 {
 anchors = (
@@ -45604,6 +45604,7 @@ kerning = {
 "@MMK_R_MeemInti" = -30;
 "dotlessfeh_alefMaksura-ar" = -50;
 "dotlessbeh_alefMaksura-ar" = -30;
+"dotlessbeh_noonghunna-ar" = -30;
 };
 "alefMadda-ar.fina" = {
 "alefMadda-ar" = 170;
@@ -45633,6 +45634,7 @@ kerning = {
 "@MMK_R_MeemInti" = -30;
 "dotlessfeh_alefMaksura-ar" = -50;
 "dotlessbeh_alefMaksura-ar" = -30;
+"dotlessbeh_noonghunna-ar" = -30;
 };
 "@MMK_L_AlefIso" = {
 "@MMK_R_Kaf" = 20;

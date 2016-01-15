@@ -19327,7 +19327,7 @@ unicode = FBFF;
 },
 {
 glyphname = "yeh-farsi.init";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-15 01:00:22 +0000";
 layers = (
 {
 components = (
@@ -45651,7 +45651,7 @@ kerning = {
 };
 "@MMK_L_Reh" = {
 "@MMK_R_BehIso" = -63;
-"@MMK_R_BehInti" = -40;
+"@MMK_R_BehInti" = -20;
 "@MMK_R_HahInti" = -90;
 "@MMK_R_HahFina" = -50;
 "@MMK_R_DalIso" = -70;

@@ -7096,7 +7096,7 @@ width = 507;
 },
 {
 glyphname = "seen-ar";
-lastChange = "2016-01-15 00:44:14 +0000";
+lastChange = "2016-01-15 00:44:22 +0000";
 layers = (
 {
 anchors = (
@@ -45952,6 +45952,7 @@ kerning = {
 "@MMK_R_HahInti" = -50;
 "@MMK_R_HahFina" = -50;
 "@MMK_R_AlefIso" = -20;
+"@MMK_R_Seen" = -50;
 };
 };
 };

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/semicolon-ar/alef-ar"
+"/comma-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -34420,7 +34420,7 @@ unicode = 06D4;
 },
 {
 glyphname = "comma-ar";
-lastChange = "2016-01-15 02:18:20 +0000";
+lastChange = "2016-01-15 02:19:23 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -34429,27 +34429,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"128 3 LINE",
-"125 22 LINE",
-"113 30 LINE",
-"101 40 OFFCURVE",
-"96 52 OFFCURVE",
-"96 64 CURVE SMOOTH",
-"96 76 OFFCURVE",
-"100 88 OFFCURVE",
-"105 98 CURVE",
-"134 163 LINE",
-"107 181 LINE",
-"76 147 LINE SMOOTH",
-"42 107 OFFCURVE",
-"17 76 OFFCURVE",
-"17 40 CURVE SMOOTH",
-"17 2 OFFCURVE",
-"40 -12 OFFCURVE",
-"70 -12 CURVE SMOOTH",
-"86 -12 OFFCURVE",
-"103 -10 OFFCURVE",
-"120 -1 CURVE SMOOTH"
+"128 13 LINE",
+"125 32 LINE",
+"113 40 LINE",
+"101 50 OFFCURVE",
+"96 62 OFFCURVE",
+"96 74 CURVE SMOOTH",
+"96 86 OFFCURVE",
+"100 98 OFFCURVE",
+"105 108 CURVE",
+"134 173 LINE",
+"107 191 LINE",
+"76 157 LINE SMOOTH",
+"42 117 OFFCURVE",
+"17 86 OFFCURVE",
+"17 50 CURVE SMOOTH",
+"17 12 OFFCURVE",
+"40 -2 OFFCURVE",
+"70 -2 CURVE SMOOTH",
+"86 -2 OFFCURVE",
+"103 0 OFFCURVE",
+"120 9 CURVE SMOOTH"
 );
 }
 );
@@ -34460,7 +34460,7 @@ unicode = 060C;
 },
 {
 glyphname = "semicolon-ar";
-lastChange = "2016-01-15 02:19:07 +0000";
+lastChange = "2016-01-15 02:19:17 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -34510,7 +34510,7 @@ nodes = (
 );
 }
 );
-width = 154;
+width = 155;
 }
 );
 unicode = 061B;

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefWavyhamzabelow-ar"
+"/waw-ar/alefWavyhamzabelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1302,7 +1302,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "alefWavyhamzabelow-ar";
-lastChange = "2016-01-14 20:56:39 +0000";
+lastChange = "2016-01-15 00:29:28 +0000";
 layers = (
 {
 components = (
@@ -45672,6 +45672,7 @@ kerning = {
 "@MMK_R_MeemIso" = -70;
 "alefMadda-ar" = -45;
 "alefHamzabelow-ar" = 70;
+"alefWavyhamzabelow-ar" = 80;
 };
 "jeh-ar.fina" = {
 "@MMK_R_BehIso" = -63;

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"]"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -34369,12 +34372,33 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2016-01-15 02:36:32 +0000";
+lastChange = "2016-01-15 02:41:07 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"193 503 LINE",
+"5 503 LINE",
+"5 476 LINE",
+"57 469 LINE",
+"85 464 OFFCURVE",
+"93 456 OFFCURVE",
+"93 434 CURVE SMOOTH",
+"93 -4 LINE SMOOTH",
+"93 -25 OFFCURVE",
+"85 -34 OFFCURVE",
+"57 -38 CURVE SMOOTH",
+"5 -46 LINE",
+"5 -73 LINE",
+"193 -73 LINE"
+);
+}
+);
+width = 198;
 }
 );
 unicode = 005D;

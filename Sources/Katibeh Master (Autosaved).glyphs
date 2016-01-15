@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar/jeh-ar/meem-ar.alt"
+"/dal-ar/meem-ar.alt"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -15494,7 +15494,7 @@ unicode = 0645;
 },
 {
 glyphname = "meem-ar.alt";
-lastChange = "2016-01-15 01:15:05 +0000";
+lastChange = "2016-01-15 01:15:37 +0000";
 layers = (
 {
 anchors = (
@@ -45667,7 +45667,7 @@ kerning = {
 "@MMK_R_Feh" = -70;
 "@MMK_R_Kaf" = -120;
 "@MMK_R_Kafs" = -20;
-"@MMK_R_MeemInti" = -40;
+"@MMK_R_MeemInti" = -20;
 "@MMK_R_NoonIso" = -20;
 "@MMK_R_HehInti" = -70;
 "@MMK_R_YahIso" = -20;

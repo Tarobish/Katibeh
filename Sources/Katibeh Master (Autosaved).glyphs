@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar/dal-ar/alef-ar"
+"/dal-ar/beh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -917,7 +917,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2016-01-15 00:43:47 +0000";
+lastChange = "2016-01-15 00:43:53 +0000";
 layers = (
 {
 anchors = (
@@ -45950,7 +45950,7 @@ kerning = {
 "@MMK_R_BehIso" = -40;
 "@MMK_R_HahInti" = -50;
 "@MMK_R_HahFina" = -50;
-"@MMK_R_AlefIso" = -30;
+"@MMK_R_AlefIso" = -20;
 };
 };
 };

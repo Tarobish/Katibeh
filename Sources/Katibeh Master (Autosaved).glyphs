@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/semicolon-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -34231,6 +34234,18 @@ width = 408;
 );
 leftMetricsKey = "nine-ar";
 rightMetricsKey = "nine-ar";
+},
+{
+glyphname = period;
+lastChange = "2016-01-15 02:37:06 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+unicode = 002E;
 },
 {
 glyphname = braceleft;

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar/jeem-ar"
+"/beh-ar/waw-ar/jeem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3554,7 +3554,7 @@ width = 276;
 },
 {
 glyphname = "jeem-ar";
-lastChange = "2016-01-15 00:42:25 +0000";
+lastChange = "2016-01-15 00:42:46 +0000";
 layers = (
 {
 components = (
@@ -45707,7 +45707,7 @@ kerning = {
 "@MMK_R_BehIso" = -30;
 "@MMK_R_BehInti" = -30;
 "@MMK_R_HahInti" = -30;
-"@MMK_R_HahFina" = -30;
+"@MMK_R_HahFina" = -40;
 "@MMK_R_DalIso" = -30;
 "@MMK_R_Seen" = -30;
 "@MMK_R_Sad" = -40;
@@ -45728,7 +45728,7 @@ kerning = {
 "@MMK_R_BehIso" = -30;
 "@MMK_R_BehInti" = -30;
 "@MMK_R_HahInti" = -30;
-"@MMK_R_HahFina" = -30;
+"@MMK_R_HahFina" = -40;
 "@MMK_R_DalIso" = -30;
 "@MMK_R_Seen" = -30;
 "@MMK_R_Sad" = -40;

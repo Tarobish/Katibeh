@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/beh-ar  /keheh-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -12155,7 +12158,7 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2016-01-15 00:54:22 +0000";
+lastChange = "2016-01-15 01:05:55 +0000";
 layers = (
 {
 anchors = (
@@ -45658,7 +45661,7 @@ kerning = {
 "@MMK_R_AinInti" = -40;
 "@MMK_R_AInIso" = -60;
 "@MMK_R_Feh" = -70;
-"@MMK_R_Kaf" = -150;
+"@MMK_R_Kaf" = -120;
 "@MMK_R_Kafs" = -50;
 "@MMK_R_MeemInti" = -70;
 "@MMK_R_NoonIso" = -20;

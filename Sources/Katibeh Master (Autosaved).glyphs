@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dal-ar/lam_alefMaksura-ar"
+"/lam_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -31267,7 +31267,7 @@ rightKerningGroup = HehInti;
 },
 {
 glyphname = "lam_alefMaksura-ar";
-lastChange = "2016-01-15 02:05:38 +0000";
+lastChange = "2016-01-15 02:05:50 +0000";
 layers = (
 {
 anchors = (
@@ -46080,6 +46080,7 @@ kerning = {
 "lam_meem-ar" = -40;
 "lam_hah_alefMaksura-ar" = -50;
 "lam_hah-ar" = -50;
+"lam_alefMaksura-ar" = -50;
 };
 "@MMK_L_LamAlefFina" = {
 "@MMK_R_AlefIso" = 30;
@@ -46189,6 +46190,7 @@ kerning = {
 "lam_meem-ar" = -40;
 "lam_hah_alefMaksura-ar" = -60;
 "lam_hah-ar" = -60;
+"lam_alefMaksura-ar" = -50;
 };
 };
 };

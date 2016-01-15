@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="openkasratan-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="08F2"/>
+  <outline>
+    <contour>
+      <point x="-114" y="-409" type="line"/>
+      <point x="-107" y="-414" type="line"/>
+      <point x="33" y="-359" type="line"/>
+      <point x="59" y="-309" type="line"/>
+      <point x="-86" y="-366" type="line"/>
+    </contour>
+    <contour>
+      <point x="-58" y="-309" type="line"/>
+      <point x="-51" y="-314" type="line"/>
+      <point x="89" y="-259" type="line"/>
+      <point x="115" y="-209" type="line"/>
+      <point x="-30" y="-266" type="line"/>
+    </contour>
+    <contour>
+      <point x="-3" y="-187" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-3" y="-414" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

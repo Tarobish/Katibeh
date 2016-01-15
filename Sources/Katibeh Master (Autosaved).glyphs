@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar/waw-ar/tah_alefMaksura-ar"
+"/kaf_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -27108,7 +27108,7 @@ unicode = FD21;
 },
 {
 glyphname = "tah_alefMaksura-ar";
-lastChange = "2016-01-15 01:56:10 +0000";
+lastChange = "2016-01-15 01:56:18 +0000";
 layers = (
 {
 anchors = (
@@ -45848,6 +45848,7 @@ kerning = {
 "ain_meem_alefMaksura-ar" = -20;
 "ain_meem-ar.init" = -20;
 "ain_meem-ar" = -20;
+"tah_alefMaksura-ar" = -20;
 };
 "one-persian" = {
 "two-persian" = -20;

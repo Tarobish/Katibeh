@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/comma-ar"
+"/comma-ar/beh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -34420,7 +34420,7 @@ unicode = 06D4;
 },
 {
 glyphname = "comma-ar";
-lastChange = "2016-01-15 02:16:52 +0000";
+lastChange = "2016-01-15 02:16:54 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -34453,7 +34453,7 @@ nodes = (
 );
 }
 );
-width = 511;
+width = 144;
 }
 );
 unicode = 060C;

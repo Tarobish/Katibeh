@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar/waw-ar/hah_meem-ar"
+"/beh-ar/alefMadda-ar/seen_meem_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -25895,7 +25895,7 @@ unicode = FD17;
 },
 {
 glyphname = "seen_meem_alefMaksura-ar";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-15 01:49:57 +0000";
 layers = (
 {
 anchors = (
@@ -45662,7 +45662,7 @@ kerning = {
 "@MMK_R_HahInti" = -40;
 "@MMK_R_DalIso" = -50;
 "@MMK_R_Reh" = -40;
-"@MMK_R_Seen" = -50;
+"@MMK_R_Seen" = -40;
 "@MMK_R_Sad" = -50;
 "@MMK_R_AInIso" = -50;
 "@MMK_R_AinInti" = -50;
@@ -46043,7 +46043,7 @@ kerning = {
 "@MMK_R_HahInti" = -40;
 "@MMK_R_DalIso" = -50;
 "@MMK_R_Reh" = -40;
-"@MMK_R_Seen" = -50;
+"@MMK_R_Seen" = -40;
 "@MMK_R_Sad" = -50;
 "@MMK_R_AInIso" = -50;
 "@MMK_R_AinInti" = -50;

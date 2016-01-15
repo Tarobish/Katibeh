@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"/parenright-ar/tcheh-ar",
-"/parenleft-ar"
+"/parenright-ar/gaf-ar",
+"/gaf-ar/parenleft-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -12813,7 +12813,7 @@ width = 426;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2016-01-14 21:40:43 +0000";
+lastChange = "2016-01-15 02:28:36 +0000";
 layers = (
 {
 components = (
@@ -46339,6 +46339,7 @@ kerning = {
 };
 "parenright-ar" = {
 "alefMadda-ar" = 50;
+"@MMK_R_Kaf" = 20;
 };
 };
 };

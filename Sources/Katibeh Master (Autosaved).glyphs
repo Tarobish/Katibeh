@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_reh-ar.fina"
+"/sad_reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -23565,29 +23565,29 @@ width = 939;
 },
 {
 glyphname = "dotlessbeh_reh-ar";
-lastChange = "2016-01-15 01:36:30 +0000";
+lastChange = "2016-01-15 01:44:21 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{296, -55}";
+position = "{326, -55}";
 },
 {
 name = bottom_2;
-position = "{24, -275}";
+position = "{54, -275}";
 },
 {
 name = caret_1;
-position = "{235, 0}";
+position = "{265, 0}";
 },
 {
 name = top_1;
-position = "{260, 207}";
+position = "{290, 207}";
 },
 {
 name = top_2;
-position = "{79, 202}";
+position = "{109, 202}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23596,57 +23596,57 @@ paths = (
 {
 closed = 1;
 nodes = (
-"379 197 LINE",
-"373 168 OFFCURVE",
-"358 145 OFFCURVE",
-"337 129 CURVE SMOOTH",
-"317 114 OFFCURVE",
-"291 106 OFFCURVE",
-"264 106 CURVE",
-"228 106 OFFCURVE",
-"199 113 OFFCURVE",
-"176 129 CURVE SMOOTH",
-"160 140 OFFCURVE",
-"147 156 OFFCURVE",
-"136 178 CURVE",
-"119 162 LINE",
-"118 153 OFFCURVE",
-"117 143 OFFCURVE",
-"117 134 CURVE",
-"115 107 OFFCURVE",
-"126 63 OFFCURVE",
-"148 42 CURVE",
-"142 -5 OFFCURVE",
-"119 -39 OFFCURVE",
-"83 -62 CURVE SMOOTH",
-"45 -85 OFFCURVE",
-"-7 -97 OFFCURVE",
-"-70 -99 CURVE",
-"-70 -204 LINE",
-"-25 -201 OFFCURVE",
-"-6 -235 OFFCURVE",
-"1 -255 CURVE",
-"4 -255 LINE",
-"4 -198 LINE",
-"66 -198 OFFCURVE",
-"118 -177 OFFCURVE",
-"154 -140 CURVE SMOOTH",
-"189 -104 OFFCURVE",
-"209 -53 OFFCURVE",
-"206 7 CURVE",
-"225 2 OFFCURVE",
-"243 0 OFFCURVE",
-"260 0 CURVE SMOOTH",
-"306 0 OFFCURVE",
-"343 18 OFFCURVE",
-"367 50 CURVE SMOOTH",
-"391 83 OFFCURVE",
-"402 130 OFFCURVE",
-"394 189 CURVE"
+"409 197 LINE",
+"403 168 OFFCURVE",
+"388 145 OFFCURVE",
+"367 129 CURVE SMOOTH",
+"347 114 OFFCURVE",
+"321 106 OFFCURVE",
+"294 106 CURVE",
+"258 106 OFFCURVE",
+"229 113 OFFCURVE",
+"206 129 CURVE SMOOTH",
+"190 140 OFFCURVE",
+"177 156 OFFCURVE",
+"166 178 CURVE",
+"149 162 LINE",
+"148 153 OFFCURVE",
+"147 143 OFFCURVE",
+"147 134 CURVE",
+"145 107 OFFCURVE",
+"156 63 OFFCURVE",
+"178 42 CURVE",
+"172 -5 OFFCURVE",
+"149 -39 OFFCURVE",
+"113 -62 CURVE SMOOTH",
+"75 -85 OFFCURVE",
+"23 -97 OFFCURVE",
+"-40 -99 CURVE",
+"-40 -204 LINE",
+"5 -201 OFFCURVE",
+"24 -235 OFFCURVE",
+"31 -255 CURVE",
+"34 -255 LINE",
+"34 -198 LINE",
+"96 -198 OFFCURVE",
+"148 -177 OFFCURVE",
+"184 -140 CURVE SMOOTH",
+"219 -104 OFFCURVE",
+"239 -53 OFFCURVE",
+"236 7 CURVE",
+"255 2 OFFCURVE",
+"273 0 OFFCURVE",
+"290 0 CURVE SMOOTH",
+"336 0 OFFCURVE",
+"373 18 OFFCURVE",
+"397 50 CURVE SMOOTH",
+"421 83 OFFCURVE",
+"432 130 OFFCURVE",
+"424 189 CURVE"
 );
 }
 );
-width = 457;
+width = 487;
 }
 );
 },

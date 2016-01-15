@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/jeh-ar -/three-persian/zero-persian/reh-ar/reh-ar/jeh-ar/kaf_lam_alefMaksura-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -29389,7 +29386,7 @@ width = 969;
 },
 {
 glyphname = "kaf_lam_alefMaksura-ar";
-lastChange = "2016-01-15 01:58:48 +0000";
+lastChange = "2016-01-15 01:58:59 +0000";
 layers = (
 {
 anchors = (
@@ -45717,7 +45714,7 @@ kerning = {
 "@MMK_R_AinInti" = -40;
 "@MMK_R_AInIso" = -30;
 "@MMK_R_Feh" = -40;
-"@MMK_R_Kaf" = -50;
+"@MMK_R_Kaf" = -30;
 "@MMK_R_Kafs" = -20;
 "@MMK_R_MeemInti" = -20;
 "@MMK_R_NoonIso" = 10;

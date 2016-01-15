@@ -34257,6 +34257,30 @@ width = 600;
 unicode = 007D;
 },
 {
+glyphname = bracketleft;
+lastChange = "2016-01-15 02:36:41 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+unicode = 005B;
+},
+{
+glyphname = bracketright;
+lastChange = "2016-01-15 02:36:32 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+unicode = 005D;
+},
+{
 glyphname = parenleft;
 lastChange = "2016-01-15 02:30:45 +0000";
 layers = (

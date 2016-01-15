@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alefHamzaabove-ar/dal-ar"
+"/lam_alefHamzaabove-ar/yeh-farsi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17741,7 +17741,7 @@ width = 411;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-15 00:59:31 +0000";
+lastChange = "2016-01-15 01:27:09 +0000";
 layers = (
 {
 anchors = (
@@ -45690,7 +45690,7 @@ kerning = {
 "@MMK_L_LamAlef" = {
 "@MMK_R_Kaf" = 60;
 "@MMK_R_Reh" = -50;
-"@MMK_R_WawIso" = -50;
+"@MMK_R_WawIso" = -60;
 "alefMadda-ar" = 110;
 "@MMK_R_AlefIso" = 30;
 "@MMK_R_BehIso" = -70;

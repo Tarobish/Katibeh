@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-")/alef-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -34275,6 +34272,27 @@ layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"109 92 OFFCURVE",
+"75 -6 OFFCURVE",
+"17 -52 CURVE",
+"29 -68 LINE",
+"152 -17 OFFCURVE",
+"214 77 OFFCURVE",
+"214 215 CURVE SMOOTH",
+"214 353 OFFCURVE",
+"152 448 OFFCURVE",
+"29 498 CURVE",
+"17 483 LINE",
+"75 437 OFFCURVE",
+"109 338 OFFCURVE",
+"109 215 CURVE SMOOTH"
+);
+}
+);
 width = 238;
 }
 );

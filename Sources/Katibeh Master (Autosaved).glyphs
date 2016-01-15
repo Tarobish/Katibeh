@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar  /reh-ar/kafDotabove-ar"
+"/beh-ar  /beh-ar/waw-ar/kafDotabove-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -14047,7 +14047,7 @@ width = 426;
 },
 {
 glyphname = "kafDotabove-ar";
-lastChange = "2016-01-15 01:07:11 +0000";
+lastChange = "2016-01-15 01:07:31 +0000";
 layers = (
 {
 components = (
@@ -45730,6 +45730,7 @@ kerning = {
 "alefWavyhamzabelow-ar" = 55;
 "@MMK_R_Reh" = -40;
 "@MMK_R_Gaf" = -20;
+"@MMK_R_KafArabic" = -20;
 };
 "@MMK_L_WawFina" = {
 "@MMK_R_LamAlef" = -50;
@@ -45752,6 +45753,7 @@ kerning = {
 "alefHamzabelow-ar" = 45;
 "alefWavyhamzabelow-ar" = 45;
 "@MMK_R_Gaf" = -20;
+"@MMK_R_KafArabic" = -20;
 };
 "one-persian" = {
 "two-persian" = -20;

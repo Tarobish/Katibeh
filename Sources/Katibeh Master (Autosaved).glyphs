@@ -17743,7 +17743,7 @@ width = 411;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-15 00:59:06 +0000";
+lastChange = "2016-01-15 00:59:31 +0000";
 layers = (
 {
 anchors = (
@@ -45675,7 +45675,7 @@ kerning = {
 "alefWavyhamzabelow-ar" = 80;
 "@MMK_R_Gaf" = -30;
 "@MMK_R_Lam" = -40;
-"@MMK_R_WawIso" = -30;
+"@MMK_R_WawIso" = -10;
 };
 "jeh-ar.fina" = {
 "@MMK_R_BehIso" = -63;

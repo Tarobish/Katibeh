@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/semicolon-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -34457,12 +34460,57 @@ unicode = 060C;
 },
 {
 glyphname = "semicolon-ar";
-lastChange = "2015-12-18 09:45:43 +0000";
+lastChange = "2016-01-15 02:18:44 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-42 66 OFFCURVE",
+"-8 99 OFFCURVE",
+"-8 120 CURVE SMOOTH",
+"-8 141 OFFCURVE",
+"-42 175 OFFCURVE",
+"-65 175 CURVE SMOOTH",
+"-88 175 OFFCURVE",
+"-123 141 OFFCURVE",
+"-123 120 CURVE SMOOTH",
+"-123 98 OFFCURVE",
+"-88 66 OFFCURVE",
+"-65 66 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"111 61 LINE",
+"130 64 LINE",
+"138 76 LINE",
+"148 88 OFFCURVE",
+"160 93 OFFCURVE",
+"172 93 CURVE SMOOTH",
+"184 93 OFFCURVE",
+"196 89 OFFCURVE",
+"206 84 CURVE",
+"271 55 LINE",
+"289 82 LINE",
+"255 113 LINE SMOOTH",
+"215 147 OFFCURVE",
+"184 172 OFFCURVE",
+"148 172 CURVE SMOOTH",
+"110 172 OFFCURVE",
+"96 149 OFFCURVE",
+"96 119 CURVE SMOOTH",
+"96 103 OFFCURVE",
+"98 86 OFFCURVE",
+"107 69 CURVE SMOOTH"
+);
+}
+);
+width = 154;
 }
 );
 unicode = 061B;

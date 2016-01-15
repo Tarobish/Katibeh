@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/beh-ar  /beh-ar  /beh-ar  /beh-ar  /beh-ar  /beh-ar  /beh-ar  /dal-ar  /alef-ar"
+"/beh-ar  /beh-ar  /beh-ar  /beh-ar  /beh-ar  /beh-ar  /beh-ar  /dal-ar/waw-ar  /alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17743,7 +17743,7 @@ width = 411;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-14 23:59:05 +0000";
+lastChange = "2016-01-15 00:55:49 +0000";
 layers = (
 {
 anchors = (
@@ -45919,6 +45919,7 @@ kerning = {
 "@MMK_R_Lam" = -40;
 "@MMK_R_MeemIso" = -50;
 "@MMK_R_NoonIso" = -40;
+"@MMK_R_WawIso" = -50;
 };
 "@MMK_L_LamAlefFina" = {
 "@MMK_R_AlefIso" = 30;

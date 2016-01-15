@@ -34233,6 +34233,30 @@ leftMetricsKey = "nine-ar";
 rightMetricsKey = "nine-ar";
 },
 {
+glyphname = braceleft;
+lastChange = "2016-01-15 02:36:23 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+unicode = 007B;
+},
+{
+glyphname = braceright;
+lastChange = "2016-01-15 02:36:15 +0000";
+layers = (
+{
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 600;
+}
+);
+unicode = 007D;
+},
+{
 glyphname = parenleft;
 lastChange = "2016-01-15 02:30:45 +0000";
 layers = (

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alefFathatan-ar.fina" format="1">
+  <advance width="229"/>
+  <unicode hex="FD3C"/>
+  <outline>
+    <component base="alef-ar.fina.short"/>
+    <component base="fathatan-ar" xOffset="75" yOffset="-59"/>
+  </outline>
+</glyph>

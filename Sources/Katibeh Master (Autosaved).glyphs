@@ -46195,7 +46195,6 @@ kerning = {
 "@MMK_R_Kaf" = 24;
 };
 "@MMK_L_Reh" = {
-"@MMK_R_AInIso" = -30;
 "@MMK_R_AinInti" = -40;
 "@MMK_R_AlefIso" = -10;
 "@MMK_R_BehInti" = -20;

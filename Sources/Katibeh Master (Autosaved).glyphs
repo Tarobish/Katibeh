@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/jeh-ar.fina/dotlessbeh-ar"
+"/four-persian.urdu.tab/zero-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1534,7 +1534,7 @@ rightKerningGroup = AlefFina;
 },
 {
 glyphname = "dotlessbeh-ar";
-lastChange = "2016-01-22 22:29:02 +0000";
+lastChange = "2016-01-22 22:29:05 +0000";
 layers = (
 {
 anchors = (
@@ -46198,7 +46198,7 @@ kerning = {
 "@MMK_R_AinInti" = -40;
 "@MMK_R_AlefIso" = -10;
 "@MMK_R_BehInti" = -20;
-"@MMK_R_BehIso" = -16;
+"@MMK_R_BehIso" = -14;
 "@MMK_R_DalIso" = -40;
 "@MMK_R_Feh" = -40;
 "@MMK_R_Gaf" = 27;

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar.fina/alefHamzabelow-ar"
+"/waw-ar.fina/dotlessbeh_alefMaksura-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1213,7 +1213,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2016-01-22 22:18:36 +0000";
+lastChange = "2016-01-22 22:18:46 +0000";
 layers = (
 {
 components = (
@@ -46249,7 +46249,7 @@ kerning = {
 "ain_meem-ar" = -20;
 "ain_meem-ar.init" = -20;
 "ain_meem_alefMaksura-ar" = -20;
-"alefHamzabelow-ar" = 45;
+"alefHamzabelow-ar" = 54;
 "alefWavyhamzabelow-ar" = 45;
 "dotlessbeh_alefMaksura-ar" = -10;
 "dotlessbeh_hah-ar.init" = -30;

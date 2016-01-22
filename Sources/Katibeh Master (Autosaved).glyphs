@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar.fina/jeem-ar"
+"/waw-ar.fina/kaf-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3619,7 +3619,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-22 22:12:35 +0000";
+lastChange = "2016-01-22 22:18:02 +0000";
 layers = (
 {
 components = (

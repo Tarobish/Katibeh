@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="jeemTwodotsabove-ar" format="1">
-  <advance width="575"/>
-  <unicode hex="08A2"/>
-  <outline>
-    <component base="jeem-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="268" yOffset="-320"/>
-  </outline>
-</glyph>

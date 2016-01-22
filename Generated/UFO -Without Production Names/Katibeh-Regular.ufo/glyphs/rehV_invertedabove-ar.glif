@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rehVinvertedabove-ar" format="1">
-  <advance width="359"/>
-  <unicode hex="06EF"/>
-  <outline>
-    <component base="reh-ar" xOffset="40"/>
-    <component base="vinvertedabove-ar" xOffset="183" yOffset="-424"/>
-  </outline>
-</glyph>

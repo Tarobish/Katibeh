@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar.fina/lam_meem-ar"
+"/eight-persian/eight-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -46408,7 +46408,6 @@ kerning = {
 "lam_hah_alefMaksura-ar" = -30;
 "lam_meem-ar" = -30;
 "lam_meem_alefMaksura-ar" = -30;
-"meem_alefMaksura-ar" = -30;
 "meem_meem-ar.init" = -20;
 "tah_alefMaksura-ar" = -30;
 };

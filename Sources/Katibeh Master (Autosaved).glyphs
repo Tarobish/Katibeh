@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar.fina/lam_meem-ar"
+"/waw-ar.fina/meem_meem-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -46263,10 +46263,8 @@ kerning = {
 "hah_meem_alefMaksura-ar" = -20;
 "lam_hah-ar" = -30;
 "lam_hah_alefMaksura-ar" = -20;
-"lam_meem-ar" = -10;
 "lam_meem_alefMaksura-ar" = -10;
 "meem_alefMaksura-ar" = -10;
-"meem_meem-ar.init" = -20;
 "tah_alefMaksura-ar" = -20;
 };
 "@MMK_L_WawIso" = {

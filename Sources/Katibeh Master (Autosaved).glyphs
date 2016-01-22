@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/alefMaksura-ar"
+"/reh-ar/alefHamzabelow-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1213,7 +1213,7 @@ unicode = FE84;
 },
 {
 glyphname = "alefHamzabelow-ar";
-lastChange = "2016-01-15 00:29:10 +0000";
+lastChange = "2016-01-22 22:16:52 +0000";
 layers = (
 {
 components = (
@@ -18520,7 +18520,7 @@ unicode = FBDF;
 },
 {
 glyphname = "alefMaksura-ar";
-lastChange = "2016-01-14 20:51:09 +0000";
+lastChange = "2016-01-22 22:16:47 +0000";
 layers = (
 {
 anchors = (
@@ -46214,7 +46214,7 @@ kerning = {
 "@MMK_R_Sad" = -40;
 "@MMK_R_Seen" = -40;
 "@MMK_R_WawIso" = 6;
-"@MMK_R_YahIso" = 0;
+"@MMK_R_YahIso" = 14;
 "alefHamzabelow-ar" = 70;
 "alefMadda-ar" = -20;
 "alefWavyhamzabelow-ar" = 80;

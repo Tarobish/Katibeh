@@ -6034,7 +6034,7 @@ rightKerningGroup = DalFina;
 },
 {
 glyphname = "reh-ar";
-lastChange = "2016-01-15 01:09:47 +0000";
+lastChange = "2016-01-22 22:00:41 +0000";
 layers = (
 {
 anchors = (
@@ -45974,7 +45974,7 @@ kerning = {
 "@MMK_R_MeemInti" = -40;
 "@MMK_R_MeemIso" = -40;
 "@MMK_R_NoonIso" = -60;
-"@MMK_R_Reh" = -40;
+"@MMK_R_Reh" = -24;
 "@MMK_R_Sad" = -50;
 "@MMK_R_Seen" = -40;
 "@MMK_R_WawIso" = -40;

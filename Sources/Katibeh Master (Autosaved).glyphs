@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/waw-ar/dotlessfeh_alefMaksura-ar"
+"/waw-ar/alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -46298,17 +46298,13 @@ kerning = {
 "dotlessbeh_hah_alefMaksura-ar" = -30;
 "dotlessbeh_meem-ar" = -20;
 "dotlessbeh_reh-ar" = -10;
-"dotlessfeh_alefMaksura-ar" = -20;
 "hah_alefMaksura-ar" = -20;
 "hah_meem-ar" = -30;
 "hah_meem-ar.init" = -30;
 "hah_meem_alefMaksura-ar" = -40;
-"lam_alefMaksura-ar" = -30;
 "lam_hah-ar" = -30;
 "lam_hah_alefMaksura-ar" = -20;
-"lam_meem-ar" = -10;
 "lam_meem_alefMaksura-ar" = -10;
-"meem_alefMaksura-ar" = -10;
 "meem_meem-ar.init" = -20;
 "tah_alefMaksura-ar" = -20;
 "@MMK_R_AlefIso" = 21;

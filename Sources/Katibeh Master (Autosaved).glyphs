@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar/waw-ar"
+"/alef-ar/ain_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -17741,7 +17741,7 @@ width = 411;
 },
 {
 glyphname = "waw-ar";
-lastChange = "2016-01-22 22:01:04 +0000";
+lastChange = "2016-01-22 22:06:15 +0000";
 layers = (
 {
 anchors = (
@@ -46027,7 +46027,7 @@ kerning = {
 "@MMK_R_Reh" = -32;
 "@MMK_R_Sad" = -50;
 "@MMK_R_Seen" = -40;
-"@MMK_R_WawIso" = -40;
+"@MMK_R_WawIso" = -29;
 "@MMK_R_YahIso" = -20;
 "ain_alefMaksura-ar" = -30;
 "ain_meem-ar" = -30;

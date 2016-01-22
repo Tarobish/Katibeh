@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzacenterar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-4" y="190"/>
+      <point x="-20" y="213"/>
+      <point x="-25" y="221" type="curve"/>
+      <point x="-23" y="222"/>
+      <point x="-4" y="236"/>
+      <point x="11" y="236" type="curve" smooth="yes"/>
+      <point x="15" y="236"/>
+      <point x="28" y="232"/>
+      <point x="35" y="217" type="curve"/>
+      <point x="58" y="238" type="line"/>
+      <point x="58" y="238"/>
+      <point x="51" y="276"/>
+      <point x="21" y="276" type="curve" smooth="yes"/>
+      <point x="-15" y="276"/>
+      <point x="-52" y="225"/>
+      <point x="-55" y="221" type="curve"/>
+      <point x="-57" y="217"/>
+      <point x="-58" y="214"/>
+      <point x="-58" y="210" type="curve" smooth="yes"/>
+      <point x="-58" y="178"/>
+      <point x="-29" y="166"/>
+      <point x="-29" y="166" type="curve"/>
+      <point x="-35" y="163"/>
+      <point x="-54" y="158"/>
+      <point x="-62" y="154" type="curve"/>
+      <point x="-90" y="112" type="line"/>
+      <point x="-83" y="107" type="line"/>
+      <point x="-48" y="125"/>
+      <point x="6" y="144"/>
+      <point x="71" y="155" type="curve"/>
+      <point x="71" y="155"/>
+      <point x="86" y="194"/>
+      <point x="86" y="194" type="curve"/>
+      <point x="67" y="191"/>
+      <point x="51" y="188"/>
+      <point x="29" y="183" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-2" y="192" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

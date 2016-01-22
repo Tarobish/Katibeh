@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/lam_alef-ar/dotlessqaf-ar"
+"/lam_alef-ar/heh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3554,7 +3554,7 @@ width = 276;
 },
 {
 glyphname = "jeem-ar";
-lastChange = "2016-01-22 22:09:59 +0000";
+lastChange = "2016-01-22 22:11:16 +0000";
 layers = (
 {
 components = (
@@ -3619,7 +3619,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-22 22:10:00 +0000";
+lastChange = "2016-01-22 22:11:16 +0000";
 layers = (
 {
 components = (
@@ -11289,7 +11289,7 @@ unicode = FB70;
 },
 {
 glyphname = "dotlessqaf-ar";
-lastChange = "2016-01-22 22:11:09 +0000";
+lastChange = "2016-01-22 22:11:11 +0000";
 layers = (
 {
 anchors = (
@@ -46162,7 +46162,7 @@ kerning = {
 "@MMK_R_BehIso" = -70;
 "@MMK_R_DalIso" = -70;
 "@MMK_R_Feh" = -70;
-"@MMK_R_Gaf" = -69;
+"@MMK_R_Gaf" = -50;
 "@MMK_R_HahFina" = -90;
 "@MMK_R_HahInti" = -90;
 "@MMK_R_HehInti" = -50;

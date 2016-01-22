@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alefMadda-ar.fina/dotlessbeh_hah_alefMaksura-ar"
+"/alefMadda-ar.fina/lam_meem-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -46407,7 +46407,6 @@ kerning = {
 "lam_hah-ar" = -30;
 "lam_hah_alefMaksura-ar" = -30;
 "lam_meem-ar" = -30;
-"lam_meem-ar.init" = -30;
 "lam_meem_alefMaksura-ar" = -30;
 "meem_alefMaksura-ar" = -30;
 "meem_meem-ar.init" = -20;

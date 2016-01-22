@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rehStroke-ar" format="1">
-  <advance width="339"/>
-  <unicode hex="075B"/>
-  <outline>
-    <component base="reh-ar" xOffset="40"/>
-    <component base="barlong" xOffset="165" yOffset="-225"/>
-  </outline>
-</glyph>

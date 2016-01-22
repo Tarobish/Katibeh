@@ -11289,7 +11289,7 @@ unicode = FB70;
 },
 {
 glyphname = "dotlessqaf-ar";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-01-22 21:58:42 +0000";
 layers = (
 {
 anchors = (
@@ -45963,7 +45963,7 @@ kerning = {
 "@MMK_R_BehIso" = -50;
 "@MMK_R_DalIso" = -50;
 "@MMK_R_Feh" = -30;
-"@MMK_R_Gaf" = -50;
+"@MMK_R_Gaf" = -37;
 "@MMK_R_HahFina" = -40;
 "@MMK_R_HahInti" = -40;
 "@MMK_R_HehInti" = -30;

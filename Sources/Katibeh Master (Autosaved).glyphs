@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/reh-ar/kaf-ar.init"
+"/reh-ar/lam_alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -46207,7 +46207,6 @@ kerning = {
 "@MMK_R_Kaf" = -47;
 "@MMK_R_KafArabic" = -30;
 "@MMK_R_Kafs" = -20;
-"@MMK_R_Lam" = -20;
 "@MMK_R_LamAlef" = -20;
 "@MMK_R_MeemInti" = -20;
 "@MMK_R_MeemIso" = -40;

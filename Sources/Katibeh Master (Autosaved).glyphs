@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/alef-ar.fina/jeem-ar"
+"/alef-ar.fina/heh-ar.init"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3554,7 +3554,7 @@ width = 276;
 },
 {
 glyphname = "jeem-ar";
-lastChange = "2016-01-22 21:59:53 +0000";
+lastChange = "2016-01-22 21:59:55 +0000";
 layers = (
 {
 components = (
@@ -3619,7 +3619,7 @@ unicode = FEA0;
 },
 {
 glyphname = "jeem-ar.init";
-lastChange = "2016-01-15 00:38:28 +0000";
+lastChange = "2016-01-22 21:59:59 +0000";
 layers = (
 {
 components = (

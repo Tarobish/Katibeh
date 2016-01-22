@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/six-persian/seven-persian"
+"/three-persian/eight-persian"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -33997,7 +33997,7 @@ width = 464;
 },
 {
 glyphname = "seven-persian";
-lastChange = "2016-01-22 22:31:43 +0000";
+lastChange = "2016-01-22 22:32:00 +0000";
 layers = (
 {
 components = (
@@ -46543,7 +46543,7 @@ kerning = {
 "four-persian" = -40;
 "nine-persian" = -60;
 "one-persian" = -40;
-"seven-persian" = -70;
+"seven-persian" = -55;
 "six-persian" = -50;
 "three-persian" = -30;
 "two-persian" = -30;

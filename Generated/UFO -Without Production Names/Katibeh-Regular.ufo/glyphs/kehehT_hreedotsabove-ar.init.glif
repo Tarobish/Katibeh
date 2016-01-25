@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kehehThreedotsabove-ar.init" format="1">
-  <advance width="351"/>
-  <outline>
-    <component base="keheh-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="102" yOffset="-90"/>
-  </outline>
-</glyph>

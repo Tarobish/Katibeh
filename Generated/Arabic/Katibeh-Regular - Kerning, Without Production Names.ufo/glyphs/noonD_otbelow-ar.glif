@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonDotbelow-ar" format="1">
+  <advance width="568"/>
+  <unicode hex="06B9"/>
+  <outline>
+    <component base="noon-ar"/>
+    <component base="dotbelow-ar" xOffset="276" yOffset="-184"/>
+  </outline>
+</glyph>

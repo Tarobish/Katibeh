@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhombusStopabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="06EB"/>
+  <outline>
+    <contour>
+      <point x="63" y="762" type="line"/>
+      <point x="0" y="825" type="line"/>
+      <point x="-62" y="762" type="line"/>
+      <point x="0" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="794" type="line"/>
+      <point x="33" y="762" type="line"/>
+      <point x="0" y="729" type="line"/>
+      <point x="-32" y="762" type="line"/>
+    </contour>
+    <contour>
+      <point x="1" y="825" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1" y="679" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

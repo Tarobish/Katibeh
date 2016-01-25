@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotabove-ar" format="1">
+  <advance width="0"/>
+  <unicode hex="FBB2"/>
+  <outline>
+    <contour>
+      <point x="-23" y="799"/>
+      <point x="-48" y="771"/>
+      <point x="-63" y="754" type="curve"/>
+      <point x="-42" y="742"/>
+      <point x="-24" y="725"/>
+      <point x="1" y="700" type="curve"/>
+      <point x="29" y="727"/>
+      <point x="40" y="743"/>
+      <point x="53" y="761" type="curve"/>
+      <point x="41" y="780"/>
+      <point x="13" y="804"/>
+      <point x="-10" y="816" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-5" y="836" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-5" y="680" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ethbar" format="1">
+  <advance width="280"/>
+  <outline>
+    <contour>
+      <point x="259" y="222" type="line"/>
+      <point x="270" y="229"/>
+      <point x="274" y="241"/>
+      <point x="274" y="250" type="curve"/>
+      <point x="21" y="250" type="line"/>
+      <point x="10" y="244"/>
+      <point x="7" y="232"/>
+      <point x="7" y="222" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -3,10 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <title>Katibeh—Persian/Arabic Headline Font Project</title>
+    <style>
+        @font-face {
+            font-family: Katibeh;
+            font-style: normal;
+            font-weight: 400;
+            src: url('../Build/Katibeh-Regular.ttf')  format('truetype');
+        }
+
+        h1.app-title {
+            font-family: Katibeh, Amiri, sans-serif;
+            font-weight: 400;
+            font-size: 3em;
+        }
+        body > * {
+            max-width: 1000px;
+            margin: auto;
+        }
+    </style>
 </head>
 <body>
     <h1 class="app-title">Katibeh—Persian/Arabic Headline Font Project</h1>
     <p>Hi this is the web page of the Free/Libre font Katibeh. <a href="https://github.com/Tarobish/Katibeh">Katibeh is on GitHub</a></p>
-    <p>Here is a <a href="html/live-testing.html">live testing page</a> and a bunch of <a href="html/generated-pages.html">technical testing documents</a>.</p>
+    <ul>
+        <li>Here is a
+            <a href="html/live-testing.html">live testing page</a></li>
+        <li>and a bunch of
+            <a href="html/generated-pages.html">technical testing documents</a>.</li>
+    </ul>
 </body>
 </html>

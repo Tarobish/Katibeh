@@ -13,8 +13,18 @@
             font-family: Katibeh;
             font-style: normal;
             font-weight: 400;
-            src: url('../Generated/Katibeh-Regular.ttf')  format('truetype');
+            src: url('../Build/Katibeh-Regular.ttf')  format('truetype');
         }
+
+        @font-face {
+            font-family: Katibeh;
+            font-style: bold;
+            font-weight: 500;
+            src: local('sans-serif');
+        }
+
+
+
 
         @font-face {
             font-family: Amiri;
@@ -28,7 +38,10 @@
             font-weight: 400;
         }
         h1.app-title {
-            text-align: center
+            text-align: center;
+            font-family: Katibeh, Amiri, sans-serif;
+            font-weight: 400;
+            font-size: 3em;
         }
     </style>
 

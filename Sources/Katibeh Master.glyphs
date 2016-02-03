@@ -23562,7 +23562,7 @@ width = 939;
 },
 {
 glyphname = "dotlessbeh_reh-ar";
-lastChange = "2016-01-15 01:44:21 +0000";
+lastChange = "2016-02-03 18:47:58 +0000";
 layers = (
 {
 anchors = (
@@ -23580,11 +23580,11 @@ position = "{265, 0}";
 },
 {
 name = top_1;
-position = "{290, 207}";
+position = "{311, 207}";
 },
 {
 name = top_2;
-position = "{109, 202}";
+position = "{84, 202}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23649,7 +23649,7 @@ width = 487;
 },
 {
 glyphname = "dotlessbeh_reh-ar.fina";
-lastChange = "2016-01-15 01:44:15 +0000";
+lastChange = "2016-02-03 18:45:26 +0000";
 layers = (
 {
 anchors = (
@@ -23671,7 +23671,7 @@ position = "{281, 254}";
 },
 {
 name = top_2;
-position = "{107, 257}";
+position = "{50, 257}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -23936,7 +23936,7 @@ width = 576;
 },
 {
 glyphname = "dotlessbeh_noonghunna-ar";
-lastChange = "2016-01-15 01:34:20 +0000";
+lastChange = "2016-02-03 18:37:41 +0000";
 layers = (
 {
 anchors = (
@@ -24234,7 +24234,7 @@ width = 630;
 },
 {
 glyphname = "dotlessbeh_alefMaksura-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-02-03 18:47:03 +0000";
 layers = (
 {
 anchors = (
@@ -24252,7 +24252,7 @@ position = "{377, 0}";
 },
 {
 name = top_1;
-position = "{486, 251}";
+position = "{486, 261}";
 },
 {
 name = top_2;
@@ -24265,20 +24265,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"667 106 LINE",
-"620 106 OFFCURVE",
-"597 125 OFFCURVE",
-"581 147 CURVE SMOOTH",
-"568 164 OFFCURVE",
-"559 182 OFFCURVE",
-"546 197 CURVE SMOOTH",
-"533 211 OFFCURVE",
-"515 221 OFFCURVE",
-"486 221 CURVE SMOOTH",
-"457 221 OFFCURVE",
-"426 200 OFFCURVE",
-"401 169 CURVE SMOOTH",
-"381 145 OFFCURVE",
+"677 106 LINE",
+"631 106 OFFCURVE",
+"607 131 OFFCURVE",
+"585 159 CURVE SMOOTH",
+"559 193 OFFCURVE",
+"537 231 OFFCURVE",
+"486 231 CURVE SMOOTH",
+"457 231 OFFCURVE",
+"426 210 OFFCURVE",
+"401 179 CURVE SMOOTH",
+"381 155 OFFCURVE",
 "365 114 OFFCURVE",
 "355 82 CURVE SMOOTH",
 "349 63 OFFCURVE",
@@ -24334,20 +24331,20 @@ nodes = (
 "425 62 OFFCURVE",
 "413 76 CURVE",
 "420 95 OFFCURVE",
-"443 126 OFFCURVE",
-"476 126 CURVE SMOOTH",
-"524 126 OFFCURVE",
-"547 98 OFFCURVE",
-"568 61 CURVE SMOOTH",
-"585 32 OFFCURVE",
-"611 0 OFFCURVE",
-"661 0 CURVE",
-"740 0 LINE",
-"740 106 LINE"
+"453 136 OFFCURVE",
+"486 136 CURVE SMOOTH",
+"534 136 OFFCURVE",
+"553 102 OFFCURVE",
+"573 68 CURVE SMOOTH",
+"594 34 OFFCURVE",
+"616 0 OFFCURVE",
+"671 0 CURVE",
+"750 0 LINE",
+"750 106 LINE"
 );
 }
 );
-width = 740;
+width = 750;
 }
 );
 },
@@ -46218,6 +46215,7 @@ kerning = {
 "hah_alefMaksura-ar" = -30;
 "hah_meem-ar.init" = -20;
 "hah_meem_alefMaksura-ar" = -30;
+"dotlessbeh_noonghunna-ar" = 45;
 };
 "@MMK_L_WawFina" = {
 "@MMK_R_AinInti" = -30;

@@ -23840,7 +23840,7 @@ width = 551;
 },
 {
 glyphname = "dotlessbeh_meem-ar.fina";
-lastChange = "2016-02-03 18:35:55 +0000";
+lastChange = "2016-02-03 18:36:04 +0000";
 layers = (
 {
 anchors = (
@@ -23900,9 +23900,12 @@ nodes = (
 "281 106 OFFCURVE",
 "304 136 OFFCURVE",
 "337 136 CURVE SMOOTH",
-"430 136 OFFCURVE",
-"411 0 OFFCURVE",
-"524 0 CURVE SMOOTH",
+"385 136 OFFCURVE",
+"405 100 OFFCURVE",
+"428 65 CURVE SMOOTH",
+"450 32 OFFCURVE",
+"475 0 OFFCURVE",
+"530 0 CURVE SMOOTH",
 "576 0 LINE",
 "576 106 LINE",
 "516 106 LINE SMOOTH",

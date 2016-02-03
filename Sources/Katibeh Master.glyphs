@@ -914,7 +914,7 @@ unicode = 0621;
 },
 {
 glyphname = "alef-ar";
-lastChange = "2016-02-03 19:31:26 +0000";
+lastChange = "2016-02-03 19:42:58 +0000";
 layers = (
 {
 anchors = (
@@ -12073,7 +12073,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2016-02-03 19:24:15 +0000";
+lastChange = "2016-02-03 19:37:39 +0000";
 layers = (
 {
 anchors = (
@@ -12153,7 +12153,7 @@ unicode = FEDB;
 },
 {
 glyphname = "keheh-ar";
-lastChange = "2016-02-03 19:30:23 +0000";
+lastChange = "2016-02-03 19:41:23 +0000";
 layers = (
 {
 anchors = (
@@ -23649,13 +23649,13 @@ width = 487;
 },
 {
 glyphname = "dotlessbeh_reh-ar.fina";
-lastChange = "2016-02-03 19:07:22 +0000";
+lastChange = "2016-02-03 19:40:17 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{335, -34}";
+position = "{341, -56}";
 },
 {
 name = bottom_2;
@@ -45995,6 +45995,7 @@ kerning = {
 "meem_alefMaksura-ar" = -30;
 "meem_meem-ar.init" = -10;
 "tah_alefMaksura-ar" = -30;
+"@MMK_R_Kaf" = 40;
 };
 "@MMK_L_AlefIso" = {
 "@MMK_R_AInIso" = -50;
@@ -46008,7 +46009,7 @@ kerning = {
 "@MMK_R_HahInti" = -40;
 "@MMK_R_HehInti" = -30;
 "@MMK_R_HehIso" = -40;
-"@MMK_R_Kaf" = 20;
+"@MMK_R_Kaf" = 40;
 "@MMK_R_KafArabic" = -10;
 "@MMK_R_Kafs" = -30;
 "@MMK_R_Lam" = -20;
@@ -46046,6 +46047,7 @@ kerning = {
 "meem_meem-ar.init" = -10;
 "tah_alefMaksura-ar" = -30;
 "dotlessbeh_reh-ar.fina" = 70;
+"@MMK_R_AlefIso" = 40;
 };
 "@MMK_L_DalFina" = {
 "@MMK_R_AInIso" = -50;
@@ -46318,7 +46320,7 @@ kerning = {
 "@MMK_R_HahInti" = -30;
 "@MMK_R_HehInti" = -40;
 "@MMK_R_HehIso" = -30;
-"@MMK_R_Kaf" = 88;
+"@MMK_R_Kaf" = 98;
 "@MMK_R_KafArabic" = 30;
 "@MMK_R_Kafs" = -30;
 "@MMK_R_Lam" = 30;
@@ -46370,7 +46372,7 @@ kerning = {
 "@MMK_R_HahInti" = -30;
 "@MMK_R_HehInti" = -40;
 "@MMK_R_HehIso" = -30;
-"@MMK_R_Kaf" = 91;
+"@MMK_R_Kaf" = 101;
 "@MMK_R_KafArabic" = 30;
 "@MMK_R_Kafs" = -30;
 "@MMK_R_Lam" = 30;
@@ -46596,6 +46598,10 @@ kerning = {
 "@MMK_R_AinInti" = -20;
 "@MMK_R_HehInti" = -20;
 "alefMadda-ar" = 40;
+};
+"sad_reh-ar.fina" = {
+"@MMK_R_Kaf" = -120;
+"@MMK_R_AlefIso" = 40;
 };
 };
 };

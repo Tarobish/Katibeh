@@ -23939,7 +23939,7 @@ width = 576;
 },
 {
 glyphname = "dotlessbeh_noonghunna-ar";
-lastChange = "2016-02-03 18:37:24 +0000";
+lastChange = "2016-02-03 18:37:41 +0000";
 layers = (
 {
 anchors = (
@@ -46221,7 +46221,7 @@ kerning = {
 "hah_alefMaksura-ar" = -30;
 "hah_meem-ar.init" = -20;
 "hah_meem_alefMaksura-ar" = -30;
-"dotlessbeh_noonghunna-ar" = 24;
+"dotlessbeh_noonghunna-ar" = 45;
 };
 "@MMK_L_WawFina" = {
 "@MMK_R_AinInti" = -30;

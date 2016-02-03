@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/sad_reh-ar.fina/beh-ar",
-"/dotlessbeh_reh-ar.fina"
+"/sad_reh-ar.fina/dal-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -3555,7 +3554,7 @@ width = 276;
 },
 {
 glyphname = "jeem-ar";
-lastChange = "2016-02-03 19:01:12 +0000";
+lastChange = "2016-02-03 19:46:47 +0000";
 layers = (
 {
 components = (
@@ -46608,6 +46607,7 @@ kerning = {
 "@MMK_R_AlefIso" = -40;
 "alefMadda-ar" = -50;
 "@MMK_R_BehIso" = -70;
+"@MMK_R_HahFina" = -30;
 };
 };
 };

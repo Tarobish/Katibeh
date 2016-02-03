@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_reh-ar.fina/seen-ar"
+"/sad_reh-ar.fina/sad-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -8064,7 +8064,7 @@ width = 613;
 },
 {
 glyphname = "sad-ar";
-lastChange = "2016-02-03 19:29:55 +0000";
+lastChange = "2016-02-03 19:48:29 +0000";
 layers = (
 {
 anchors = (
@@ -46610,6 +46610,7 @@ kerning = {
 "@MMK_R_HahFina" = -30;
 "@MMK_R_DalIso" = -30;
 "@MMK_R_Seen" = -40;
+"@MMK_R_Sad" = -80;
 };
 };
 };

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf_lam_alef-ar.fina"
+"/keheh_alef-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -28703,7 +28703,7 @@ unicode = FC3B;
 },
 {
 glyphname = "kaf_lam-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-02-03 19:21:25 +0000";
 layers = (
 {
 anchors = (
@@ -28756,8 +28756,8 @@ nodes = (
 "735 55 OFFCURVE",
 "776 0 OFFCURVE",
 "865 0 CURVE SMOOTH",
-"917 0 LINE",
-"917 106 LINE",
+"937 0 LINE",
+"937 106 LINE",
 "872 106 LINE SMOOTH",
 "852 106 OFFCURVE",
 "833 107 OFFCURVE",
@@ -28838,14 +28838,14 @@ nodes = (
 );
 }
 );
-width = 917;
+width = 937;
 }
 );
 unicode = FC81;
 },
 {
 glyphname = "kaf_lam-ar.medi";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-02-03 19:21:19 +0000";
 layers = (
 {
 anchors = (
@@ -28892,8 +28892,8 @@ nodes = (
 "412 55 OFFCURVE",
 "453 0 OFFCURVE",
 "542 0 CURVE SMOOTH",
-"594 0 LINE",
-"594 106 LINE",
+"614 0 LINE",
+"614 106 LINE",
 "549 106 LINE SMOOTH",
 "529 106 OFFCURVE",
 "510 107 OFFCURVE",
@@ -28960,7 +28960,7 @@ nodes = (
 );
 }
 );
-width = 594;
+width = 614;
 }
 );
 unicode = FCEB;
@@ -30108,7 +30108,7 @@ rightKerningGroup = Kaf;
 },
 {
 glyphname = "keheh_alef-ar.fina";
-lastChange = "2015-12-21 01:26:18 +0000";
+lastChange = "2016-02-03 19:21:33 +0000";
 layers = (
 {
 anchors = (
@@ -30157,8 +30157,8 @@ nodes = (
 "355 55 OFFCURVE",
 "396 0 OFFCURVE",
 "485 0 CURVE SMOOTH",
-"537 0 LINE",
-"537 106 LINE",
+"557 0 LINE",
+"557 106 LINE",
 "492 106 LINE SMOOTH",
 "472 106 OFFCURVE",
 "453 107 OFFCURVE",

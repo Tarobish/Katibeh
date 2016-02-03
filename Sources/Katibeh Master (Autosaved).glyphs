@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kaf-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -14491,7 +14494,7 @@ unicode = 06B1;
 },
 {
 glyphname = "ngoeh-ar.fina";
-lastChange = "2015-12-31 03:05:31 +0000";
+lastChange = "2016-02-03 19:19:55 +0000";
 layers = (
 {
 components = (
@@ -14505,7 +14508,7 @@ transform = "{1, 0, 0, 1, 714, 7}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 955;
+width = 975;
 }
 );
 unicode = FB9B;
@@ -14579,7 +14582,7 @@ unicode = 06B3;
 },
 {
 glyphname = "gueh-ar.fina";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-02-03 19:19:55 +0000";
 layers = (
 {
 components = (
@@ -14593,7 +14596,7 @@ transform = "{1, 0, 0, 1, 421, 2}";
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 955;
+width = 975;
 }
 );
 unicode = FB97;

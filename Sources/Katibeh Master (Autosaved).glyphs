@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_reh-ar.fina/heh-ar"
+"/sad_reh-ar.fina/jeem-ar/alef-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -1947,7 +1947,7 @@ unicode = FE92;
 },
 {
 glyphname = "beh-ar.init";
-lastChange = "2016-01-15 00:34:24 +0000";
+lastChange = "2016-02-03 19:50:38 +0000";
 layers = (
 {
 components = (
@@ -16494,7 +16494,7 @@ width = 615;
 },
 {
 glyphname = "heh-ar";
-lastChange = "2016-01-22 22:15:18 +0000";
+lastChange = "2016-02-03 19:50:15 +0000";
 layers = (
 {
 anchors = (
@@ -46615,6 +46615,8 @@ kerning = {
 "@MMK_R_Gaf" = 20;
 "@MMK_R_MeemIso" = -60;
 "@MMK_R_NoonIso" = 20;
+"@MMK_R_HehIso" = -10;
+"@MMK_R_BehInti" = -20;
 };
 };
 };

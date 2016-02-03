@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/dotlessbeh_alefMaksura-ar.fina"
+"/dotlessbeh_reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -23565,7 +23565,7 @@ width = 939;
 },
 {
 glyphname = "dotlessbeh_reh-ar";
-lastChange = "2016-01-15 01:44:21 +0000";
+lastChange = "2016-02-03 18:47:54 +0000";
 layers = (
 {
 anchors = (
@@ -23583,11 +23583,11 @@ position = "{265, 0}";
 },
 {
 name = top_1;
-position = "{290, 207}";
+position = "{308, 207}";
 },
 {
 name = top_2;
-position = "{109, 202}";
+position = "{84, 202}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/keheh_alef-ar.fina"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -30108,7 +30105,7 @@ rightKerningGroup = Kaf;
 },
 {
 glyphname = "keheh_alef-ar.fina";
-lastChange = "2016-02-03 19:21:33 +0000";
+lastChange = "2016-02-03 19:21:35 +0000";
 layers = (
 {
 anchors = (
@@ -30219,7 +30216,7 @@ nodes = (
 );
 }
 );
-width = 537;
+width = 557;
 }
 );
 },

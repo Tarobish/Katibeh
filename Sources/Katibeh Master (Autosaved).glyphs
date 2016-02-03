@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/kaf-ar  /alef-ar/alef-ar"
+"/peh-ar/peh-ar/dotlessbeh_reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -23652,13 +23652,13 @@ width = 487;
 },
 {
 glyphname = "dotlessbeh_reh-ar.fina";
-lastChange = "2016-02-03 19:07:22 +0000";
+lastChange = "2016-02-03 19:40:00 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{335, -34}";
+position = "{343, -34}";
 },
 {
 name = bottom_2;

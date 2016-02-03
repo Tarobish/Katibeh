@@ -24237,7 +24237,7 @@ width = 630;
 },
 {
 glyphname = "dotlessbeh_alefMaksura-ar.fina";
-lastChange = "2016-02-03 18:46:48 +0000";
+lastChange = "2016-02-03 18:46:58 +0000";
 layers = (
 {
 anchors = (
@@ -24269,7 +24269,7 @@ paths = (
 closed = 1;
 nodes = (
 "677 106 LINE",
-"578 106 OFFCURVE",
+"575 106 OFFCURVE",
 "579 231 OFFCURVE",
 "486 231 CURVE SMOOTH",
 "457 231 OFFCURVE",

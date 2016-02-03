@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_reh-ar.fina/alefMadda-ar",
+"/sad_reh-ar.fina/beh-ar",
 "/dotlessbeh_reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
@@ -1883,7 +1883,7 @@ rightKerningGroup = BehInti;
 },
 {
 glyphname = "beh-ar";
-lastChange = "2016-02-03 19:29:25 +0000";
+lastChange = "2016-02-03 19:46:00 +0000";
 layers = (
 {
 components = (
@@ -46607,6 +46607,7 @@ kerning = {
 "@MMK_R_Kaf" = -120;
 "@MMK_R_AlefIso" = -40;
 "alefMadda-ar" = -50;
+"@MMK_R_BehIso" = -70;
 };
 };
 };

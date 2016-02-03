@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"/sad_reh-ar.fina/alef-ar"
+"/sad_reh-ar.fina",
+"/dotlessbeh_reh-ar.fina"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -26199,7 +26200,7 @@ unicode = FD0F;
 },
 {
 glyphname = "sad_reh-ar.fina";
-lastChange = "2016-01-15 01:44:34 +0000";
+lastChange = "2016-02-03 19:45:00 +0000";
 layers = (
 {
 anchors = (

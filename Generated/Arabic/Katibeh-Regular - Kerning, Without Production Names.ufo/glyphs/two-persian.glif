@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="two-persian" format="1">
-  <advance width="417"/>
-  <unicode hex="06F2"/>
-  <outline>
-    <component base="two-ar"/>
-  </outline>
-</glyph>

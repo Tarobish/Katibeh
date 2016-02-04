@@ -31389,7 +31389,9 @@ rightKerningGroup = HehInti;
 unicode = FCCD;
 },
 {
+color = 0;
 glyphname = uni064406470649;
+lastChange = "2016-02-04 01:28:18 +0000";
 layers = (
 {
 anchors = (

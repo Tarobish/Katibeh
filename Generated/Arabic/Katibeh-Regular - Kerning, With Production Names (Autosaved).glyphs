@@ -29278,7 +29278,9 @@ width = 594;
 unicode = FCEB;
 },
 {
+color = 3;
 glyphname = uniFCC7;
+lastChange = "2016-02-04 01:19:16 +0000";
 layers = (
 {
 anchors = (

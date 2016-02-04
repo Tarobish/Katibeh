@@ -26932,7 +26932,9 @@ rightKerningGroup = Sad;
 unicode = FCB3;
 },
 {
+color = 0;
 glyphname = uni063506450649;
+lastChange = "2016-02-04 01:27:58 +0000";
 layers = (
 {
 anchors = (

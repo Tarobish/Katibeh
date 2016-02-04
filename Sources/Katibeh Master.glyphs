@@ -18622,7 +18622,7 @@ unicode = 0649;
 },
 {
 glyphname = "alefMaksura-ar.fina";
-lastChange = "2016-02-03 20:58:23 +0000";
+lastChange = "2016-02-04 01:34:11 +0000";
 layers = (
 {
 anchors = (
@@ -19288,7 +19288,7 @@ unicode = 06CC;
 },
 {
 glyphname = "yeh-farsi.fina";
-lastChange = "2016-02-03 20:58:28 +0000";
+lastChange = "2016-02-04 01:34:16 +0000";
 layers = (
 {
 components = (
@@ -28964,7 +28964,7 @@ unicode = FCEB;
 },
 {
 glyphname = "kaf_lam-ar.init";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-02-04 04:16:01 +0000";
 layers = (
 {
 anchors = (

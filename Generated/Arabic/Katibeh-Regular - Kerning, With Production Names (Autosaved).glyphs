@@ -26223,7 +26223,9 @@ width = 1030;
 unicode = FD17;
 },
 {
+color = 0;
 glyphname = uni063306450649;
+lastChange = "2016-02-04 01:26:59 +0000";
 layers = (
 {
 anchors = (

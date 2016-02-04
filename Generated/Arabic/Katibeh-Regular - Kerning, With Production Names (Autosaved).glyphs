@@ -29859,7 +29859,9 @@ leftKerningGroup = Kaf;
 rightKerningGroup = Kaf;
 },
 {
+color = 0;
 glyphname = uni064306440649.fina;
+lastChange = "2016-02-04 01:18:51 +0000";
 layers = (
 {
 anchors = (

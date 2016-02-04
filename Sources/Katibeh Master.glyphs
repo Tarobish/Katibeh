@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dotlessbeh_hah_alefMaksura-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -23409,7 +23412,7 @@ width = 598;
 },
 {
 glyphname = "dotlessbeh_hah_alefMaksura-ar";
-lastChange = "2016-01-22 22:23:05 +0000";
+lastChange = "2016-02-04 21:50:46 +0000";
 layers = (
 {
 anchors = (

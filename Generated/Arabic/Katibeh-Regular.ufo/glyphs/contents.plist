@@ -98,6 +98,8 @@
 	<string>dots.horz.belowar.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>extender</key>
+	<string>extender.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>filledbox</key>

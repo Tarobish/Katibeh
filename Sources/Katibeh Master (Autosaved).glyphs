@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/extender
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -45941,12 +45944,28 @@ subCategory = Nonspacing;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-05 18:34:10 +0000";
+lastChange = "2016-02-05 18:35:55 +0000";
 layers = (
 {
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"-17 106 LINE SMOOTH",
+"-46 106 OFFCURVE",
+"-70 82 OFFCURVE",
+"-70 53 CURVE SMOOTH",
+"-70 24 OFFCURVE",
+"-46 0 OFFCURVE",
+"-17 0 CURVE SMOOTH",
+"140 0 LINE",
+"140 106 LINE"
+);
+}
+);
+width = 140;
 }
 );
 }

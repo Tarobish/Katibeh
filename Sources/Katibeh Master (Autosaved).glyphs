@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/tehRing-ar.fina"
+"/tehRing-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -2365,12 +2365,16 @@ width = 893;
 },
 {
 glyphname = "tehRing-ar.init";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-02-05 18:47:46 +0000";
 layers = (
 {
 components = (
 {
 name = "dotlessbeh-ar.init";
+},
+{
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, 1, -380}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -2381,12 +2385,20 @@ width = 234;
 },
 {
 glyphname = "tehRing-ar.medi";
-lastChange = "2015-12-18 09:45:42 +0000";
+lastChange = "2016-02-05 18:47:58 +0000";
 layers = (
 {
 components = (
 {
 name = "dotlessbeh-ar.medi";
+},
+{
+name = "twodotshorizontalabove-ar";
+transform = "{1, 0, 0, 1, 31, -488}";
+},
+{
+name = "ring-ar";
+transform = "{1, 0, 0, 1, 16, 147}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

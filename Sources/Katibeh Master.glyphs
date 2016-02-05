@@ -7091,7 +7091,7 @@ width = 507;
 },
 {
 glyphname = "seen-ar";
-lastChange = "2016-02-03 21:20:41 +0000";
+lastChange = "2016-02-05 02:24:38 +0000";
 layers = (
 {
 anchors = (
@@ -22566,7 +22566,7 @@ width = 613;
 },
 {
 glyphname = "seenVinvertedabove-ar";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-02-05 02:24:38 +0000";
 layers = (
 {
 components = (

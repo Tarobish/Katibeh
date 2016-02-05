@@ -1,3 +1,7 @@
+# This contains fetaures specific for the Katibeh project i.e. not shared
+# with Mirza which is being developed in parallel.
+
+
 # calt is executed after rlig *good* but before dlig *bad :-(*
 # because we want this "widener" only to happen if we are **NOT** using a ligature
 # but the extension will apply before the ligature and hence prevent it
@@ -57,6 +61,12 @@ feature calt {
                 # issue #65 colliding #06
                 sub @BasesBottomCollidingFirst_2' lookup decompCollisions @MarksBottomColliding_1 @BasesBottomCollidingSecond_2;
 		sub @BasesBottomCollidingFirst_2' lookup decompCollisions @BasesBottomCollidingSecond_2;
-
         } comp;
+
+        # issue #72 special char #03
+        lookup alternateDottlessbeh {
+                lookupflag IgnoreMarks;
+                sub uni066E.medi uni066E.medi' by dotlessbeh_Highar;
+        } alternateDottlessbeh;
+
 } calt;

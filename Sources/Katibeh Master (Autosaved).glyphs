@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/keheh-ar/gaf-ar/ngoeh-ar"
+"/kaf-ar.medi/gaf-ar.medi/ngoeh-ar.medi"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -12023,7 +12023,7 @@ unicode = FEDA;
 },
 {
 glyphname = "kaf-ar.medi";
-lastChange = "2016-02-03 19:20:07 +0000";
+lastChange = "2016-02-06 00:43:33 +0000";
 layers = (
 {
 anchors = (
@@ -12033,7 +12033,7 @@ position = "{68, -34}";
 },
 {
 name = top;
-position = "{120, 589}";
+position = "{189, 537}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12593,7 +12593,7 @@ width = 446;
 },
 {
 glyphname = "kehehDotabove-ar";
-lastChange = "2016-02-06 00:42:30 +0000";
+lastChange = "2016-02-06 00:43:20 +0000";
 layers = (
 {
 components = (
@@ -12602,7 +12602,7 @@ name = "keheh-ar";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 747, -123}";
+transform = "{1, 0, 0, 1, 747, -135}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12678,7 +12678,7 @@ width = 446;
 },
 {
 glyphname = "kehehThreedotsabove-ar";
-lastChange = "2016-02-06 00:42:30 +0000";
+lastChange = "2016-02-06 00:43:20 +0000";
 layers = (
 {
 components = (
@@ -12687,7 +12687,7 @@ name = "keheh-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 743, -123}";
+transform = "{1, 0, 0, 1, 743, -135}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13132,7 +13132,7 @@ width = 1084;
 },
 {
 glyphname = "gaf-ar.medi";
-lastChange = "2016-02-06 00:41:24 +0000";
+lastChange = "2016-02-06 00:43:31 +0000";
 layers = (
 {
 components = (
@@ -13141,7 +13141,7 @@ name = "kaf-ar.medi";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 122, -111}";
+transform = "{1, 0, 0, 1, 191, -163}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13508,7 +13508,7 @@ width = 446;
 },
 {
 glyphname = "gafThreedots-ar";
-lastChange = "2016-02-06 00:42:30 +0000";
+lastChange = "2016-02-06 00:43:20 +0000";
 layers = (
 {
 components = (
@@ -13517,7 +13517,7 @@ name = "gaf-ar";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 743, 47}";
+transform = "{1, 0, 0, 1, 743, 35}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14552,7 +14552,7 @@ unicode = FB9B;
 },
 {
 glyphname = "ngoeh-ar.medi";
-lastChange = "2016-02-06 00:41:45 +0000";
+lastChange = "2016-02-06 00:43:31 +0000";
 layers = (
 {
 components = (
@@ -14561,7 +14561,7 @@ name = "gaf-ar.medi";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 123, 79}";
+transform = "{1, 0, 0, 1, 192, 27}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

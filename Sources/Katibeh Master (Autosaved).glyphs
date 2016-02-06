@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessbeh-ar.medi",
-/extender
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -24017,13 +24013,13 @@ width = 576;
 },
 {
 glyphname = "dotlessbeh_noonghunna-ar";
-lastChange = "2016-02-03 18:55:08 +0000";
+lastChange = "2016-02-06 00:35:59 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-position = "{515, -200}";
+position = "{525, -177}";
 },
 {
 name = bottom_2;

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/kaf-ar.medi/ng-ar.medi"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -12109,7 +12112,7 @@ unicode = FEDC;
 },
 {
 glyphname = "kaf-ar.init";
-lastChange = "2016-02-06 00:44:03 +0000";
+lastChange = "2016-02-06 00:45:04 +0000";
 layers = (
 {
 anchors = (
@@ -12119,7 +12122,7 @@ position = "{56, -34}";
 },
 {
 name = top;
-position = "{159, 540}";
+position = "{159, 590}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12463,7 +12466,7 @@ width = 975;
 },
 {
 glyphname = "kehehTwodotshorizontalabove-ar.init";
-lastChange = "2016-02-06 00:44:33 +0000";
+lastChange = "2016-02-06 00:45:05 +0000";
 layers = (
 {
 components = (
@@ -12472,7 +12475,7 @@ name = "keheh-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 162, -140}";
+transform = "{1, 0, 0, 1, 162, -90}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12633,7 +12636,7 @@ width = 975;
 },
 {
 glyphname = "kehehDotabove-ar.init";
-lastChange = "2016-02-06 00:44:04 +0000";
+lastChange = "2016-02-06 00:45:05 +0000";
 layers = (
 {
 components = (
@@ -12642,7 +12645,7 @@ name = "keheh-ar.init";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 164, -140}";
+transform = "{1, 0, 0, 1, 164, -90}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12718,7 +12721,7 @@ width = 975;
 },
 {
 glyphname = "kehehThreedotsabove-ar.init";
-lastChange = "2016-02-06 00:44:04 +0000";
+lastChange = "2016-02-06 00:45:05 +0000";
 layers = (
 {
 components = (
@@ -12727,7 +12730,7 @@ name = "keheh-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 160, -140}";
+transform = "{1, 0, 0, 1, 160, -90}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13274,7 +13277,7 @@ width = 932;
 },
 {
 glyphname = "gaf-ar.init";
-lastChange = "2016-02-06 00:44:03 +0000";
+lastChange = "2016-02-06 00:45:05 +0000";
 layers = (
 {
 components = (
@@ -13283,7 +13286,7 @@ name = "kaf-ar.init";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 161, -160}";
+transform = "{1, 0, 0, 1, 161, -110}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13548,7 +13551,7 @@ width = 975;
 },
 {
 glyphname = "gafThreedots-ar.init";
-lastChange = "2016-02-06 00:44:04 +0000";
+lastChange = "2016-02-06 00:45:05 +0000";
 layers = (
 {
 components = (
@@ -13557,7 +13560,7 @@ name = "gaf-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 160, 30}";
+transform = "{1, 0, 0, 1, 160, 80}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14122,7 +14125,7 @@ width = 953;
 },
 {
 glyphname = "kafDotabove-ar.init";
-lastChange = "2016-02-06 00:44:04 +0000";
+lastChange = "2016-02-06 00:45:05 +0000";
 layers = (
 {
 components = (
@@ -14131,7 +14134,7 @@ name = "kaf-ar.init";
 },
 {
 name = "dotabove-ar";
-transform = "{1, 0, 0, 1, 164, -140}";
+transform = "{1, 0, 0, 1, 164, -90}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14205,7 +14208,7 @@ width = 953;
 },
 {
 glyphname = "kafTwodotshorizontalabove-ar.init";
-lastChange = "2016-02-06 00:44:04 +0000";
+lastChange = "2016-02-06 00:45:05 +0000";
 layers = (
 {
 components = (
@@ -14214,7 +14217,7 @@ name = "kaf-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 162, -140}";
+transform = "{1, 0, 0, 1, 162, -90}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14482,7 +14485,7 @@ unicode = FBD6;
 },
 {
 glyphname = "ng-ar.init";
-lastChange = "2016-02-06 00:44:04 +0000";
+lastChange = "2016-02-06 00:45:04 +0000";
 layers = (
 {
 components = (
@@ -14491,7 +14494,7 @@ name = "kaf-ar.init";
 },
 {
 name = "threedotsupabove-ar";
-transform = "{1, 0, 0, 1, 160, -140}";
+transform = "{1, 0, 0, 1, 160, -90}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14570,7 +14573,7 @@ unicode = FB9D;
 },
 {
 glyphname = "ngoeh-ar.init";
-lastChange = "2016-02-06 00:44:03 +0000";
+lastChange = "2016-02-06 00:45:05 +0000";
 layers = (
 {
 components = (
@@ -14579,7 +14582,7 @@ name = "gaf-ar.init";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 162, 30}";
+transform = "{1, 0, 0, 1, 162, 80}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

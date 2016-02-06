@@ -69,4 +69,17 @@ feature calt {
                 sub uni066E.medi uni066E.medi' by dotlessbeh_Highar;
         } alternateDottlessbeh;
 
+        # issue #73 special char #04
+        lookup alternateDottlessbeh2 {
+                lookupflag IgnoreMarks;
+                # in case the ligatures are dlig they will not yet be there
+                sub uni066E.init' uniFEB4 [ uniFEF0 uni06CD.fina uniFEAE uni08AA.fina] by uni066E.calt;
+                sub uni066E.init' uniFEB4 uniFEB4 [ uniFEF0 uni06CD.fina uniFEAE uni08AA.fina] by uni066E.calt;
+                sub uni066E.init' uniFEB4 uniFEB4 uniFEB4 [ uniFEF0 uni06CD.fina uniFEAE uni08AA.fina] by uni066E.calt;
+                # in case the ligatures are rlig they will already be there
+                sub uni066E.init' [ uniFD17 uniFD2A uniFEB2 uni069C.fina] by uni066E.calt;
+                sub uni066E.init' uniFEB4 [ uniFD17 uniFD2A uniFEB2 uni069C.fina] by uni066E.calt;
+                sub uni066E.init' uniFEB4  uniFEB4 [ uniFD17 uniFD2A uniFEB2 uni069C.fina] by uni066E.calt;
+        } alternateDottlessbeh2;
+
 } calt;

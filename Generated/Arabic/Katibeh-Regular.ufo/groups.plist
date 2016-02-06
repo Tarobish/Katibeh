@@ -53,7 +53,6 @@
 	</array>
 	<key>@MMK_L_BehInti</key>
 	<array>
-		<string>Longdotlessbeh-ar.init</string>
 		<string>uni066E.calt</string>
 		<string>uni066E.init</string>
 		<string>uniFE91</string>
@@ -580,7 +579,6 @@
 	</array>
 	<key>@MMK_R_BehInti</key>
 	<array>
-		<string>Longdotlessbeh-ar.init</string>
 		<string>uni066E.calt</string>
 		<string>uni066E.init</string>
 		<string>uniFE91</string>

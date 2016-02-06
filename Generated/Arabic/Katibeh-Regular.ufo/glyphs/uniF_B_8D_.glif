@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB8D" format="1">
-  <advance width="365"/>
+  <advance width="345"/>
   <unicode hex="FB8D"/>
   <outline>
     <component base="uniFEAE"/>

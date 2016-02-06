@@ -42405,13 +42405,17 @@ unicode = 065A;
 },
 {
 glyphname = "vbelow-ar";
-lastChange = "2015-12-18 09:45:43 +0000";
+lastChange = "2016-02-06 00:17:58 +0000";
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-position = "{0, -182}";
+position = "{2, -180}";
+},
+{
+name = bottom;
+position = "{2, -365}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

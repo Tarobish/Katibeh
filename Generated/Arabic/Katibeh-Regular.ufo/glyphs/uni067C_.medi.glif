@@ -4,6 +4,6 @@
   <outline>
     <component base="uni066E.medi"/>
     <component base="uniFBB4" xOffset="31" yOffset="-488"/>
-    <component base="uniFBBF" xOffset="16" yOffset="147"/>
+    <component base="uniFBBF" xOffset="38" yOffset="233"/>
   </outline>
 </glyph>

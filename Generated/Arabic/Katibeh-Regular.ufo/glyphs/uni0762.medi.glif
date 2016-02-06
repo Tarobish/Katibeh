@@ -3,6 +3,6 @@
   <advance width="446"/>
   <outline>
     <component base="uniFB91"/>
-    <component base="uniFBB2" xOffset="125" yOffset="-91"/>
+    <component base="uniFBB2" xOffset="194" yOffset="-83"/>
   </outline>
 </glyph>

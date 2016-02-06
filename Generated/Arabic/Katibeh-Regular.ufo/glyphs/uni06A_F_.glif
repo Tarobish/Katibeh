@@ -4,6 +4,6 @@
   <unicode hex="06AF"/>
   <outline>
     <component base="uni06A9"/>
-    <component base="gafbar-ar" xOffset="754" yOffset="-164"/>
+    <component base="gafbar-ar" xOffset="728" yOffset="-168"/>
   </outline>
 </glyph>

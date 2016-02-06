@@ -92,16 +92,16 @@
       <point x="453" y="-390" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="197" y="700" type="move" name="top_1"/>
+      <point x="340" y="-49" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="207" y="-396" type="move" name="bottom_2"/>
+      <point x="197" y="700" type="move" name="top_1"/>
     </contour>
     <contour>
       <point x="86" y="381" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="340" y="-49" type="move" name="center"/>
+      <point x="207" y="-396" type="move" name="bottom_2"/>
     </contour>
   </outline>
 </glyph>

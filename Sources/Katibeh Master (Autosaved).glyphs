@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/gafbar-ar",
+"/fathaDotabove-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -45920,17 +45924,17 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "gafbar-ar";
-lastChange = "2015-12-31 03:00:07 +0000";
+lastChange = "2016-02-06 00:40:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-position = "{-62, 754}";
+position = "{-2, 700}";
 },
 {
 name = top;
-position = "{-2, 851}";
+position = "{-2, 870}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

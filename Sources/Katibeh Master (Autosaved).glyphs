@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/gaf-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -12845,7 +12848,7 @@ width = 446;
 },
 {
 glyphname = "gaf-ar";
-lastChange = "2016-01-15 02:28:36 +0000";
+lastChange = "2016-02-06 00:41:24 +0000";
 layers = (
 {
 components = (
@@ -12854,7 +12857,7 @@ name = "keheh-ar";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 754, -164}";
+transform = "{1, 0, 0, 1, 694, -110}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12989,7 +12992,7 @@ rightKerningGroup = Kafs;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2016-02-03 19:19:44 +0000";
+lastChange = "2016-02-06 00:41:24 +0000";
 layers = (
 {
 components = (
@@ -12998,7 +13001,7 @@ name = "keheh-ar.fina";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 713, -164}";
+transform = "{1, 0, 0, 1, 653, -110}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13129,7 +13132,7 @@ width = 1084;
 },
 {
 glyphname = "gaf-ar.medi";
-lastChange = "2016-02-03 19:20:08 +0000";
+lastChange = "2016-02-06 00:41:24 +0000";
 layers = (
 {
 components = (
@@ -13138,7 +13141,7 @@ name = "kaf-ar.medi";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 182, -165}";
+transform = "{1, 0, 0, 1, 122, -111}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -13274,7 +13277,7 @@ width = 932;
 },
 {
 glyphname = "gaf-ar.init";
-lastChange = "2016-02-03 21:25:54 +0000";
+lastChange = "2016-02-06 00:41:24 +0000";
 layers = (
 {
 components = (
@@ -13283,7 +13286,7 @@ name = "kaf-ar.init";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 163, -164}";
+transform = "{1, 0, 0, 1, 103, -110}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14528,7 +14531,7 @@ unicode = 06B1;
 },
 {
 glyphname = "ngoeh-ar.fina";
-lastChange = "2016-02-06 00:41:19 +0000";
+lastChange = "2016-02-06 00:41:31 +0000";
 layers = (
 {
 components = (
@@ -14537,7 +14540,7 @@ name = "gaf-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 714, 26}";
+transform = "{1, 0, 0, 1, 654, 80}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

@@ -12286,7 +12286,7 @@ unicode = 06A9;
 },
 {
 glyphname = "keheh-ar.fina";
-lastChange = "2016-02-06 00:42:48 +0000";
+lastChange = "2016-02-06 00:42:56 +0000";
 layers = (
 {
 anchors = (
@@ -12296,7 +12296,7 @@ position = "{426, -64}";
 },
 {
 name = top;
-position = "{731, 570}";
+position = "{721, 550}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -12992,7 +12992,7 @@ rightKerningGroup = Kafs;
 },
 {
 glyphname = "gaf-ar.fina";
-lastChange = "2016-02-06 00:42:48 +0000";
+lastChange = "2016-02-06 00:42:56 +0000";
 layers = (
 {
 components = (
@@ -13001,7 +13001,7 @@ name = "keheh-ar.fina";
 },
 {
 name = "gafbar-ar";
-transform = "{1, 0, 0, 1, 733, -130}";
+transform = "{1, 0, 0, 1, 723, -150}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -14531,7 +14531,7 @@ unicode = 06B1;
 },
 {
 glyphname = "ngoeh-ar.fina";
-lastChange = "2016-02-06 00:42:48 +0000";
+lastChange = "2016-02-06 00:42:56 +0000";
 layers = (
 {
 components = (
@@ -14540,7 +14540,7 @@ name = "gaf-ar.fina";
 },
 {
 name = "twodotshorizontalabove-ar";
-transform = "{1, 0, 0, 1, 734, 60}";
+transform = "{1, 0, 0, 1, 724, 40}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

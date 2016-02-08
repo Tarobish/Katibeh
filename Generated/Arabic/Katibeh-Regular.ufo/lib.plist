@@ -169,6 +169,8 @@
 		<string>uniFB5B</string>
 		<string>uniFB5D</string>
 		<string>uniFB5C</string>
+		<string>uniFBE9</string>
+		<string>uniFBE8</string>
 		<string>uni062A</string>
 		<string>uniFE96</string>
 		<string>uniFE98</string>
@@ -685,6 +687,10 @@
 		<string>uni06CE.fina</string>
 		<string>uni06CE.init</string>
 		<string>uni06CE.medi</string>
+		<string>uni08A8</string>
+		<string>uni08A8.fina</string>
+		<string>uni08A8.init</string>
+		<string>uni08A8.medi</string>
 		<string>uni08A9</string>
 		<string>uni08A9.fina</string>
 		<string>uni08A9.init</string>

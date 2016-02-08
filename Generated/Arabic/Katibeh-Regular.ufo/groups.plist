@@ -81,6 +81,7 @@
 		<string>uniFEF3</string>
 		<string>uniFE8B</string>
 		<string>uni06CE.init</string>
+		<string>uni08A8.init</string>
 		<string>uni08A9.init</string>
 		<string>uni063D.init</string>
 		<string>uniFBFE</string>
@@ -530,6 +531,10 @@
 		<string>uni06D0</string>
 		<string>uni06D1</string>
 	</array>
+	<key>@MMK_L_yehThreeabove-farsi</key>
+	<array>
+		<string>uni08A8</string>
+	</array>
 	<key>@MMK_R_AInIso</key>
 	<array>
 		<string>uni0639</string>
@@ -608,6 +613,7 @@
 		<string>uniFEF3</string>
 		<string>uniFE8B</string>
 		<string>uni06CE.init</string>
+		<string>uni08A8.init</string>
 		<string>uni08A9.init</string>
 		<string>uni063D.init</string>
 		<string>uniFBFE</string>
@@ -1053,6 +1059,10 @@
 		<string>uni0620</string>
 		<string>uni06D0</string>
 		<string>uni06D1</string>
+	</array>
+	<key>@MMK_R_yehThreeabove-farsi</key>
+	<array>
+		<string>uni08A8</string>
 	</array>
 </dict>
 </plist>

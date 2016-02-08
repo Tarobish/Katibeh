@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"/dotlessbeh-ar.medi"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -2234,24 +2231,131 @@ unicode = FB5C;
 },
 {
 glyphname = "alefMaksura-ar.medi";
-lastChange = "2016-02-08 06:02:36 +0000";
+lastChange = "2016-02-08 06:02:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{16, -34}";
+},
+{
+name = top;
+position = "{28, 192}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"207 106 OFFCURVE",
+"187 111 OFFCURVE",
+"174 123 CURVE SMOOTH",
+"161 134 OFFCURVE",
+"155 152 OFFCURVE",
+"157 176 CURVE SMOOTH",
+"157 176 OFFCURVE",
+"142 184 OFFCURVE",
+"142 184 CURVE",
+"140 174 OFFCURVE",
+"136 146 OFFCURVE",
+"115 127 CURVE SMOOTH",
+"102 115 OFFCURVE",
+"82 106 OFFCURVE",
+"51 106 CURVE SMOOTH",
+"51 106 OFFCURVE",
+"-17 106 OFFCURVE",
+"-17 106 CURVE SMOOTH",
+"-46 106 OFFCURVE",
+"-70 82 OFFCURVE",
+"-70 53 CURVE SMOOTH",
+"-70 24 OFFCURVE",
+"-46 0 OFFCURVE",
+"-17 0 CURVE SMOOTH",
+"32 0 LINE SMOOTH",
+"74 0 OFFCURVE",
+"100 11 OFFCURVE",
+"115 24 CURVE SMOOTH",
+"130 36 OFFCURVE",
+"136 50 OFFCURVE",
+"137 55 CURVE",
+"143 41 OFFCURVE",
+"152 30 OFFCURVE",
+"162 21 CURVE SMOOTH",
+"178 8 OFFCURVE",
+"200 0 OFFCURVE",
+"229 0 CURVE SMOOTH",
+"276 0 LINE",
+"276 106 LINE",
+"233 106 LINE SMOOTH"
+);
+}
+);
+width = 276;
 }
 );
 unicode = FBE9;
 },
 {
 glyphname = "alefMaksura-ar.init";
-lastChange = "2016-02-08 06:02:24 +0000";
+lastChange = "2016-02-08 06:03:33 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{33, -35}";
+},
+{
+name = top;
+position = "{-2, 300}";
+}
+);
 layerId = "51F41761-070F-43EA-B302-C90910850260";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"174 183 OFFCURVE",
+"167 223 OFFCURVE",
+"149 256 CURVE SMOOTH",
+"135 281 OFFCURVE",
+"115 303 OFFCURVE",
+"89 321 CURVE",
+"60 215 LINE",
+"98 196 OFFCURVE",
+"124 170 OFFCURVE",
+"135 131 CURVE",
+"130 127 OFFCURVE",
+"126 124 OFFCURVE",
+"115 119 CURVE SMOOTH",
+"91 108 OFFCURVE",
+"61 106 OFFCURVE",
+"39 106 CURVE SMOOTH",
+"-17 106 LINE SMOOTH",
+"-46 106 OFFCURVE",
+"-70 83 OFFCURVE",
+"-70 53 CURVE SMOOTH",
+"-70 23 OFFCURVE",
+"-46 0 OFFCURVE",
+"-17 0 CURVE SMOOTH",
+"47 0 LINE SMOOTH",
+"71 0 OFFCURVE",
+"115 15 OFFCURVE",
+"140 39 CURVE SMOOTH",
+"156 54 OFFCURVE",
+"174 82 OFFCURVE",
+"174 117 CURVE SMOOTH",
+"174 135 OFFCURVE",
+"174 134 OFFCURVE",
+"174 148 CURVE SMOOTH"
+);
+}
+);
+width = 234;
 }
 );
 unicode = FBE8;

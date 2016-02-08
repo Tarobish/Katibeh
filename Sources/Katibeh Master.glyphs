@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-/extender,
-"/kashida-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -22832,7 +22828,7 @@ unicode = 0640;
 },
 {
 glyphname = extender;
-lastChange = "2016-02-08 18:49:12 +0000";
+lastChange = "2016-02-08 18:52:54 +0000";
 layers = (
 {
 anchors = (
@@ -22858,12 +22854,12 @@ nodes = (
 "-70 24 OFFCURVE",
 "-46 0 OFFCURVE",
 "-17 0 CURVE SMOOTH",
-"140 0 LINE",
-"140 106 LINE"
+"120 0 LINE",
+"120 106 LINE"
 );
 }
 );
-width = 140;
+width = 120;
 }
 );
 script = arabic;

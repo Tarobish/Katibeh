@@ -1,14 +1,6 @@
 # This contains fetaures specific for the Katibeh project i.e. not shared
 # with Mirza which is being developed in parallel.
 
-
-# calt is executed after rlig *good* but before dlig *bad :-(*
-# because we want this "widener" only to happen if we are **NOT** using a ligature
-# but the extension will apply before the ligature and hence prevent it
-# maybe we can make the extension a type of "spacing mark", the IgnoreMarks
-# flag of the ligature lookups skips it! (probably best)
-# maybe we have to include it explicitly into the ligature lookups (cumbersome fiddling)
-
 lookup decompCollisions {
 	# insert {widener} as second glyph uni0640 == ARABIC TATWEEL (Kashida)
 	sub uni066E.init by uni066E.init extender;

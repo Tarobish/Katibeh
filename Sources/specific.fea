@@ -27,14 +27,19 @@ lookup decompCollisions {
 
 
 
-@MarksBottomColliding_1 = [ uniFBB5 uniFBB7 uniFBB9 uniFBBB uniFBBE circumflex.below ];
+@MarksBottomColliding_1 = [
+        # uni061A
+        uni064D uni0650 uni0655 uni065C uni065F uni06ED uni06E3
+        uni08E6 uni08E9 uni08F2 uniFBB5 uniFBB7 uniFBB9 uniFBBB uniFBBE
+        uniFBC1 circumflex.below
+];
 
 
 
 @MarksBottomColliding = [@MarksBottomColliding_1];
 
 @BasesBottomCollidingSecond_1 = [
-        # issue #60 colliding #01
+        # colliding #01 colliding #02
         uniFE8E uniFE8E.short uni0675.fina uni0773.fina uni0774.fina
 ];
 
@@ -55,7 +60,7 @@ feature calt {
                 # issue #60 colliding #01 uni066E.init
                 # issue #62 colliding #03 uni066E.init
                 # issue #61 colliding #02 uni066E.medi
-		sub [ uni066E.init uni066E.medi ]' lookup decompCollisions @MarksBottomColliding_1 @BasesBottomCollidingSecond_1;
+		sub [ uni066E.init uni066E.medi ]' lookup decompCollisions @MarksBottomColliding_1 @BasesBottomCollidingSecond_1 @MarksBottomColliding_1;
 
                 # issue #64 colliding #05
                 # issue #65 colliding #06

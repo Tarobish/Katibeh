@@ -16425,7 +16425,24 @@ width = 615;
 unicode = FBA1;
 },
 {
+glyphname = "rnoon-ar.medi";
+layers = (
+{
+components = (
+{
+name = "tteh-ar.medi";
+}
+);
+layerId = "51F41761-070F-43EA-B302-C90910850260";
+name = Regular;
+width = 276;
+}
+);
+unicode = FBA3;
+},
+{
 glyphname = "rnoon-ar.init";
+lastChange = "2016-02-09 06:08:51 +0000";
 layers = (
 {
 components = (
@@ -16438,6 +16455,8 @@ name = Regular;
 width = 234;
 }
 );
+leftKerningGroup = BehInti;
+rightKerningGroup = BehInti;
 unicode = FBA2;
 },
 {

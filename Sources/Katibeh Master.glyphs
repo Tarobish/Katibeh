@@ -4065,7 +4065,7 @@ unicode = FB74;
 },
 {
 glyphname = "hah-ar";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-02-09 23:57:41 +0000";
 layers = (
 {
 anchors = (
@@ -23411,7 +23411,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2016-01-22 22:22:52 +0000";
+lastChange = "2016-02-09 23:57:44 +0000";
 layers = (
 {
 anchors = (
@@ -23786,7 +23786,7 @@ width = 939;
 },
 {
 glyphname = "dotlessbeh_reh-ar";
-lastChange = "2016-02-03 18:57:38 +0000";
+lastChange = "2016-02-10 00:43:25 +0000";
 layers = (
 {
 anchors = (
@@ -23801,6 +23801,10 @@ position = "{54, -275}";
 {
 name = caret_1;
 position = "{265, 0}";
+},
+{
+name = center;
+position = "{27, 24}";
 },
 {
 name = top_1;
@@ -23873,7 +23877,7 @@ width = 487;
 },
 {
 glyphname = "dotlessbeh_reh-ar.fina";
-lastChange = "2016-02-03 19:40:17 +0000";
+lastChange = "2016-02-10 00:43:22 +0000";
 layers = (
 {
 anchors = (
@@ -23888,6 +23892,10 @@ position = "{54, -275}";
 {
 name = caret_1;
 position = "{293, 0}";
+},
+{
+name = center;
+position = "{27, 24}";
 },
 {
 name = top_1;
@@ -25250,7 +25258,7 @@ unicode = FD1B;
 },
 {
 glyphname = "seen_reh-ar";
-lastChange = "2016-01-15 01:43:56 +0000";
+lastChange = "2016-02-10 00:43:05 +0000";
 layers = (
 {
 anchors = (
@@ -25265,6 +25273,10 @@ position = "{54, -277}";
 {
 name = caret_1;
 position = "{408, 0}";
+},
+{
+name = center;
+position = "{27, 24}";
 },
 {
 name = top_1;
@@ -25374,7 +25386,7 @@ unicode = FD0E;
 },
 {
 glyphname = "seen_reh-ar.fina";
-lastChange = "2016-01-15 01:44:08 +0000";
+lastChange = "2016-02-10 00:43:14 +0000";
 layers = (
 {
 anchors = (
@@ -25389,6 +25401,10 @@ position = "{54, -277}";
 {
 name = caret_1;
 position = "{432, 0}";
+},
+{
+name = center;
+position = "{27, 24}";
 },
 {
 name = top_1;
@@ -26293,7 +26309,7 @@ rightKerningGroup = Seen;
 },
 {
 glyphname = "sad_reh-ar";
-lastChange = "2016-01-15 01:44:42 +0000";
+lastChange = "2016-02-10 00:43:36 +0000";
 layers = (
 {
 anchors = (
@@ -26308,6 +26324,10 @@ position = "{54, -277}";
 {
 name = caret_1;
 position = "{441, 0}";
+},
+{
+name = center;
+position = "{27, 24}";
 },
 {
 name = top_1;
@@ -26420,7 +26440,7 @@ unicode = FD0F;
 },
 {
 glyphname = "sad_reh-ar.fina";
-lastChange = "2016-02-03 19:47:19 +0000";
+lastChange = "2016-02-10 00:43:31 +0000";
 layers = (
 {
 anchors = (
@@ -26435,6 +26455,10 @@ position = "{54, -277}";
 {
 name = caret_1;
 position = "{471, 0}";
+},
+{
+name = center;
+position = "{27, 24}";
 },
 {
 name = top_1;

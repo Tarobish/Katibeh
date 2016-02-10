@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/uniFC40
+);
 customParameters = (
 {
 name = glyphOrder;
@@ -30750,6 +30753,7 @@ width = 557;
 },
 {
 glyphname = uniFC40;
+lastChange = "2016-02-10 01:02:34 +0000";
 layers = (
 {
 anchors = (
@@ -30766,7 +30770,7 @@ name = caret_1;
 position = "{292, 0}";
 },
 {
-name = center;
+name = center_2;
 position = "{340, -49}";
 },
 {

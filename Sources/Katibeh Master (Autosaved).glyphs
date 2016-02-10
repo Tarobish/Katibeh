@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/heh_alefMaksura-ar.fina"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -30470,7 +30473,7 @@ width = 557;
 },
 {
 glyphname = "lam_hah-ar";
-lastChange = "2016-01-15 02:04:55 +0000";
+lastChange = "2016-02-10 01:05:41 +0000";
 layers = (
 {
 anchors = (
@@ -30487,7 +30490,7 @@ name = caret_1;
 position = "{291.5, 0}";
 },
 {
-name = center;
+name = center_2;
 position = "{340, -49}";
 },
 {

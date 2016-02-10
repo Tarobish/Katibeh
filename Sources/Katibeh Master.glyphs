@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/dotlessbeh_hah-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -23411,7 +23414,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "dotlessbeh_hah-ar";
-lastChange = "2016-02-10 01:16:47 +0000";
+lastChange = "2016-02-10 01:34:33 +0000";
 layers = (
 {
 anchors = (
@@ -23426,10 +23429,6 @@ position = "{357, -399}";
 {
 name = caret_1;
 position = "{355, 0}";
-},
-{
-name = center_1;
-position = "{316, -55}";
 },
 {
 name = center_2;

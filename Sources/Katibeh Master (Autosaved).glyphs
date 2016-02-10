@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/seen_reh-ar"
+);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -25258,7 +25261,7 @@ unicode = FD1B;
 },
 {
 glyphname = "seen_reh-ar";
-lastChange = "2016-02-10 00:43:05 +0000";
+lastChange = "2016-02-10 01:05:05 +0000";
 layers = (
 {
 anchors = (
@@ -25276,7 +25279,7 @@ position = "{408, 0}";
 },
 {
 name = center;
-position = "{27, 24}";
+position = "{72, 24}";
 },
 {
 name = top_1;
@@ -25386,7 +25389,7 @@ unicode = FD0E;
 },
 {
 glyphname = "seen_reh-ar.fina";
-lastChange = "2016-02-10 00:43:14 +0000";
+lastChange = "2016-02-10 01:04:59 +0000";
 layers = (
 {
 anchors = (
@@ -25403,8 +25406,8 @@ name = caret_1;
 position = "{432, 0}";
 },
 {
-name = center;
-position = "{27, 24}";
+name = center_2;
+position = "{53, 24}";
 },
 {
 name = top_1;

@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-"/sad_reh-ar.fina"
+"/sad_reh-ar"
 );
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
@@ -26312,7 +26312,7 @@ rightKerningGroup = Seen;
 },
 {
 glyphname = "sad_reh-ar";
-lastChange = "2016-02-10 00:43:36 +0000";
+lastChange = "2016-02-10 01:05:24 +0000";
 layers = (
 {
 anchors = (
@@ -26329,7 +26329,7 @@ name = caret_1;
 position = "{441, 0}";
 },
 {
-name = center;
+name = center_2;
 position = "{27, 24}";
 },
 {
@@ -26443,7 +26443,7 @@ unicode = FD0F;
 },
 {
 glyphname = "sad_reh-ar.fina";
-lastChange = "2016-02-10 00:43:31 +0000";
+lastChange = "2016-02-10 01:05:19 +0000";
 layers = (
 {
 anchors = (
@@ -26460,8 +26460,8 @@ name = caret_1;
 position = "{471, 0}";
 },
 {
-name = center;
-position = "{27, 24}";
+name = center_2;
+position = "{58, 24}";
 },
 {
 name = top_1;

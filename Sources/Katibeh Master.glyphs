@@ -1,8 +1,5 @@
 {
 .appVersion = "846";
-DisplayStrings = (
-"/dotlessbeh_hah-ar"
-);
 date = "2015-10-07 16:33:12 +0000";
 familyName = "Katibeh";
 featurePrefixes = (
@@ -24004,7 +24001,7 @@ rightMetricsKey = "alefWavyhamzabelow-ar.isol";
 },
 {
 glyphname = "lam_alefMadda-ar";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-02-10 23:25:35 +0000";
 layers = (
 {
 components = (
@@ -24013,7 +24010,7 @@ name = "lam_alef-ar";
 },
 {
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 58, -56}";
+transform = "{1, 0, 0, 1, 29, -56}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";
@@ -24028,7 +24025,7 @@ unicode = FEF5;
 },
 {
 glyphname = "lam_alefMadda-ar.fina";
-lastChange = "2016-01-14 20:23:33 +0000";
+lastChange = "2016-02-10 23:25:29 +0000";
 layers = (
 {
 components = (
@@ -24037,7 +24034,7 @@ name = "lam_alef-ar.fina";
 },
 {
 name = "madda-ar";
-transform = "{1, 0, 0, 1, 117, -111}";
+transform = "{1, 0, 0, 1, 80, -111}";
 }
 );
 layerId = "51F41761-070F-43EA-B302-C90910850260";

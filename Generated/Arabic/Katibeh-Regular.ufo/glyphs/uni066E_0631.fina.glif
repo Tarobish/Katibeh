@@ -70,6 +70,9 @@
       <point x="281" y="254" type="move" name="top_1"/>
     </contour>
     <contour>
+      <point x="27" y="24" type="move" name="center"/>
+    </contour>
+    <contour>
       <point x="50" y="257" type="move" name="top_2"/>
     </contour>
     <contour>

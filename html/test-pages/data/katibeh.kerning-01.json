@@ -225,6 +225,39 @@
     {
         "groups": [
             [
+                "uni0631",
+                "uni0632",
+                "uni0698",
+                "uni200D uni0631",
+                "uni200D uni0632",
+                "uni200D uni0698",
+
+                "uni0633 uni0631",
+                "uni0633 uni0632",
+                "uni0633 uni0698",
+                "uni0634 uni0631",
+                "uni0634 uni0632",
+                "uni0634 uni0698",
+                "uni200D uni0633 uni0631",
+                "uni200D uni0633 uni0632",
+                "uni200D uni0633 uni0698",
+                "uni200D uni0634 uni0631",
+                "uni200D uni0634 uni0632",
+                "uni200D uni0634 uni0698",
+
+                "uni0635 uni0631",
+                "uni0635 uni0632",
+                "uni0635 uni0698",
+                "uni0636 uni0631",
+                "uni0636 uni0632",
+                "uni0636 uni0698",
+                "uni200D uni0635 uni0631",
+                "uni200D uni0635 uni0632",
+                "uni200D uni0635 uni0698",
+                "uni200D uni0636 uni0631",
+                "uni200D uni0636 uni0632",
+                "uni200D uni0636 uni0698",
+
 
                 "!uniFD0E sub uniFEB3 [uniFEAE uni08AA.fina] by uniFD0E;",
                 "uni0770 uni0695",

@@ -42,4 +42,10 @@
       <point x="-3" y="-327" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-30 21:07:00 +0000</string>
+    </dict>
+  </lib>
 </glyph>

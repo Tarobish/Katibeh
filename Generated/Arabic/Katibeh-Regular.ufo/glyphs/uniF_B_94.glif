@@ -4,6 +4,12 @@
   <unicode hex="FB94"/>
   <outline>
     <component base="uniFEDB"/>
-    <component base="gafbar-ar" xOffset="161" yOffset="-160"/>
+    <component base="gafbarar" xOffset="161" yOffset="-160"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-06 01:01:24 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -116,6 +116,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-15 02:27:52 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>

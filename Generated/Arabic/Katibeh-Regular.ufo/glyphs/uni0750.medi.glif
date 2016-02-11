@@ -2,7 +2,13 @@
 <glyph name="uni0750.medi" format="1">
   <advance width="478"/>
   <outline>
-    <component base="Longdotlessbeh-ar.medi"/>
-    <component base="dots.horz.below-ar" xOffset="163" yOffset="31"/>
+    <component base="Longdotlessbehar.medi"/>
+    <component base="dots.horz.belowar" xOffset="163" yOffset="31"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-31 03:20:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

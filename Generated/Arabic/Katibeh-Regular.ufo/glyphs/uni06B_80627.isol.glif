@@ -7,6 +7,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-10 23:19:24 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>lamThreedotsbelow-ar.isol</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

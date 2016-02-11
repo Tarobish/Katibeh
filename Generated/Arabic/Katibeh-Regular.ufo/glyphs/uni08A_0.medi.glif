@@ -3,6 +3,12 @@
   <advance width="276"/>
   <outline>
     <component base="uni066E.medi"/>
-    <component base="vbelow-ar" xOffset="16" yOffset="148"/>
+    <component base="vbelowar" xOffset="16" yOffset="148"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-18 09:45:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

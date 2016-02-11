@@ -4,6 +4,12 @@
   <unicode hex="0684"/>
   <outline>
     <component base="uni062D"/>
-    <component base="twodotsverticalcenter-ar" xOffset="335" yOffset="-265"/>
+    <component base="twodotsverticalcenterar" xOffset="335" yOffset="-265"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
+    </dict>
+  </lib>
 </glyph>

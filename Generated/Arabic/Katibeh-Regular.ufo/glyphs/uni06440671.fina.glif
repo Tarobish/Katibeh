@@ -3,10 +3,12 @@
   <advance width="634"/>
   <outline>
     <component base="uniFEFC"/>
-    <component base="wasla-ar" xOffset="139" yOffset="-75"/>
+    <component base="waslaar" xOffset="139" yOffset="-75"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>lam-ar.init</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

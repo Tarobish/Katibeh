@@ -5,6 +5,12 @@
   <outline>
     <component base="uni0633"/>
     <component base="uniFBB2" xOffset="614" yOffset="-429"/>
-    <component base="dotcenter-ar" xOffset="615" yOffset="-276"/>
+    <component base="dotcenterar" xOffset="615" yOffset="-276"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
+    </dict>
+  </lib>
 </glyph>

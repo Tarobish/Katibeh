@@ -6,4 +6,10 @@
     <component base="uni06A1.init"/>
     <component base="uniFBB4" xOffset="101" yOffset="-341"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-03 21:06:56 +0000</string>
+    </dict>
+  </lib>
 </glyph>

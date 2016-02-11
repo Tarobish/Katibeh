@@ -6,4 +6,10 @@
     <component base="barlong" xOffset="87" yOffset="275"/>
     <component base="barlong" xOffset="87" yOffset="215"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -85,9 +85,6 @@
       <point x="290" y="-55" type="move" name="center_2"/>
     </contour>
     <contour>
-      <point x="326" y="-55" type="move" name="center_1"/>
-    </contour>
-    <contour>
       <point x="124" y="409" type="move" name="top_2"/>
     </contour>
     <contour>
@@ -100,4 +97,10 @@
       <point x="357" y="-399" type="move" name="bottom_2"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-11 00:42:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

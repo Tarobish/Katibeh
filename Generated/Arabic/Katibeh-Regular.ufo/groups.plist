@@ -53,7 +53,7 @@
 	</array>
 	<key>@MMK_L_BehInti</key>
 	<array>
-		<string>Longdotlessbeh-ar.init</string>
+		<string>Longdotlessbehar.init</string>
 		<string>uni066E.calt</string>
 		<string>uni066E.init</string>
 		<string>uniFE91</string>
@@ -326,6 +326,7 @@
 	</array>
 	<key>@MMK_L_LamAlef</key>
 	<array>
+		<string>uniFEFD</string>
 		<string>uniFEFB</string>
 		<string>uniFEF7</string>
 		<string>uniFEF9</string>
@@ -337,10 +338,10 @@
 		<string>uni06B70627.isol</string>
 		<string>uni06B80627.isol</string>
 		<string>uni076A0627.isol</string>
-		<string>uniFEFD</string>
 	</array>
 	<key>@MMK_L_LamAlefFina</key>
 	<array>
+		<string>uniFEFE</string>
 		<string>uniFEFC</string>
 		<string>uniFEF8</string>
 		<string>uniFEFA</string>
@@ -354,7 +355,6 @@
 		<string>uni06B70627.fina</string>
 		<string>uni06B80627.fina</string>
 		<string>uni076A0627.fina</string>
-		<string>uniFEFE</string>
 	</array>
 	<key>@MMK_L_MeemInti</key>
 	<array>
@@ -532,7 +532,7 @@
 		<string>uni06D0</string>
 		<string>uni06D1</string>
 	</array>
-	<key>@MMK_L_yehThreeabove-farsi</key>
+	<key>@MMK_L_yehThreeabovefarsi</key>
 	<array>
 		<string>uni08A8</string>
 	</array>
@@ -586,7 +586,7 @@
 	</array>
 	<key>@MMK_R_BehInti</key>
 	<array>
-		<string>Longdotlessbeh-ar.init</string>
+		<string>Longdotlessbehar.init</string>
 		<string>uni066E.calt</string>
 		<string>uni066E.init</string>
 		<string>uniFE91</string>
@@ -859,6 +859,7 @@
 	</array>
 	<key>@MMK_R_LamAlef</key>
 	<array>
+		<string>uniFEFD</string>
 		<string>uniFEFB</string>
 		<string>uniFEF7</string>
 		<string>uniFEF9</string>
@@ -870,10 +871,10 @@
 		<string>uni06B70627.isol</string>
 		<string>uni06B80627.isol</string>
 		<string>uni076A0627.isol</string>
-		<string>uniFEFD</string>
 	</array>
 	<key>@MMK_R_LamAlefFina</key>
 	<array>
+		<string>uniFEFE</string>
 		<string>uniFEFC</string>
 		<string>uniFEF8</string>
 		<string>uniFEFA</string>
@@ -887,7 +888,6 @@
 		<string>uni06B70627.fina</string>
 		<string>uni06B80627.fina</string>
 		<string>uni076A0627.fina</string>
-		<string>uniFEFE</string>
 	</array>
 	<key>@MMK_R_MeemInti</key>
 	<array>
@@ -1062,7 +1062,7 @@
 		<string>uni06D0</string>
 		<string>uni06D1</string>
 	</array>
-	<key>@MMK_R_yehThreeabove-farsi</key>
+	<key>@MMK_R_yehThreeabovefarsi</key>
 	<array>
 		<string>uni08A8</string>
 	</array>

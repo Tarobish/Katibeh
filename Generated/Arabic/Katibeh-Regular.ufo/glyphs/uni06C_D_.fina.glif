@@ -13,4 +13,10 @@
     </contour>
     <component base="uniFEF0" xOffset="37"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-03 20:58:47 +0000</string>
+    </dict>
+  </lib>
 </glyph>

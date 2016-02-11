@@ -3,6 +3,12 @@
   <advance width="893"/>
   <outline>
     <component base="uni066E.fina"/>
-    <component base="dots.horz.below-ar" xOffset="428"/>
+    <component base="dots.horz.belowar" xOffset="428"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-31 03:14:00 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,6 +3,12 @@
   <advance width="983"/>
   <outline>
     <component base="uni06A1.fina"/>
-    <component base="threedotsdowncenter-ar" xOffset="735" yOffset="-370"/>
+    <component base="threedotsdowncenterar" xOffset="735" yOffset="-370"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-18 09:45:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

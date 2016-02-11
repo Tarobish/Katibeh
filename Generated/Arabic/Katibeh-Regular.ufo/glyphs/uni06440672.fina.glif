@@ -3,10 +3,12 @@
   <advance width="634"/>
   <outline>
     <component base="uniFEFC"/>
-    <component base="wavyhamzaabove-ar" xOffset="138" yOffset="-90"/>
+    <component base="wavyhamzaabovear" xOffset="138" yOffset="-90"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>lam-ar.fina</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

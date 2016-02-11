@@ -106,4 +106,10 @@
       <point x="1" y="311" type="move" name="_center"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-30 21:05:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

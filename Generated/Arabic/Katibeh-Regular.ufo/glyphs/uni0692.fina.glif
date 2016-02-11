@@ -5,4 +5,21 @@
     <component base="uniFEAE"/>
     <component base="uni065A" xOffset="105" yOffset="-475"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:37:19 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uniFEAE</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

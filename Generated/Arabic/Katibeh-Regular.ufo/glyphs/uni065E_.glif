@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni065E" format="1">
+  <advance width="0"/>
+  <unicode hex="065E"/>
+  <outline>
+    <contour>
+      <point x="-87" y="735" type="line"/>
+      <point x="-79" y="732" type="line"/>
+      <point x="73" y="820" type="line"/>
+      <point x="84" y="868" type="line"/>
+      <point x="-72" y="777" type="line"/>
+    </contour>
+    <contour>
+      <point x="17" y="724"/>
+      <point x="28" y="715"/>
+      <point x="41" y="700" type="curve"/>
+      <point x="58" y="716"/>
+      <point x="65" y="725"/>
+      <point x="72" y="735" type="curve"/>
+      <point x="65" y="746"/>
+      <point x="48" y="760"/>
+      <point x="35" y="767" type="curve"/>
+      <point x="28" y="758"/>
+      <point x="14" y="741"/>
+      <point x="5" y="731" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-72" y="846"/>
+      <point x="-61" y="837"/>
+      <point x="-48" y="822" type="curve"/>
+      <point x="-31" y="838"/>
+      <point x="-24" y="847"/>
+      <point x="-17" y="857" type="curve"/>
+      <point x="-24" y="868"/>
+      <point x="-41" y="882"/>
+      <point x="-54" y="889" type="curve"/>
+      <point x="-61" y="880"/>
+      <point x="-75" y="863"/>
+      <point x="-84" y="853" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-2" y="909" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-2" y="700" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-18 09:45:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

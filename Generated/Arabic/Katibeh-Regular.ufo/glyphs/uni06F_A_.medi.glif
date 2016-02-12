@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06FA.medi" format="1">
+  <advance width="613"/>
+  <outline>
+    <component base="uniFEB4"/>
+    <component base="uniFBB6" xOffset="310" yOffset="-429"/>
+    <component base="uniFBB3" xOffset="308" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-18 09:45:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

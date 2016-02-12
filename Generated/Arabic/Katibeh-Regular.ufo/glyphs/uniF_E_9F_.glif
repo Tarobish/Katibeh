@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE9F" format="1">
+  <advance width="548"/>
+  <unicode hex="FE9F"/>
+  <outline>
+    <component base="uniFEA3"/>
+    <component base="uniFBB3" xOffset="208" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-03 20:19:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

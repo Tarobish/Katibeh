@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni067C.init" format="1">
+  <advance width="234"/>
+  <outline>
+    <component base="uni066E.init"/>
+    <component base="uniFBB4" xOffset="1" yOffset="-380"/>
+    <component base="uniFBBF" xOffset="49" yOffset="233"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-05 18:48:19 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uniFBBF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

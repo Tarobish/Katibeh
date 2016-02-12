@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06B0.fina" format="1">
+  <advance width="975"/>
+  <outline>
+    <component base="uniFB93"/>
+    <component base="uniFBBF" xOffset="753" yOffset="701" xScale="0.96" yScale="0.96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-06 00:59:57 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uniFBBF</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni06B7.init" format="1">
+  <advance width="201"/>
+  <outline>
+    <component base="uniFEDF"/>
+    <component base="uniFBB6" xOffset="41" yOffset="22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

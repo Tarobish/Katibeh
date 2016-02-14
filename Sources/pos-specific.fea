@@ -1,0 +1,22 @@
+# Issue 80.03
+
+@KernAlefs = [ uni0627 uniFE8E uniFE8E.short ];
+
+@KernMarksBottomColliding = [
+        # uni061A
+        uni064D uni0650 uni0655 uni065C uni065F uni06ED uni06E3
+        uni08E6 uni08E9 uni08F2 uniFBB5 uniFBB7 uniFBB9 uniFBBB uniFBBE
+        uniFBC1 circumflex.below
+];
+
+@KernBasesBottomColliding = [
+        # NOTE: isolated unicodes are not decomposed, so there is be some bloat
+        uni0631 uni0632 uni076C uniFEAE uni0698 uniFD0E uniFD2A uniFD0F uniFD2B
+];
+
+feature mark {
+        lookup markCollisions {
+                lookupflag UseMarkFilteringSet @KernMarksBottomColliding;
+                pos @KernBasesBottomColliding @KernAlefs @KernMarksBottomColliding' <0 -230 0 0>;
+        } markCollisions;
+} mark;

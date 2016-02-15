@@ -41508,7 +41508,7 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "vinvertedabove-ar";
-lastChange = "2015-12-18 09:45:43 +0000";
+lastChange = "2016-02-15 04:37:51 +0000";
 layers = (
 {
 anchors = (
@@ -41560,6 +41560,9 @@ width = 0;
 }
 );
 unicode = 065B;
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = "dotvowelbelow-ar";

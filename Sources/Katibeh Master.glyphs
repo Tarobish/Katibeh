@@ -41393,7 +41393,7 @@ unicode = 0659;
 },
 {
 glyphname = "vabove-ar";
-lastChange = "2015-12-18 09:45:43 +0000";
+lastChange = "2016-02-15 04:37:38 +0000";
 layers = (
 {
 anchors = (
@@ -41445,10 +41445,13 @@ width = 0;
 }
 );
 unicode = 065A;
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = "vbelow-ar";
-lastChange = "2016-02-06 00:29:08 +0000";
+lastChange = "2016-02-15 04:37:44 +0000";
 layers = (
 {
 anchors = (
@@ -41499,10 +41502,13 @@ nodes = (
 width = 0;
 }
 );
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = "vinvertedabove-ar";
-lastChange = "2015-12-18 09:45:43 +0000";
+lastChange = "2016-02-15 04:37:51 +0000";
 layers = (
 {
 anchors = (
@@ -41554,6 +41560,9 @@ width = 0;
 }
 );
 unicode = 065B;
+script = arabic;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = "dotvowelbelow-ar";
@@ -45006,7 +45015,7 @@ subCategory = Nonspacing;
 },
 {
 glyphname = circumflex.arabic;
-lastChange = "2016-02-12 04:31:07 +0000";
+lastChange = "2016-02-15 04:37:09 +0000";
 layers = (
 {
 anchors = (
@@ -45058,10 +45067,12 @@ width = 0;
 }
 );
 script = arabic;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = circumflex.below;
-lastChange = "2016-02-12 04:31:20 +0000";
+lastChange = "2016-02-15 04:37:16 +0000";
 layers = (
 {
 anchors = (
@@ -45113,6 +45124,8 @@ width = 0;
 }
 );
 script = arabic;
+category = Mark;
+subCategory = Spacing;
 }
 );
 instances = (

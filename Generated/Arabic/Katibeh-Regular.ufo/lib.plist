@@ -1160,12 +1160,12 @@
 		<string>uni08F4</string>
 		<string>uni08F5</string>
 		<string>uni08F6</string>
+		<string>circumflex.arabic</string>
 		<string>barlong</string>
+		<string>circumflex.below</string>
 		<string>dots.horz.belowar</string>
 		<string>gafbarar</string>
 		<string>uniFBBC</string>
-		<string>circumflex.arabic</string>
-		<string>circumflex.below</string>
 	</array>
 </dict>
 </plist>

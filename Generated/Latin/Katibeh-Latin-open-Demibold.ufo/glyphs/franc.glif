@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="1">
+  <advance width="371"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <component base="F"/>
+    <component base="ethbar" xOffset="16" yOffset="-110" xScale="0.935" yScale="0.951"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-13 12:08:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

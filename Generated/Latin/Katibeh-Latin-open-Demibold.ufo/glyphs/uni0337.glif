@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0337" format="1">
+  <advance width="230"/>
+  <unicode hex="0337"/>
+  <outline>
+    <contour>
+      <point x="15" y="200" type="line"/>
+      <point x="14" y="159" type="line"/>
+      <point x="212" y="257" type="line"/>
+      <point x="212" y="296" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="233" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-13 12:08:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

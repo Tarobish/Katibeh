@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="393"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="203" y="-76" type="line"/>
+      <point x="231" y="360" type="line"/>
+      <point x="353" y="337" type="line"/>
+      <point x="364" y="347"/>
+      <point x="370" y="363"/>
+      <point x="370" y="383" type="curve" smooth="yes"/>
+      <point x="370" y="402"/>
+      <point x="364" y="418"/>
+      <point x="353" y="429" type="curve"/>
+      <point x="234" y="406" type="line"/>
+      <point x="244" y="518" type="line"/>
+      <point x="233" y="532"/>
+      <point x="216" y="538"/>
+      <point x="196" y="538" type="curve" smooth="yes"/>
+      <point x="176" y="538"/>
+      <point x="160" y="532"/>
+      <point x="149" y="518" type="curve"/>
+      <point x="158" y="406" type="line"/>
+      <point x="40" y="429" type="line"/>
+      <point x="28" y="418"/>
+      <point x="23" y="402"/>
+      <point x="23" y="383" type="curve" smooth="yes"/>
+      <point x="23" y="363"/>
+      <point x="28" y="347"/>
+      <point x="40" y="337" type="curve"/>
+      <point x="161" y="360" type="line"/>
+      <point x="190" y="-76" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-13 12:08:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

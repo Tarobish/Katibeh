@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0336" format="1">
+  <advance width="467"/>
+  <unicode hex="0336"/>
+  <outline>
+    <contour>
+      <point x="447" y="216" type="line"/>
+      <point x="457" y="226"/>
+      <point x="461" y="243"/>
+      <point x="461" y="257" type="curve"/>
+      <point x="19" y="257" type="line"/>
+      <point x="9" y="248"/>
+      <point x="7" y="230"/>
+      <point x="7" y="216" type="curve"/>
+    </contour>
+    <contour>
+      <point x="234" y="237" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-13 12:08:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

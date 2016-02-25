@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eslash" format="1">
+  <advance width="226"/>
+  <outline>
+    <contour>
+      <point x="207" y="261" type="line" smooth="yes"/>
+      <point x="219" y="268"/>
+      <point x="222" y="278"/>
+      <point x="222" y="307" type="curve"/>
+      <point x="21" y="206" type="line" smooth="yes"/>
+      <point x="8" y="199"/>
+      <point x="5" y="189"/>
+      <point x="5" y="160" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-13 12:08:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

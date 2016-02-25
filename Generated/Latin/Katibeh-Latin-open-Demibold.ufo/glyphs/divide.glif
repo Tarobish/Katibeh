@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="405"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <component base="minus"/>
+    <component base="period" xOffset="137" yOffset="75" xScale="0.865" yScale="0.865"/>
+    <component base="period" xOffset="137" yOffset="305" xScale="0.865" yScale="0.865"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-13 12:08:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>minus</string>
+    </dict>
+  </lib>
+</glyph>

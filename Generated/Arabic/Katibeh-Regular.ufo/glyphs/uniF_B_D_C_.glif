@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBDC" format="1">
+  <advance width="352"/>
+  <unicode hex="FBDC"/>
+  <outline>
+    <component base="uniFEEE"/>
+    <component base="uni0670" xOffset="114" yOffset="-424"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

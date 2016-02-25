@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0672.fina" format="1">
+  <advance width="229"/>
+  <outline>
+    <component base="uniFE8E.short"/>
+    <component base="wavyhamzaabovear" xOffset="72" yOffset="-69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

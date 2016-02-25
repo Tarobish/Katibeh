@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBA2" format="1">
+  <advance width="234"/>
+  <unicode hex="FBA2"/>
+  <outline>
+    <component base="uniFB68"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-09 06:08:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

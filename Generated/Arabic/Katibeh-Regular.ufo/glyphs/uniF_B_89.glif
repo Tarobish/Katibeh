@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB89" format="1">
+  <advance width="443"/>
+  <unicode hex="FB89"/>
+  <outline>
+    <component base="uniFEAA"/>
+    <component base="uni0615" xOffset="210" yOffset="-327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-01-14 20:23:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

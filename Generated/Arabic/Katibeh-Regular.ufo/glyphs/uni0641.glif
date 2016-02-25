@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0641" format="1">
+  <advance width="920"/>
+  <unicode hex="0641"/>
+  <outline>
+    <component base="uni06A1"/>
+    <component base="uniFBB2" xOffset="730" yOffset="-308"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-03 20:17:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

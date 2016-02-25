@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni25C7" format="1">
+  <advance width="417"/>
+  <unicode hex="25C7"/>
+  <outline>
+    <contour>
+      <point x="387" y="53" type="line"/>
+      <point x="208" y="231" type="line"/>
+      <point x="30" y="53" type="line"/>
+      <point x="209" y="-126" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="152" type="line"/>
+      <point x="309" y="53" type="line"/>
+      <point x="209" y="-47" type="line"/>
+      <point x="110" y="53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-12-18 09:45:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

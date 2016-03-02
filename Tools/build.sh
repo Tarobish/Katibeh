@@ -2,9 +2,9 @@
 
 echo building Katibeh
 ./Tools/buildFont.sh \
-		Generated/Arabic/Katibeh-Regular.otf \
-		Generated/Latin/Katibeh-Latin-open-Demibold.otf \
+		Sources/Build/Arabic/Katibeh-Regular.otf \
+		Sources/Build/Latin/Katibeh-Latin-open-Demibold.otf \
 		Build/Katibeh-Regular.otf \
-		Generated/Arabic/Katibeh-Regular.ttf \
-		Generated/Latin/Katibeh-Latin-open-Demibold.ttf \
+		Sources/Build/Arabic/Katibeh-Regular.ttf \
+		Sources/Build/Latin/Katibeh-Latin-open-Demibold.ttf \
 		Build/Katibeh-Regular.ttf;

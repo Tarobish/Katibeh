@@ -4,7 +4,7 @@ echo building Katibeh
 ./Tools/buildFont.sh \
 		Sources/Build/Arabic/Katibeh-Regular.otf \
 		Sources/Build/Latin/Katibeh-Latin-open-Demibold.otf \
-		Build/Katibeh-Regular.otf \
+		Fonts/Katibeh-Regular.otf \
 		Sources/Build/Arabic/Katibeh-Regular.ttf \
 		Sources/Build/Latin/Katibeh-Latin-open-Demibold.ttf \
-		Build/Katibeh-Regular.ttf;
+		Fonts/Katibeh-Regular.ttf;

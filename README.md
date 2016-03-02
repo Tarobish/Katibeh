@@ -36,6 +36,12 @@ To build the pdf testing documents:
 ## Build the fonts:
 
 ```
+.Path/to/Katibeh$ make
+```
+
+Or run the build script directly:
+
+```
 .Path/to/Katibeh$ ./Tools/build.sh
 ```
 This will create all files in the `Build` directory

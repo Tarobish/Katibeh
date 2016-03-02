@@ -1,7 +1,7 @@
-.PHONY: clean doc release dist textfiles preparedoc
+.PHONY: all clean doc release dist textfiles preparedoc
 
 FAMILY=Katibeh
-VERSION=0.001
+VERSION=1.000
 
 DDT=Document-Sources
 GEN=Generated
@@ -21,9 +21,13 @@ license=OFL.txt OFL-FAQ.txt
 
 
 GENTEX=Tools/makeTex.py
+MAKEALL=Tools/build.sh
 # this are fontsizes for the different docs, the first number is included
 # the second not a third argument is possible, as in pythons range
 DOCSIZERANGE=14,25,2
+
+all:
+	$(MAKEALL)
 
 preparedoc: texfiles
 

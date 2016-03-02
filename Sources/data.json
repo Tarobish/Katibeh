@@ -7,7 +7,7 @@
         , 0, 3, 1, "0x409"]
   , ["Katibeh"
         , 4, 3, 1, "0x409"]
-  , ["Version 1.0000"
+  , ["Version %VERSION%"
         , 5, 3, 1, "0x409"]
   , ["Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister"
         , 9, 3, 1, "0x409"]

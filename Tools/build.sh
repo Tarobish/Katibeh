@@ -7,4 +7,5 @@ echo building Katibeh
 		Fonts/Katibeh-Regular.otf \
 		Sources/Build/Arabic/Katibeh-Regular.ttf \
 		Sources/Build/Latin/Katibeh-Latin-open-Demibold.ttf \
-		Fonts/Katibeh-Regular.ttf;
+		Fonts/Katibeh-Regular.ttf \
+		$(cat VERSION.txt);

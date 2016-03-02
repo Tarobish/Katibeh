@@ -9,6 +9,7 @@ targetOTF=$3;
 arabTTF=$4;
 latnTTF=$5;
 targetTTF=$6;
+VERSION=$7
 
 mkdir _build;
 
@@ -61,7 +62,7 @@ echo 'merge fonts';
 $tools/mergeFonts.py glyphsSource.otf arab.otf latn.otf;
 $tools/mergeFonts.py glyphsSource.ttf arab.ttf latn.ttf;
 
-
+sed -i -- "s/%VERSION%/$VERSION/g" features.fea;
 echo 'make otf'
 $tools/goadb.sh glyphsSource.otf > GlyphOrderAndAliasDB
 makeotf -r -f glyphsSource.otf -o result.otf -ff features.fea;
@@ -71,6 +72,7 @@ $tools/goadb.sh glyphsSource.ttf > GlyphOrderAndAliasDB
 makeotf -r -f glyphsSource.ttf -o result.ttf -ff features.fea;
 
 echo 'finalize'
+sed -i -- "s/%VERSION%/$VERSION/g" data.json;
 $tools/finalize.py result.otf arab.otf data.json
 $tools/finalize.py result.ttf arab.otf data.json
 
